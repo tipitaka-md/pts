@@ -1,0 +1,38 @@
+name: Sync Upstream GRETIL & PTS
+
+on:
+  schedule:
+    # Run every Sunday at 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run deterministic conversion
+        run: |
+          python3 convert.py --sync
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add abhidhamma chronicles commentary paracanonical sutta treatises vinaya
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "chore: sync converted Markdown with upstream GRETIL updates"
+            git push
+          fi
