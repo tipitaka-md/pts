@@ -135,6 +135,48 @@ def parse_page_footnotes(raw_page, pnum):
 
     return body, final_fns
 
+BREAK_MARKER = re.compile(
+    r"("
+    r"\|\|\s*\|\|"
+    r"|\|\|[ \t]*(?:[A-Z][a-zA-Z0-9_.,:*\- \x27]+?|\d+(?:\|\|\d+)*|pe|la|pa|ti|la-pe|pe\.|la\.|pa\.)[ \t]*\|\|"
+    r"|(?<!\|)\|\|(?!\s*\|\|)(?!\|)"
+    r"|//[^/\n]+?//"
+    r")"
+    r"(\s*\[\^[^\]]+\])?"
+    r"[ \t]+(?=[^\s\n])"
+)
+
+def format_line_breaks(text):
+    """Insert Markdown hard line breaks (two trailing spaces + newline) after PTS break markers."""
+    lines = text.split("\n")
+    new_lines = []
+    for line in lines:
+        tr = line.strip()
+        if not tr or tr.startswith("#") or tr.startswith("<") or tr.startswith(">") or tr.startswith("---"):
+            new_lines.append(line)
+            continue
+
+        l = BREAK_MARKER.sub(r"\1\2  \n", line)
+        l = re.sub(r"(?<!\|)[ \t]+\|[ \t]+(?!\|)(?=[^\s\n])", r" |  \n", l)
+        l = re.sub(r"(?<!/)[ \t]+/[ \t]+(?!/)(?=[^\s\n])", r" /  \n", l)
+
+        sub_lines = l.split("\n")
+        final_sub_lines = []
+        for sl in sub_lines:
+            sl_stripped = sl.rstrip()
+            if (
+                sl_stripped.endswith("||") or
+                re.search(r"\|\|(?:\s*\[\^[^\]]+\])?$", sl_stripped) or
+                re.search(r"//(?:\s*\[\^[^\]]+\])?$", sl_stripped) or
+                sl_stripped.endswith(" |") or
+                sl_stripped.endswith(" /")
+            ):
+                final_sub_lines.append(sl_stripped + "  ")
+            else:
+                final_sub_lines.append(sl)
+        new_lines.append("\n".join(final_sub_lines))
+    return "\n".join(new_lines)
+
 def format_body_text(body):
     """Format HTML body into clean Markdown paragraphs and verses."""
     # Remove running headers inside <i>...</i>
@@ -176,7 +218,8 @@ def format_body_text(body):
     if para_buf:
         out_paras.append(' '.join(para_buf))
 
-    return '\n\n'.join(out_paras)
+    formatted = '\n\n'.join(out_paras)
+    return format_line_breaks(formatted)
 
 def split_raw_pages(raw_html):
     """Split HTML into list of (pnum, page_body_html)."""

@@ -34,7 +34,8 @@ vādatthāya[^002-1] nagare nagare[^002-2] caramānā Sāvatthiyaṃ[^002-3] pat
 
 sayo ahosi, idāni pana pabbajjābhisekaṃ[^003-1] dāpesi, pubbe rājamahesiṭṭhāne ṭhapesīti" vatvā[^003-2] atītaṃ āhari: Atīte Kāliṅgaraṭṭhe Dantapuranagare Kāliṅge rajjaṃ kārente Assakaraṭṭhe Potalinagare[^003-3] Assako[^003-4] rajjaṃ kāresi. Kāliṅgo sampannabalavāhano sayam pi nāgabalo paṭiyodhaṃ[^003-5] na passati. So yuddhakāmo hutvā amaccānaṃ ārocesi: "ahaṃ yuddhatthiko, paṭiyodhaṃ[^003-5] pana na passāmi, kiṃ karomā" 'ti[^003-6]. Amaccā "atth'; eko mahārāja upāyo, dhītaro[^003-7] te catasso uttamarūpadharā, tā pasādhetvā paṭicchannayāne nisīdāpetvā balaparivuto gāmanigamarājadhāniyo carāpetha, yo rājā tā[^003-8] attano gehe kātukāmo bhavissati tena saddhiṃ yuddhaṃ karissāmā" 'ti vadiṃsu. Rājā tathā kāresi. Tāhi gatagataṭṭhāne[^003-9] rājāno bhayena tāsaṃ nagaraṃ pavisituṃ na denti, paṇṇākāraṃ pesetvā bāhiren'; eva[^003-10] vasāpenti[^003-11]. Evaṃ sakala-Jambudīpaṃ caritvā[^003-12] Assakaraṭṭhe Potalinagaraṃ[^003-13] pāpuṇiṃsu. Assako pi nagaradvārāni pidahāpetvā paṇṇākāraṃ pesesi. Tassa Nandiseno nāma amacco paṇḍito vyatto[^003-14] upāyakusalo. So cintesi: "imā kira rājadhītaro sakala-Jambudīpaṃ caritvā[^003-12] paṭiyodhaṃ[^003-5] na labhiṃsu, evaṃ sante Jambudīpo tuccho nāma hoti[^003-15], ahaṃ Kāliṅgena saha[^003-16] yujjhissāmīti" so nagaradvāraṃ[^003-17] gantvā dovārike āmantetvā tāsaṃ dvāraṃ vivarāpetuṃ paṭhamaṃ gātham āha:
 
-Ja_IV,1.1(=301).1: Vivaratha imāsaṃ[^003-18] dvāraṃ, nagaraṃ pavisantu[^003-19] Aruṇarājassa sīhena susatthena[^003-20] surakkhitaṃ[^003-21] Nandisenenā 'ti. || Ja_IV:1 ||
+Ja_IV,1.1(=301).1: Vivaratha imāsaṃ[^003-18] dvāraṃ, nagaraṃ pavisantu[^003-19] Aruṇarājassa sīhena susatthena[^003-20] surakkhitaṃ[^003-21] Nandisenenā 'ti. ||  
+Ja_IV:1 ||  
 
 Tattha Aruṇarājassā 'ti so hi rajje patiṭṭhito[^003-22] Kāliṅgaraṭṭhanāmavasena[^003-23] Kāliṅgo viya[^003-24] Assako nāma jāto, kuladattikaṃ[^003-25] pan'; assa nāmaṃ
 
@@ -70,13 +71,16 @@ Ja_IV,1.1(=301).2: ‘Jayo Kaliṅgānaṃ asayhasāhinaṃ[^006-23], parājayo
 
 ##### *[PTS Page 007]*
 
-icc-eva te bhāsitaṃ brahmacāri, na ujjubhūtā vitathaṃ bhaṇantīti. || Ja_IV:2 || Tattha asayhasāhinan[^007-1] ti asayhaṃ[^007-2] dussahaṃ sahituṃ samatthānaṃ[^007-3], icceva[^007-4] te bhāsitan ti evaṃ tayā kūṭatāpasa lañcaṃ[^007-5] gahetvā parajjhanarājānaṃ[^007-6] jinissati jinanarājānaṃ ca parajjhissatīti[^007-7] bhāsitaṃ, na ujjubhūtā ti ye kāyena vācā manasā[^007-8] ca ujukā[^007-9] na te evaṃ musā bhaṇantīti. Evaṃ so tāpasaṃ akkosanto palāyitvā[^007-10] attano nagaram eva gato, nivattitvā oloketuṃ pi nāsakkhi. Tato katipāhaccayena Sakko tāpasassa upaṭṭhānaṃ agamāsi. Tāpaso tena saddhiṃ kathento tatiyaṃ gātham āha:
+icc-eva te bhāsitaṃ brahmacāri, na ujjubhūtā vitathaṃ bhaṇantīti. || Ja_IV:2 ||  
+Tattha asayhasāhinan[^007-1] ti asayhaṃ[^007-2] dussahaṃ sahituṃ samatthānaṃ[^007-3], icceva[^007-4] te bhāsitan ti evaṃ tayā kūṭatāpasa lañcaṃ[^007-5] gahetvā parajjhanarājānaṃ[^007-6] jinissati jinanarājānaṃ ca parajjhissatīti[^007-7] bhāsitaṃ, na ujjubhūtā ti ye kāyena vācā manasā[^007-8] ca ujukā[^007-9] na te evaṃ musā bhaṇantīti. Evaṃ so tāpasaṃ akkosanto palāyitvā[^007-10] attano nagaram eva gato, nivattitvā oloketuṃ pi nāsakkhi. Tato katipāhaccayena Sakko tāpasassa upaṭṭhānaṃ agamāsi. Tāpaso tena saddhiṃ kathento tatiyaṃ gātham āha:
 
-Ja_IV,1.1(=301).3: Devā musāvādaṃ upātivattā[^007-11], saccan dhanaṃ paraman tesu Sakka[^007-12], tan te musā bhāsitaṃ devarāja kiṃ vā paṭicca Maghavā[^007-13] mahindā ti. || Ja_IV:3 ||
+Ja_IV,1.1(=301).3: Devā musāvādaṃ upātivattā[^007-11], saccan dhanaṃ paraman tesu Sakka[^007-12], tan te musā bhāsitaṃ devarāja kiṃ vā paṭicca Maghavā[^007-13] mahindā ti. ||  
+Ja_IV:3 ||  
 
 Tattha tan te musā bhāsitan ti yaṃ tayā mayhaṃ bhāsitaṃ taṃ[^007-14] atthabhañjanakamusāvādaṃ karontena[^007-15] tayā musā bhāsitaṃ, taṃ[^007-14] tayā kiṃ kāraṇaṃ[^007-16] paṭicca evaṃ bhāsitan ti. Taṃ sutvā Sakko catutthaṃ gātham āha:
 
-Ja_IV,1.1(=301).4: Nanu te sutaṃ brāhmaṇa bhaññamāne: devā na issanti purisaparakkamassa, damo samādhi manaso adejjho[^007-17] avyaggatā nikkamanañ ca kāle daḷhañ ca viriyaṃ purisaparakkamo ca ten'; eva āsi[^007-18] vijayo Assakānan ti. || Ja_IV:4 ||
+Ja_IV,1.1(=301).4: Nanu te sutaṃ brāhmaṇa bhaññamāne: devā na issanti purisaparakkamassa, damo samādhi manaso adejjho[^007-17] avyaggatā nikkamanañ ca kāle daḷhañ ca viriyaṃ purisaparakkamo ca ten'; eva āsi[^007-18] vijayo Assakānan ti. ||  
+Ja_IV:4 ||  
 
 Tass'; attho: kiṃ tayā brāhmaṇa tattha tattha vacane bhaññamāne idaṃ na sutapubbaṃ yaṃ[^007-19] devā purisaparakkamassa na issanti na usūyanti[^007-20], assa[^007-21]
 
@@ -120,13 +124,17 @@ devī[^011-1] pi kāsikasāṭakañ[^011-2] c'; eva ābharaṇāni ca apanetvā 
 
 ##### *[PTS Page 012]*
 
-Ja_IV,1.2(=302).1: Adeyyesu dadaṃ dānaṃ[^012-1] deyyesu na-ppavecchati[^012-2] āpāsu[^012-3] vyasanaṃ patto sahāyaṃ nādhigacchati. || Ja_IV:5 ||
+Ja_IV,1.2(=302).1: Adeyyesu dadaṃ dānaṃ[^012-1] deyyesu na-ppavecchati[^012-2] āpāsu[^012-3] vyasanaṃ patto sahāyaṃ nādhigacchati. ||  
+Ja_IV:5 ||  
 
-Ja_IV,1.2(=302).2: Nādeyyesu dadaṃ dānaṃ[^012-4] deyyesu yo pavecchati[^012-5] āpāsu[^012-3] vyasanaṃ patto sahāyaṃ adhigacchati. || Ja_IV:6 ||
+Ja_IV,1.2(=302).2: Nādeyyesu dadaṃ dānaṃ[^012-4] deyyesu yo pavecchati[^012-5] āpāsu[^012-3] vyasanaṃ patto sahāyaṃ adhigacchati. ||  
+Ja_IV:6 ||  
 
-Ja_IV,1.2(=302).3: Saññogasambhogavisesadassanaṃ anariyadhammesu saṭhesu[^012-6] nassati, katañ ca ariyesu ca añjayesu[^012-7] ca mahapphalaṃ hoti aṇum[^012-8] pi tādisu. || Ja_IV:7 ||
+Ja_IV,1.2(=302).3: Saññogasambhogavisesadassanaṃ anariyadhammesu saṭhesu[^012-6] nassati, katañ ca ariyesu ca añjayesu[^012-7] ca mahapphalaṃ hoti aṇum[^012-8] pi tādisu. ||  
+Ja_IV:7 ||  
 
-Ja_IV,1.2(=302).4: Yo pubbe katakalyāṇo akā lokesu dukkaraṃ pacchā kayira[^012-9] na vā kayirā[^012-10] accantaṃ pūjanāraho ti. || Ja_IV:8 ||
+Ja_IV,1.2(=302).4: Yo pubbe katakalyāṇo akā lokesu dukkaraṃ pacchā kayira[^012-9] na vā kayirā[^012-10] accantaṃ pūjanāraho ti. ||  
+Ja_IV:8 ||  
 
 Tattha adeyyesū 'ti pubbe akatūpakāresu, deyyesū 'ti[^012-11] katūpakāresu, nappavecchatīti[^012-12] na pavesati[^012-13] na deti, āpāsū[^012-3] ti āpadāsu, vyasanan ti dukkhaṃ, saññogasambhogavisesadassanan ti yo mittena kato saññogo c'; eva sambhogo c'; eva[^012-14] tassa visesanadassanaṃ[^012-15] guṇadassanaṃ[^012-16] sukataṃ mayhaṃ iminā ti etaṃ sabbaṃ[^012-17] asuddhadhammattā anariyadhammesu kerāṭikattā[^012-18] saṭhesu[^012-19] nassati, ariyesū 'ti attano kataguṇajānanena[^012-20] ariyesu parisuddhesu, añjayesū[^012-21] 'ti ten'; eva kāraṇena ujukesu akuṭilesu, aṇum[^012-22] pīti appamattakam pi, tādisū 'ti ye tādisā puggalā honti[^012-23] ariyā ujū tesu[^012-24] ariyesu[^012-25] appam pi[^012-26] kataṃ mahapphalaṃ hoti mahāvipphāraṃ mahājutikaṃ[^012-27], sukhette[^012-28] vuttabījam iva[^012-28] na[^012-29] nassatīti attho, vuttam pi c'; etaṃ: yathā bījaṃ aggismiṃ[^012-30] ḍayhati na virūhati evaṃ kataṃ asappurise ḍayhati na virūhati Kataññumhi ca posamhi sīlavante ariyavuttine sukhette viya bījāni katam tam[^012-31] pi[^012-32] na nassatīti. Pubbekatakalyāṇo[^012-33] ti paṭhamataraṃ upakāraṃ katvā ṭhito, akā ti akari, ayaṃ lokesu dukkaraṃ nāma akāsīti attho, pacchā kayirā[^012-34] ti so pacchā
 
@@ -148,15 +156,19 @@ aññaṃ kiñci guṇaṃ karotu[^013-1] vā mā vā ten'; eva paṭhamakatena[
 
 nisinnaṃ disvā āgantvā Dabbasenassa[^014-1] kathesuṃ[^014-2]. So vegena gantvā taṃ vanditvā khamāpetvā[^014-3] paṭhamaṃ gātham āha:
 
-Ja_IV,1.3(=303).1: Anuttare kāmaguṇe samiddhe bhutvāna pubbe vasi ekarājā, so dāni dugge narakamhi khitto na-ppajahe vaṇṇabalaṃ purāṇan ti. || Ja_IV:9 ||
+Ja_IV,1.3(=303).1: Anuttare kāmaguṇe samiddhe bhutvāna pubbe vasi ekarājā, so dāni dugge narakamhi khitto na-ppajahe vaṇṇabalaṃ purāṇan ti. ||  
+Ja_IV:9 ||  
 
 Tattha vasīti vuttho[^014-4], ekarājā ti Bodhisattaṃ nāmenālapati, so dānīti so tvam idāni, dugge ti visame, narakamhīti āvāṭe, olambitaṭṭhānaṃ sandhāy'; etaṃ vuttaṃ, na-ppajahe vaṇṇabalaṃ purāṇan ti evarūpe visamaṭṭhāne khitto pi porāṇakavaṇṇañ[^014-5] ca balañ ca na-ppajahasīti[^014-6] pucchi. Taṃ sutvā Bodhisatto sesagāthā avoca:
 
-Ja_IV,1.3(=303).2: Pubbe va khantī ca tapo ca mayhaṃ sampatthitā[^014-7] Dabbasenā[^014-8] ahosi, taṃ dāni laddhāna kathan[^014-9] nu rāja jahe ahaṃ vaṇṇabalaṃ purāṇaṃ. || Ja_IV:10 ||
+Ja_IV,1.3(=303).2: Pubbe va khantī ca tapo ca mayhaṃ sampatthitā[^014-7] Dabbasenā[^014-8] ahosi, taṃ dāni laddhāna kathan[^014-9] nu rāja jahe ahaṃ vaṇṇabalaṃ purāṇaṃ. ||  
+Ja_IV:10 ||  
 
-Ja_IV,1.3(=303).3: Sabbaṃ kir'; evaṃ[^014-10] pariniṭṭhitāni yasassinaṃ paññavataṃ[^014-11] visayha[^014-12], yaso ca laddhā purimaṃ uḷāraṃ na-ppajahe vaṇṇabalaṃ purāṇaṃ. || Ja_IV:11 ||
+Ja_IV,1.3(=303).3: Sabbaṃ kir'; evaṃ[^014-10] pariniṭṭhitāni yasassinaṃ paññavataṃ[^014-11] visayha[^014-12], yaso ca laddhā purimaṃ uḷāraṃ na-ppajahe vaṇṇabalaṃ purāṇaṃ. ||  
+Ja_IV:11 ||  
 
-Ja_IV,1.3(=303).4: Panujja dukkhena sukhaṃ janinda sukhena vā dukkham asayhasāhi[^014-13] ubhayattha sattā abhinibbutattā[^014-14] sukhe ca dukkhe ca bhavanti tulyā ti. || Ja_IV:12 ||
+Ja_IV,1.3(=303).4: Panujja dukkhena sukhaṃ janinda sukhena vā dukkham asayhasāhi[^014-13] ubhayattha sattā abhinibbutattā[^014-14] sukhe ca dukkhe ca bhavanti tulyā ti. ||  
+Ja_IV:12 ||  
 
 Tattha khantīti adhivāsanakhanti, tapo[^014-15] ti tapakaraṇaṃ[^014-16], sampatthitā[^014-17] ti icchitā abhikaṃkhitā, Dabbasenā[^014-8] 'ti taṃ nāmenālapati, taṃ dāni laddhānā 'ti taṃ patthanaṃ[^014-18] dānāhaṃ labhitvā, jahe ti kena kāraṇena[^014-19] jaheyyaṃ[^014-20], yassa hi dukkhaṃ vā domanassaṃ vā hoti so taṃ jaheyyā 'ti dīpeti, sabbaṃkireva[^014-21] pariniṭṭhitānīti anussavavasena attano sampattim dassento
 
@@ -178,7 +190,8 @@ Tattha khantīti adhivāsanakhanti, tapo[^014-15] ti tapakaraṇaṃ[^014-16], s
 
 khave idān'; eva pubbe p'; esa kodhano yeva, kodhanabhāven'; ev' assa[^016-1] porāṇakapaṇḍitā parisuddhā nāgarājabhāve ṭhitāpi tīṇi vassāni gūthabharitāya[^016-2] ukkārabhūmiyaṃ vasiṃsū" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto -- Himavantapadese[^016-3] Daddarapabbatapāde Daddaranāgabhavanaṃ[^016-4] atthi- tattha rajjaṃ kārentassa[^016-5] Sūradaddararañño[^016-6] putto Mahādaddaro nāma ahosi, kaniṭṭhabhātā pan' assa Culladaddaro[^016-7] nāma. So kodhano pharuso nāgamāṇavikā akkosanto[^016-8] paharanto carati[^016-9]. Nāgarājā tassa pharusabhāvaṃ ñatvā taṃ nāgabhavanato nīharāpetuṃ āṇāpesi. Mahādaddaro pana pitaraṃ khamāpetvā vāresi[^016-10]. Dutiyam pi tassa rājā[^016-11] kujjhi, dutiyam pi khamāpesi. Tatiyavāre pana "tvaṃ maṃ[^016-12] imaṃ anācāraṃ[^016-13] nīharāpentaṃ[^016-14] vāresi[^016-11], gacchatha, dve pi janā imamhā nāgabhavanā nikkhamitvā Bārāṇasiyaṃ ukkārabhūmiyaṃ tīṇi vassāni vasathā" 'ti nāgabhavanā nikkaḍḍhāpesi. Te tattha gantvā vasiṃsu. Atha ne ukkārabhūmiyaṃ[^016-15] udakapariyante gocaraṃ pariyesamāne[^016-16] gāmadārakā disvā paharantā leḍḍudaṇḍādayo khipantā[^016-17] "ke ime puthulasīsā sūcinaṅguṭṭhā[^016-18] udakadeḍḍubhā[^016-19]" ti ādīni vatvā akkosanti[^016-20]. Culladaddaro[^016-21] caṇḍapharusatāya tesaṃ tam avamānaṃ asahanto "bhātika ime dārakā amhe paribhavanti[^016-22], āsīvisabhāvaṃ no na jānanti, ahaṃ etesaṃ[^016-23] avamānaṃ sahituṃ na sakkomi, nāsāvātena te nāsessāmīti" bhātarā saddhiṃ sallapanto paṭhamaṃ gātham āha:
 
-Ja_IV,1.4(=304).1: Imāni maṃ Daddara tāpayanti vācāduruttāni manussaloke ‘maṇḍūkabhakkhā'; ‘udakantasevī' āsīvisaṃ maṃ avisā sapantīti. || Ja_IV:13 ||
+Ja_IV,1.4(=304).1: Imāni maṃ Daddara tāpayanti vācāduruttāni manussaloke ‘maṇḍūkabhakkhā'; ‘udakantasevī' āsīvisaṃ maṃ avisā sapantīti. ||  
+Ja_IV:13 ||  
 
 
 <!-- PTS Page 017 -->
@@ -188,11 +201,14 @@ Ja_IV,1.4(=304).1: Imāni maṃ Daddara tāpayanti vācāduruttāni manussaloke
 
 Tattha tāpayantīti dukkhāpenti, maṇḍūkabhakkhā udakantasevīti maṇḍūkabhakkhā ti[^017-1] udakantasevīti ca vadantā ete avisā gāmadārakā[^017-2] maṃ āsīvisaṃ samānaṃ sapanti akkosantīti. Tassa vacanaṃ sutvā Mahādaddaro sesagāthā abhāsi:
 
-Ja_IV,1.4(=304).2: Sakā raṭṭhā pabbajito[^017-3] aññaṃ janapadaṃ gato mahantaṃ koṭṭhaṃ kayirātha duruttānaṃ nidhetave. || Ja_IV:14 ||
+Ja_IV,1.4(=304).2: Sakā raṭṭhā pabbajito[^017-3] aññaṃ janapadaṃ gato mahantaṃ koṭṭhaṃ kayirātha duruttānaṃ nidhetave. ||  
+Ja_IV:14 ||  
 
-Ja_IV,1.4(=304).3: Yattha posaṃ na jānanti jātiyā vinayena vā na tattha mānaṃ kayirātha vasam aññātake jane[^017-4]. || Ja_IV:15 ||
+Ja_IV,1.4(=304).3: Yattha posaṃ na jānanti jātiyā vinayena vā na tattha mānaṃ kayirātha vasam aññātake jane[^017-4]. ||  
+Ja_IV:15 ||  
 
-Ja_IV,1.4(=304).4: Videsavāsaṃ vasato jātavedasamena[^017-5] pi khamitabbaṃ sapaññena api dāsassa tajjitan ti. || Ja_IV:16 ||
+Ja_IV,1.4(=304).4: Videsavāsaṃ vasato jātavedasamena[^017-5] pi khamitabbaṃ sapaññena api dāsassa tajjitan ti. ||  
+Ja_IV:16 ||  
 
 Tattha duruttānaṃ nidhetave ti yathā dhaññānaṃ nidhānatthāya mahantaṃ koṭṭhaṃ katvā pūretvā kicce uppanne dhaññaṃ valañjenti[^017-6] evam evaṃ videsagato[^017-7] antohadaye paṇḍito puriso[^017-8] duruttānaṃ nidhānatthāya mahantaṃ koṭṭhaṃ kayirātha, tattha tāni duruttāni nidahitvā[^017-9] puna attano pahonakālaṃ[^017-10] kātabbaṃ karissati, jātiyā vinayena vā ti ayaṃ[^017-11] khattiyo brāhmaṇo ti vā sīlavā bahussuto guṇasampanno ti vā evaṃ yaṭṭha[^017-12] jātiyā vinayena vā na jānantīti attho, mānan ti evarūpaṃ maṃ[^017-13] lāmakavohārena[^017-14] voharanti na sakkaronti na garukarontīti[^017-15] mānaṃ na kareyya, vasam aññātake jane ti attano jātigottaṃ[^017-16] ajānantassa santike vasanto, vasato ti vasatā[^017-17] ayam eva vā pāṭho. Evaṃ{[^017-18]} tattha tīṇi vassāni vasiṃsu. Atha[^017-19] pitā pakkosāpesi[^017-20]. Te[^017-21] tato paṭṭhāya nihatamānā jātā. Satthā imaṃ dhammadesanaṃ āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne[^017-22] kodhano bhikkhu anāgāmiphale patiṭṭhahi) Tadā Culladaddaro kodhano bhikkhu ahosi. Mahādaddaro pana aham evā 'ti. Daddarajātakaṃ[^017-23].
 
@@ -212,15 +228,19 @@ Tattha duruttānaṃ nidhetave ti yathā dhaññānaṃ nidhānatthāya mahanta�
 
 "tvaṃ pana tāta na kiñci āharasīti". "Āma ācariyā" 'ti. "Kasmā tātā" 'ti. "Tumhe[^019-1] kassaci passantassa ābhataṃ na[^019-2] gaṇhatha, ahaṃ pana pāpakaraṇe raho[^019-3] na passāmīti" dīpento ime dve gāthā āha:
 
-Ja_IV,1.5(=305).1: N'; atthi loke raho nāma pāpakammaṃ pakubbato, passanti vanabhūtāni, taṃ bālo maññatī[^019-4] raho. || Ja_IV:17 ||
+Ja_IV,1.5(=305).1: N'; atthi loke raho nāma pāpakammaṃ pakubbato, passanti vanabhūtāni, taṃ bālo maññatī[^019-4] raho. ||  
+Ja_IV:17 ||  
 
-Ja_IV,1.5(=305).2: Ahaṃ raho na passāmi, suññaṃ vāpi na vijjati, yattha aññaṃ[^019-5] na passāmi asuññaṃ hoti tam mayā ti. || Ja_IV:18 ||
+Ja_IV,1.5(=305).2: Ahaṃ raho na passāmi, suññaṃ vāpi na vijjati, yattha aññaṃ[^019-5] na passāmi asuññaṃ hoti tam mayā ti. ||  
+Ja_IV:18 ||  
 
 Tattha raho ti paṭicchannaṭṭhānaṃ, vanabhūtānīti vane nibbattabhūtāni, taṃ bālo ti taṃ pāpakammaṃ raho nāma[^019-6] mayā katan ti bālo maññati, suññaṃ vāpīti yaṃ vā ṭhānaṃ sattehi suññaṃ tucchaṃ bhaveyya taṃ pi n'; atthīti āha. Ācariyo tassa pasīditvā "tāta, na[^019-7] mayhaṃ gehe dhanaṃ n'; atthi, ahaṃ pana sīlasampannassa dhītaraṃ dātukāmo ime māṇavake vīmaṃsanto evaṃ akāsiṃ, mama dhītā tumhaṃ[^019-8] ñeva anucchavikā" ti dhītaraṃ alaṃkaritvā Bodhisattassa adāsi, sesamāṇavake "tumhehi ābhatābhataṃ[^019-9] tumhākaṃ geham eva nethā" 'ti āha. Satthā "iti kho bhikkhave[^019-10] dussīlamāṇavakā attano dussīlatāya taṃ itthiṃ na labhiṃsu, itaro paṇḍitamaṇavo sīlasampannatāya labhīti[^019-11]" vatvā abhisambuddho hutvā itarā dve gāthā abhāsi:
 
-Ja_IV,1.5(=305).3: Dujjacco ca ajacco[^019-12] ca nando ca sukhavacchano[^019-13] vajjho[^019-14] addhuvasīlo[^019-15] ca te dhammaṃ jahum atthikā[^019-16]. || Ja_IV:19 ||
+Ja_IV,1.5(=305).3: Dujjacco ca ajacco[^019-12] ca nando ca sukhavacchano[^019-13] vajjho[^019-14] addhuvasīlo[^019-15] ca te dhammaṃ jahum atthikā[^019-16]. ||  
+Ja_IV:19 ||  
 
-Ja_IV,1.5(=305).4: Brāhmaṇo ca kathaṃ jahe sabbadhammāna pāragū yo dhammam anupāleti dhitimā saccanikkamo ti. || Ja_IV:20 ||
+Ja_IV,1.5(=305).4: Brāhmaṇo ca kathaṃ jahe sabbadhammāna pāragū yo dhammam anupāleti dhitimā saccanikkamo ti. ||  
+Ja_IV:20 ||  
 
 Tattha dujjacco ti ādayo cha[^019-17] jeṭṭhamāṇavakā[^019-18], tesaṃ nāmaṃ gaṇhi, avasesānaṃ nāmaṃ agahetvā sabbasaṅgāhikavasen'; eva te dhammaṃ jahumatthikā[^019-16] ti āha, tattha te ti sabbe pi te māṇavā dhammaṃ ti itthi-
 
@@ -242,7 +262,8 @@ paṭilābhasabhāvaṃ jahumatthikā[^020-1] ti jahuatthikā[^020-2] ayam eva v
 
 Satthāraṃ parivisi. Satthā "aññamaññaṃ samaggehi bhavituṃ[^021-1] vaṭṭatīti[^021-2]" sāmaggiyarasassa vaṇṇaṃ kathetvā pakkāmi. Tato paṭṭhāya ubho samaggavāsaṃ vasiṃsu. Bhikkhū dhammasabhāyaṃ kathaṃ samuṭṭhāpesuṃ: "āvuso, Satthā ekavacanen'; eva ubho samagge akāsīti". Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idān' eva pubbe p'; āhaṃ ete ekovāden'; eva[^021-3] samagge akāsin" ti vatvā[^021-4] atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto tassa atthadhammānusāsako amacco ahosi. Ath' ekadivasaṃ rājā mahāvātapānaṃ[^021-5] vivaritvā rājaṅgaṇaṃ olokayamāno aṭṭhāsi. Tasmiṃ khaṇe ekā paṇṇikadhītā abhirūpā paṭhamavaye ṭhitā[^021-6] badarapacchiṃ sīse katvā "badarāni gaṇhatha[^021-7], badarāni gaṇhathā[^021-8]" 'ti vadamānā rājaṅgaṇena gacchati[^021-9]. Rājā tassā saddaṃ sutvā[^021-10] paṭibaddhacitto hutvā assāmikabhāvaṃ ñatvā pakkosāpetvā taṃ aggamahesiṭṭhāne ṭhapetvā mahantaṃ yasaṃ adāsi. Sā rañño piyā ahosi manāpā. Ath'; ekadivasaṃ rājā suvaṇṇataṭṭake badarāni khādanto nisīdi[^021-11]. Sujātā devī rājānaṃ badarāni khādantaṃ disvā "mahārāja, kin nāma[^021-12] tumhe khādathā" 'ti pucchantī paṭhamaṃ gātham āha:
 
-Ja_IV,1.6(=306).1: Kiṃ aṇḍakā[^021-13] ime deva nikkhittā kaṃsamallake upalohitakā vaggū, te[^021-14] me akkhāhi pucchito ti. || Ja_IV:21 ||
+Ja_IV,1.6(=306).1: Kiṃ aṇḍakā[^021-13] ime deva nikkhittā kaṃsamallake upalohitakā vaggū, te[^021-14] me akkhāhi pucchito ti. ||  
+Ja_IV:21 ||  
 
 Tattha kiṃ aṇḍakā[^021-13] ti kiṃ phalāni nām'; etānīti[^021-15] parimaṇḍalavasena pana aṇḍakā ti āha, kaṃsamallake ti suvaṇṇataṭṭake, upalohitakā ti rattavaṇṇā, vaggū ti vokkhā[^021-16] nimmalā. Rājā kujjhitvā "badarapakkavāṇijake[^021-17] paṇṇikagahapatikassa dhīte[^021-18] attano kulasantakāni badarāni pi na jānāsīti", vatvā dve gāthā abhāsi:
 
@@ -252,11 +273,14 @@ Tattha kiṃ aṇḍakā[^021-13] ti kiṃ phalāni nām'; etānīti[^021-15] pa
 
 ##### *[PTS Page 022]*
 
-Ja_IV,1.6(=306).2: Yāni pure tuvaṃ[^022-1] devi bhaṇḍu nantakavāsinī[^022-2] ucchaṅgahatthā pacināsi tassā te koliyaṃ phalaṃ. || Ja_IV:22 ||
+Ja_IV,1.6(=306).2: Yāni pure tuvaṃ[^022-1] devi bhaṇḍu nantakavāsinī[^022-2] ucchaṅgahatthā pacināsi tassā te koliyaṃ phalaṃ. ||  
+Ja_IV:22 ||  
 
-Ja_IV,1.6(=306).3: Uḍayhate[^022-3] na ramati, bhogā vippajahanti taṃ, tatth'; ev'; imaṃ paṭinetha[^022-4] yattha kolaṃ pacissatīti. || Ja_IV:23 ||
+Ja_IV,1.6(=306).3: Uḍayhate[^022-3] na ramati, bhogā vippajahanti taṃ, tatth'; ev'; imaṃ paṭinetha[^022-4] yattha kolaṃ pacissatīti. ||  
+Ja_IV:23 ||  
 
-Tattha bhaṇḍū ti muṇḍasīsā hutvā, nantakavāsinīti[^022-5] jiṇṇapilotikanivatthā, ucchaṅgahatthā pacināsīti aṭaviṃ pavisitvā aṃkusakena sākhan nametvā[^022-6] ocitocitaṃ hatthena ucchaṅge pakkhipanavasena ucchaṅgahatthā hutvā pacināsi ocināsi, tassā te koliyaṃ phalan ti tassā tava evaṃ pacinantiyā[^022-7] yaṃ mayaṃ idāni khādāma imaṃ[^022-8] koliyaṃ kuladattikaṃ[^022-9] phalan ti attho, uḍayhate na ramatīti ayaṃ jambī imasmiṃ rājakule vasamānā lohakumbhiyaṃ pakkhittā viya ḍayhati nābhiramati, bhogā ti rājabhogā imaṃ alakkhikaṃ vippajahanti, yattha kolaṃ pacissatīti yattha gantvā puna badaram eva pacinitvā[^022-10] vikkiṇantī jīvikaṃ kappessati tatth'; eva naṃ nethā 'ti[^022-11] Bodhisatto "ṭhapetvā maṃ añño ime samagge kātuṃ na sakkhissati[^022-12], rājānaṃ saññāpetvā imissā anikkaḍḍhanaṃ karissāmīti" cintetvā catutthaṃ gātham āha: Ja_IV,1.6(=306).4: Honti h'; ete mahārāja iddhippattāya nāriyā, khama[^022-13] deva Sujātāya, māssā[^022-14] kujjhi rathesabhā 'ti. || Ja_IV:24 ||
+Tattha bhaṇḍū ti muṇḍasīsā hutvā, nantakavāsinīti[^022-5] jiṇṇapilotikanivatthā, ucchaṅgahatthā pacināsīti aṭaviṃ pavisitvā aṃkusakena sākhan nametvā[^022-6] ocitocitaṃ hatthena ucchaṅge pakkhipanavasena ucchaṅgahatthā hutvā pacināsi ocināsi, tassā te koliyaṃ phalan ti tassā tava evaṃ pacinantiyā[^022-7] yaṃ mayaṃ idāni khādāma imaṃ[^022-8] koliyaṃ kuladattikaṃ[^022-9] phalan ti attho, uḍayhate na ramatīti ayaṃ jambī imasmiṃ rājakule vasamānā lohakumbhiyaṃ pakkhittā viya ḍayhati nābhiramati, bhogā ti rājabhogā imaṃ alakkhikaṃ vippajahanti, yattha kolaṃ pacissatīti yattha gantvā puna badaram eva pacinitvā[^022-10] vikkiṇantī jīvikaṃ kappessati tatth'; eva naṃ nethā 'ti[^022-11] Bodhisatto "ṭhapetvā maṃ añño ime samagge kātuṃ na sakkhissati[^022-12], rājānaṃ saññāpetvā imissā anikkaḍḍhanaṃ karissāmīti" cintetvā catutthaṃ gātham āha: Ja_IV,1.6(=306).4: Honti h'; ete mahārāja iddhippattāya nāriyā, khama[^022-13] deva Sujātāya, māssā[^022-14] kujjhi rathesabhā 'ti. ||  
+Ja_IV:24 ||  
 
 Tass'; attho: mahārāja ete evarūpā pamādadosāya sampattāya[^022-15] nāriyā honti na na honti[^022-16], etaṃ evarūpe ucce ṭhāne ṭhapetvā idāni ettakassa aparādhassa asahanaṃ nāma na {yuttaṃ} tumhākaṃ, tasmā khama[^022-17] deva Sujātāya, etissā[^022-18] mā kujjhi rathesabha[^022-19] rathajeṭṭhakā 'ti[^022-20]. Rājā tassa vacanena deviyā taṃ aparādhaṃ sahitvā yathāṭhāne yeva naṃ ṭhapesi. Tato paṭṭhāya ubho samaggavāsaṃ vasiṃsu. Satthā imaṃ desanaṃ[^022-21] āharitvā jātakaṃ samodhānesi: "Tadā Bārāṇasirājā Kosalarājā ahosi, Sujātā Mallikā, amacco[^022-22] aham evā" 'ti. Sujātajātakaṃ[^022-23].
 
@@ -274,17 +298,21 @@ Tass'; attho: mahārāja ete evarūpā pamādadosāya sampattāya[^022-15] nāri
 
 ##### *[PTS Page 024]*
 
-Ja_IV,1.7(=307).1: Acetanaṃ brāhmaṇa assuṇantaṃ (cfr. Milinda p. 172) jāno ajānantam imaṃ palāsaṃ āraddhaviriyo dhuvaṃ appamatto sukhaseyyaṃ pucchasi[^024-1] kissa hetū 'ti. || Ja_IV:25 ||
+Ja_IV,1.7(=307).1: Acetanaṃ brāhmaṇa assuṇantaṃ (cfr. Milinda p. 172) jāno ajānantam imaṃ palāsaṃ āraddhaviriyo dhuvaṃ appamatto sukhaseyyaṃ pucchasi[^024-1] kissa hetū 'ti. ||  
+Ja_IV:25 ||  
 
 Tattha asuṇantan ti acetanaṃ nāma asuṇantaṃ, jāno ti tuvam jānamāno hutvā, dhuvaṃ appamatto ti niccappamatto. Taṃ sutvā brāhmaṇo dutiyaṃ gātham āha:
 
-Ja_IV,1.7(=307).2: Dūre suto c'; eva brahā ca rukkho dese ṭhito bhūtanivāsarūpo, tasmā namassāmi imaṃ palāsaṃ ye c'; ettha bhūtā te ca[^024-2] dhanassa hetū 'ti. || Ja_IV:26 ||
+Ja_IV,1.7(=307).2: Dūre suto c'; eva brahā ca rukkho dese ṭhito bhūtanivāsarūpo, tasmā namassāmi imaṃ palāsaṃ ye c'; ettha bhūtā te ca[^024-2] dhanassa hetū 'ti. ||  
+Ja_IV:26 ||  
 
 Tattha dūre suto ti brāhmaṇa ayaṃ rukkho dūre suto vissuto[^024-3], na āsannaṭṭhāne yeva pākaṭo, brahā cā ti mahanto ca, dese ṭhito ti unnate same bhūmippadese ṭhito, bhūtanivāsarūpo ti devatānivāsabhāvo addhā ettha mahesakkhadevatā nivutthā[^024-4] bhavissati[^024-5], te ca dhanassa hetū 'ti imañ ca rukkhaṃ ye c'; ettha rukkhe nivutthā bhūtā te[^024-6] ca dhanassa hetu namassāmi na nikkāraṇā[^024-7] ti. Taṃ sutvā rukkhadevatā brāhmaṇassa pasannā "ahaṃ brāhmaṇa imasmiṃ rukkhe nibbattadevatā, mā bhāyi, dhanaṃ te dassāmīti" taṃ assāsetvā attano vimānadvāre mahantena devatānubhāvena ākāse ṭhatvā itarā dve gāthā abhāsi:
 
-Ja_IV,1.7(=307).3: So te karissāmi yathānubhāvaṃ kataññutaṃ brāhmaṇa pekkhamāno, kathaṃ hi āgamma sataṃ sakāse[^024-8] moghā te assu[^024-9] pariphanditāni[^024-10]. || Ja_IV:27 ||
+Ja_IV,1.7(=307).3: So te karissāmi yathānubhāvaṃ kataññutaṃ brāhmaṇa pekkhamāno, kathaṃ hi āgamma sataṃ sakāse[^024-8] moghā te assu[^024-9] pariphanditāni[^024-10]. ||  
+Ja_IV:27 ||  
 
-Ja_IV,1.7(=307).4: Yo tindurukkhassa paro pilakkhu[^024-11] parivārito pubbayañño uḷāro tass'; esa[^024-12] mūlasmiṃ nidhī[^024-13] nikhāto adāyādo[^024-14], gaccha, taṃ uddharāhīti. || Ja_IV:28 ||
+Ja_IV,1.7(=307).4: Yo tindurukkhassa paro pilakkhu[^024-11] parivārito pubbayañño uḷāro tass'; esa[^024-12] mūlasmiṃ nidhī[^024-13] nikhāto adāyādo[^024-14], gaccha, taṃ uddharāhīti. ||  
+Ja_IV:28 ||  
 
 
 <!-- PTS Page 025 -->
@@ -304,15 +332,18 @@ Tattha yathānubhāvan ti yathāsatti yathābalaṃ, kataññutan ti tayā mayha
 
 hutvā nibbatti. Ath'; ekassa sīhassa maṃsaṃ khādantassa aṭṭhi gale laggi, galo uddhumāyi, gocaraṃ gaṇhituṃ na sakkoti, kharā vedanā vattanti[^026-1]. Atha naṃ so sakuṇo gocarapasuto disvā sākhāya nilīno "kin te samma dukkhatīti[^026-2]" pucchi. So tam atthaṃ ācikkhi. "Ahan te samma etaṃ aṭṭhiṃ apaneyyaṃ, bhayena[^026-3] te mukhaṃ pavisituṃ na visahāmi, khādeyyāsi pi[^026-4] man" ti. "Mā bhāyi samma, nāhan taṃ khādāmi, jīvitaṃ me dehīti". So "sādhū" 'ti taṃ passena[^026-5] nipajjāpetvā "ko jānāti kiṃ p'; esa karissatīti[^026-6]" cintetvā yathā mukhaṃ pidahituṃ na sakkoti tathā tassa adharoṭṭhe ca uttaroṭṭhe ca daṇḍakaṃ ṭhapetvā mukhaṃ pavisitvā aṭṭhikoṭiṃ tuṇḍena pahari. Aṭṭhi patitvā gataṃ. So aṭṭhiṃ pātetvā sīhassa mukhato nikkhamanto daṇḍakaṃ tuṇḍena paharitvā pātento nikkhamitvā sākhagge nilīyi[^026-7]. Sīho nīrogo[^026-8] hutvā ekadivasaṃ[^026-9] vanamahisaṃ vadhitvā khādati. Sakuṇo "vimaṃsissāmi nan" ti tassa uparibhāge sākhāya nilīyitvā tena saddhiṃ sallapanto[^026-10] paṭhamaṃ gātham āha:
 
-Ja_IV,1.8(=308).1: Akaramhase te kiccaṃ yaṃ balaṃ ahuvamhase, (cfr. Dhp. p. 147,1) migarāja namo ty-atthu, api kiñci labhāmase. || Ja_IV:29 ||
+Ja_IV,1.8(=308).1: Akaramhase te kiccaṃ yaṃ balaṃ ahuvamhase, (cfr. Dhp. p. 147,1) migarāja namo ty-atthu, api kiñci labhāmase. ||  
+Ja_IV:29 ||  
 
 Tattha akaramhase te[^026-11] ti bho sīha, mayam[^026-12] pi tava ekaṃ kiccaṃ akarimha, yaṃ balaṃ ahuvamhase ti yaṃ amhākaṃ balaṃ ahosi tena balena tato kiñci ahāpetvā[^026-13] akarimha yeva[^026-14]. Taṃ sutvā sīho dutiyaṃ gātham āha:
 
-Ja_IV,1.8(=308).2: Mama lohitabhakkhassa niccaṃ luddāni kubbato dantantaragato santo taṃ bahuṃ yaṃ hi[^026-15] jīvasīti. || Ja_IV:30 ||
+Ja_IV,1.8(=308).2: Mama lohitabhakkhassa niccaṃ luddāni kubbato dantantaragato santo taṃ bahuṃ yaṃ hi[^026-15] jīvasīti. ||  
+Ja_IV:30 ||  
 
 Taṃ sutvā sakuṇo itarā dve gāthā abhāsi:
 
-Ja_IV,1.8(=308).3: Akataññuṃ akattāraṃ katassa appatikārakaṃ[^026-16] yasmiṃ kataññutā n'; atthi niratthā tassa sevanā. || Ja_IV:31 ||
+Ja_IV,1.8(=308).3: Akataññuṃ akattāraṃ katassa appatikārakaṃ[^026-16] yasmiṃ kataññutā n'; atthi niratthā tassa sevanā. ||  
+Ja_IV:31 ||  
 
 
 <!-- PTS Page 027 -->
@@ -320,7 +351,8 @@ Ja_IV,1.8(=308).3: Akataññuṃ akattāraṃ katassa appatikārakaṃ[^026-16]
 
 ##### *[PTS Page 027]*
 
-Ja_IV,1.8(=308).4: Yassa sammukhaciṇṇena mittadhammo na labbhati anusuyyam[^027-1] anakkosaṃ sanikaṃ[^027-2] tamhā apakkame ti. || Ja_IV:32 ||
+Ja_IV,1.8(=308).4: Yassa sammukhaciṇṇena mittadhammo na labbhati anusuyyam[^027-1] anakkosaṃ sanikaṃ[^027-2] tamhā apakkame ti. ||  
+Ja_IV:32 ||  
 
 Tattha akataññuṃ ti kataguṇaṃ ajānantaṃ, akattāran ti sayaṃ kiñci akarontaṃ, sammukhaciṇṇenā ti sammukhe katena guṇena, anusuyyamanakkosan ti taṃ puggalaṃ na usūyanto[^027-3] na akkosanto[^027-4] sanikaṃ[^027-5] tamhā puggalā[^027-6] apagaccheyyā 'ti. Evaṃ vatvā so sakuṇo pakkāmi. Satthā imaṃ desanaṃ[^027-7] āharitvā jātakaṃ samodhānesi: "Tadā sīho Devadatto ahosi, sakuṇo pana aham evā" 'ti. Javasakuṇajātakaṃ[^027-8].
 
@@ -334,7 +366,8 @@ Tattha akataññuṃ ti kataguṇaṃ ajānantaṃ, akattāran ti sayaṃ kiñci
 
 baddhacitto "kahaṃ nu kho ambaṃ[^028-1] labhissāmīti" cintesi. Tena kho pana samayena Bārāṇasirañño uyyāne ambo dhuvaphalo hoti. So "tato ambapakkaṃ āharitvā imissā dohaḷaṃ paṭippassambhessāmīti[^028-2]" rattibhāge uyyānaṃ gantvā ambaṃ abhirūhitvā[^028-3] sākhāya sākhaṃ ambaṃ olokento vicari[^028-4]. Tassa tathā karontass'; eva ratti vibhāyi[^028-5]. So cintesi: "sace idāni[^028-6] otaritvā gamissāmi disvā maṃ[^028-7] ‘coro'; ti gahessanti[^028-8], rattibhāge gamissāmīti". Ath'; ekaṃ viṭapaṃ abhirūhitvā nilīno acchi. Tadā Bārāṇasirājā purohitassa santike mante gaṇhāti[^028-9], so uyyānaṃ pavisitvā ambarukkhamūle uccāsane[^028-10] nisīditvā ācariyaṃ nīcāsane[^028-11] nisīdāpetvā mante gaṇhi[^028-12]. Upari nisinno[^028-13] cintesi: "yāva[^028-14] adhammiko ayaṃ rājā[^028-15] uccāsane nisīditvā mante gaṇhāti[^028-16], brāhmaṇo pi adhammiko yo nīcāsane[^028-11] nisīditvā[^028-17] vāceti, aham pi adhammiko yo mātugāmassa vasaṃ gantvā mama[^028-18] jīvitaṃ agaṇetvā ambaṃ āharāmīti[^028-19]" so rukkhato otaranto ekaṃ olambanisākhaṃ gahetvā tesaṃ ubhinnam pi antare patiṭṭhāsi[^028-20], "mahārāja, ahaṃ naṭṭho, tvaṃ thūlo[^028-21], purohito mato[^028-22]" ti āha. So raññā "kiṃkāraṇā" ti puṭṭho paṭhamaṃ gātham āha:
 
-Ja_IV,1.9(=309).1: Sabbam idaṃ carimavataṃ[^028-23], ubho dhammaṃ na passati[^028-24], ubho pakatiyā cutā yo cāyaṃ[^028-25] sajjhāpayati[^028-26] yo ca dhammaṃ adhīyatīti. (cfr. Vinaya IV p.204; Dhp. p. 215,28) || Ja_IV:33 ||
+Ja_IV,1.9(=309).1: Sabbam idaṃ carimavataṃ[^028-23], ubho dhammaṃ na passati[^028-24], ubho pakatiyā cutā yo cāyaṃ[^028-25] sajjhāpayati[^028-26] yo ca dhammaṃ adhīyatīti. (cfr. Vinaya IV p.204; Dhp. p. 215,28) ||  
+Ja_IV:33 ||  
 
 Tattha sabbam idaṃ carimavatan[^028-27] ti yaṃ amhehi tīhi janehi kataṃ sabbam idaṃ kiccaṃ lāmakaṃ nimmariyādaṃ adhammikaṃ, evaṃ attano corabhāvaṃ tesañ ca mantesu agāravaṃ garahitvā puna itare[^028-28] yeva garahanto
 
@@ -346,13 +379,16 @@ Tattha sabbam idaṃ carimavatan[^028-27] ti yaṃ amhehi tīhi janehi kataṃ s
 
 ubho dhammaṃ na passantīti[^029-1] ādim āha, tattha ubho ti[^029-2] dve[^029-3] pi janā garukārārahaṃ[^029-4] porāṇakadhammaṃ na passanti, tato ca dhammapakatito cutā, dhammo hi paṭhamuppattivasena pakati nāma, vuttam pi c'; etaṃ: Dhammo have[^029-5] pātur ahosi pubbe pacchā adhammo udapādi loke ti, yo cāyan ti yo ca ayaṃ nīcāsane nisīditvā mante sajjhāpeti[^029-6] yo ca uccāsane[^029-7] nisīditvā adhīyatīti. Taṃ sutvā brāhmaṇo dutiyaṃ gātham āha:
 
-Ja_IV,1.9(=309).2: Sālīnaṃ bhojanaṃ[^029-8] bhuñje suciṃ[^029-9] maṃsūpasecanaṃ[^029-10], tasmā etaṃ na sevāmi dhammaṃ isibhi sevitan ti. || Ja_IV:34 ||
+Ja_IV,1.9(=309).2: Sālīnaṃ bhojanaṃ[^029-8] bhuñje suciṃ[^029-9] maṃsūpasecanaṃ[^029-10], tasmā etaṃ na sevāmi dhammaṃ isibhi sevitan ti. ||  
+Ja_IV:34 ||  
 
 Tass'; attho: ahaṃ hi bho imassa rañño santakaṃ sālīnaṃ odanaṃ suciṃ paṇḍaraṃ nānappakārāya maṃsavikatiyā sittaṃ[^029-11] maṃsūpasecanaṃ[^029-12] bhuñjāmi, tasmā udare baddho hutvā etaṃ esitaguṇehi isibhi sevitaṃ dhammaṃ na sevāmīti. Taṃ sutvā itaro[^029-13] dve gāthā abhāsi:
 
-Ja_IV,1.9(=309).3: Paribbaja, mahā loko[^029-14], pacant'; aññe pi[^029-15] pāṇino, mā tvaṃ adhammo ācarito[^029-16] asmā kumbham[^029-17] ivībhida[^029-18]. || Ja_IV:35 ||
+Ja_IV,1.9(=309).3: Paribbaja, mahā loko[^029-14], pacant'; aññe pi[^029-15] pāṇino, mā tvaṃ adhammo ācarito[^029-16] asmā kumbham[^029-17] ivībhida[^029-18]. ||  
+Ja_IV:35 ||  
 
-Ja_IV,1.9(=309).4: Dhi-r-atthu taṃ yasalābhaṃ[^029-19] dhanalābhañ ca brāhmaṇa yā vutti vinipātena adhammacaraṇena vā ti. || Ja_IV:36 ||
+Ja_IV,1.9(=309).4: Dhi-r-atthu taṃ yasalābhaṃ[^029-19] dhanalābhañ ca brāhmaṇa yā vutti vinipātena adhammacaraṇena vā ti. ||  
+Ja_IV:36 ||  
 
 Tattha paribbajā 'ti ito aññattha gaccha, mahā[^029-20] ti ayaṃ loko nāma mahā, pacantaññe[^029-21] pīti imasmiṃ Jambudīpe aññe pi pāṇino pacanti[^029-22], na ayam ev'; eko rājā, asmā kumbhamivā[^029-23] 'ti pāsāṇo ghaṭaṃ viya, idaṃ vuttaṃ hoti: yaṃ tvaṃ[^029-24] aññattha agantvā[^029-25] idha vasanto adhammaṃ ācarasi[^029-26] so adhammo evaṃ ācarito pāsāṇo ghaṭaṃ viya mā taṃ[^029-27] bhindi[^029-28], dhiratthū[^029-29] 'ti gāthāya ayaṃ saṃkhepattho: brāhmaṇa yo esa evaṃ tava yasalābho ca dhanalābho ca[^029-30] dhi-r-atthu taṃ, garahāma taṃ mayaṃ[^029-31], kasmā? yasmā ayaṃ
 
@@ -382,13 +418,17 @@ gahetvā[^031-1] rañño puttena saddhiṃ ekadivase jāyi[^031-2]. Rājā "atth
 
 manaṃ[^032-1] icchatīti" āha. Bodhisatto "tiṭṭhatu, purohitaṭṭhānaṃ ahaṃ sakalaṃ Kāsikosalaṃ Jambudīparajjaṃ cakkavattisirim eva vā labhanto pi na gacchissāmi[^032-2], na hi paṇḍitā sakiṃ jahitakilese puna gaṇhanti, sakiṃ jahitaṃ hi nuṭṭhubhakkheḷasadisaṃ[^032-3] hotīti" vatvā imā gāthā abhāsi:
 
-Ja_IV,1.10(=310).1: Sasamuddapariyāyaṃ[^032-4] mahiṃ sāgarakuṇḍalaṃ na icche saha nindāya, evaṃ Sayha[^032-5] vijānahi[^032-6]. || Ja_IV:37 ||
+Ja_IV,1.10(=310).1: Sasamuddapariyāyaṃ[^032-4] mahiṃ sāgarakuṇḍalaṃ na icche saha nindāya, evaṃ Sayha[^032-5] vijānahi[^032-6]. ||  
+Ja_IV:37 ||  
 
-Ja_IV,1.10(=310).2: Dhi-r-atthu naṃ[^032-7] yasalābhaṃ dhanalābhañ ca brāhmaṇa (cfr. Supra. p. 29) yā vutti vinipātena adhammacaraṇena vā. || Ja_IV:38 ||
+Ja_IV,1.10(=310).2: Dhi-r-atthu naṃ[^032-7] yasalābhaṃ dhanalābhañ ca brāhmaṇa (cfr. Supra. p. 29) yā vutti vinipātena adhammacaraṇena vā. ||  
+Ja_IV:38 ||  
 
-Ja_IV,1.10(=310).3: Api ce pattam ādāya anāgāro[^032-8] paribbaje sā eva[^032-9] jīvikā seyyo[^032-10] yā cādhammena esanā. || Ja_IV:39 || (Cfr. supra II. p. 422).
+Ja_IV,1.10(=310).3: Api ce pattam ādāya anāgāro[^032-8] paribbaje sā eva[^032-9] jīvikā seyyo[^032-10] yā cādhammena esanā. || Ja_IV:39 ||  
+(Cfr. supra II. p. 422).
 
-Ja_IV,1.10(=310).4: Api ce pattam ādāya anāgāro[^032-8] paribbaje aññaṃ ahiṃsayaṃ loke api rajjena taṃ varan ti. || Ja_IV:40 ||
+Ja_IV,1.10(=310).4: Api ce pattam ādāya anāgāro[^032-8] paribbaje aññaṃ ahiṃsayaṃ loke api rajjena taṃ varan ti. ||  
+Ja_IV:40 ||  
 
 Tattha sasamuddapariyāyan[^032-11] ti pariyāyo[^032-12] vuccati parivāro, samudde parivāretvā ṭhitena cakkavāḷapabbatena saddhiṃ samuddasaṃkhātena vā[^032-13] parivārena saddhin ti attho, mahiṃ[^032-14] sāgarakuṇḍalan ti sāgaramajjhe dīpavasena ṭhitattā tassa kuṇḍalabhūtan ti attho, nindāyā 'ti jhānasukhasampannaṃ pabbajjaṃ chaḍḍetvā[^032-15] issariyaṃ gaṇhīti imāya nindāya, Sayhā[^032-16] 'ti taṃ nāmenālapati, vijānahīti[^032-17] dhammaṃ vijānāhi, yā vutti vinipātenā 'ti yā purohitaṭṭhānavasena{[^032-18]} laddhā yasalābhadhanalābhavutti jhānasukhena tato[^032-19] attavinipātanasaṃkhātena vinipātena tato[^032-20] gantvā issariyamadamattassa adhammacaraṇena vā hoti taṃ vuttiṃ dhi-i-atthu, pattamādāyā 'ti bhikkhābhājanaṃ gahetvā, anāgāro[^032-8] ti api ahaṃ agāravirahito parakulesu careyyaṃ[^032-21], sā eva[^032-22] jīvikā ti sā eva me[^032-23] jīvikā seyyo varatarā[^032-24], yā cādhammenā 'ti yā ca adhammena esanā, idaṃ vuttaṃ hoti (cfr. Milinda p. 220): yā adhammena esanā tato esā va jīvikā sundaratarā ti, ahiṃsayan ti aviheṭhento, api rajjenā 'ti evaṃ paraṃ aviheṭhento kapālahatthassa mama jīvikakappanaṃ rajjenāpi varaṃ uttaman ti. Iti so punappuna[^032-25] yācantam[^032-26] pi taṃ paṭikkhipi. Sayho[^032-27] pi tassa manaṃ alabhitvā[^032-28] vanditvā gantvā[^032-29] tassa anāgamanabhāvaṃ rañño ārocesi.
 
@@ -412,15 +452,18 @@ Satthā imaṃ desanaṃ[^033-1] āharitvā saccāni pakāsetvā jātakaṃ samo
 
 Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto nagarassa susānavane nimbarukkhe[^034-1] devatā hutvā nibbatti. Ath'; ekadivasaṃ nagaradvāragāme katakammacoro taṃ susānavanaṃ pāvisi. Tadā[^034-2] pana tattha nimbo ca assattho cā 'ti dve jeṭṭhakarukkhā[^034-3]. Coro nimbarukkhassa[^034-4] mūle bhaṇḍikaṃ ṭhapetvā nipajji. Tasmiṃ pana kāle core[^034-5] gahetvā nimbasūle[^034-6] uttāsenti. Atha sā devatā cintesi: "sace[^034-7] manussā āgantvā imaṃ coraṃ gaṇhissanti imassa[^034-8] nimbarukkhassa[^034-9] sākhaṃ chinditvā sūlaṃ katvā etaṃ uttāsessanti[^034-10], evaṃ sante rukkho nassissati, handa naṃ ito nīharissāmīti" sā tena saddhiṃ sallapantī paṭhamaṃ gātham āha:
 
-Ja_IV,2.1(=311).1: Uṭṭhehi cora, kiṃ sesi, ko attho supinena te, mā taṃ gahesuṃ rājāno gāme kibbisakārakan ti. || Ja_IV:41 ||
+Ja_IV,2.1(=311).1: Uṭṭhehi cora, kiṃ sesi, ko attho supinena te, mā taṃ gahesuṃ rājāno gāme kibbisakārakan ti. ||  
+Ja_IV:41 ||  
 
 Tattha rājāno ti rājapurise sandhāya vuttaṃ, kibbisakārakan ti dāruṇasāhasikacorakammakārakaṃ. Iti naṃ vatvā "yāva taṃ rājapurisā na gaṇhanti tāva aññattha gacchā[^034-11]" 'ti {bhāyāpetvā} palāpesi. Tasmiṃ palāte assatthadevatā dutiyaṃ gātham āha:
 
-Ja_IV,2.1(=311).2: Yan nu coraṃ gahessanti gāme kibbisakārakaṃ kiṃ tattha pucimandassa vane jātassa tiṭṭhato ti. || Ja_IV:42 ||
+Ja_IV,2.1(=311).2: Yan nu coraṃ gahessanti gāme kibbisakārakaṃ kiṃ tattha pucimandassa vane jātassa tiṭṭhato ti. ||  
+Ja_IV:42 ||  
 
 Tattha vane jātassa tiṭṭhato ti nimbo[^034-12] vane jāto c'; eva ṭhito ca, devataṃ[^034-13] pana tattha nibbattattā rukkhasamudācāren'; eva samudācari[^034-14]. Taṃ sutvā nimbadevatā tatiyaṃ gātham āha:
 
-Ja_IV,2.1(=311).3: Na tvaṃ assattha jānāsi mama corassa c'; antaraṃ[^034-15]: coraṃ gahetvā rājāno gāme kibbisakārakaṃ appenti[^034-16] nimbasūlasmiṃ, tasmiṃ me[^034-17] saṃkate[^034-18] mano ti. || Ja_IV:43 ||
+Ja_IV,2.1(=311).3: Na tvaṃ assattha jānāsi mama corassa c'; antaraṃ[^034-15]: coraṃ gahetvā rājāno gāme kibbisakārakaṃ appenti[^034-16] nimbasūlasmiṃ, tasmiṃ me[^034-17] saṃkate[^034-18] mano ti. ||  
+Ja_IV:43 ||  
 
 
 <!-- PTS Page 035 -->
@@ -430,7 +473,8 @@ Ja_IV,2.1(=311).3: Na tvaṃ assattha jānāsi mama corassa c'; antaraṃ[^034-
 
 Tattha assatthā 'ti purimanayen'; eva tasmiṃ nibbattadevataṃ[^035-1] samudācarati, mama corassa cantaran ti mama corassa ca ekato avasanakāraṇaṃ, appenti[^035-2] nimbasūlasmin ti imasmiṃ kāle rājāno[^035-3] coraṃ nimbasūle āvuṇanti[^035-4], tasmiṃ me saṃkate mano ti tasmiṃ kāraṇe mama cittaṃ saṃkati, sace[^035-5] hi imaṃ sūle āvuṇissanti[^035-6] vimānaṃ me nassissati, atha sākhāya olambessanti, vimāne me kuṇapagandho bhavissati, tenāha: evaṃ[^035-7] palāpesin ti[^035-8]. Evaṃ tāsaṃ devatānaṃ aññamaññaṃ sallapantīnaṃ ñeva[^035-9] bhaṇḍasāmikā ukkāhatthā padānusārena āgantvā corassa sayitaṭṭhānaṃ disvā "ambho idāni[^035-9] coro uṭṭhāya palāto[^035-10] ti, na laddho no[^035-11] coro, sace alabhissāma[^035-12] imass'; eva[^035-13] nimbassa mūle vā āvuṇitvā[^035-16] sākhāya vā olambetvā āgamissāmā[^035-17]" 'ti vatvā ito c'; ito ca pakkhanditvā coraṃ adisvā va gatā. Tesaṃ[^035-18] sutvā assatthadevatā catutthaṃ gātham āha:
 
-Ja_IV,2.1(=311).4: Saṃkeyya saṃkitabbāni, rakkheyya[^035-19] nāgataṃ bhayaṃ, anāgatabhayā dhīro ubho loke avekkhatīti. || Ja_IV:44 ||
+Ja_IV,2.1(=311).4: Saṃkeyya saṃkitabbāni, rakkheyya[^035-19] nāgataṃ bhayaṃ, anāgatabhayā dhīro ubho loke avekkhatīti. ||  
+Ja_IV:44 ||  
 
 Tattha rakkheyya[^035-20] nāgataṃ bhayan ti dve anāgatabhayāni diṭṭhadhammikañ c'; eva samparāyikañ ca, tesu pāpamitte parivajjento[^035-21] diṭṭhadhammikaṃ rakkhati, tīṇi duccaritāni parivajjento[^035-21] samparāyikaṃ rakkhati, anāgatabhayā ti anāgatabhayahetukaṃ[^035-22] bhayaṃ bhāyamāno dhīro paṇḍito puriso pāpamittasaṃsaggaṃ na karoti, tīhi[^035-23] dvārehi duccaritaṃ na carati, ubho loke ti evaṃ bhāyanto h'; esa idhalokaparalokasaṃkhāte ubho loke avekkhati oloketi, olokayamāno idhalokabhayena pāpamitte vajjeti[^035-24] paralokabhayena pāpakammaṃ[^035-25] na karotīti. Satthā imaṃ desanaṃ[^035-26] āharitvā jātakam samodhānesi: "Tadā assatthe nibbattadevatā Sāriputto[^035-27] ahosi, nimbadevatā aham evā" 'ti. Pucimandajātakaṃ[^035-28].
 
@@ -458,13 +502,17 @@ vayappattassa[^037-1] mātā kālam akāsi. So mātu sarīrakiccaṃ katvā mās
 
 janti, sakiṃ bhinnakālato paṭṭhāya puna na sakkā honti ghaṭetuṃ, te akkosante pi mahallakehi[^038-1] adhivāsetabbā[^038-2]" ti vatvā pitaraṃ ovadanto[^038-3] imā gāthā āha[^038-4]:
 
-Ja_IV,2.2(=312).1: Api Kassapa mandiyā yuvā sapati[^038-5] hanti vā, sabban taṃ khamate dhīro, paṇḍito taṃ titikkhati. || Ja_IV:45 ||
+Ja_IV,2.2(=312).1: Api Kassapa mandiyā yuvā sapati[^038-5] hanti vā, sabban taṃ khamate dhīro, paṇḍito taṃ titikkhati. ||  
+Ja_IV:45 ||  
 
-Ja_IV,2.2(=312).2: Sace pi santo vivadanti khippaṃ sandhīyare[^038-6] puna, bālā pattā va bhijjanti, na te samatham ajjhagū. || Ja_IV:46 ||
+Ja_IV,2.2(=312).2: Sace pi santo vivadanti khippaṃ sandhīyare[^038-6] puna, bālā pattā va bhijjanti, na te samatham ajjhagū. ||  
+Ja_IV:46 ||  
 
-Ja_IV,2.2(=312).3: Ete bhiyyo samāyanti[^038-7] sandhi tesaṃ na jīrati yo cādhipannaṃ jānāti yo ca jānāti desanaṃ. || Ja_IV:47 ||
+Ja_IV,2.2(=312).3: Ete bhiyyo samāyanti[^038-7] sandhi tesaṃ na jīrati yo cādhipannaṃ jānāti yo ca jānāti desanaṃ. ||  
+Ja_IV:47 ||  
 
-Ja_IV,2.2(=312).4: Eso hi uttaritaro bhāravāho dhurandharo yo pares'; ādhipannānaṃ sayaṃ sandhātum arahatīti. || Ja_IV:48 ||
+Ja_IV,2.2(=312).4: Eso hi uttaritaro bhāravāho dhurandharo yo pares'; ādhipannānaṃ sayaṃ sandhātum arahatīti. ||  
+Ja_IV:48 ||  
 
 Tattha Kassapā 'ti pitaraṃ nāmenālapati, mandiyā ti mandabhāvena[^038-8] taruṇatāya, yuvā sapati hanti vā ti taruṇadārako akkosati pi paharati pi, dhīro ti dhikkitapāpo[^038-9], dhī[^038-10] vuccati paññā, tāya samannāgato ti pi attho, itaraṃ pana imassa[^038-11] vevacanaṃ, ubhayenāpi sabban taṃ bāladārakehi kataṃ aparādhaṃ mahallako dhīro paṇḍito sahati titikkhatīti dasseti, sandhiyyare ti puna mittabhāvena sandhiyyanti ghaṭīyanti, bālā pattā vā ti bālakā pana mattikapattā[^038-12] va bhijjanti, na te samathamajjhagū ti te bālakā appamattakam pi vivādaṃ katvā veravūpasamanaṃ[^038-13] na vindanti[^038-14] nādhigacchanti, ete bhiyyo ti ete dve janā bhinnāpi puna samāgacchanti, sandhīti mittasandhi, tesaṃ ti tesaṃ ñeva dvinnaṃ[^038-15] na jīrati, yo cādhipannan ti yo ca attanā[^038-16] adhipannaṃ atikkantaṃ asmiṃ kataṃ dosaṃ jānāti, desanan ti yo ca tena attano dosaṃ jānantena[^038-17] pi naṃ[^038-18] accayadesanaṃ[^038-19] patigaṇhituṃ[^038-20] jānāti, yo paresādhipannānan ti yo paresaṃ adhipannānaṃ dosenādhibhūtānaṃ{[^038-21]} aparādhakārakānaṃ[^038-22], sayaṃ sandhātumarahatīti tesu akhamāpentesu pi ehi bhadramukha uddesaṃ gaṇha aṭṭhakathaṃ suṇa bhāvanam[^038-23] anuyuñja kasmā paribāhiro hosīti evaṃ sayaṃ sandhātuṃ arahati mettabhāvaṃ ghaṭeti[^038-24], eso[^038-25] evarūpo mettāvihārī uttaritaro mettabhārassa[^038-26] mittadhurāya ca vahanato bhāravāho ti ca dhurandharo ti ca saṃkhaṃ gacchatīti.
 
@@ -502,11 +550,13 @@ ti coraghātakaṃ[^041-1] pakkosāpesi. So attano cārittena pharasuñ ca kaṇ
 
 chitvā[^042-1] hatthapādakaṇṇanāsakoṭiyo sāṭakakaṇṇe katvā[^042-2] Bodhisattaṃ saṇikaṃ[^042-3] nisīdāpetvā vanditvā ekamantaṃ nisīditvā "sace bhante tumhe kujjhitukāmā tumhesu katāparādhassa[^042-4] rañño va kujjheyyātha mā aññesan" ti yācanto paṭhamaṃ gātham āha:
 
-Ja_IV,2.3(=313).1: Yo te hatthe ca pāde ca kaṇṇanāsañ ca chedayi tassa kujjha mahāvīra, mā raṭṭhaṃ vinasā[^042-5] idan ti. || Ja_IV:49 ||
+Ja_IV,2.3(=313).1: Yo te hatthe ca pāde ca kaṇṇanāsañ ca chedayi tassa kujjha mahāvīra, mā raṭṭhaṃ vinasā[^042-5] idan ti. ||  
+Ja_IV:49 ||  
 
 Tattha mahāvīrā 'ti mahāviriya, mā raṭṭhaṃ vinasā[^042-5] idan ti idaṃ niraparādhaṃ Kāsiraṭṭhaṃ[^042-6] mā vināsesi[^042-7]. Taṃ sutvā Bodhisatto dutiyaṃ gātham āha:
 
-Ja_IV,2.3(=313).2: Yo me hatthe ca pāde ca kaṇṇanāsañ ca chedayi (cfr. Alwis, Sidhat Sangarawa P. CLX) ciraṃ jīvatu so rājā, na hi kujjhanti mādisā ti. || Ja_IV:50 ||
+Ja_IV,2.3(=313).2: Yo me hatthe ca pāde ca kaṇṇanāsañ ca chedayi (cfr. Alwis, Sidhat Sangarawa P. CLX) ciraṃ jīvatu so rājā, na hi kujjhanti mādisā ti. ||  
+Ja_IV:50 ||  
 
 Tattha mādisā ti mama sadisā khantibalena samannāgatā paṇḍitā ayaṃ maṃ akkosi paribhavi[^042-8] pahari chindi bhindīti[^042-9] na[^042-10] kujjhanti. Rañño uyyānā nikkhamantassa Bodhisattassa cakkhupathaṃ vijahanakāle yeva ayaṃ cattālīsasahassādhikāni[^042-11] dve yojanasatasahassāni[^042-12] bahalā[^042-13] mahāpaṭhavī balitthaddhasāṭako[^042-14] viya phalitā[^042-15], avīcito jālā nikkhamitvā rājānaṃ kuladattikena rattakambalena[^042-16] pārupantī[^042-17] viya gaṇhi. So uyyānadvāre yeva paṭhaviṃ pavisitvā[^042-18] Avīcimahāniraye patiṭṭhahi. Bodhisatto[^042-19] taṃ divasam eva[^042-20] kālam akāsi. Rājapurisā[^042-21] ca nāgarā ca gandhamāladhūpahatthā āgantvā Bodhisattassa sarīrakiccaṃ kariṃsu[^042-22]. Keci panāhu: Bodhisatto pana[^042-23] Himavantam eva gato ti, taṃ abhūtaṃ.
 
@@ -516,9 +566,11 @@ Tattha mādisā ti mama sadisā khantibalena samannāgatā paṇḍitā ayaṃ m
 
 ##### *[PTS Page 043]*
 
-Ja_IV,2.3(=313).3: Ahu atītamaddhāne samaṇo {khantidīpano}, taṃ khantiyā ṭyeva hitaṃ Kāsirājā achedayi. || Ja_IV:51 ||
+Ja_IV,2.3(=313).3: Ahu atītamaddhāne samaṇo {khantidīpano}, taṃ khantiyā ṭyeva hitaṃ Kāsirājā achedayi. ||  
+Ja_IV:51 ||  
 
-Ja_IV,2.3(=313).4: Tassa kammassa pharusassa vipāko kaṭuko ahu yaṃ Kāsirājā vedesi nirayamhi samappito ti || Ja_IV:52 ||
+Ja_IV,2.3(=313).4: Tassa kammassa pharusassa vipāko kaṭuko ahu yaṃ Kāsirājā vedesi nirayamhi samappito ti ||  
+Ja_IV:52 ||  
 
 imā[^043-1] dve[^043-2] abhisambuddhagāthā. Tattha atītamaddhāne ti atīte addhāne, khantidīpano ti adhivāsanakhantisaṃvaṇṇano[^043-3], achedayīti mārāpesi, ekacce pana therā Bodhisattassa puna hatthapādā[^043-4] ghaṭitā ti vadanti, ṭam pi abhūtam eva, samappito ti patiṭṭhito. Satthā imaṃ desanaṃ[^043-5] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne kodhano bhikkhu anāgāmiphale patiṭṭhahi, bahū[^043-6] sotāpattiphalādīni pāpuṇiṃsu) "Tadā Kalābu Kāsirājā[^043-7] Devadatto ahosi, senāpati Sāriputto, khantivādatāpaso[^043-8] aham evā" 'ti. Khantivādijātakaṃ[^043-9].
 
@@ -556,19 +608,23 @@ kayaññaṃ yajitvā sotthiṃ karissāmā'; 'ti vatvā yaññāvāṭakakamma�
 
 yeva nimuggā tesu dukāraṃ vatvā nimuggasatto[^047-1] evaṃ vattukāmo ahosi:
 
-Ja_IV,2.4(=314).1: Dujjīvitaṃ ajīvimha[^047-2] ye sante[^047-3] na dadamhase[^047-4], vijjamānesu bhogesu dīpaṃ nākamha[^047-5] attano ti[^047-6], || Ja_IV:53 ||
+Ja_IV,2.4(=314).1: Dujjīvitaṃ ajīvimha[^047-2] ye sante[^047-3] na dadamhase[^047-4], vijjamānesu bhogesu dīpaṃ nākamha[^047-5] attano ti[^047-6], ||  
+Ja_IV:53 ||  
 
 na pana sakkhīti[^047-7]" vatvā Bodhisatto attano ñāṇena tam gāthaṃ paripuṇṇaṃ katvā kathesi. Sesāsu pi[^047-8] es'; eva nayo, tesu sakāraṃ vatvā[^047-9] vattukāmassa ayaṃ gāthā:
 
-Ja_IV,2.4(=314).2: Saṭṭhivassasahassāni paripuṇṇāni sabbaso, niraye paccamānānaṃ kadā anto bhavissatīti. || Ja_IV:54 ||
+Ja_IV,2.4(=314).2: Saṭṭhivassasahassāni paripuṇṇāni sabbaso, niraye paccamānānaṃ kadā anto bhavissatīti. ||  
+Ja_IV:54 ||  
 
 Nakāraṃ vatvā[^047-9] vattukāmassa ayaṃ gāthā:
 
-Ja_IV,2.4(=314).3: N'; atthi anto kuto anto na anto patidissati, tadā hi pakataṃ pāpaṃ mama tuyhañ ca mārisā 'ti. || Ja_IV:55 ||
+Ja_IV,2.4(=314).3: N'; atthi anto kuto anto na anto patidissati, tadā hi pakataṃ pāpaṃ mama tuyhañ ca mārisā 'ti. ||  
+Ja_IV:55 ||  
 
 Sokāraṃ vatvā[^047-9] vattukāmassa ayaṃ gāthā:
 
-Ja_IV,2.4(=314).4: So hi[^047-10] nūna ito gantvā yoniṃ laddhāna mānusiṃ vadaññū sīlasampanno kābāmi kusalaṃ bahun ti. || Ja_IV:56 ||
+Ja_IV,2.4(=314).4: So hi[^047-10] nūna ito gantvā yoniṃ laddhāna mānusiṃ vadaññū sīlasampanno kābāmi kusalaṃ bahun ti. ||  
+Ja_IV:56 ||  
 
 Tattha dujjīvitan ti tīṇi duccaritāni carantā dujjīvitaṃ lāmakaṃ jīvitaṃ jīvanti nāma, so pi tad eva sandhāyāha dujjīvitaṃ ajīvimhā[^047-11] 'ti, ye sante[^047-12] na dadamhase[^047-13] ti ye mayaṃ deyyadhamme ca paṭiggāhake ca vijjamāne[^047-14] yeva na dadāma[^047-15], dīpaṃ nākamhā[^047-16] ti attano patiṭṭhaṃ na karimhā[^047-17], sabbaso ti sabbākārena, paripuṇṇānīti anūnāni anadhikāni, paccamānānan ti amhākaṃ imasmiṃ niraye paccamānānaṃ, natthi anto ti amhākaṃ asukakāle nāma mokkho bhavissatīti evaṃ kālaparicchedo n'; atthi, kuto anto ti kena kāraṇena anto paññāyissati, na anto ti antaṃ daṭṭhukāmānam pi no dukkhassa anto[^047-18] na patidissati[^047-19], tadā hi pakatan ti tasmiṃ kāle mārisa mama[^047-20] tuyhañ ca pakataṃ pāpaṃ pakaṭṭhaṃ kataṃ atibahum eva kataṃ, tathā hi pakatan ti pi pāṭho, tena kāraṇena[^047-21] kataṃ yena[^047-22]
 
@@ -590,7 +646,8 @@ tassa anto va[^048-1] daṭṭhuṃ na sakkā ti[^048-2] attho, mārisā 'ti may
 
 hetvā tam eva vīthiṃ agamāsi[^049-1]. Pūretvā rasabhattaṃ adaṃsu. Gilānupaṭṭhākā vihāraṃ[^049-2] āharitvā gilānānaṃ adaṃsu, te paribhuñjiṃsu. Ath'; ekadivasaṃ dhammasabhāyaṃ[^049-3] kathaṃ samuṭṭhāpesum: "āvuso thero kira[^049-4] pītavirecanānaṃ upaṭṭhāke rasabhattaṃ alabhitvā nikkhamante gahetvā odanikagharavīthiyaṃ caritvā bahuṃ[^049-5] rasapiṇḍapātaṃ[^049-6] pesesīti". Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idāni[^049-7] Sāriputto va[^049-8] maṃsaṃ labhi[^049-9], pubbe pi muduvācā[^049-10] piyavacanaṃ vattuṃ chekā paṇḍitā labhiṃsū" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto seṭṭhiputto ahosi. Ath'; ekadivasaṃ eko migaluddako bahuṃ maṃsaṃ labhitvā yānakaṃ pūretvā "vikkiṇissāmīti" nagaraṃ āgacchati. Tadā Bārāṇasi-vāsikā cattāro seṭṭhiputtā nagarā nikkhamitvā ekasmiṃ maggasabhāgaṭṭhāne[^049-11] kiñci[^049-12] diṭṭhasutaṃ samullapantā[^049-13] nisīdiṃsu. Tesu eko seṭṭhiputto taṃ maṃsayānakaṃ[^049-14] disvā "etaṃ luddakaṃ maṃsakhaṇḍaṃ āharāpessāmīti" pucchi. "Gaccha āharāpehīti" So upasaṃkamitvā "are[^049-15] luddaka, dehi me maṃsakhaṇḍan" ti āha. Luddako "paraṃ kiñci yācantena nāma piyavacanena bhavitabbaṃ, tayā kathitavācāya anucchavikaṃ[^049-16] maṃsakhaṇḍaṃ labhissasīti[^049-17]" vatvā paṭhamaṃ gātham āha:
 
-Ja_IV,2.5(=315).1: Pharusā vata te vācā samma[^049-18] yācanako c'; asi[^049-19], kilomassa[^049-20] sadisī vācā, kilomaṃ samma dadāmi te ti. || Ja_IV:57 ||
+Ja_IV,2.5(=315).1: Pharusā vata te vācā samma[^049-18] yācanako c'; asi[^049-19], kilomassa[^049-20] sadisī vācā, kilomaṃ samma dadāmi te ti. ||  
+Ja_IV:57 ||  
 
 Tattha kilomassa sadisīti pharusatāya[^049-21] kilomakasadisīti, kilomaṃ samma dadāmi te ti handa gaṇha idaṃ te vācāya sadisaṃ kilomaṃ dammīti nīrasaṃ[^049-22] salomakaṃ[^049-23] kilomamaṃsakhaṇḍaṃ[^049-24] ukkhipitvā adāsi: Atha naṃ aparo seṭṭhiputto "kin ti vatvā yācīti[^049-25]" pucchi. "Are[^049-15] ti vatvā[^049-26]" ti. So "aham pi naṃ yācissāmīti" vatvā
 
@@ -602,15 +659,18 @@ Tattha kilomassa sadisīti pharusatāya[^049-21] kilomakasadisīti, kilomaṃ sa
 
 gantvā "jeṭṭhakabhātika[^050-1] maṃsakhaṇḍaṃ me dehīti" āha. Itaro "tava vacanassa anucchavikaṃ labhissasīti[^050-2]" dutiyaṃ gātham āha:
 
-Ja_IV,2.5(=315).2: Aṅgam etaṃ manussānaṃ bhātā loke pavuccati, aṅgassa[^050-3] sadisī[^050-4] vācā, aṅgaṃ samma dadāmi te ti. || Ja_IV:58 ||
+Ja_IV,2.5(=315).2: Aṅgam etaṃ manussānaṃ bhātā loke pavuccati, aṅgassa[^050-3] sadisī[^050-4] vācā, aṅgaṃ samma dadāmi te ti. ||  
+Ja_IV:58 ||  
 
 Tass'; attho: imasmiṃ loke manussānaṃ aṅgasadisattā aṅgaṃ etaṃ yadidam bhātā bhaginīti, tasmā tav'; esā aṅgasadisā vācā ti etissā anucchavikaṃ aṅgam eva dadāme te ti. Evañ ca pana vatvā aṅgamaṃsaṃ ukkhipitvā adāsi. Tam[^050-5] pi aparo seṭṭhiputto "kin ti[^050-6] vatvā yācīti[^050-7]" pucchi. "Bhātikā ti vatvā[^050-8]" ti. So "aham pi naṃ yācissāmīti" gantvā[^050-9] "tāta maṃsakhaṇḍam me dehīti" āha. Luddako "tava vacanānurūpaṃ labhissasīti[^050-10]" vatvā tatiyaṃ gātham āha:
 
-Ja_IV,2.5(=315).3: Tātā 'ti putto vadamāno kampeti hadayaṃ pitu, hadayassa sadisī vācā, hadayaṃ samma dadāmi te ti. || Ja_IV:59 ||
+Ja_IV,2.5(=315).3: Tātā 'ti putto vadamāno kampeti hadayaṃ pitu, hadayassa sadisī vācā, hadayaṃ samma dadāmi te ti. ||  
+Ja_IV:59 ||  
 
 Tañ ca[^050-11] pana vatvā hadayamaṃsena saddhiṃ madhuramaṃsaṃ ukkhipitvā adāsi. Taṃ[^050-12] catuttho seṭṭhiputto "kin ti vatvā[^050-13] yācīti[^050-14]" pucchi[^050-15]. "Tātā 'ti vatvā[^050-16]" ti. So "aham pi yācissāmīti" gantvā[^050-9] "sahāya maṃsakhaṇḍaṃ me dehīti" āha. Luddo "tava vacanānurūpaṃ labhissasīti[^050-10]" catutthaṃ[^050-17] gātham āha:
 
-Ja_IV,2.5(=315).4: Yassa gāme sakhā n'; atthi yathāraññaṃ tath'; eva taṃ, sabbassa sadisī vācā, sabbaṃ samma dadāmi te ti. || Ja_IV:60 ||
+Ja_IV,2.5(=315).4: Yassa gāme sakhā n'; atthi yathāraññaṃ tath'; eva taṃ, sabbassa sadisī vācā, sabbaṃ samma dadāmi te ti. ||  
+Ja_IV:60 ||  
 
 Tass attho: yassa purisassa gāme sukhadukkhesu saha ayanato[^050-18] sahāyasaṃkhāto sakhā[^050-19] n'; atthi tassa taṃ ṭhānaṃ yathā[^050-20] amanussaṃ araññaṃ[^050-21] tath'; eva taṃ[^050-22] hoti, iti[^050-23] ayaṃ[^050-24] tava vācā sabbassa sadisī[^050-25] sabbena attano santakena vibhavena sadisī, tasmā sabbam eva idaṃ[^050-26] mama santakaṃ maṃsayānakaṃ[^050-27] dadāmi te ti. Evañ ca pana vatvā "ehi samma sabbam ev'; idaṃ[^050-28] maṃsayānakaṃ tava gehaṃ harissāmīti[^050-29]" āha. Seṭṭhiputto tena
 
@@ -640,7 +700,8 @@ attano gocaraṭṭhāne gocaraṃ gahetvā sāyaṇhasamaye ekato sannipatanti.
 
 sīlaṃ āvajjanto nipajji. Makkaṭo pi[^053-1] vanasaṇḍaṃ pavisitvā ambapiṇḍiṃ[^053-2] āharitvā[^053-3] vasanagumbe ṭhapetvā "velāyam eva[^053-4] khādissāmīti" attano sīlaṃ āvajjanto nipajji. Bodhisatto pana velāyam eva[^053-5] nikkhamitvā "dabbatiṇāni khādissāmīti" attano gumbe[^053-6] yeva nipanno[^053-7] cintesi: "mama santikaṃ āgatānaṃ yācakānaṃ tiṇāni dātuṃ na sakkoti[^053-8], tilataṇḍulādayo pi mayhaṃ n'; atthi, sace me santikaṃ yācako āgacchissati attano sarīramaṃsaṃ dassāmīti". Tassa sīlatejena Sakkassa paṇḍukambalasilāsanaṃ uṇhākāraṃ dassesi. So āvajjamāno imaṃ[^053-9] kāraṇaṃ disvā "sasarājaṃ[^053-10] vīmaṃsissāmīti" paṭhamaṃ uddassa vasanaṭṭhānaṃ gantvā brāhmaṇavesena aṭṭhāsi, "brāhmaṇa kimatthaṃ ṭhito sīti" ca vutte "paṇḍita, sace kiñci āhāraṃ labheyyaṃ uposathiko hutvā samaṇadhammaṃ kareyyan" ti. So "sādhu, dassāmi te āhāran" ti tena saddhiṃ sallapanto paṭhamaṃ gātham āha:
 
-Ja_IV,2.6(=316).1: Satta me rohitā macchā udakā thalam ubbhatā, idaṃ brāhmaṇa me atthi, etaṃ[^053-11] bhutvā vane vasā 'ti. || Ja_IV:61 ||
+Ja_IV,2.6(=316).1: Satta me rohitā macchā udakā thalam ubbhatā, idaṃ brāhmaṇa me atthi, etaṃ[^053-11] bhutvā vane vasā 'ti. ||  
+Ja_IV:61 ||  
 
 Tattha thalamubbhatā ti udakato thale ṭhapitā thale patiṭṭhitā[^053-12] kenāpi[^053-13] vā uddhaṭā[^053-14], etaṃ bhutvā ti etaṃ mama santakaṃ macchāhāraṃ pacitvā bhuñjitvā[^053-15] samaṇadhammaṃ karonto ramaṇīye rukkhamūle nisinno imasmiṃ vane vasā ti. Brāhmaṇo "pāto va[^053-16] tāva hotu, pacchā jānissāmīti" sigālassa santikaṃ gato, tenāpi "kimatthaṃ ṭhito sīti" vutte[^053-17] tath'; evāha. Sigālo[^053-18] "sādhu dassāmīti" tena saddhiṃ sallapanto[^053-19] dutiyaṃ gātham āha:
 
@@ -650,11 +711,13 @@ Tattha thalamubbhatā ti udakato thale ṭhapitā thale patiṭṭhitā[^053-12]
 
 ##### *[PTS Page 054]*
 
-Ja_IV,2.6(=316).2: Dussa[^054-1] me khettapālassa rattibhattaṃ apābhataṃ maṃsasūlā ca dve godhā ekañ ca dadhivārakaṃ, idaṃ brāhmaṇa me atthi, etaṃ bhutvā vane vasā 'ti. || Ja_IV:62 ||
+Ja_IV,2.6(=316).2: Dussa[^054-1] me khettapālassa rattibhattaṃ apābhataṃ maṃsasūlā ca dve godhā ekañ ca dadhivārakaṃ, idaṃ brāhmaṇa me atthi, etaṃ bhutvā vane vasā 'ti. ||  
+Ja_IV:62 ||  
 
 Tattha dussa me[^054-2] ti yo esa mamāvidūre[^054-3] khettapālo vasati dussa asammussā[^054-4] 'ti attho, apābhatan ti ābhataṃ ānītaṃ[^054-5], maṃsasūlā ca dve godhā ti aṅgārapakkāni dve maṃsasūlāni ekā ca godhā[^054-6], dadhithālakan[^054-7] ti dadhivārako[^054-8], idan ti idaṃ[^054-9] ettakan atthi, etaṃ sabbam pi tavābhirucikena[^054-10] pākena pacitvā paribhuñjitvā uposathiko hutvā ramaṇīye rukkhamūle nisīditvā samaṇadhammaṃ karonto etasmiṃ vanasaṇḍe vasā 'ti attho. Brāhmaṇo "pāto va[^054-11] tāva hotu, pacchā jānissāmīti" makkaṭassa santikaṃ gato, tenāpi "kimatthaṃ ṭhito sīti" vutte[^054-12] tath'; evāha. Makkaṭo "sādhu dammīti[^054-13]" tena saddhiṃ sallapanto tatiyaṃ gātham āha:
 
-Ja_IV,2.6(=316).3: Ambapakk', odakaṃ sītaṃ sītacchāyaṃ manoramaṃ, idaṃ brāhmaṇa me atthi, etaṃ bhutvā vane vasā 'ti. || Ja_IV:63 ||
+Ja_IV,2.6(=316).3: Ambapakk', odakaṃ sītaṃ sītacchāyaṃ manoramaṃ, idaṃ brāhmaṇa me atthi, etaṃ bhutvā vane vasā 'ti. ||  
+Ja_IV:63 ||  
 
 Tattha ambapakkan ti madhuraṃ[^054-14] ambaphalaṃ, udakaṃ sītan ti Gaṅgāyaṃ[^054-15] udakaṃ sītalaṃ, etaṃ bhutvā[^054-16] ti brāhmaṇa etaṃ ambaphalaṃ[^054-17] paribhuñjitvā sītalaṃ udakaṃ pivitvā yathārucite[^054-18] ramaṇīye rukkhamūle nisinno samaṇadhammaṃ karonto imasmiṃ vanasaṇḍe vasā 'ti. Brāhmaṇo "pāto va[^054-19] tāva hotu[^054-20], pacchā jānissāmīti" sasapaṇḍitassa santikaṃ gato, tenāpi "kimatthaṃ ṭhito sīti" vutte[^054-21] tath'; evāha. Taṃ sutvā Bodhisatto somanassappatto "brāhmaṇa, suṭṭhu te kataṃ[^054-22] āhāratthāya mama santikaṃ āgacchantena, ajjāhaṃ mayā nadinnapubbaṃ[^054-23] dānaṃ dassāmi, tvaṃ pana sīlavā pāṇātipātaṃ na karissasi[^054-24], gaccha tāta[^054-25] dārūni[^054-26] saṃkaḍḍhitvā aṅgāre katvā mayhaṃ ārocehi[^054-27], ahaṃ
 
@@ -666,7 +729,8 @@ Tattha ambapakkan ti madhuraṃ[^054-14] ambaphalaṃ, udakaṃ sītan ti Gaṅg
 
 attānaṃ pariccajitvā aṅgāragabbhe[^055-1] patissāmi, mama sarīre pakke tvaṃ maṃsaṃ khāditvā samaṇadhammaṃ kareyyāsīti" tena saddhiṃ sallapanto[^055-2] catutthaṃ gātham āha:
 
-Ja_IV,2.6(=316).4: Na sasassa tilā atthi na muggā nāpi[^055-3] taṇḍulā, iminā agginā pakkaṃ mamaṃ[^055-4] bhutvā vane vasā 'ti. || Ja_IV:64 ||
+Ja_IV,2.6(=316).4: Na sasassa tilā atthi na muggā nāpi[^055-3] taṇḍulā, iminā agginā pakkaṃ mamaṃ[^055-4] bhutvā vane vasā 'ti. ||  
+Ja_IV:64 ||  
 
 Tattha mamaṃ[^055-4] bhutvā ti yan taṃ ahaṃ[^055-5] aggiṃ karohīti vadāmi iminā agginā pakkaṃ mamaṃ[^055-4] bhuñjitvā imasmiṃ vane vasa[^055-6], ekassa sasassa sarīraṃ nāma ekassa purisassa yāpanamattaṃ hotīti. Sakko tassa kathaṃ[^055-7] sutvā attano ānubhāvena ekaṃ aṅgārarāsiṃ[^055-8] māpetvā Bodhisattassa ārocesi. So dabbatiṇasayanato uṭṭhāya tattha gantvā "sace me lomantaresu pāṇakā atthi te mā mariṃsū" 'ti vatvā[^055-9] tikkhattuṃ sarīraṃ vidhūnitvā sakalasarīraṃ[^055-10] dānamukhe datvā[^055-11] laṃghitvā padumapuñje[^055-12] rājahaṃso viya pamuditacitto aṅgārarāsimhi pati. So pana aggi Bodhisattassa sarīre lomakūpamattam pi uṇhaṃ kātuṃ nāsakkhi, himagabbhaṃ paviṭṭho viya ahosi. Atha Sakkaṃ āmantetvā "brāhmaṇa, tayā kato aggi atisītalo mama sarīre lomakūpamattam pi uṇhaṃ kātuṃ na sakkoti, kiṃ nām' etan" ti āha. "Paṇḍita[^055-13], nāhaṃ brāhmaṇo, Sakko aham[^055-14] asmi[^055-15] tava vīmaṃsanatthāya āgato[^055-16]" ti "Sakka, tvaṃ tāva tiṭṭha, sakalo pi ce lokasannivāso maṃ dānena vīmaṃseyya n'; eva me adātukāmataṃ[^055-17] passeyyā" 'ti Bodhisatto sīhanadaṃ nadi. Atha naṃ Sakko[^055-18] "sasapaṇḍita, tava guṇo sakalakappaṃ pākaṭo hotū" 'ti pabbataṃ pīḷetvā pabbatarasaṃ ādāya candamaṇḍale sasalakkhaṇaṃ ālikhitvā[^055-19] Bodhisattaṃ āmantetvā tasmiṃ vanasaṇḍe tasmiṃ yeva vanagumbe taruṇadabbatiṇapiṭṭhe nipajjāpetvā attano devaṭṭhānam[^055-20]
 
@@ -688,13 +752,17 @@ eva gato. Te pi cattāro paṇḍitā samaggā sammodamānā sīlaṃ pūretvā[
 
 nissāya jīvati. So aparabhāge tathārūpena vyādhinā[^057-1] kālaṃ akāsi. Ñātimittāmaccā[^057-2] sannipatitvā bāhā paggayha kandanti rodanti, eko pi sakabhāvena saṇṭhātuṃ nāsakkhi[^057-3]. Bodhisatto pana n'; eva kandati na rodati[^057-4]. Manussā "passatha bho, imassa bhātari mate mukhasaṃkocanamattam pi n'; atthi, ativiya thaddhahadayo, ‘dve pi koṭṭhāse aham eva paribhuñjissāmīti'; bhātu maraṇaṃ icchati[^057-5] maññe" ti Bodhisattaṃ garahiṃsu. Ñātakāpi "na[^057-6] tvaṃ bhātari mate[^057-7] rodasīti" garahiṃsu yeva[^057-8]. So tesaṃ kathaṃ sutvā "tumhe attano andhabālabhāvena aṭṭhalokadhamme ajānantā ‘mama bhātā mato' ti rodatha, aham pi marissāmi[^057-9], tumhe pi marissatha, attānam pi[^057-10] ‘mayam pi marissāmā'; 'ti kasmā na[^057-11] rodathā[^057-12] 'ti, sabbe saṃkhārā aniccā hutvā na honti[^057-13], ten'; eva sabhāvena saṇṭhātuṃ[^057-14] samattho ekasaṃkhāro pi n'; atthi, tumhesu andhabālesu aññāṇatāya[^057-15] aṭṭhalokadhamme ajānitvā rodantesu ahaṃ kimatthaṃ rodissāmīti" vatvā imā gāthā abhāsi:
 
-Ja_IV,2.7(=317).1: Matamatam eva rodatha, na hi taṃ rodathā yo marissati, sabbe va[^057-16] sarīradhārino anupubbena jahanti jīvitaṃ. || Ja_IV:65 ||
+Ja_IV,2.7(=317).1: Matamatam eva rodatha, na hi taṃ rodathā yo marissati, sabbe va[^057-16] sarīradhārino anupubbena jahanti jīvitaṃ. ||  
+Ja_IV:65 ||  
 
-Ja_IV,2.7(=317).2: Devamanussā[^057-17] catuppadā pakkhigaṇā uragā[^057-18] ca bhogino asmiṃ[^057-19] sarīre anissarā ramamānā va jahanti jīvitaṃ. || Ja_IV:66 ||
+Ja_IV,2.7(=317).2: Devamanussā[^057-17] catuppadā pakkhigaṇā uragā[^057-18] ca bhogino asmiṃ[^057-19] sarīre anissarā ramamānā va jahanti jīvitaṃ. ||  
+Ja_IV:66 ||  
 
-Ja_IV,2.7(=317).3: Evañ calitaṃ asaṇṭhitaṃ sukhadukkhaṃ manujesu apekkhiya[^057-20] kanditaruditaṃ[^057-21] niratthakaṃ, kiṃ vo sokagaṇābhikīrare[^057-22]. || Ja_IV:67 ||
+Ja_IV,2.7(=317).3: Evañ calitaṃ asaṇṭhitaṃ sukhadukkhaṃ manujesu apekkhiya[^057-20] kanditaruditaṃ[^057-21] niratthakaṃ, kiṃ vo sokagaṇābhikīrare[^057-22]. ||  
+Ja_IV:67 ||  
 
-Ja_IV,2.7(=317).4: Dhuttā[^057-23] soṇḍā akatā bālā sūrā vīrā[^057-24] ayogino dhīraṃ[^057-25] maññanti[^057-26] bālo ti ye[^057-27] dhammassa akovidā ti. || Ja_IV:68 ||
+Ja_IV,2.7(=317).4: Dhuttā[^057-23] soṇḍā akatā bālā sūrā vīrā[^057-24] ayogino dhīraṃ[^057-25] maññanti[^057-26] bālo ti ye[^057-27] dhammassa akovidā ti. ||  
+Ja_IV:68 ||  
 
 
 <!-- PTS Page 058 -->
@@ -738,11 +806,13 @@ hattho agantvā etissā ābharaṇabhaṇḍaṃ gahetvā gacchissāmīti" cinte
 
 ath'; assa mama ārogabhāvaṃ[^062-1] kathetvā taṃ ādāya gaccheyyātha[^062-2], noce āgacchati sāsanaṃ peseyyāthā" 'ti paribbayaṃ datvā naṭe uyyojesi. Te Bārāṇasito nikkhamitvā tattha tattha samajjaṃ karontā[^062-3] ekaṃ paccantagāmakaṃ gamiṃsu[^062-4]. So pi coro palāyitvā tattha vasati. Te tattha samajjaṃ karontā paṭhamam eva gītakaṃ gāyiṃsu:
 
-Ja_IV,2.8(=318).1: Yan taṃ vasantasamaye kaṇaveresu[^062-5] bhānusu Sāmaṃ bāhāya pīḷesi sā taṃ ārogyam abruvīti[^062-6]. || Ja_IV:69 ||
+Ja_IV,2.8(=318).1: Yan taṃ vasantasamaye kaṇaveresu[^062-5] bhānusu Sāmaṃ bāhāya pīḷesi sā taṃ ārogyam abruvīti[^062-6]. ||  
+Ja_IV:69 ||  
 
 Tattha kaṇaveresū 'ti kaṇaveresu[^062-7], bhānusū 'ti[^062-8] rattarattānaṃ[^062-9] pupphānaṃ pabhāya sampannesu[^062-10], Sāman ti evaṃnāmakaṃ[^062-11], pīḷesīti kilesaratiyā ramitukāmo āliṅganto pīḷesi, sā tan ti sā Sāmā ti ārogā[^062-12], tvaṃ pana matā ti saññāya bhīto palāyi, tena[^062-13] sā attano ārogyaṃ[^062-14] abruvīti[^062-6] kathesi[^062-15] ārocesīti attho. Coro taṃ sutvā[^062-16] naṭaṃ upasaṃkamitvā "tvaṃ ‘Sāmā[^062-17] jīvatīti'; vadati[^062-18], ahaṃ pana na saddahāmīti" tena saddhiṃ sallapanto dutiyaṃ gātham āha:
 
-Ja_IV,2.8(=318).2: Ambho na[^062-19] kira[^062-20] saddheyyaṃ[^062-21] yaṃ vāto pabbataṃ vahe, pabbataṃ ce vahe vāto[^062-22] sabbam pi paṭhaviṃ vahe, yattha Sāmā kālakatā[^062-23] sāmaṃ[^062-24] ārogyam abruvīti[^062-6]. || Ja_IV:70 ||
+Ja_IV,2.8(=318).2: Ambho na[^062-19] kira[^062-20] saddheyyaṃ[^062-21] yaṃ vāto pabbataṃ vahe, pabbataṃ ce vahe vāto[^062-22] sabbam pi paṭhaviṃ vahe, yattha Sāmā kālakatā[^062-23] sāmaṃ[^062-24] ārogyam abruvīti[^062-6]. ||  
+Ja_IV:70 ||  
 
 Tass'; attho: ambho naṭa idaṃ kira na saddhātabbaṃ[^062-25] yaṃ[^062-26] vāto tiṇapaṇṇāni[^062-27] viya pabbataṃ vaheyya, sace hi so pabbataṃ[^062-28] vaheyya sabbam pi paṭhaviṃ vaheyya, yathā c'; etaṃ asaddheyyaṃ[^062-29] tathā idan ti, yattha Sāmā kālakatā[^062-30] sāmaṃ ārogyaṃ abruvīti[^062-31] kiṃkāraṇā saddheyyaṃ[^062-32], matā nāma na kassaci sāsanaṃ pesentīti[^062-33].
 
@@ -754,11 +824,13 @@ Tass'; attho: ambho naṭa idaṃ kira na saddhātabbaṃ[^062-25] yaṃ[^062-26
 
 Tassa vacanaṃ sutvā naṭo tatiyaṃ gātham āha:
 
-Ja_IV,2.8(=318).3: Na c'; eva sā[^063-1] kālakatā[^063-2], na ca sā aññam icchati, ekabhattakinī[^063-3] Sāmā tam evam[^063-4] abhikaṃkhatīti. || Ja_IV:71 ||
+Ja_IV,2.8(=318).3: Na c'; eva sā[^063-1] kālakatā[^063-2], na ca sā aññam icchati, ekabhattakinī[^063-3] Sāmā tam evam[^063-4] abhikaṃkhatīti. ||  
+Ja_IV:71 ||  
 
 Tattha tamevam[^063-4] abhikaṃkhatīti aññaṃ purisaṃ na icchati. taṃ ñeva kaṃkhati icchati pattheti Taṃ sutvā coro "sā jīvatu[^063-5] mā vā na tāya mayhaṃ attho" ti vatvā catutthaṃ gātham āha:
 
-Ja_IV,2.8(=318).4: Asanthutaṃ[^063-6] maṃ cirasanthutena[^063-7] niminni[^063-8] Sāmā adhuvaṃ dhuvena, (cfr. p. 221) mayāpi Sāmā nimineyya aññaṃ, ito ahaṃ dūrataraṃ gamissan ti. || Ja_IV:72 ||
+Ja_IV,2.8(=318).4: Asanthutaṃ[^063-6] maṃ cirasanthutena[^063-7] niminni[^063-8] Sāmā adhuvaṃ dhuvena, (cfr. p. 221) mayāpi Sāmā nimineyya aññaṃ, ito ahaṃ dūrataraṃ gamissan ti. ||  
+Ja_IV:72 ||  
 
 Tattha asanthutan[^063-9] ti akatasaṃsaggaṃ, cirasanthutenā[^063-7] 'ti cirakatasaṃsaggena[^063-10], niminīti[^063-11] parivattesi, adhuvaṃ dhuvenā ti mam adhuvaṃ tena dhuvasāmikena parivattetuṃ[^063-12] nagaraguttikassa sahassaṃ[^063-13] datvā maṃ gaṇhīti attho, mayāpi Sāmā nimineyya[^063-14] aññan ti sā[^063-15] Sāmā mayāpi aññaṃ sāmikaṃ parivattetvā gaṇheyya, ito ahaṃ dūrataraṃ gamissan ti yattha na sakkā tassā[^063-16] sāsanaṃ vā pavattiṃ vā sotuṃ tādisaṃ dūrataraṃ ṭhānaṃ gamissaṃ, tasmā mama ito aññattha gatabhāvaṃ tassā ārocethā ti vatvā tesaṃ passantānaṃ ñeva gāḷhataraṃ parinivāsetvā[^063-17] vegena palāyi. Naṭā gantvā tena katakiriyaṃ tassā kathayiṃsu. Sā vippaṭisārī hutvā attano pakatiyā eva[^063-18] vītināmesi. Satthā imaṃ desanaṃ[^063-19] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne ukkaṇṭhitabhikkhu sotāpattiphale patiṭṭhahi) "Tadā[^063-20] seṭṭhiputto ayaṃ bhikkhu ahosi, Sāmā purāṇadutiyikā[^063-21], coro pana aham evā" 'ti. Kaṇaverajātakaṃ[^063-22].
 
@@ -778,15 +850,18 @@ Tattha asanthutan[^063-9] ti akatasaṃsaggaṃ, cirasanthutenā[^063-7] 'ti cir
 
 kammaṃ[^065-1] chindeyyā" 'ti tathārūpaṃ paṇḍitaṃ upadhārento carati. Ath'; ekadivasaṃ so sākuṇiko bahuke[^065-2] tittire gahetvā pacchiṃ pūretvā "pānīyaṃ pivissāmīti" Bodhisattassa assamaṃ gantvā taṃ pañjaraṃ Bodhisattassa santike ṭhapetvā pānīyaṃ pivitvā vālukātale[^065-3] nipanno niddaṃ okkami. Tittiro tassa niddam okkantabhāvaṃ[^065-4] ñatvā "mama kaṃkhaṃ imaṃ tāpasaṃ pucchissāmi, jānanto me kathessatīti" pañjare nipanno yeva taṃ pucchanto paṭhamaṃ gātham āha:
 
-Ja_IV,2.9(=319).1: Susukhaṃ vata jīvāmi, labhāmi c'; eva bhuñjituṃ paripanthe[^065-5] ca[^065-6] tiṭṭhāmi, kā su[^065-7] bhante gatī maman[^065-8] ti. || Ja_IV:73 ||
+Ja_IV,2.9(=319).1: Susukhaṃ vata jīvāmi, labhāmi c'; eva bhuñjituṃ paripanthe[^065-5] ca[^065-6] tiṭṭhāmi, kā su[^065-7] bhante gatī maman[^065-8] ti. ||  
+Ja_IV:73 ||  
 
 Tattha susukhaṃ vatā[^065-9] 'ti ahaṃ bhante imaṃ sākuṇikaṃ nissāya suṭṭhu sukhaṃ jīvāmi, labhāmi cevā 'ti yathārucitaṃ[^065-19] khādaniyabhojaniyaṃ[^065-11] bhuñjitum pi labhāmi, paripanthe[^065-12] cā 'ti api ca kho yattha mama ñātakā mama saddena āgatāgatā vinassanti tasmiṃ[^065-13] paripanthe tiṭṭhāmi, kā su[^065-14] bhante[^065-15] ti kā[^065-16] nu kho bhante mama gati kā nipphatti bhavissatīti pucchi. Tassa pañhaṃ vissajjanto[^065-17] Bodhisatto dutiyaṃ gātham āha:
 
-Ja_IV,2.9(=319).2: Mano ce te[^065-18] na-ppaṇamati pakkhi pāpassa kammuno avyāvaṭassa[^065-19] bhadrassa na pāpam upalippatīti[^065-20]. || Ja_IV:74 ||
+Ja_IV,2.9(=319).2: Mano ce te[^065-18] na-ppaṇamati pakkhi pāpassa kammuno avyāvaṭassa[^065-19] bhadrassa na pāpam upalippatīti[^065-20]. ||  
+Ja_IV:74 ||  
 
 Tattha pāpassa kammuno ti yadi tava mano pāpakammassa atthāya[^065-21] na paṇamati pāpakaraṇe tanninno[^065-22] tappoṇo tappabbhāro na hoti, avyāvaṭassā[^065-23] 'ti evaṃ sante[^065-24] pāpakammakaraṇatthāya avyāvaṭassa[^065-23] ussukkaṃ anāpannassa tava bhadrass'; eva[^065-25] sato[^065-26] pāpaṃ na upalippati[^065-27] na allīyatīti. Taṃ sutvā tittiro tatiyaṃ gātham āha:
 
-Ja_IV,2.9(=319).3: Ñātako no nisinno ti bahu[^065-28] āgacchate[^065-29] jano, paṭiccakammaṃ phusati, tasmim me saṃkate mano ti. || Ja_IV:75 ||
+Ja_IV,2.9(=319).3: Ñātako no nisinno ti bahu[^065-28] āgacchate[^065-29] jano, paṭiccakammaṃ phusati, tasmim me saṃkate mano ti. ||  
+Ja_IV:75 ||  
 
 Tass'; attho: bhante sac'; āhaṃ saddaṃ na[^065-30] kareyyaṃ ayaṃ tittirajano na āgaccheyya[^065-31], mayi pana saddaṃ karonte ñātako no nisinno ti ayaṃ bahujano
 
@@ -798,7 +873,8 @@ Tass'; attho: bhante sac'; āhaṃ saddaṃ na[^065-30] kareyyaṃ ayaṃ tittir
 
 āgacchati, taṃ āgatāgataṃ luddo gahetvā jīvitakkhayaṃ pāpento maṃ[^066-1] paṭicca maṃ nissāya etaṃ[^066-2] pāṇātipātakammaṃ[^066-3] phusati paṭilabhati vindati, tasmiṃ maṃ paṭicca kate pāpe mama nu kho etaṃ pāpan ti evaṃ me mano saṃkati parisaṃkati kukkuccaṃ āpajjatīti. Taṃ sutvā Bodhisatto catutthaṃ gātham aha:
 
-Ja_IV,2.9(=319).4: Paṭiccakammaṃ na[^066-4] phusati mano ce na-ppadussati, appossukkassa bhadrassa na pāpam upalippatīti. || Ja_IV:76 ||
+Ja_IV,2.9(=319).4: Paṭiccakammaṃ na[^066-4] phusati mano ce na-ppadussati, appossukkassa bhadrassa na pāpam upalippatīti. ||  
+Ja_IV:76 ||  
 
 Tass'; attho: yadi tava pāpakiriyāya mano na-ppadussati[^066-5] tanninno tappoṇo tappabbhāro[^066-6] na hoti, evaṃ sante luddena āyasmantaṃ paṭicca katam pi[^066-7] pāpakammaṃ taṃ na phusati na allīyati, papakiriyāya hi appossukkassa nirālayassa bhadrassa parisuddhassa[^066-8] sato tava pāṇātipātacetanāya[^066-9] abhāvā taṃ pāpaṃ na upalippatīti[^066-10] tava cittaṃ na allīyatīti[^066-11] Evaṃ Mahāsatto tittiraṃ saññāpesi. So pi taṃ nissāya nikkukkucco ahosi. Luddo pabuddho Bodhisattaṃ vanditvā pañjaraṃ ādāya pakkāmi. Satthā imaṃ dhammadesanaṃ āharitvā jātakaṃ samodhānesi: "Tadā tittiro Rāhulo ahosi, tāpaso pana aham evā" 'ti. Tittirajātakaṃ[^066-12].
 
@@ -828,15 +904,18 @@ thaddhahadayo, rājā hutvāpi esa mayhaṃ kiṃ kalyāṇaṃ karissatīti" an
 
 Etam atthaṃ dīpentī paṭhamaṃ gātham āha:
 
-Ja_IV,2.10(=320).1: Succajaṃ vata na-ccaji[^069-1] vācāya adadaṃ[^069-2] giriṃ, kiṃ hi tass'; acajantassa[^069-3] vācāya adada[^069-4] pabbatan ti. || Ja_IV:77 ||
+Ja_IV,2.10(=320).1: Succajaṃ vata na-ccaji[^069-1] vācāya adadaṃ[^069-2] giriṃ, kiṃ hi tass'; acajantassa[^069-3] vācāya adada[^069-4] pabbatan ti. ||  
+Ja_IV:77 ||  
 
 Tattha succajaṃ vatā 'ti sukhena cajituṃ sakkuṇeyyam[^069-5] pi na caji[^069-6], adadan ti vacanamattenāpi pabbataṃ adadamāno, kiṃ hi[^069-7] tassa cajantassā[^069-8] 'ti[^069-9] tassa nām'; etassa mayā yācitassa na cajantassa[^069-10] kiṃ hi cajeyya[^069-11], vācāya adada[^069-4] pabbatan ti sac'; āyaṃ mayā[^069-12] yācito mama vacanena suvaṇṇamayam pi aho vata taṃ[^069-13] pabbataṃ vācāya adada[^069-4] vacanamattena[^069-14] adadaṃ hotīti[^069-15] attho. Taṃ sutvā rājā dutiyaṃ gātham āha:
 
-Ja_IV,2.10(=320).2: Yaṃ hi kayirā taṃ hi vade[^069-16] yan na[^069-17] kayirā na taṃ vade, akarontaṃ bhāsamānaṃ parijānanti paṇḍitā ti[^069-18]. || Ja_IV:78 ||
+Ja_IV,2.10(=320).2: Yaṃ hi kayirā taṃ hi vade[^069-16] yan na[^069-17] kayirā na taṃ vade, akarontaṃ bhāsamānaṃ parijānanti paṇḍitā ti[^069-18]. ||  
+Ja_IV:78 ||  
 
 Tass'; attho: yad eva hi[^069-19] paṇḍito puriso kāyena kareyya[^069-20] taṃ vācāya vadeyya, yaṃ[^069-21] na kayirā na taṃ vade[^069-22], dātukāmo va dammīti[^069-23] vadeyya[^069-24] na adātukāmo[^069-25] ti adhippāyo, kiṃkāraṇā: yo hi dassāmīti vatvā[^069-26] pacchā na dadāti taṃ akarontaṃ kevalaṃ musā bhāsamānaṃ parijānanti paṇḍitā[^069-27], ayaṃ dassāmīti vatvā[^069-28] vacanamattam eva[^069-29] bhāsati na pana deti, yadi kho pana adinnam pi[^069-30] vacanamatten'; eva dinnaṃ hoti taṃ puretaraṃ eva laddhaṃ[^069-31] nāma bhavissatīti evaṃ tassa musāvādibhāvaṃ jānanti[^069-32] paṇḍitā, bālā pana vacanamatten'; eva tussantīti. Taṃ sutvā devī rañño añjalim paggahetvā tatiyaṃ gātham āha:
 
-Ja_IV,2.10(=320).3: Rājaputta namo ty-atthu, sacce[^069-23] dhamme ṭhito c'; asi[^069-34] yassa te vyasanam[^069-35] patto saccasmiṃ ramate mano ti. || Ja_IV:79 ||
+Ja_IV,2.10(=320).3: Rājaputta namo ty-atthu, sacce[^069-23] dhamme ṭhito c'; asi[^069-34] yassa te vyasanam[^069-35] patto saccasmiṃ ramate mano ti. ||  
+Ja_IV:79 ||  
 
 
 <!-- PTS Page 070 -->
@@ -846,7 +925,8 @@ Ja_IV,2.10(=320).3: Rājaputta namo ty-atthu, sacce[^069-23] dhamme ṭhito c';
 
 Tattha sacce[^070-1] dhamme ti vacīsacce[^070-2] sabhāvadhamme ca, vyasanam[^070-3] patto ti yassa 'te va[^070-4] raṭṭhā[^070-5] pabbājanasaṃkhātam[^070-6] vyasanam[^070-3] patto pi mano saccasmiṃ yeva rāmatīti. Evaṃ rañño guṇakathaṃ kathayamānāya deviyā sutvā Bodhisatto tassā guṇaṃ pakāsento catutthaṃ gātham āha:
 
-Ja_IV,2.10(=320).4: Yā daḷiddī daḷiddassa aḍḍhā aḍḍhassa[^070-7] kittimā sā hi 'ssa paramā bhariyā, tā hi raññassa itthiyo ti. || Ja_IV:80 ||
+Ja_IV,2.10(=320).4: Yā daḷiddī daḷiddassa aḍḍhā aḍḍhassa[^070-7] kittimā sā hi 'ssa paramā bhariyā, tā hi raññassa itthiyo ti. ||  
+Ja_IV:80 ||  
 
 Tattha kittimā ti kittisampannā ti attho, sā hissa paramā ti yā sā[^070-8] daliddassa sāmikassa daliddakāle sayam pi daliddī hutvā taṃ na pariccajati, aḍḍhassā[^070-9] 'ti aḍḍhakāle aḍḍhā[^070-10] hutvā sāmikam eva anuvattati samānasukhadukkhā hoti, sā hi assa paramā uttamā[^070-11] bhariyā nāma, tā[^070-12] hi raññassa pana issariye ṭhitassa itthiyo[^070-13] honti yeva, anacchariyam etan ti[^070-14]. Evañ ca pana vatvā Bodhisatto "ayaṃ mahārāja tumhākaṃ dukkhitakāle araññe samānadukkhī[^070-15] hutvā vasi, imissā sammānaṃ kātuṃ vaṭṭatīti" deviyā guṇaṃ kathesi. Rājā tassa vacanena deviyā guṇaṃ saritvā "paṇḍita tava kathāyāhaṃ[^070-16] deviyā guṇaṃ anussarin" ti vatvā tassā sabbissariyaṃ adāsi. "Tayāhaṃ[^070-17] deviyā gunaṃ sarāpito" ti Bodhisattassāpi mahantaṃ issariyaṃ adāsi. Satthā imaṃ desanaṃ[^070-18] āharitvā saccāni pakāsetvā jātakaṃ samodhanesi: (Saccapariyosane jayampatikā sotāpattiphale patiṭṭhahiṃsu) "Tadā Bārāṇasirājā ayaṃ kuṭumbiko ahosi, devī ayaṃ upāsikā, paṇḍitāmacco[^070-19] pana aham evā" 'ti. Succajajātakaṃ[^070-20]. Pucimandavaggo dutiyo.
 
@@ -876,15 +956,18 @@ dubbattabhāvaṃ[^072-1]. ñatvā taṃ sāyaṃ therupaṭṭhānaṃ āgata�
 
 petvā palāyīti". Taṃ sutvā Satthā "bhikkhave, Kassapassa evarūpena bālena saddhiṃ caraṇato ekacariyā va seyyo[^073-1]" 'ti vatvā imaṃ Dhammapade gātham āha: Carañ ce nādhiggaccheyya seyyaṃ sadisam attano (Dhp. v. 61.) ekacariyaṃ daḷhaṃ kayirā, n'; atthi bāle sahāyatā[^073-2] ti. Idañ[^073-3] ca pana vatvā puna te bhikkhū āmantetvā "na bhikkhave idān' eva so kuṭidūsako[^073-4] va na ca idān'; eva ovādadāyakassa kujjhati[^073-5], pubbe pi kujjhi yevā" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto siṅgilasakuṇayoniyaṃ[^073-6] nibbattitvā vayappatto attano manāpaṃ anovassakaṃ kulāvakaṃ katvā Himavantapadese[^073-7] vasati. Ath'; eko makkaṭo vassakāle acchinnadhāre deve vassante sītapīḷito dante khādanto Bodhisattassa avidūre nisīdi. Bodhisatto taṃ tathā kilamantaṃ disvā tena saddhiṃ sallapanto[^073-8] paṭhamaṃ gātham āha:
 
-Ja_IV,3.1(=321).1: Manussasseva te sīsaṃ hatthapādā ca vānara, atha kena nu[^073-7] vaṇṇena agāran te na vijjatīti. || Ja_IV:81 ||
+Ja_IV,3.1(=321).1: Manussasseva te sīsaṃ hatthapādā ca vānara, atha kena nu[^073-7] vaṇṇena agāran te na vijjatīti. ||  
+Ja_IV:81 ||  
 
 Tattha vaṇṇenā 'ti kāraṇena, agāran ti tava nivāsagehaṃ kena kāraṇena n'; atthīti pucchi. Taṃ sutvā vānaro dutiyaṃ gātham āha:
 
-Ja_IV,3.1(=321).2: Manussasseva me sīsaṃ hatthapādā ca siṅgila[^073-10], y'; āhu seṭṭhā manussesu sā me paññā na vijjatīti. || Ja_IV:82 ||
+Ja_IV,3.1(=321).2: Manussasseva me sīsaṃ hatthapādā ca siṅgila[^073-10], y'; āhu seṭṭhā manussesu sā me paññā na vijjatīti. ||  
+Ja_IV:82 ||  
 
 Tattha siṅgilā[^073-11] 'ti taṃ[^073-12] sakuṇaṃ nāmenālapati, yāhu seṭṭhā manussesū 'ti yaṃ manussesu seṭṭhā ti kathenti sā mama vicāraṇapaññā n' atthi, sīsahatthapādakāyabalāni[^073-13] hi loke appamāṇaṃ, vicāraṇapaññā va seṭṭhā sā mama n'; atthi, tasmā me agāraṃ na vijjatīti. Taṃ sutvā Bodhisatto itaraṃ gāthadvayam āha:
 
-Ja_IV,3.1(=321).3: Anavaṭṭhitacittassa lahucittassa dūbhino[^073-14] niccaṃ adhuvasīlassa[^073-15] sukhabhāvo na vijjati. || Ja_IV:83 ||
+Ja_IV,3.1(=321).3: Anavaṭṭhitacittassa lahucittassa dūbhino[^073-14] niccaṃ adhuvasīlassa[^073-15] sukhabhāvo na vijjati. ||  
+Ja_IV:83 ||  
 
 
 <!-- PTS Page 074 -->
@@ -892,7 +975,8 @@ Ja_IV,3.1(=321).3: Anavaṭṭhitacittassa lahucittassa dūbhino[^073-14] nicca
 
 ##### *[PTS Page 074]*
 
-Ja_IV,3.1(=321).4: So karassu ānubhāvaṃ, vītivattassu sīliyaṃ, sītavātaparittānaṃ[^074-1] karassu kuṭavaṃ kapīti. || Ja_IV:84 ||
+Ja_IV,3.1(=321).4: So karassu ānubhāvaṃ, vītivattassu sīliyaṃ, sītavātaparittānaṃ[^074-1] karassu kuṭavaṃ kapīti. ||  
+Ja_IV:84 ||  
 
 Tattha anavaṭṭhitacittassā 'ti appatiṭṭhitacittassa, dūbhino[^074-2] ti mittadūbhissa[^074-3], adhuvasīlassā[^074-4] 'ti na sabbakālaṃ[^074-5] sīlarakkhanakassa[^074-6], ānubhāvan ti so tvaṃ samma makkaṭa paññāya uppādanatthaṃ ānubhāvabalaṃ upāyaṃ karohi, vītivattassu sīliyan ti attano dussīlabhāvasaṃkhātaṃ sīliyaṃ atikkamitvā sīlavā hohi, kuṭavan[^074-7] ti sītass vātassa[^074-8] parittānasamatthaṃ[^074-9] attano kuṭavaṃ[^074-10] kulāvakaṃ ekaṃ[^074-11] vasanāgārakaṃ[^074-12] karohīti. Makkaṭo cintesi: "ayaṃ tāva attano anovassakaṭṭhāne[^074-13] nisinnabhāvena maṃ paribhavati[^074-14], na nisīdāpessāmi[^074-15] naṃ imasmiṃ[^074-16] kuṭave[^074-17]" ti. Tato Bodhisattaṃ gaṇhitukāmo pakkhandi. Bodhisatto uppatitvā aññattha gato. Makkaṭo kuṭavaṃ[^074-18] viddhaṃsetvā cuṇṇavicuṇṇaṃ katvā pakkāmi. Satthā imaṃ desanaṃ[^074-19] āharitvā jātakaṃ samodhānesi: "Tadā makkaṭo so kuṭijjhāpako ahosi, siṅgilasakuṇo[^074-20] aham evā" 'ti. Kuṭidūsakajātakaṃ[^074-21].
 
@@ -922,13 +1006,16 @@ vutte palāyi. Evaṃ anukkamena yojanamattaṃ tiracchānabalaṃ ahosi. Tadā 
 
 tatvato[^077-1] saṃjānissāmīti[^077-2]" so taṃ sasakaṃ gahetvā mahājanaṃ assāsetvā "ahaṃ iminā diṭṭhaṭṭhāne paṭhaviyā saṃvaṭṭanaṃ[^077-3] vā asaṃvaṭṭanaṃ[^077-3] vā tatvato[^077-4] ñatvā[^077-5] āgamissāmi, yāva mamāgamanā tumhe etth'; eva hothā" 'ti sasakaṃ piṭṭhiyaṃ āropetvā sīhavegena pakkhanditvā tālavane sasakaṃ otāretvā "ehi[^077-6], tayā diṭṭhaṭṭhānaṃ dassehīti" āha. "Na visahāmi sāmīti". "Ehi[^077-7], mā bhāyīti". So beluvarukkaṃ upasaṃkamituṃ[^077-8] asakkonto avidūre ṭhatvā "idaṃ[^077-9] sāmi daddabhāyanaṭṭhānan[^077-10]" ti vatvā paṭhamaṃ gātham āha:
 
-Ja_IV,3.2(=322).1: Daddabhāyati[^077-11] bhaddan te yasmiṃ dese vasām'; ahaṃ, aham p'; etaṃ[^077-12] na jānāmi, kiṃ etaṃ daddabhāyatīti[^077-11]. || Ja_IV:85 ||
+Ja_IV,3.2(=322).1: Daddabhāyati[^077-11] bhaddan te yasmiṃ dese vasām'; ahaṃ, aham p'; etaṃ[^077-12] na jānāmi, kiṃ etaṃ daddabhāyatīti[^077-11]. ||  
+Ja_IV:85 ||  
 
 Tattha daddabhāyatīti[^077-11] daddabhā 'ti saddaṃ[^077-13] karoti, bhaddante ti bhaddaṃ tava atthu, kimetan ti yasmiṃ padese ahaṃ vasāmi tattha daddabhāyati[^077-11], aham pi pana[^077-14] na jānāmi kiṃ[^077-15] vā etaṃ[^077-16] daddabhāyati kena vā kāraṇena daddabhāyati, kevalaṃ daddabhāyanasaddaṃ assosin ti. Evaṃ vutte sīho beluvarukkhamūlaṃ gantvā tālapaṇṇassa heṭṭhā sasakena nipannaṭṭhānaṃ c'; eva tālapaṇṇamatthake patitaṃ beluvapakkaṃ ca disvā paṭhaviyā asaṃvaṭṭanabhāvaṃ[^077-3] tatvato[^077-4] jānitvā sasakaṃ piṭṭhiyaṃ āropetvā sihavegana khippaṃ migasaṃghānaṃ santikaṃ gantvā sabbapavattiṃ ārocetvā[^077-17] "tumhe mā bhāyathā[^077-18]" 'ti migagaṇaṃ assāsetvā vissajjesi. Sace hi tadā Bodhisatto na bhaveyya sabbe samuddaṃ pavisitvā nasseyyuṃ, Bodhisattaṃ[^077-19] nissāya[^077-20] jīvitaṃ labhiṃsu.
 
-Ja_IV,3.2(=322).2: Bellaṃ nipatitaṃ[^077-21] sutvā dabhakkan ti saso javi[^077-22], sasassa vacanaṃ sutvā santattā migavāhinī[^077-23]. || Ja_IV:86 ||
+Ja_IV,3.2(=322).2: Bellaṃ nipatitaṃ[^077-21] sutvā dabhakkan ti saso javi[^077-22], sasassa vacanaṃ sutvā santattā migavāhinī[^077-23]. ||  
+Ja_IV:86 ||  
 
-Ja_IV,3.2(=322).3: Appattā[^077-24] padaviññāṇaṃ paraghosānusārino pamādaparamā bālā te honti parapattiyā. || Ja_IV:87 ||
+Ja_IV,3.2(=322).3: Appattā[^077-24] padaviññāṇaṃ paraghosānusārino pamādaparamā bālā te honti parapattiyā. ||  
+Ja_IV:87 ||  
 
 
 <!-- PTS Page 078 -->
@@ -936,7 +1023,8 @@ Ja_IV,3.2(=322).3: Appattā[^077-24] padaviññāṇaṃ paraghosānusārino pa
 
 ##### *[PTS Page 078]*
 
-Ja_IV,3.2(=322).4: Ye ca sīlena sampannā paññāy'; ūpasame ratā āratā[^078-1] viratā dhīrā na honti parapattiyā ti || Ja_IV:88 ||
+Ja_IV,3.2(=322).4: Ye ca sīlena sampannā paññāy'; ūpasame ratā āratā[^078-1] viratā dhīrā na honti parapattiyā ti ||  
+Ja_IV:88 ||  
 
 imā tisso abhisambuddhagāthā. Tattha bellan[^078-2] ti beluvapakkaṃ, dabhakkan[^078-3] ti evaṃ saddaṃ kurumānaṃ, santattā ti santrastā[^078-4], migavāhinīti anekasahassasaṃkhā migasenā, padaviññāṇan ti viññāṇapadaṃ sotāpattiviññāṇakoṭṭhāsaṃ apāpuṇitvā ti attho, te honti parapattiyā ti te paraghosānusārino[^078-5] tam eva paraghosānusaṃkhātaṃ[^078-6] pamādaṃ paraman ti maññamānā bālā andhaputhujjanā viññāṇapadassa appattatāya parapattiyā va honti, paresaṃ[^078-7] vacanaṃ saddahitvā yaṃ vā taṃ vā karontīti, sīlenā 'ti ariyamaggena āgatasīlena samannāgatā, paññāyūpasame ratā ti maggen'; eva āgatapaññāya[^078-8] kilesūpasame ratā, yathā vā[^078-9] sīlena evaṃ paññāya pi sampannā kilesūpasame ratā ti pi attho, āratā viratā dhīrā ti viññū pāpakiriyato āratā[^078-10] viratā paṇḍitā nāma hontīti, te evarūpā sotāpannā pāpato oratabhāvena kilesūpasame abhiratabhāvena ca ekavāraṃ[^078-11] maggañāṇena paṭividdhadhammā aññesaṃ kathentānam pi na saddahanti na gaṇhanti, kasmā: attano paccakkhato[^078-12] ti, tena vuttaṃ: Assaddho akataññū ca sandhicchedo ca yo naro (Dhp. v. 97) hatāvakāso vantāso sa ve[^078-13] uttamaporiso ti. Satthā imaṃ desanaṃ[^078-14] āharitvā jātakaṃ samodhānesi: "Tadā sīho aham evā" 'ti. Daddabhajātakaṃ[^078-15].
 
@@ -958,11 +1046,14 @@ Atīte Kampillakaraṭṭhe[^079-1] Uttarapañcālanagare Pañcāle[^079-2] rajj
 
 "mayhaṃ ayyo[^080-1] ‘raho paccāsiṃsāmīti[^080-2]'; vatvā parisāya apagatāya kiñci vattuṃ na visahati, vattukāmass'; ev'; assa[^080-3] dvādasa vassāni atikkantāni, ciraṃ kho pana[^080-4] brahmacariyaṃ carantassa, ukkaṇṭhitvā bhoge bhuñjitukāmo rajjaṃ paccāsiṃsati maññe ti, rajjassa pana nāmaṃ gahetuṃ asakkonto tuṇhī hoti[^080-5], ajja dāni 'ssāhaṃ rajjaṃ ādiṃ katvā yaṃ icchati taṃ dassāmīti[^080-6]" so uyyānaṃ gantvā vanditvā nisinno Bodhisattena "raho paccāsiṃsāmīti[^080-2]" vutte parisāya apagatāya[^080-7] kiñci vattuṃ asakkontaṃ āha: "tumhe dvādasa vassāni ‘raho paccāsiṃsāmīti[^080-2]'; vatvā raho laddhāpi kiñci vattuṃ na sakkotha, ahaṃ vo[^080-8] rajjaṃ ādiṃ katvā sabbaṃ pavāremi, nibbhayo hutvā yaṃ vo[^080-9] ruccati taṃ yācathā" 'ti. "Mahāraja, yam ahaṃ yacāmi taṃ dassasīti[^080-10]". "Dassāmi bhante" ti. "Mahārāja, mayhaṃ maggaṃ gacchantassa ekatalikaupāhanāyo[^080-11] ca paṇṇacchattañ ca laddhuṃ vaṭṭatīti". "Ettakaṃ bhante tumhe dvādasa vassāni[^080-12] yācituṃ na sakkothā" 'ti[^080-13]. "Āma mahārājā" 'ti. "Kiṃkāraṇā bhante evam akatthā" 'ti. "Mahāraja, ‘idaṃ nāma me dehīti'; yācanto rodati nāma, ‘n'; atthīti'; vadanto paṭirodati nāma, sace tvaṃ mayā yācito na dadeyyāsi ‘taṃ no roditapaṭiroditaṃ[^080-14] nāma mahājano mā passīti[^080-15]'; tadatthaṃ[^080-16] raho paccāsiṃsan" ti[^080-2] vatvā ādito[^080-17] tisso gāthā abhāsi:
 
-Ja_IV,3.3(=323).1: Dvayaṃ yācanako rāja Brahmadatta nigacchati: (Vol.II 167|6.) alābhaṃ dhanalābhaṃ vā, evaṃdhammā hi yācanā. || Ja_IV:89 ||
+Ja_IV,3.3(=323).1: Dvayaṃ yācanako rāja Brahmadatta nigacchati: (Vol.II 167|6.) alābhaṃ dhanalābhaṃ vā, evaṃdhammā hi yācanā. ||  
+Ja_IV:89 ||  
 
-Ja_IV,3.3(=323).2: Yācanaṃ rodanaṃ āhu Pañcālānaṃ rathesabha, yo ca naṃ[^080-18] paccakkhāti tam āhu paṭirodanaṃ. || Ja_IV:90 ||
+Ja_IV,3.3(=323).2: Yācanaṃ rodanaṃ āhu Pañcālānaṃ rathesabha, yo ca naṃ[^080-18] paccakkhāti tam āhu paṭirodanaṃ. ||  
+Ja_IV:90 ||  
 
-Ja_IV,3.3(=323).3: Mā m'; addasaṃsu rodantaṃ Pañcālā susamāgatā tavaṃ[^080-19] vā paṭirodantaṃ, tasmā icchām'; ahaṃ raho ti. || Ja_IV:91 ||
+Ja_IV,3.3(=323).3: Mā m'; addasaṃsu rodantaṃ Pañcālā susamāgatā tavaṃ[^080-19] vā paṭirodantaṃ, tasmā icchām'; ahaṃ raho ti. ||  
+Ja_IV:91 ||  
 
 
 <!-- PTS Page 081 -->
@@ -972,7 +1063,8 @@ Ja_IV,3.3(=323).3: Mā m'; addasaṃsu rodantaṃ Pañcālā susamāgatā tava�
 
 Tattha rāja Brahmadattā 'ti dvīhi pi[^081-1] rājānaṃ ālapati, nigacchatīti labhati vindati, evaṃ dhammā ti evaṃsabhāvā, āhū[^081-2] 'ti paṇḍitā kathenti, Pañcālānaṃ rathesabhā 'ti Pañcālaraṭṭhassa[^081-3] issara rathapavara[^081-4], yo ca naṃ paccakkhātīti yo ca[^081-5] pana taṃ yācanakaṃ n'; atthīti paṭikkhipati, tamāhū 'ti taṃ paṭikkhipanaṃ paṭirodanan ti[^081-6], mā maddasaṃsū[^081-7] 'ti tava raṭṭhavāsino Pañcālā[^081-8] samāgatā maṃ rodantaṃ mā addasaṃsū 'ti. Rājā Bodhisattassa gāravalakkhaṇe pasīditvā varaṃ dadamāno catutthaṃ gātham āha:
 
-Ja_IV,3.3(=323).4: Dadāmi te brāhmaṇa rohiṇīnaṃ[^081-9] (Cfr.vol.II.320|16) gavaṃ sahassaṃ saha puṅgavena, ariyo hi ariyassa kathaṃ na dajjā[^081-10] sutvāna gāthā tava dhammayuttā ti. || Ja_IV:92 ||
+Ja_IV,3.3(=323).4: Dadāmi te brāhmaṇa rohiṇīnaṃ[^081-9] (Cfr.vol.II.320|16) gavaṃ sahassaṃ saha puṅgavena, ariyo hi ariyassa kathaṃ na dajjā[^081-10] sutvāna gāthā tava dhammayuttā ti. ||  
+Ja_IV:92 ||  
 
 Tattha rohiṇīnan[^081-11] ti rattavaṇṇānaṃ, ariyo ti ācārasampanno, ariyassā 'ti ācārasampannassa, kathaṃ na dajjā[^081-12] ti kena kāraṇena na dadeyya, dhammayuttā ti kāraṇāyuttā. Bodhisatto pana "nāhaṃ mahārāja vatthukāmehi[^081-13] atthiko, yam[^081-14] ahaṃ yācāmi tad eva me dehīti" ekatalikaupāhanā[^081-15] ca paṇṇacchattañ ca[^081-16] gahetvā "mahārāja appamatto hohi[^081-17], sīlaṃ rakkha[^081-18], uposathakammaṃ karohīti" rājānaṃ ovaditvā tassa yācantass'; eva Himavantaṃ agamāsi[^081-19]. Tattha abhiññā[^081-20] ca samāpattiyo ca nibbattetvā Brahmaloka-parāyano ahosi. Satthā imaṃ desanaṃ[^081-21] āharitvā jātakaṃ samodhānesi: "Tadā rājā Ānando ahosi, tāpaso pana aham evā" 'ti. Brahmadattajātakaṃ[^081-22].
 
@@ -984,7 +1076,8 @@ Tattha rohiṇīnan[^081-11] ti rattavaṇṇānaṃ, ariyo ti ācārasampanno, 
 
 4. Cammasāṭakajātaka. Kalyāṇarūpo vatāyan ti. Idaṃ Satthā Jetavane viharanto cammasāṭakaṃ nāma paribbājakaṃ ārabbha kathesi. Tassa kira cammam eva[^082-1] nivāsanañ ca pārupanañ ca[^082-2]. So ekadivasaṃ paribbājakārāmā nikkhamitvā Sāvatthiyaṃ bhikkhāya caranto eḷakānaṃ yujjhanaṭṭhānaṃ sampāpuṇi. Eḷako taṃ disvā paharitukāmo osakki. Paribbājako "esa mayhaṃ apacitiṃ[^082-3] dassetīti" na paṭikkami. Eḷako vegenāgantvā[^082-4] taṃ ūrumhi paharitvā pātesi. Tassa taṃ asantapaggahaṇakāranaṃ[^082-5] bhikkhusaṃghe pākaṭaṃ[^082-6] ahosi. Bhikkhū dhammasabhāyaṃ kathaṃ samuṭṭhāpesuṃ: "āvuso Cammasāṭakaparibbājako asantapaggahaṃ katvā vināsaṃ patto" ti. Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idān'; eva pubbe p' esa asantapaggahaṃ katvā vināsaṃ patto[^082-7]" ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto ekasmiṃ vāṇijakule[^082-8] nibbattitvā vaṇijjaṃ[^082-9] karoti. Tadā eko cammasāṭako[^082-10] paribbājako Bārāṇāsiyaṃ bhikkhāya caranto eḷakānaṃ yujjhanaṭṭhānaṃ patvā eḷakaṃ osakkantaṃ[^082-11] disvā "apacitiṃ me[^082-12] karotītī" saññāya[^082-13] apaṭikkamitvā "imesaṃ ettakānaṃ manussānaṃ antare ayaṃ[^082-14] eko eḷako amhākaṃ guṇaṃ[^082-15] jānātīti" tassa añjalim paggaṇhitvā[^082-16] ṭhito paṭhamaṃ gātham āha:
 
-Ja_IV,3.4(=324).1: Kalyāṇarūpo vatāyaṃ catuppado[^082-17] subhaddako c'; eva supesalo ca yo brāhmanaṃ jātimantūpapannaṃ apacāyati meṇḍavaro yasassīti. || Ja_IV:93 ||
+Ja_IV,3.4(=324).1: Kalyāṇarūpo vatāyaṃ catuppado[^082-17] subhaddako c'; eva supesalo ca yo brāhmanaṃ jātimantūpapannaṃ apacāyati meṇḍavaro yasassīti. ||  
+Ja_IV:93 ||  
 
 Tattha kalyāṇarūpo ti kalyāṇajātiko, supesalo ti suṭṭhupiyasīlo, jātimantūpapannan ti jātiyā ca mantehi ca sampannaṃ, yasassīti vaṇṇabhaṇanam etaṃ.
 
@@ -996,15 +1089,18 @@ Tattha kalyāṇarūpo ti kalyāṇajātiko, supesalo ti suṭṭhupiyasīlo, j�
 
 Tasmiṃ khaṇe[^083-1] āpaṇe[^083-2] nisinno paṇḍitavāṇijo taṃ paribbājakaṃ nisedhento dutiyaṃ gātham āha:
 
-Ja_IV,3.4(=324).2: Mā brāhmaṇa ittaradassanena vissāsam āpajji catuppadassa, daḷhappahāraṃ abhikaṃkhamāno avasakkatī[^083-3] dassati suppahāran ti. || Ja_IV:94 ||
+Ja_IV,3.4(=324).2: Mā brāhmaṇa ittaradassanena vissāsam āpajji catuppadassa, daḷhappahāraṃ abhikaṃkhamāno avasakkatī[^083-3] dassati suppahāran ti. ||  
+Ja_IV:94 ||  
 
 Tattha ittaradassanenā ti[^083-4] khaṇikadassanena. Tassa pana[^083-5] paṇḍitavāṇijassa[^083-6] kathentass'; eva[^083-7] meṇḍako vegenāgantvā[^083-8] ūrumhi paharitvā[^083-9] tatth'; eva vedanāmattaṃ[^083-10] katvā pātesi. So[^083-11] paridevamāno nipajji. Satthā taṃ kāraṇaṃ pakāsento tatiyaṃ gātham āha:
 
-Ja_IV,3.4(=324).3: Satthi[^083-12] bhaggā, pavaṭṭito[^083-13] khāribhāro, sabbaṃ bhaṇḍaṃ brāhmaṇass'; īdha[^083-14] bhinnaṃ, bāhā paggayha kandati[^083-15]: abhidhāvatha[^083-16], haññate brahmacārīti. || Ja_IV:95 ||
+Ja_IV,3.4(=324).3: Satthi[^083-12] bhaggā, pavaṭṭito[^083-13] khāribhāro, sabbaṃ bhaṇḍaṃ brāhmaṇass'; īdha[^083-14] bhinnaṃ, bāhā paggayha kandati[^083-15]: abhidhāvatha[^083-16], haññate brahmacārīti. ||  
+Ja_IV:95 ||  
 
 Tass'; attho: bhikkhave tassa paribbājakassa ūruṭṭhikaṃ[^083-17] bhaggaṃ khāribhāro pavaṭṭito[^083-18], tasmiṃ pavaṭṭiyamāne[^083-19] yaṃ tatth'; etassa[^083-20] brāhmaṇassa upakaraṇabhaṇḍaṃ[^083-21] tam pi sabbaṃ bhinnaṃ, so[^083-22] ubho bāhā ukkhipitvā parivāretvā ṭhitaparisaṃ sandhāya[^083-23] abhidhāvatha haññate brahmacārīti vadanto[^083-24] kandati rodati paridevatīti. Catutthaṃ gāthaṃ paribbājako[^083-25] āha:
 
-Ja_IV,3.4(=324).4: Evaṃ so nihato seti yo apūjaṃ namassati[^083-26] yathāham ajja pahato hato meṇḍena dummatīti. || Ja_IV:96 ||
+Ja_IV,3.4(=324).4: Evaṃ so nihato seti yo apūjaṃ namassati[^083-26] yathāham ajja pahato hato meṇḍena dummatīti. ||  
+Ja_IV:96 ||  
 
 Tattha apūjan ti apūjanīyaṃ, yathāhamajjā 'ti yathā ahaṃ ajja asantapaggahaṃ katvā ṭhito meṇḍena daḷhappahārena pahato hato[^083-27] etth'; eva
 
@@ -1026,13 +1122,16 @@ mārito, dummatīti duppañño, evaṃ yo[^084-1] añño pi asantapaggahaṃ kar
 
 disvā "iminā amhākaṃ sajātikaṃ[^085-1] maṃsaṃ khāditaṃ[^085-2] bhavissati, pariggaṇhissāmi[^085-3] nan" ti adhovāte ṭhatvā sarīragandhaṃ ghāyitvā sajātimaṃsassa[^085-4] khāditabhāvaṃ ñatvā tāpasaṃ anupagamma paṭikkamitvā[^085-5] cari. So pi tassa anāgamanaṃ[^085-6] ñatvā muggaraṃ khipi. Muggaro sarīre apatitvā naṅguṭṭhakoṭiyaṃ[^085-7] pāpuṇi. Tāpaso[^085-8] "gaccha, viraddho[^085-9] smīti" āha. Bodhisatto "man tāva viraddho si, cattāro pana apāye na viraddho sīti[^085-10]" palāyitvā caṃkamanakoṭiyaṃ ṭhitavammīkaṃ[^085-11] pavisitvā aññena chiddena sīsaṃ nīharitvā tena saddhiṃ sallapanto[^085-12] dve gāthā abhāsi:
 
-Ja_IV,3.5(=325).1: Samaṇaṃ[^085-13] taṃ maññamāno upagañchiṃ[^085-14] asaññataṃ, so maṃ daṇḍena pahāsi yathā assamaṇo[^085-15] tathā. || Ja_IV:97 ||
+Ja_IV,3.5(=325).1: Samaṇaṃ[^085-13] taṃ maññamāno upagañchiṃ[^085-14] asaññataṃ, so maṃ daṇḍena pahāsi yathā assamaṇo[^085-15] tathā. ||  
+Ja_IV:97 ||  
 
-Ja_IV,3.5(=325).2: Kin te jaṭāhi dummedha, kin te ajinasāṭiyā, (Dhp. v. 394.) abhantaran[^085-16] te gahanaṃ, bāhiraṃ parimajjasīti. || Ja_IV:98 ||
+Ja_IV,3.5(=325).2: Kin te jaṭāhi dummedha, kin te ajinasāṭiyā, (Dhp. v. 394.) abhantaran[^085-16] te gahanaṃ, bāhiraṃ parimajjasīti. ||  
+Ja_IV:98 ||  
 
 Tattha asaññatan ti ahaṃ kāyādīhi asaññataṃ assamaṇam[^085-17] eva samānaṃ[^085-18] taṃ samaṇo eso ti samitapāpatāya samaṇaṃ maññamāno upagañchiṃ[^085-19], pahāsīti pahari, ajinasāṭiyā ti ekaṃsaṃ katvā pārutena ajinacammena tuyhaṃ ko attho, abbhantarante gahanan ti[^085-20] tava sarīrabbhantaraṃ visapūraṃ viya alābu[^085-21] gūthāpūro viya āvāṭo āsīvisapūro viya vammiko kilesagahanaṃ[^085-22], bāhiran ti kevalaṃ bāhiraṃ sarīraṃ parimajjasi[^085-23], taṃ[^085-24] antopharusatāya bahimaṭṭatāya[^085-25] hatthilaṇḍaṃ[^085-26] viya assalaṇḍaṃ[^085-27] viya ca hoti[^085-28]. Taṃ sutvā tāpaso tatiyaṃ gātham āha:
 
-Ja_IV,3.5(=325).3: Ehi godha nivattassu, bhuñja sālīnaṃ odanaṃ, telaṃ loṇañ ca me atthi pahūtaṃ[^085-29] mayha pipphalin ti. || Ja_IV:99 ||
+Ja_IV,3.5(=325).3: Ehi godha nivattassu, bhuñja sālīnaṃ odanaṃ, telaṃ loṇañ ca me atthi pahūtaṃ[^085-29] mayha pipphalin ti. ||  
+Ja_IV:99 ||  
 
 
 <!-- PTS Page 086 -->
@@ -1042,7 +1141,8 @@ Ja_IV,3.5(=325).3: Ehi godha nivattassu, bhuñja sālīnaṃ odanaṃ, telaṃ 
 
 Tattha pahūtaṃ[^086-1] mayha pipphalin ti na kevalaṃ sāliodanaṃ[^086-2] telaloṇam eva hiṅgujīrakasiṅgiverakamaricapipphalippabhedaṃ[^086-3] kaṭukabhaṇḍam pi mayhaṃ bahuṃ atthi, tenābhisaṃkhataṃ sālīnam odanaṃ bhuñja ehīti[^086-4]. Taṃ sutvā Bodhisatto catutthaṃ gātham āha:
 
-Ja_IV,3.5(=325).4: Esa bhiyyo pavekkhāmi vammīkaṃ sataporisaṃ, telaṃ loṇañ ca kin te si ahitaṃ mayha pipphalin ti. || Ja_IV:100 ||
+Ja_IV,3.5(=325).4: Esa bhiyyo pavekkhāmi vammīkaṃ sataporisaṃ, telaṃ loṇañ ca kin te si ahitaṃ mayha pipphalin ti. ||  
+Ja_IV:100 ||  
 
 Tattha pavekkhāmīti pavisissāmi, ahitan ti yaṃ etaṃ tava kaṭukabhaṇḍasaṃkhātaṃ pipphaliṃ etaṃ mayhaṃ ahitaṃ asappāyan ti. Evañ ca pana vatvā "are[^086-5] kūṭajaṭila, sace idha vasissasi[^086-6] gocaragāme manusseh'; eva[^086-7] taṃ ‘ayaṃ coro'; ti gāhāpetvā vippakāraṃ pāpessāmi, sīghaṃ palāyassū" 'ti tajjesi[^086-8]. Kūṭajaṭilo tato palāyi. Satthā imaṃ desanaṃ[^086-9] āharitvā jātakaṃ samodhānesi: "Tadā kūṭajaṭilo ayaṃ kuhakabhikkhu ahosi, godharājā[^086-10] aham evā" 'ti. Godhajātakaṃ[^086-11].
 
@@ -1056,7 +1156,8 @@ Tattha pavekkhāmīti pavisissāmi, ahitan ti yaṃ etaṃ tava kaṭukabhaṇ�
 
 Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto Tāvatiṃsabhavane aññataro devaputto ahosi. Tena kho pana samayena Bārāṇasiyaṃ mahā ussavo ahosi. Bahū[^087-1] nāgasupaṇṇā ca bhummaṭṭhakāpi devā ca āgantvā ussavaṃ olokayiṃsu, Tāvatiṃsabhavanato pi cattāro devaputtā kakkārūni[^087-2] nāma dibbapupphāni tehi katacumbaṭaṃ[^087-3] pilandhitvā ussavadassanaṃ agamiṃsu[^087-4], dvādasayojanikaṃ nagaraṃ[^087-5] tesaṃ pupphānaṃ gandhena ekagandhaṃ ahosi. Manussā "imāni[^087-6] pupphāni kena pilandhānīti[^087-7]" upadhārentā[^087-8] caranti[^087-9]. Devaputtā[^087-10] "amhe ete upadhārentīti" vatvā[^087-11] rājaṅgaṇā[^087-12] uppatitvā mahantena devānubhāvenākāse[^087-13] aṭṭhaṃsu. Mahājano sannipati[^087-14]. Rājāpi saddhiṃ uparājādīhi agamāsi. Atha ne "kataradevalokato[^087-15] āgacchathā" 'ti pucchiṃsu[^087-16]. "Tāvatiṃsadevalokato āgacchāmā" 'ti. "Kena kammena āgat'; atthā" 'ti. "Ussavadassanatthāyā" 'ti. "Kiṃpupphāni nām'; etānīti". "Dibbakakkārupupphāni[^087-17] nāmā" 'ti. "Sāmi, tumhākaṃ devaloke aññāni pilandheyyātha, imān'; amhākaṃ[^087-18] dethā" 'ti. Devaputtā "imāni dibbapupphāni[^087-19] mahānubhāvānañ ñeva[^087-20] anucchavikāni, manussaloke lāmakānaṃ duppaññānaṃ hīnādhimuttikānaṃ dussīlānaṃ na anucchavikāni, ye pana manussā imehi ca imehi ca guṇehi[^087-21] samannāgatā tesaṃ etāni[^087-22] anucchavikānīti" evañ ca pana vatvā tesu jeṭṭhakadevaputto paṭhamaṃ gātham āha:
 
-Ja_IV,3.6(=326).1: Kāyena yo nāvahare vācāya na musā bhaṇe yaso laddhā na majjeyya sa ve[^087-23] kakkārum[^087-24] arahatīti. || Ja_IV:101 ||
+Ja_IV,3.6(=326).1: Kāyena yo nāvahare vācāya na musā bhaṇe yaso laddhā na majjeyya sa ve[^087-23] kakkārum[^087-24] arahatīti. ||  
+Ja_IV:101 ||  
 
 
 <!-- PTS Page 088 -->
@@ -1066,11 +1167,13 @@ Ja_IV,3.6(=326).1: Kāyena yo nāvahare vācāya na musā bhaṇe yaso laddhā 
 
 Tass'; attho: yo kāyena parassa santakaṃ tiṇasalākam pi nāvaharati vācāya ca[^088-1] jīvitaṃ pariccajamāno pi musāvādaṃ na bhaṇati, desanāsīsam ev' etaṃ: kāyadvāravacīdvāramanodvārehi pana yo[^088-2] dasa pi akusalakammapathe na karotīti ayam ettha adhippāyo, yaso laddhā ti issariyañ ca labhitvā yo[^088-2] issariyamadamatto satiṃ vissajjetvā pāpakammaṃ na karoti, sa ve evarūpo imehi guṇehi yutto puggalo imaṃ dibbapuppham arahati, tasmā yo[^088-3] imehi guṇehi sammannāgato so imāni[^088-4] pupphāni yācatu, dassāmīti[^088-5]. Taṃ sutvā purohito cintesi: "mayhaṃ imesu guṇesu eko pi n'; atthi, musāvādaṃ pana katvā[^088-6] etāni pupphāni gahetvā pilandhissāmi[^088-7], evaṃ maṃ jano ‘guṇasampanno ayan'; ti jānissatīti" so "ahaṃ etehi guṇehi samannāgato" ti vatvā tāni pupphāni āharāpetvā pilandhitvā dutiyaṃ devaputtaṃ yāci. So[^088-8] dutiyaṃ gātham āha:
 
-Ja_IV,3.6(=326).2: Dhammena vittam eseyya, na nikatyā dhanaṃ hare, bhoge laddhā na majjeyya, sa ve kakkārum arahatīti. || Ja_IV:102 ||
+Ja_IV,3.6(=326).2: Dhammena vittam eseyya, na nikatyā dhanaṃ hare, bhoge laddhā na majjeyya, sa ve kakkārum arahatīti. ||  
+Ja_IV:102 ||  
 
 Tass'; attho: dhammena parisuddhenājīvena[^088-9] suvaṇṇarajatādivittaṃ pariyeseyya, na nikatiyā ti[^088-10] na vañcanāya dhanaṃ[^088-11] hareyya[^088-12], vatthābharaṇādike bhoge labhitvā pamādaṃ na pamajjeyya[^088-13], evarūpo imāni pupphāni arahati[^088-14]. Purohito "ahaṃ etehi guṇehi samannāgato" ti vatvā tāni pi āharāpetvā pilandhitvā tatiyaṃ devaputtaṃ yāci. So[^088-15] tatiyaṃ gātham āha:
 
-Ja_IV,3.6(=326).3: Yassa cittaṃ ahāliddaṃ saddhā ca avirāginī eko sāduṃ[^088-16] na bhuñjeyya sa ve kakkārum arahatīti. || Ja_IV:103 ||
+Ja_IV,3.6(=326).3: Yassa cittaṃ ahāliddaṃ saddhā ca avirāginī eko sāduṃ[^088-16] na bhuñjeyya sa ve kakkārum arahatīti. ||  
+Ja_IV:103 ||  
 
 Tass attho: yassa puggalassa cittaṃ ahāliddaṃ haliddirāgo viya na khippaṃ bhijjati[^088-17] cirapemaṃ[^088-18] hoti, saddhā ca avirāginī[^088-19] kammaṃ vā vipākaṃ vā okappanīyassa vā puggalassa vacanaṃ saddahitvā appamattaken'; eva na chijjati[^088-20] na bhijjati, yo ca yācanake vā aññe vā saṃvibhāgārahe puggale
 
@@ -1082,7 +1185,8 @@ Tass attho: yassa puggalassa cittaṃ ahāliddaṃ haliddirāgo viya na khippa�
 
 bahikatvā eko[^089-1] va sādurasabhojanaṃ[^089-2] na bhuñjati saṃvibhajitvā va[^089-3] bhuñjati so imāni pupphāni arahatīti[^089-4]. Purohito[^089-5] "ahaṃ etehi guṇehi samannāgato" ti vatvā tāni pi[^089-6] āharāpetvā pilandhitvā catutthaṃ devaputtaṃ yāci. So catutthaṃ gātham āha:
 
-Ja_IV,3.6(=326).4: Sammukhā vā parokkhā vā[^089-6] yo[^089-8] sante na paribhāsati yathāvādī tathākārī sa ve kakkārum[^089-9] arahatīti. || Ja_IV:104 ||
+Ja_IV,3.6(=326).4: Sammukhā vā parokkhā vā[^089-6] yo[^089-8] sante na paribhāsati yathāvādī tathākārī sa ve kakkārum[^089-9] arahatīti. ||  
+Ja_IV:104 ||  
 
 Tass'; attho: yo puggalo sammukhā vā parammukhā vā sīlādiguṇayutte sante[^089-10] paṇḍitapurise na akkosati na paribhāsati yaṃ vācāya vadati tad eva kāyena karoti so imāni pupphāni arahatīti. Purohito "ahaṃ etehi guṇehi samannāgato" ti vatvā tāni pi[^089-11] āharāpetvā pilandhi[^089-12]. Devaputtā cattāri[^089-13] pi pupphacumbaṭāni[^089-14] purohitassa datvā devalokam eva gatā. Tesaṃ gatakāle purohitassa sīse mahatī vedanā uppajjati, tiṇhena[^089-15] sikharena[^089-16] nimmathitaṃ[^089-17] viya[^089-18] ayayantena[^089-19] pīḷitaṃ viya[^089-20] sīsaṃ ahosi. So vedanāmatto aparāparaṃ parivattamāno mahāsaddena viravi, "kim etan" ti ca vutte "ahaṃ mam'; antare avijjamāne yeva guṇe ‘atthīti'; musāvādaṃ katvā te devaputte[^089-21] pupphāni yāciṃ[^089-22], harath'; etāni mama sīsato" ti āha. Tāni harantā[^089-23] harituṃ nāsakkhiṃsu, ayapaṭṭena[^089-24] baddhāni viya ahesuṃ. Atha naṃ ukkhipitvā gehaṃ nayiṃsu. Tassa tattha[^089-23] viravantassa satta divasā vītivattā. Rājā amacce āmantetvā "dussīlo[^089-26] brāhmaṇo marissati, kiṃ karomā" 'ti āha[^089-27]. "Deva, puna ussavaṃ kārema[^089-28], devaputtā puna āgacchissantīti[^089-29]". Rājā puna[^089-30]
 
@@ -1104,11 +1208,13 @@ ussavaṃ kāresi. Devaputtā puna āgantvā sakalanagaraṃ pupphagandhena ekag
 
 saṃkhepo, vitthārato pana atītavatthuṃ[^091-1] Kuṇālajātake āvibhavissati. Tadā pan'; eko supaṇṇarājā manussavesenāgantvā[^091-2] raññā[^091-3] saha jūtaṃ[^091-4] kīḷanto Kākātiyā[^091-5] aggamahesiyā paṭibaddhacitto taṃ ādāya supaṇṇabhavanaṃ netvā tāya saddhiṃ abhirami. Rājā devim apassanto[^091-6] Naṭakuveraṃ nāma gandhabbaṃ[^091-7] "tvaṃ vicināhi[^091-8] nan" ti āha[^091-9]. So taṃ[^091-10] supaṇṇarājānaṃ pariggahetvā[^091-11] ekasmiṃ sare erakavane nipajjitvā tato supaṇṇassa[^091-12] gamanakāle pattantare nisīditvā supaṇṇabhavanaṃ gantvā tāya saddhiṃ kilesasaṃsaggaṃ katvā puna tass'; eva pattantare nisinno āgantvā supaṇṇassa raññā saha[^091-13] jūtaṃ[^091-14] kīḷanakāle[^091-15] attano vīṇaṃ gahetvā jūtamaṇḍalaṃ[^091-16] gantvā rañño santike ṭhito gītakavasena[^091-17] paṭhamaṃ gātham āha:
 
-Ja_IV,3.7(=327).1: Vāti cāyaṃ[^091-18] tato gandho yattha me vasatī piyā, dūre ito hi Kākāti[^091-19] yattha me nirato mano ti. || Ja_IV:105 ||
+Ja_IV,3.7(=327).1: Vāti cāyaṃ[^091-18] tato gandho yattha me vasatī piyā, dūre ito hi Kākāti[^091-19] yattha me nirato mano ti. ||  
+Ja_IV:105 ||  
 
 Tattha gandho ti tassā dibbagandhavilittāya sarīragandho, yattha me ti yattha supaṇṇabhavane mama piyā vasati tato iminā saddhiṃ katāya[^091-20] kāyasaṃsaggāya tassā imassa kāyena saddhiṃ āgato gandho vāyatīti adhippāyo, dūre ito hīti imamhā ṭhānā dūre, hikāro nipātamatto, Kākāti[^091-21] devī, yattha me ti yassā upari mama mano nirato. Taṃ sutvā supaṇṇo dutiyaṃ gātham āha:
 
-Ja_IV,3.7(=327).2: Kathaṃ samuddaṃ patari[^091-22], kathaṃ patari[^091-23] Kebukaṃ, kathaṃ satta samuddāni kathaṃ simbalim āruhīti. || Ja_IV:106 ||
+Ja_IV,3.7(=327).2: Kathaṃ samuddaṃ patari[^091-22], kathaṃ patari[^091-23] Kebukaṃ, kathaṃ satta samuddāni kathaṃ simbalim āruhīti. ||  
+Ja_IV:106 ||  
 
 Tass'; attho: tvaṃ imaṃ Jambudīpasamuddaṃ tassa parato Kebukaṃ[^091-24] nadiṃ[^091-25] pabbatantaresu ṭhitāni satta samuddāni ca kathaṃ tari[^091-26], ken'; upāyena tiṇṇo, satta samuddāni atikkamitvā[^091-27] ṭhitaṃ amhākaṃ bhavanaṃ simbalirukkhañ ca kathaṃ abhirūhīti.
 
@@ -1120,11 +1226,13 @@ Tass'; attho: tvaṃ imaṃ Jambudīpasamuddaṃ tassa parato Kebukaṃ[^091-24]
 
 Taṃ sutvā Naṭakuvero tatiyaṃ gātham āha:
 
-Ja_IV,3.7(=327).3: Tayā samuddam atariṃ[^092-1], tayā atari Kebukaṃ, tayā satta samuddāni, tayā simbalim āruhin ti. || Ja_IV:107 ||
+Ja_IV,3.7(=327).3: Tayā samuddam atariṃ[^092-1], tayā atari Kebukaṃ, tayā satta samuddāni, tayā simbalim āruhin ti. ||  
+Ja_IV:107 ||  
 
 Tattha tayā ti tayā[^092-2] karaṇabhūtena tava pattantare nisinno ahaṃ sabbam etaṃ akāsin ti attho. Tato supaṇṇarājā catutthaṃ gātham āha:
 
-Ja_IV,3.7(=327).4: Dhi-r-atthu maṃ mahākāyaṃ, dhi-r-atthu maṃ acetanaṃ, yattha jāyāy'; ahaṃ jāraṃ āvahāmi vahāmi vā[^092-3] ti. || Ja_IV:108 ||
+Ja_IV,3.7(=327).4: Dhi-r-atthu maṃ mahākāyaṃ, dhi-r-atthu maṃ acetanaṃ, yattha jāyāy'; ahaṃ jāraṃ āvahāmi vahāmi vā[^092-3] ti. ||  
+Ja_IV:108 ||  
 
 Tattha dhiratthu man ti attānaṃ garahanto āha, acetanan ti mahāsarīrattā[^092-4] lahubhāvagarubhāvassa ajānanatāya acetanaṃ, yatthā ti yasmā, idaṃ vuttaṃ hoti: yasmā ahaṃ attano jāyāya jāraṃ imaṃ gandhabbaṃ pattantare nisinnaṃ ānento[^092-5] āvahāmi nento ca vahāmi tasmā dhi-r-atthu man ti. So taṃ ānetvā Bārāṇasirañño va[^092-6] datvā puna na[^092-7] agamāsi. Satthā imaṃ desanaṃ[^092-8] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne ukkaṇṭhitabhikkhu sotāpattiphale patiṭṭhahi) "Tadā Naṭakuvero ukkaṇṭhitabhikkhu ahosi rājā[^092-9] aham evā" 'ti. Kākātijātakaṃ[^092-10].
 
@@ -1154,13 +1262,17 @@ rūpakaṃ[^094-1] ādāya vicarantā[^094-2] taṃ gāmaṃ pāpuṇiṃsu. Tat
 
 sampattiṃ disvā parivāretvā rodati paridevati. Bodhisatto bhikkhaṃ caritvā āgato tassā matabhāvaṃ ñatvā "bhijjanadhammaṃ bhijjati, sabbe saṃkhārā aniccā evaṃgatikā yevā" 'ti vatvā tāya nipannaphalakāy'; eva[^095-1] nisīditvā missabhojanaṃ[^095-2] bhuñjitvā mukhaṃ vikkhālesi. Parivāretvā ṭhitamahājano "ayan[^095-3] te bhante paribbājikā kiṃ hotīti" pucchi. "Gihikāle me pādaparicārikā ahosīti". "Bhante, mayaṃ tāva na santhambhāma[^095-4], rodāma paridevāma, tumhe kasmā na rodathā" 'ti. Bodhisatto "jīvamānā tāv'; esā[^095-5] mama kiñci[^095-6] hoti, idāni paralokasamaṅgitāya na kiñci hoti, parajanavasaṃ[^095-7] gatā, ahaṃ kissa[^095-8] rodāmīti" mahājanassa dhammaṃ desento imā gāthā abhāsi:
 
-Ja_IV,3.8(=328).1: Bahunnaṃ vijjati bhotī[^095-9], tehi kim me[^095-10] bhavissati, tasmā etaṃ[^095-11] na socāmi piyaṃ Sammillabhāsiniṃ[^095-12]. || Ja_IV:109 ||
+Ja_IV,3.8(=328).1: Bahunnaṃ vijjati bhotī[^095-9], tehi kim me[^095-10] bhavissati, tasmā etaṃ[^095-11] na socāmi piyaṃ Sammillabhāsiniṃ[^095-12]. ||  
+Ja_IV:109 ||  
 
-Ja_IV,3.8(=328).2: Tan tañ[^095-13] ce anusoceyya[^095-14] yaṃ yaṃ[^095-15] tassa na vijjati attānam anusoceyya sadā maccuvasaṃ gataṃ[^095-16]. || Ja_IV:110 ||
+Ja_IV,3.8(=328).2: Tan tañ[^095-13] ce anusoceyya[^095-14] yaṃ yaṃ[^095-15] tassa na vijjati attānam anusoceyya sadā maccuvasaṃ gataṃ[^095-16]. ||  
+Ja_IV:110 ||  
 
-Ja_IV,3.8(=328).3: Na h'; eva ṭhitaṃ[^095-17] nāsīnaṃ[^095-18] na sayānaṃ[^095-19] na p'; addhaguṃ[^095-20] yāva pāti nimisati[^095-21] tatrāpi[^095-22] sarati-bbayo[^095-23]. || Ja_IV:111 ||
+Ja_IV,3.8(=328).3: Na h'; eva ṭhitaṃ[^095-17] nāsīnaṃ[^095-18] na sayānaṃ[^095-19] na p'; addhaguṃ[^095-20] yāva pāti nimisati[^095-21] tatrāpi[^095-22] sarati-bbayo[^095-23]. ||  
+Ja_IV:111 ||  
 
-Ja_IV,3.8(=328).4: Tatth'; attani vata-ppaddhe[^095-24] vinābhāve asaṃsaye[^095-25] sesaṃ[^095-26] sesaṃ dayitabbaṃ vītaṃ[^095-27] ananusocitan[^095-28] ti. || Ja_IV:112 ||
+Ja_IV,3.8(=328).4: Tatth'; attani vata-ppaddhe[^095-24] vinābhāve asaṃsaye[^095-25] sesaṃ[^095-26] sesaṃ dayitabbaṃ vītaṃ[^095-27] ananusocitan[^095-28] ti. ||  
+Ja_IV:112 ||  
 
 Tattha bahunnaṃ vijjati bhotīti[^095-29] ayaṃ bhotī[^095-30] amhe chaḍḍetvā idāni aññesaṃ bahunnaṃ matasattānaṃ[^095-31] antare vijjati saṃvijjati[^095-32], tehi me kiṃ bhavissatīti tehi matakasattehi saddhiṃ vattamānā idān'; esā[^095-33] kiṃ
 
@@ -1190,11 +1302,13 @@ bhāvanā kātabbā, yaṃ pan'; etaṃ vītaṃ[^097-1] vigataṃ mataṃ ananu
 
 khādāpento sakkharodakaṃ pāyento paṭijaggi, sakkāro mahā ahosi, lābhaggayasaggappattā ahesuṃ. Ath'; eko vanacarako Kālabāhun[^098-1] nām'; ekaṃ mahākālamakkaṭaṃ ānetvā rañño[^098-2] adāsi, tassa pacchā āgatattā mahantataro[^098-3] lābhasakkāro ahosi, sukānaṃ parihāyi. Bodhisatto tādilakkhaṇayogā[^098-4] na[^098-5] kiñci āha, kaniṭṭho pan'; assa tādilakkhaṇābhāvā[^098-6] taṃ makkaṭassa sakkāraṃ asahanto "bhātika, pubbe imasmiṃ rājakule sādurasakhādaniyādiṃ amhākam eva denti, idāni mayaṃ na labhāma, Kālabāhumakkaṭass'; eva haranti[^098-7], mayaṃ Dhanañjayarañño[^098-8] santikā lābhasakkāraṃ alabhantā imasmiṃ ṭhāne kiṃ karissāma, ehi araññam eva gantvā vasissāmā" 'ti tena saddhiṃ sallapanto[^098-9] paṭhamaṃ gātham āha:
 
-Ja_IV,3.9(=329).1: Yaṃ annapān'; assa pure labhāma taṃ dāni sākhāmigam[^098-10] eva gacchati, gacchāma dāni vanam eva Rādha asakkatā v'; amhā[^098-11] Dhanañjayāyā[^098-12] 'ti. || Ja_IV:113 ||
+Ja_IV,3.9(=329).1: Yaṃ annapān'; assa pure labhāma taṃ dāni sākhāmigam[^098-10] eva gacchati, gacchāma dāni vanam eva Rādha asakkatā v'; amhā[^098-11] Dhanañjayāyā[^098-12] 'ti. ||  
+Ja_IV:113 ||  
 
 Tattha yaṃ annapānassā 'ti yaṃ annapānaṃ assa rañño santikā, upayogatthe sāmivacanaṃ, Dhanañjayāyā 'ti karaṇatthe sampadānaṃ[^098-13], Dhanañjayena asakkatā vamha[^098-14], annapānañ ca[^098-15] na labhāma iminā ca asakkat' amhā[^098-16] 'ti attho. Taṃ sutvā Rādho dutiyaṃ gātham āha:
 
-Ja_IV,3.9(=329).2: Lābho alābho ayaso yaso ca[^098-17] (Dasaratha-Jāt. p.9.) nindā pasaṃsā ca[^098-18] sukhañ ca dukkhaṃ ete aniccā manujesu dhammā, mā soca, kiṃ socasi Poṭṭhapādā 'ti. || Ja_IV:114 ||
+Ja_IV,3.9(=329).2: Lābho alābho ayaso yaso ca[^098-17] (Dasaratha-Jāt. p.9.) nindā pasaṃsā ca[^098-18] sukhañ ca dukkhaṃ ete aniccā manujesu dhammā, mā soca, kiṃ socasi Poṭṭhapādā 'ti. ||  
+Ja_IV:114 ||  
 
 Tattha yaso ti issariyaparivāro, ayaso ti tassābhāvo, ete ti ete aṭṭha lokadhammā manujesu aniccā, lābhaggappattā[^098-19] hutvāpi aparena samayena
 
@@ -1206,11 +1320,13 @@ Tattha yaso ti issariyaparivāro, ayaso ti tassābhāvo, ete ti ete aṭṭha lo
 
 appalābhā appesakkhā[^099-1] honti, niccalābhino[^099-2] n'; atthi, yasādisu pi es' eva nayo. Taṃ sutvā Poṭṭhapādo makkaṭe usūyaṃ[^099-3] apanetuṃ asakkonto tatiyaṃ gātham āha:
 
-Ja_IV,3.9(=329).3: Addhā tuvaṃ paṇḍitako si Rādha, jānāsi atthāni[^099-4] anāgatāni, kathan[^099-5] nu sākhāmigaṃ[^099-6] dakkhisāma[^099-7] nibbāpitaṃ[^099-8] rājakulato va[^099-9] jamman ti. || Ja_IV:115 ||
+Ja_IV,3.9(=329).3: Addhā tuvaṃ paṇḍitako si Rādha, jānāsi atthāni[^099-4] anāgatāni, kathan[^099-5] nu sākhāmigaṃ[^099-6] dakkhisāma[^099-7] nibbāpitaṃ[^099-8] rājakulato va[^099-9] jamman ti. ||  
+Ja_IV:115 ||  
 
 Tattha kathan[^099-10] nū 'ti kena nu kho upāyena, dakkhisāmā[^099-11] 'ti dakkhissāma, nibbāpitan[^099-12] ti nicchuddhaṃ[^099-13] nikkhāmitaṃ[^099-14], jammaṃ ti lāmakaṃ. Taṃ sutvā Rādho catutthaṃ gātham āha:
 
-Ja_IV,3.9(=329).4: Cāleti kaṇṇaṃ, bhakuṭiṃ karoti, muhuṃ muhuṃ bhāyayate[^099-15] kumāre, sayam eva taṃ kāhati Kālabāhu yenārakā[^099-16] ṭhassati annapānā ti. || Ja_IV:116 ||
+Ja_IV,3.9(=329).4: Cāleti kaṇṇaṃ, bhakuṭiṃ karoti, muhuṃ muhuṃ bhāyayate[^099-15] kumāre, sayam eva taṃ kāhati Kālabāhu yenārakā[^099-16] ṭhassati annapānā ti. ||  
+Ja_IV:116 ||  
 
 Tattha bhāyayate[^099-17] kumāre ti rājakumāre[^099-18] utrāseti, yenā 'ti yena kāraṇena, ārakā ṭhassatīti yena kāraṇena imamhā annapānā dūre ṭhassati sayam eva taṃ kāraṇaṃ karissati, mā tvaṃ etassa cintayīti attho. Kālabāhu[^099-19] pi katipāhen'; eva rājakumārānaṃ purato kaṇṇacālanādīni karonto kumāre bhāyāpesi, te bhītā[^099-20] vissaram akaṃsu. Rājā "kim etan" ti pucchitvā tam atthaṃ sutvā "nikkaḍḍhatha nan" ti makkaṭaṃ[^099-21] nikkaḍḍhāpesi, sukānaṃ lābhasakkāro[^099-22] pākatiko[^099-23] va[^099-24] ahosi.
 
@@ -1222,11 +1338,13 @@ Tattha bhāyayate[^099-17] kumāre ti rājakumāre[^099-18] utrāseti, yenā 'ti
 
 Satthā imaṃ desanaṃ[^100-1] āharitvā jātakaṃ samodhānesi: "Tadā Kālabāhu[^100-2] Devadatto ahosi, Poṭṭhapādo Ānando, Rādho pana aham evā" 'ti. Kālabāhujātakaṃ[^100-3].
 
-10. Sīlavīmaṃsajātaka. Sīlaṃ kireva kalyāṇan ti. Idaṃ Satthā Jetavane viharanto sīlavīmaṃsakabrāhmaṇaṃ ārabbha kathesi. Dve pi vatthūni heṭṭhā kathitān'; eva, idha pana Bodhisatto Bārāṇasirañño purohito ahosi. So attano sīlaṃ[^100-4] vīmaṃsanto[^100-5] tīṇi divasāni heraññikaphalakato[^100-6] kahāpaṇaṃ gaṇhi. Taṃ "coro" ti[^100-7] rañño dassesuṃ. So rañño santike ṭhito[^100-8] Ja_IV,3.10(=330).1: Sīlaṃ kir'; eva kalyāṇaṃ, sīlaṃ loke anuttaraṃ, passa: ghoraviso nāgo sīlavā ti na haññatīti.[^100-9] || Ja_IV:117 ||
+10. Sīlavīmaṃsajātaka. Sīlaṃ kireva kalyāṇan ti. Idaṃ Satthā Jetavane viharanto sīlavīmaṃsakabrāhmaṇaṃ ārabbha kathesi. Dve pi vatthūni heṭṭhā kathitān'; eva, idha pana Bodhisatto Bārāṇasirañño purohito ahosi. So attano sīlaṃ[^100-4] vīmaṃsanto[^100-5] tīṇi divasāni heraññikaphalakato[^100-6] kahāpaṇaṃ gaṇhi. Taṃ "coro" ti[^100-7] rañño dassesuṃ. So rañño santike ṭhito[^100-8] Ja_IV,3.10(=330).1: Sīlaṃ kir'; eva kalyāṇaṃ, sīlaṃ loke anuttaraṃ, passa: ghoraviso nāgo sīlavā ti na haññatīti.[^100-9] ||  
+Ja_IV:117 ||  
 
 paṭhamagāthāya sīlaṃ vaṇṇetvā rājānaṃ pabbajjaṃ anujānāpetvā pabbajituṃ gacchati. Ath'; ekasmiṃ[^100-10] sūnāpaṇe[^100-11] seno maṃsapesiṃ gahetvā ākāsaṃ[^100-12] pakkhandi. Tam aññe sakuṇā parivāretvā pādanakhatuṇḍakādīhi[^100-13] paharanti. So taṃ dukkhaṃ sahituṃ asakkonto maṃsapesiṃ chaḍḍesi. Aparo gaṇhi. So pi tath'; eva viheṭhiyamāno chaḍḍesi. Ath'; añño gaṇhīti evaṃ yo yo[^100-14] gaṇhi taṃ taṃ sakuṇā anubandhiṃsu, yo yo chaḍḍesi so so sukhito ahosi[^100-15]. Bodhisatto taṃ[^100-16] disvā "ime kāmā nāma maṃsapesūpamā, ete gaṇhantānaṃ yeva dukkhaṃ vissajjentānaṃ sukhan" ti cintetvā dutiyaṃ gātham āha:
 
-Ja_IV,3.10(=330).2: Yāvad ev'; ass'; ahū[^100-17] kiñci tāvad eva akhādisu[^100-18] saṃgamma kulalā loke, na hiṃsanti akiñcanan ti. || Ja_IV:118 ||
+Ja_IV,3.10(=330).2: Yāvad ev'; ass'; ahū[^100-17] kiñci tāvad eva akhādisu[^100-18] saṃgamma kulalā loke, na hiṃsanti akiñcanan ti. ||  
+Ja_IV:118 ||  
 
 
 <!-- PTS Page 101 -->
@@ -1236,11 +1354,13 @@ Ja_IV,3.10(=330).2: Yāvad ev'; ass'; ahū[^100-17] kiñci tāvad eva akhādisu
 
 Tass'; attho: yāvad eva assa senassa ahu kiñci mukhena gahitaṃ maṃsakhaṇḍaṃ tāvad eva naṃ imasmiṃ loke kulalā samāgantvā khādiṃsu, tasmiṃ pana vissaṭṭhe tam enaṃ akiñcanaṃ nippalibodhaṃ pakkhiṃ sesapakkhino na hiṃsantīti. So nagarā nikkhamitvā antarāmagge ekasmiṃ gāme sāyaṃ ekassa[^101-1] gehe nipajji. Tattha pana Piṅgalā nāma dāsī[^101-2] "asukavelāya nāma[^101-3] āgaccheyyāsīti" ekena purisena saddhiṃ saṃketam akāsi. Sā sāmikānaṃ pāde dhovitvā tesu nipannesu tassāgamanaṃ olokentī ummāre nisīditvā "idāni āgamissati idāni āgamissatīti" paṭhamayāmam pi majjhimayāmam pi vītināmesi, paccūsasamaye pana "na so idāni āgamissatīti" chinnāsā hutvā nipajjitvā niddaṃ okkami. Bodhisatto idaṃ kāraṇaṃ disvā "ayaṃ ‘dāni[^101-8] puriso āgamissatīti'; āsāya[^101-5] ettakaṃ kālaṃ nisinnā idāni 'ssa anāgamanabhāvaṃ ñatvā chinnāsā hutvā sukhaṃ supati, kilesesu hi āsā nāma dukkhaṃ nirāsābhāvo[^101-6] ca sukhan" ti cintetvā tatiyaṃ gātham āha:
 
-Ja_IV,3.10(=330).3: Sukhaṃ nirāsā[^101-7] supati[^101-8], āsā phalavatī sukhā, āsaṃ nirāsaṃ katvāna sukhaṃ supati Piṅgalā ti. || Ja_IV:119 ||
+Ja_IV,3.10(=330).3: Sukhaṃ nirāsā[^101-7] supati[^101-8], āsā phalavatī sukhā, āsaṃ nirāsaṃ katvāna sukhaṃ supati Piṅgalā ti. ||  
+Ja_IV:119 ||  
 
 Tattha phalavatīti yassā āsāya phalaṃ laddhaṃ hoti sā tassa phalassa sukhatāya sukhā nāma[^101-9], nirāsaṃ katvā anāsaṃ[^101-10] katvā chinditvā[^101-11] pajahitvā ti attho, Piṅgalā ti Piṅgalā[^101-12] dāsī idāni sukhaṃ supatīti. So punadivase tato gāmā araññaṃ pavisanto araññe ekaṃ tāpasaṃ jhānaṃ appetvā nisinnaṃ disvā "idhaloke ca paraloke ca[^101-13] jhānasukhato uttaritaraṃ[^101-14] sukhaṃ[^101-15] n'; atthīti" cintetvā catutthaṃ gātham āha:
 
-Ja_IV,3.10(=330).4: Na samādhiparo atthi asmiṃ loke paramhi ca, na paraṃ nāpi[^101-16] attānaṃ vihiṃsati samāhito ti. || Ja_IV:120 ||
+Ja_IV,3.10(=330).4: Na samādhiparo atthi asmiṃ loke paramhi ca, na paraṃ nāpi[^101-16] attānaṃ vihiṃsati samāhito ti. ||  
+Ja_IV:120 ||  
 
 
 <!-- PTS Page 102 -->
@@ -1262,13 +1382,17 @@ Tattha na samādhiparo ti[^102-1] samādhito[^102-2] paro añño sukhadhammo nā
 
 ravati[^103-1], vaḍḍhanto[^103-2] kiṃ karissatīti" tuṇḍena[^103-3] koṭṭetvā[^103-4] māretvā kulāvakā pātesi. So rañño pādamūle pati. Rājā Bodhisattaṃ pucchi: "kim etaṃ sahāyā" 'ti. Bodhisatto "ahaṃ rājānaṃ vinetuṃ[^103-5] ekaṃ upamaṃ pariyesāmi, laddhā dāni p' esā[^103-6]" ti cintetvā "mahārāja, atimukharā akāle bahubhāṇino evarūpaṃ[^103-7] labhanti, ayaṃ mahārāja kokilapotako kākiyā puṭṭho[^103-8] avirūḷhapakkho[^103-9] akāle yeva viravi[^103-10], atha naṃ kākī ‘nāyaṃ mama puttako'; ti ñatvā mukhatuṇḍena[^103-11] koṭṭetvā[^103-12] māretvā[^103-13] pātesi, manussā vā hontu tiracchānā vā akāle[^103-14] bahubhāṇino evarūpaṃ dukkhaṃ anubhavantīti[^103-15]" vatvā imā gāthā abhāsi:
 
-Ja_IV,4.1(=331).1: Yo ve kāle asampatte ativelaṃ pabhāsati[^103-16] evaṃ so nihato[^103-17] seti kokilāyeva[^103-18] atrajo. || Ja_IV:121 ||
+Ja_IV,4.1(=331).1: Yo ve kāle asampatte ativelaṃ pabhāsati[^103-16] evaṃ so nihato[^103-17] seti kokilāyeva[^103-18] atrajo. ||  
+Ja_IV:121 ||  
 
-Ja_IV,4.1(=331).2: Na hi satthaṃ[^103-19] sunisitaṃ[^103-20] visaṃ halāhalaṃ[^103-21] iva evaṃ nikaṭṭhe[^103-22] pāteti vācā dubbhāsitā yathā. || Ja_IV:122 ||
+Ja_IV,4.1(=331).2: Na hi satthaṃ[^103-19] sunisitaṃ[^103-20] visaṃ halāhalaṃ[^103-21] iva evaṃ nikaṭṭhe[^103-22] pāteti vācā dubbhāsitā yathā. ||  
+Ja_IV:122 ||  
 
-Ja_IV,4.1(=331).3: Tasmā kāle akāle vā[^103-23] vācaṃ rakkheyya paṇḍito, nātivelaṃ pabhāseyya api attasamamhi ca[^103-24]. || Ja_IV:123 ||
+Ja_IV,4.1(=331).3: Tasmā kāle akāle vā[^103-23] vācaṃ rakkheyya paṇḍito, nātivelaṃ pabhāseyya api attasamamhi ca[^103-24]. ||  
+Ja_IV:123 ||  
 
-Ja_IV,4.1(=331).4: Yo ca[^103-25] kāle mitam[^103-26] bhāse matipubbo vicakkhaṇo[^103-27] sabbe amitte ādeti supaṇṇo uragaṃ[^103-28] ivā ti. || Ja_IV:124 ||
+Ja_IV,4.1(=331).4: Yo ca[^103-25] kāle mitam[^103-26] bhāse matipubbo vicakkhaṇo[^103-27] sabbe amitte ādeti supaṇṇo uragaṃ[^103-28] ivā ti. ||  
+Ja_IV:124 ||  
 
 Tattha kāle asampatte ti attano vacanakāle asampatte[^103-29], ativelan ti velātikkantaṃ[^103-30] katvā atirekappamāṇaṃ[^103-31] bhāsati, halāhalaṃ[^103-32] ivā 'ti halāhalam[^103-33] iva, nikaṭṭhe[^103-34] ti tasmiñ ñeva[^103-35] khaṇe appamattake kāle, tasmā ti yasmā sunisitā satthā[^103-36] halāhalavisato pi khippataraṃ dubbhāsitavacanam
 
@@ -1290,11 +1414,14 @@ eva pāteti[^104-1] tasmā, kāle akāle vā ti vattuṃ yuttakāle ca[^104-2] a
 
 kira purohito ‘sākaṭikehi pahaṭo mhīti[^105-1]'; aṭṭaṃ[^105-2] karonto sayam eva parajjhīti[^105-3]". Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannissinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idān'; eva pubbe p'; esa evarūpaṃ karot'; evā[^105-4]" 'ti vātvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto tass'; eva vinicchayāmacco ahosi. Atha rañño purohito rathena attano bhogagāmaṃ gacchanto ti sabbaṃ purimasadisam eva, idha pana tena rañño ārocite rājā sayaṃ vinicchaye nisīditvā sākaṭike pakkosāpetvā kammaṃ asodhetvā va "tumhehi mama purohitaṃ koṭṭetvā[^105-5] nalāṭe gaṇḍo[^105-6] uṭṭhāpito" ti vatvā "sabbassaharaṇaṃ[^105-7] tesaṃ karothā" 'ti āha. Atha naṃ Bodhisatto "tumhe mahārāja kammaṃ[^105-8] asodhetvā va etesaṃ sabbassaṃ[^105-9] harāpetha, ekacce pana attanā va[^105-10] attānaṃ paharitvāpi ‘parena[^105-11] pahaṭ'; amhā[^105-14]'; 'ti vadanti, tasmā avinicchitvā[^105-13] kātuṃ na yuttaṃ rajjaṃ kārentena[^105-14] nāma[^105-15], nisāmetvā[^105-16] kammaṃ kātuṃ vaṭṭatīti[^105-17]" vatvā imā gāthā abhāsi:
 
-Ja_IV,4.2(=332).1: Api hantvā hato brūti[^105-18] jetvā[^105-19] jino[^105-20] ti bhāsati, pubb'; ev'; akkhāyino[^105-21] rāja ekadatthu[^105-22] na saddahe. || Ja_IV:125 ||
+Ja_IV,4.2(=332).1: Api hantvā hato brūti[^105-18] jetvā[^105-19] jino[^105-20] ti bhāsati, pubb'; ev'; akkhāyino[^105-21] rāja ekadatthu[^105-22] na saddahe. ||  
+Ja_IV:125 ||  
 
-Ja_IV,4.2(=332).2: Tasmā[^105-23] paṇḍita jātiso[^105-24] suṇeyya itarassa pi, ubhinnaṃ vacanaṃ sutvā yathā dhammo tathā kare. || Ja_IV:126 ||
+Ja_IV,4.2(=332).2: Tasmā[^105-23] paṇḍita jātiso[^105-24] suṇeyya itarassa pi, ubhinnaṃ vacanaṃ sutvā yathā dhammo tathā kare. ||  
+Ja_IV:126 ||  
 
-Ja_IV,4.2(=332).3: Alaso gihī kāmabhogī na sādhu, asaññato pabbajito na sādhu, rājā na sādhu anisammakārī, yo paṇḍito kodhano taṃ na sādhu. || Ja_IV:127 ||
+Ja_IV,4.2(=332).3: Alaso gihī kāmabhogī na sādhu, asaññato pabbajito na sādhu, rājā na sādhu anisammakārī, yo paṇḍito kodhano taṃ na sādhu. ||  
+Ja_IV:127 ||  
 
 
 <!-- PTS Page 106 -->
@@ -1302,7 +1429,8 @@ Ja_IV,4.2(=332).3: Alaso gihī kāmabhogī na sādhu, asaññato pabbajito na s
 
 ##### *[PTS Page 106]*
 
-Ja_IV,4.2(=332).4: Nisamma khattiyo kayirā nānisamma disampati, nisammakārino rāja yaso kittī ca vaḍḍhatīti. || Ja_IV:128 ||
+Ja_IV,4.2(=332).4: Nisamma khattiyo kayirā nānisamma disampati, nisammakārino rāja yaso kittī ca vaḍḍhatīti. ||  
+Ja_IV:128 ||  
 
 Tattha api hantvā ti api eko attanā va attānaṃ hantvā parena hato[^106-1] 'mhīti brūti[^106-2] katheti[^106-3], jetvā[^106-4] jino[^106-5] ti sayaṃ vā pana paraṃ jitvā[^106-6] ahaṃ jito 'mhīti[^106-7] bhāsati, ekadatthū[^106-8] 'ti mahārāja pubbam eva[^106-9] rājakulaṃ patvā akkhāyantassa pubbakkhāyino ekadatthu[^106-10] na saddahe, ekaṃsena vacanaṃ na saddaheyya, tasmā ti yasmā paṭhamataraṃ āgantvā[^106-11] kathentassa ekaṃsena vacanaṃ na saddahātabbaṃ tasmā yathā dhammo ti yathā vinicchayasabhāvo ṭhito tathā kareyya, asaññato ti kāyādīhi asaññato dussīlo, taṃ na sādhū 'ti taṃ tassa puṇḍitassa ñāṇavato puggalassa aṭhānagāhivasena[^106-12] daḷhakopasaṃkhātaṃ kodhanaṃ[^106-13] taṃ[^106-14] na sādhu, nānisammā 'ti na anisāmetvā[^106-15], disampatīti disānaṃ pati[^106-16] mahārāja, yaso kittī cā 'ti issariyaparisaparivāro[^106-17] c'; eva kittisaddo ca vaḍḍhatīti. Rājā Bodhisattassa vacanaṃ {sutvā} dhammena vinicchini[^106-18], dhammena vinicchiyamāne[^106-19] brāhmaṇass'; eva doso jāto ti. Satthā imaṃ dhammadesanaṃ āharitvā jātakaṃ samodhānesi: "Tadā brāhmaṇo va etarahi brāhmaṇo[^106-20], paṇḍitāmacco aham evā" 'ti. Rathalaṭṭhijātakaṃ[^106-21].
 
@@ -1324,13 +1452,16 @@ nīyaṃ[^107-1] pivitvā Satthu santike nisinnāpi[^107-2] Satthārā "kiṃ up
 
 khādīti[^108-5]". "Ayye, na devo evarūpaṃ karissati, mā evaṃ avacutthā" 'ti. Atha naṃ devī "tuyhaṃ[^108-2] taṃ[^108-3] tāta na pākaṭaṃ, rañño yeva pākaṭaṃ mayhañ cā[^108-4]" 'ti vatvā paṭhamaṃ gātham āha:
 
-Ja_IV,4.3(=333).1: Tadeva me tvaṃ vidito vanamajjhe rathesabha yassa te khaggabaddhassa sannaddhassa tirīṭino assatthadumasākhāya pakkagodhā palāyathā 'ti. || Ja_IV:129 ||
+Ja_IV,4.3(=333).1: Tadeva me tvaṃ vidito vanamajjhe rathesabha yassa te khaggabaddhassa sannaddhassa tirīṭino assatthadumasākhāya pakkagodhā palāyathā 'ti. ||  
+Ja_IV:129 ||  
 
 Tattha tadevā 'ti tasmiṃ ñeva[^108-5] kāle ayaṃ mayhaṃ adāyako[^108-6] akārako[^108-7] ti evaṃ tvaṃ vidito, aññe[^108-8] pana tava sabhāvaṃ na jānantīti attho, khaggabaddhassā 'ti baddhakhaggassa, tirīṭino ti tirīṭivatthaṃ[^108-9] nivatthassa, maggāgamanakāle pakkā ti aṅgārapakkā[^108-10] godhā[^108-11] palāyathā 'ti. Evaṃ rañño katadosaṃ parisamajjhe[^108-12] pākaṭaṃ katvā kathesi. Taṃ sutvā Bodhisatto "ayye devassa appiyakālato pabhuti[^108-13] ubhinnam pi aphāsukaṃ katvā kasmā idha vasathā" 'ti vatvā dve gāthā abhāsi:
 
-Ja_IV,4.3(=333).2: Name namantassa, bhaje bhajantaṃ,   (vol.II p.205, Minayef, kiccānukubbassa kareyya kiccaṃ,      Gr.Palie p.XXVIII.) nānatthakāmassa[^108-14] kareyya atthaṃ, asambhajantam pi na sambhajeyya. || Ja_IV:130 ||
+Ja_IV,4.3(=333).2: Name namantassa, bhaje bhajantaṃ,   (vol.II p.205, Minayef, kiccānukubbassa kareyya kiccaṃ,      Gr.Palie p.XXVIII.) nānatthakāmassa[^108-14] kareyya atthaṃ, asambhajantam pi na sambhajeyya. ||  
+Ja_IV:130 ||  
 
-Ja_IV,4.3(=333).3: Caje cajantaṃ, vanathaṃ[^108-15] na kayirā, apetacittena na sambhajeyya, dijo dumaṃ khīṇaphalan ti ñatvā aññaṃ samekkheyya, mahā hi loko ti. || Ja_IV:131 ||
+Ja_IV,4.3(=333).3: Caje cajantaṃ, vanathaṃ[^108-15] na kayirā, apetacittena na sambhajeyya, dijo dumaṃ khīṇaphalan ti ñatvā aññaṃ samekkheyya, mahā hi loko ti. ||  
+Ja_IV:131 ||  
 
 Tattha name namantassā 'ti yo[^108-16] attānaṃ[^108-17] muducittena namati tass'; eva paṭinameyya, kiccānukubbassā 'ti attano[^108-18] uppannaṃ kiccaṃ anukubbantass'; eva, anatthakāmassā 'ti avaḍḍhikāmassa[^108-19], vanathaṃ[^108-20] na
 
@@ -1342,7 +1473,8 @@ Tattha name namantassā 'ti yo[^108-16] attānaṃ[^108-17] muducittena namati t
 
 kayirā ti tasmiṃ cajante taṇhāsnehaṃ[^109-1] na kareyya, apetacittenā 'ti apagatacittena[^109-2], na sambhajeyyā 'ti na samāgaccheyya, aññaṃ samekkheyyā 'ti aññaṃ[^109-3] olokeyya, yathā dijo khīṇaphalaṃ rukkhaṃ[^109-4] ñatvā aññaṃ phalabharitaṃ[^109-5] rukkhaṃ gacchati tathā khīṇarāgaṃ[^109-6] purisaṃ[^109-6] ñatvā aññaṃ sasnehaṃ upagaccheyyā 'ti adhippāyo. Rājā Bodhisatte kathente[^109-7] yeva[^109-8] tassā guṇaṃ saritvā "bhadde ettakaṃ kālaṃ tava guṇaṃ na sallakkhesiṃ[^109-9], paṇḍitassa me kathāya sallakkhitaṃ[^109-10], mamāparādhaṃ[^109-11] saha, idaṃ sakalarajjaṃ tuyh'; eva[^109-12] dammīti" vatvā catutthaṃ gātham āha:
 
-Ja_IV,4.3(=333).4: So te karissāmi yathānubhāvaṃ (cfr. supra p. 24 l. 22) kataññutaṃ khattiye[^109-13] pekkhamāno, sabbañ ca te issariyaṃ dadāmi, yass'; icchasī tassa tuvam dadāhīti[^109-14]. || Ja_IV:132 ||
+Ja_IV,4.3(=333).4: So te karissāmi yathānubhāvaṃ (cfr. supra p. 24 l. 22) kataññutaṃ khattiye[^109-13] pekkhamāno, sabbañ ca te issariyaṃ dadāmi, yass'; icchasī tassa tuvam dadāhīti[^109-14]. ||  
+Ja_IV:132 ||  
 
 Tattha so ti so ahaṃ yathānubhāvan ti yathāsattiṃ yathābalaṃ, yassicchasīti yassa icchasi[^109-15] tassa idaṃ rajjaṃ ādiṃ katvā yaṃ icchasi taṃ[^109-16] dadāhīti[^109-17]. Evaṃ[^109-18] vatvā rājā deviyā sabbissariyaṃ adāsi, "imināhaṃ etissā guṇaṃ sarāpito[^109-19]" ti paṇḍitassāpi mahantaṃ issariyaṃ adāsi. Satthā imaṃ desanaṃ[^109-20] āharitvā[^109-21] jātakaṃ samodhānesi: (Saccapariyosāne ubho pi[^109-22] jayampatikā sotāpattiphale patiṭṭhahiṃsu) "Tadā jayampatikā va etarahi jayampatikā, paṇḍitāmacco pana aham evā" 'ti. Godhajātakaṃ[^109-23].
 
@@ -1362,13 +1494,17 @@ Tattha so ti so ahaṃ yathānubhāvan ti yathāsattiṃ yathābalaṃ, yassicch
 
 kakāle amadhuran nu kho bhante hotīti". "Āma mahāpuñña rājusu adhammikesu telamadhuphāṇitādīni pi vanamūlaphalāphalāni pi[^111-2] amadhurāni honti nirojāni, na kevalaṃ etāni, sakalam pi raṭṭhaṃ nirojaṃ hoti kasaṭaṃ[^111-3], tesu pana dhammikesu tāni pi[^111-4] madhurāni honti ojavantāni, sakalam pi raṭṭhaṃ ojavantam eva hotīti[^111-5]". Rājā "evaṃ bhavissati bhante" ti attano rājabhāvaṃ ajānāpetvā va Bodhisattaṃ vanditvā Bārāṇasiṃ gantvā "tāpasassa vacanaṃ vīmaṃsissāmīti" adhammena rajjaṃ kāretvā "idāni jānissāmīti" kiñci kālaṃ vītināmetvā puna tattha gantvā vanditvā ekamantaṃ nisīdi. Bodhisatto pi 'ssa tath'; eva vatvā nigrodhapakkaṃ[^111-6] adāsi, taṃ tassa tittarasaṃ[^111-7] ahosi. Atha naṃ[^111-8] "nīrasan" ti saha kheḷena[^111-9] chaḍḍetvā[^111-10] "tittakaṃ[^111-11] bhante" ti āha. Bodhisatto "mahāpuñña, nūna rājā adhammiko bhavissati, rājūnaṃ[^111-12] hi adhammikakāle araññe phalāphale[^111-13] ādiṃ katvā sabbaṃ[^111-14] nīrasaṃ[^111-15] nirojaṃ hotīti[^111-16]" vatvā imā gāthā abhāsi:
 
-Ja_IV,4.4(=334).1: Gavañ ce taramānānaṃ jimhaṃ gacchati puṅgavo sabbā tā jimhaṃ gacchanti nette jimhagate sati. || Ja_IV:133 ||
+Ja_IV,4.4(=334).1: Gavañ ce taramānānaṃ jimhaṃ gacchati puṅgavo sabbā tā jimhaṃ gacchanti nette jimhagate sati. ||  
+Ja_IV:133 ||  
 
-Ja_IV,4.4(=334).2: Evam eva manussesu yo hoti seṭṭhasammato so ce adhammaṃ[^111-17] carati pag eva itarā pajā, sabbaṃ raṭṭhaṃ dukkhaṃ[^111-18] seti rājā ce hoti adhammiko. || Ja_IV:134 ||
+Ja_IV,4.4(=334).2: Evam eva manussesu yo hoti seṭṭhasammato so ce adhammaṃ[^111-17] carati pag eva itarā pajā, sabbaṃ raṭṭhaṃ dukkhaṃ[^111-18] seti rājā ce hoti adhammiko. ||  
+Ja_IV:134 ||  
 
-Ja_IV,4.4(=334).3: Gavañ ce taramānānaṃ ujuṃ gacchati puṅgavo sabbā tā[^111-19] ujuṃ gacchanti[^111-20] nette ujuṃgate[^111-21] sati. || Ja_IV:135 ||
+Ja_IV,4.4(=334).3: Gavañ ce taramānānaṃ ujuṃ gacchati puṅgavo sabbā tā[^111-19] ujuṃ gacchanti[^111-20] nette ujuṃgate[^111-21] sati. ||  
+Ja_IV:135 ||  
 
-Ja_IV,4.4(=334).4: Evam eva manussesu yo hoti seṭṭhasammato so ce pi[^111-22] dhammaṃ carati pag eva itarā pajā, sabbaṃ raṭṭhaṃ sukhaṃ seti rājā ce hoti dhammiko ti. || Ja_IV:136 ||
+Ja_IV,4.4(=334).4: Evam eva manussesu yo hoti seṭṭhasammato so ce pi[^111-22] dhammaṃ carati pag eva itarā pajā, sabbaṃ raṭṭhaṃ sukhaṃ seti rājā ce hoti dhammiko ti. ||  
+Ja_IV:136 ||  
 
 
 <!-- PTS Page 112 -->
@@ -1388,7 +1524,8 @@ Tattha gavan ti gunnaṃ[^112-1], taramānānan ti nādī[^112-2] uttarantīna�
 
 santo ekadivasaṃ mahisaṃ vadhitvā[^113-1] khāditvā pānīyaṃ pivitvā[^113-2] āgacchati[^113-3]. Eko sigālo taṃ disvā palāyituṃ asakkonto udarena[^113-4] nipajji "kiṃ jambukā" 'ti[^113-5] vutte "upaṭṭhahissāmi taṃ bhante" ti āha. Sīho "tena hi ehīti" taṃ attano vasanaṭṭhānaṃ netvā divase divase maṃsaṃ āharitvā poseti[^113-6]. Tassa sīhavighāsena thūlasarīraṃ[^113-7] pattass'; ekadivasaṃ māno uppajji. So sīhaṃ upasaṃkamitvā āha: "ahaṃ sāmi niccakālaṃ tumhākaṃ palibodho, tumhe niccaṃ maṃsaṃ āharitvā maṃ posetha, ajja tumhe idh'; eva hotha, ahaṃ ekaṃ vāraṇaṃ vadhitvā maṃsaṃ khāditvā tumhākaṃ[^113-8] āharissāmīti". Sīho "mā te jambuka etaṃ rucci, na tvaṃ vāraṇaṃ vadhitvā maṃsaṃ[^113-9] khādakayoniyaṃ nibbatto, ahaṃ te vāraṇaṃ vadhitvā va dassāmi, vāraṇo nāma mahākāyo[^113-10], mā vilomaṃ[^113-11] gaṇhi, mama vacanaṃ karohīti" vatvā paṭhamaṃ gātham āha:
 
-Ja_IV,4.5(=335).1: Brahā pavaddhakāyo[^113-12] so dīghadāṭho hi jambuka, na tvaṃ tamhi[^113-13] kule jāto yattha gaṇhanti kuñjaran ti. || Ja_IV:137 ||
+Ja_IV,4.5(=335).1: Brahā pavaddhakāyo[^113-12] so dīghadāṭho hi jambuka, na tvaṃ tamhi[^113-13] kule jāto yattha gaṇhanti kuñjaran ti. ||  
+Ja_IV:137 ||  
 
 Tattha brahā ti mahanto, pavaddhakāyo[^113-12] ti uddhauggatakāyo[^113-14], dīghadāṭho ti dīghadanto, tehi dantehi tumhādise paharitvā jīvitakkhayaṃ pāpeti, yatthā 'ti yasmiṃ kule[^113-15] jātā mattavāraṇe gaṇhanti tvaṃ tattha na[^113-16] jāto, sigālakule pana[^113-17] jāto[^113-18] ti attho. Sigālo sīhena vārito yeva[^113-19] guhato[^113-20] nikkhamitvā tikkhattuṃ hukku hukkū[^113-21] 'ti sigālikaṃ nādaṃ[^113-22] naditvā gantvā[^113-23] pabbatapādaṃ olokento ekaṃ kālavāraṇaṃ[^113-24] pabbatapāde[^113-25] gacchantaṃ[^113-26] disvā ullaṃghitvā[^113-27] "tassa kumbhe patitāmīti" parivattitvā pādamūle pati. Vāraṇo purimapādaṃ ukkhipitvā tassa matthake patiṭṭhapesi[^113-28], sīsaṃ bhijjitvā[^113-29] cuṇṇaṃ[^113-30]
 
@@ -1400,11 +1537,14 @@ Tattha brahā ti mahanto, pavaddhakāyo[^113-12] ti uddhauggatakāyo[^113-14], d
 
 jātaṃ. So tatth'; eva anutthunanto sayi. Vāraṇo kuñcanādaṃ[^114-1] karonto pakkāmi. Bodhisatto gantvā pabbatamatthake ṭhito taṃ vināsappattaṃ disvā "attano mānaṃ nissāya naṭṭho sigālo" ti tisso gāthā abhāsi:
 
-Ja_IV,4.5(=335).2: Asīho sīhamānena yo attānaṃ vikubbati kutthuṃ[^114-2] va[^114-3] gajam āsajja seti[^114-4] bhumyā[^114-5] anutthunaṃ. || Ja_IV:138 ||
+Ja_IV,4.5(=335).2: Asīho sīhamānena yo attānaṃ vikubbati kutthuṃ[^114-2] va[^114-3] gajam āsajja seti[^114-4] bhumyā[^114-5] anutthunaṃ. ||  
+Ja_IV:138 ||  
 
-Ja_IV,4.5(=335).3: Yasassino uttamapuggalassa sañjātakkhandhassa mahabbalassa asamekkhiya thāmabalūpapattiṃ[^114-6] sa[^114-7] seti nāgena hato va[^114-8] jambuko. || Ja_IV:139 ||
+Ja_IV,4.5(=335).3: Yasassino uttamapuggalassa sañjātakkhandhassa mahabbalassa asamekkhiya thāmabalūpapattiṃ[^114-6] sa[^114-7] seti nāgena hato va[^114-8] jambuko. ||  
+Ja_IV:139 ||  
 
-Ja_IV,4.5(=335).4: Yo[^114-9] c'; īdha[^114-10] kammaṃ kurute pamāya thāmabalaṃ attani saṃviditvā japena[^114-11] mantena subhāsitena parikkhavā so vipulaṃ jinātīti. || Ja_IV:140 ||
+Ja_IV,4.5(=335).4: Yo[^114-9] c'; īdha[^114-10] kammaṃ kurute pamāya thāmabalaṃ attani saṃviditvā japena[^114-11] mantena subhāsitena parikkhavā so vipulaṃ jinātīti. ||  
+Ja_IV:140 ||  
 
 Tattha vikubbatīti parivatteti, kutthuṃ[^114-12] vā 'ti sigālo viya, anutthunan ti nitthunanto[^114-13], idaṃ vuttaṃ hoti: yathā ayaṃ kutthu[^114-14] mahantaṃ gajaṃ[^114-15] patvā anutthunanto bhūmiyaṃ seti evaṃ yo[^114-16] añño pi dubbalo balavatā viggahaṃ karoti so pi evarūpo va hotīti, yasassino ti issariyavato, uttamapuggalassā 'ti kāyabalena ca ñāṇabalena ca uttamapuggalassa, sañjātakhandhassā 'ti susaṇṭhitamahākhandhassa[^114-17], mahabbalassā[^114-18] 'ti mahāthāmassa, thāmabalūpapattin[^114-19] ti evarūpassa sīhassa thāmasaṃkhātaṃ balañ c'; eva sīhajātisaṃkhātaṃ upapattiñ[^114-21] ca ajānitvā, kāyathāmañ ca ñāṇabalañ ca sīhaupapattiñ ca ajānitvā ti attho, sa setīti attānaṃ pi tena sadisaṃ[^114-22] maññamāno ayaṃ jambuko nāgena hato matasayanaṃ seti, pamāyā 'ti paminitvā upaparikkhitvā, pamānā[^114-23] ti pi pāṭho attano pamāṇaṃ gahetvā yo attano pamāṇena kammaṃ kurute[^114-24] ti attho, thāmabalan ti thāmasaṃkhātaṃ kāyabalaṃ thāmañ[^114-25] ca ñāṇabalañ cā 'ti pi[^114-26] attho, japenā[^114-27] 'ti japena[^114-27] ajjhenenā 'ti attho, mantenā 'ti aññehi paṇḍitehi saddhiṃ sammantetvā karaṇena, subhāsitenā 'ti saccādiguṇayuttena anavajjavacanena,
 
@@ -1434,11 +1574,13 @@ nāma paṇḍitā, te pañhaṃ pucchanti[^116-1] anumodanaṃ kārenti maṅga
 
 kesu dhanaṃ[^117-1] pakkhipitvā cāṭiyo tiṇassa pūrāpetvā pañca isisatāni aññe ca manusse dhanaṃ gāhāpetvā palāyitvā Sā vatthiṃ gantvā sabbe rājayutte[^117-2] gāhāpetvā rajjaṃ gahetvā pākāraṭṭālakādipaṭisaṃkharaṇaṃ[^117-3] kāretvā[^117-4] puna sapattaraññā yuddhena agahetabbaṃ katvā nagaraṃ[^117-5] ajjhāvasi. Bārāṇasirañño pi "tāpasā uyyānato dhanaṃ gahetvā palātā" ti ārocayiṃsu. So uyyānaṃ gantvā cāṭiyo vivarāpetvā tiṇaṃ eva passi, tassa dhanaṃ nissāya mahanto soko uppajji. So nagaraṃ gantvā "tiṇaṃ tiṇan" ti vippalapanto carati[^117-6], nāssa koci sokaṃ nibbāpetuṃ sakkoti[^117-7]. Bodhisatto cintesi: "rañño[^117-8] mahanto soko, vippalapanto[^117-9] carati, ṭhapetvā kho pana maṃ[^117-10] nāssa[^117-11] añño koci sokaṃ vinodetuṃ samattho" ti[^117-12]. "Nissokaṃ naṃ[^117-13] karissāmīti" so ekadivasaṃ tena saddhiṃ sukhanisinno tassa vippalapanakāle[^117-14] paṭhamaṃ gātham āha:
 
-Ja_IV,4.6(=336).1: Tiṇaṃ tiṇan ti lapasi, ko nu te tiṇam āhari, kin nu te tiṇakicc'; atthi[^117-15], tiṇam eva pabhāsasīti. || Ja_IV:141 ||
+Ja_IV,4.6(=336).1: Tiṇaṃ tiṇan ti lapasi, ko nu te tiṇam āhari, kin nu te tiṇakicc'; atthi[^117-15], tiṇam eva pabhāsasīti. ||  
+Ja_IV:141 ||  
 
 Tattha kinnu te tiṇakiccatthīti[^117-16] kin nu tava tiṇakiccaṃ kātabbam atthīti, tiṇameva pabhāsasīti tvaṃ hi kevalaṃ tiṇaṃ tiṇan ti tiṇam eva pabhāsasi, asukatiṇaṃ[^117-17] nāmā 'ti na kathesi, nāmaṃ tāv'; assa kathehi[^117-18], asukatiṇaṃ[^117-17] nāmā 'ti mayaṃ[^117-19] te[^117-20] āharissāma, atha pana te tiṇen'; attho n' atthi, nikkāraṇaṃ mā vippalapīti[^117-21]. Rājā taṃ sutvā[^117-22] dutiyaṃ gātham āha:
 
-Ja_IV,4.6(=336).2: Idhāgamā brahmacārī brahā Chatto bahussuto, so me[^117-23] sabbaṃ samādāya tiṇaṃ nikkhippa gacchatīti. || Ja_IV:142 ||
+Ja_IV,4.6(=336).2: Idhāgamā brahmacārī brahā Chatto bahussuto, so me[^117-23] sabbaṃ samādāya tiṇaṃ nikkhippa gacchatīti. ||  
+Ja_IV:142 ||  
 
 Tattha brahā ti dīgho, Chatto ti tassa[^117-24] nāmaṃ, sabbaṃ samādāyā 'ti sabbaṃ dhanaṃ gahetvā, tiṇaṃ nikkhippa gacchatīti cāṭisu[^117-25] tiṇaṃ pakkhipitvā[^117-26] gato ti dassento evam āha:
 
@@ -1450,11 +1592,13 @@ Tattha brahā ti dīgho, Chatto ti tassa[^117-24] nāmaṃ, sabbaṃ samādāyā
 
 Taṃ sutvā Bodhisatto tatiyaṃ gātham āha:
 
-Ja_IV,4.6(=336).3: Ev'; etaṃ[^118-1] hoti kattabbaṃ appena bahum icchatā: sabbaṃ sakassa ādānaṃ anādānaṃ[^118-2] tiṇassa cā[^118-3] 'ti. || Ja_IV:143 ||
+Ja_IV,4.6(=336).3: Ev'; etaṃ[^118-1] hoti kattabbaṃ appena bahum icchatā: sabbaṃ sakassa ādānaṃ anādānaṃ[^118-2] tiṇassa cā[^118-3] 'ti. ||  
+Ja_IV:143 ||  
 
 Tass'; attho: appena tiṇena bahudhanaṃ[^118-4] icchatā evaṃ etaṃ kattabbaṃ hoti, yadidaṃ pitu santakattā sakassa dhanassa sabbaṃ ādānaṃ agayhūpakassa[^118-5] tiṇassa ca[^118-6] anādānaṃ, iti mahārāja so brahā Chatto gahetabbayuttakaṃ attano pitu santakaṃ dhanaṃ gahetvā agahetabbayuttakaṃ tiṇaṃ cāṭisu[^118-7] pakkhipitvā gato, tattha kā paridevanā ti. Taṃ sutvā rājā catutthaṃ gātham āha:
 
-Ja_IV,4.6(=336).4: Sīlavanto na kubbanti, bālo sīlāni kubbati, aniccasīlaṃ dussīlaṃ, kiṃ paṇḍiccaṃ karissatīti. || Ja_IV:144 ||
+Ja_IV,4.6(=336).4: Sīlavanto na kubbanti, bālo sīlāni kubbati, aniccasīlaṃ dussīlaṃ, kiṃ paṇḍiccaṃ karissatīti. ||  
+Ja_IV:144 ||  
 
 Tattha sīlavanto tiye sīlasampannābrahmacārayo[^118-8] te evarūpaṃ na kubbanti, bālo sīlani kubbatīti bālo pana durācāro evarūpāni attano {anācārasaṃkhātāni}[^118-9] karoti, aniccasīlan ti adhuvena dīgharattaṃ appavattena[^118-10] sīlena samannāgataṃ, dussīlyan ti dussīlaṃ[^118-11], kiṃ paṇḍiccaṃ karissatīti evarūpaṃ puggalaṃ bāhusaccaparibhāvitaṃ[^118-12] paṇḍiccaṃ kiṃ karissati kiṃ sampādessati[^118-13], kiṃ nipphattim[^118-14] ev'; assa karissatīti. Taṃ garahanto vatvā tāya Bodhisattassa kathāya[^118-15] nissoko hutvā dhammena rajjaṃ kāresi. Satthā imaṃ desanaṃ[^118-16] āharitvā jātakaṃ samodhānesi: "Tadā brahā Chatto kuhakabhikkhu ahosi, paṇḍitāmacco pana aham evā" ti. Brahāchattajātakaṃ[^118-17].
 
@@ -1476,17 +1620,21 @@ ti. "Āvuso Anāthapiṇḍiko nāma mahāseṭṭhi, Visākhā nāma mahāupās
 
 nivattanto[^120-1] disvā vanditvā bhikkhābhājanaṃ gahetvā gharaṃ[^120-2] netvā nisīdāpetvā pādadhovanamakkhaṇayāgukhajjakādīhi[^120-3] santappetvā antarābhatte kiñci kiñci kāraṇaṃ pucchitvā kattabhattakiccaṃ vanditvā ekamantaṃ nisinno "bhante amhākaṃ gharadvāraṃ[^120-4] āgatā nāma yācakā vā dhammikasamaṇabrāhmaṇā vā sakkārasammānaṃ alabhitvā gatapubbā nāma n'; atthi, tumhe pan'; ajja[^120-5] amhākaṃ dārakehi adiṭṭhattā āsanaṃ vā pānīyaṃ vā pādadhovanaṃ vā yāgubhattaṃ vā alabhitvā va gatā, ayaṃ amhākaṃ doso, tan no[^120-6] khamituṃ vaṭṭatīti" vatvā paṭhamaṃ gātham āha:
 
-Ja_IV,4.7(=337).1: Na te pīṭham adāsimha na pānaṃ na pi bhojanaṃ, brahmacāri[^120-7] khamassu me, etaṃ passāmi accayan ti. || Ja_IV:145 ||
+Ja_IV,4.7(=337).1: Na te pīṭham adāsimha na pānaṃ na pi bhojanaṃ, brahmacāri[^120-7] khamassu me, etaṃ passāmi accayan ti. ||  
+Ja_IV:145 ||  
 
 Tattha na te pīṭhamadāsimhā 'ti pīṭham pi te na dadāsimha[^120-8]. Taṃ sutvā Bodhisatto dutiyaṃ gatham āha:
 
-Ja_IV,4.7(=337).2: N'; evābhisajjāmi na cāpi kuppe, na cāpi[^120-9] me appiyam āsi kiñci, atho pi me āsi manovitakko: etādiso nūna kulassa dhammo ti. || Ja_IV:146 ||
+Ja_IV,4.7(=337).2: N'; evābhisajjāmi na cāpi kuppe, na cāpi[^120-9] me appiyam āsi kiñci, atho pi me āsi manovitakko: etādiso nūna kulassa dhammo ti. ||  
+Ja_IV:146 ||  
 
 Tattha nevābhisajjāmīti n'; eva laggāmi, etādiso ti imassa kulassa etādiso nūna bhāvo[^120-10], adāyakavaṃso[^120-11] esa[^120-12] bhavissatīti evam[^120-13] me manovitakko uppanno. Taṃ sutvā seṭṭhi itarā dve gāthā abhāsi:
 
-Ja_IV,4.7(=337).3: Es'; asmākaṃ kule dhammo pitupitāmaho sadā: (cfr. II 356|6) āsanaṃ udakaṃ pajjaṃ[^120-14] sabb'; etaṃ nipadāmase. || Ja_IV:147 ||
+Ja_IV,4.7(=337).3: Es'; asmākaṃ kule dhammo pitupitāmaho sadā: (cfr. II 356|6) āsanaṃ udakaṃ pajjaṃ[^120-14] sabb'; etaṃ nipadāmase. ||  
+Ja_IV:147 ||  
 
-Ja_IV,4.7(=337).4: Es'; asmākaṃ kule dhammo pitupitāmaho sadā, sakkacca[^120-15] taṃ[^120-16] upaṭṭhahāma[^120-17] uttamaṃ viya ñātakan ti. || Ja_IV:148 ||
+Ja_IV,4.7(=337).4: Es'; asmākaṃ kule dhammo pitupitāmaho sadā, sakkacca[^120-15] taṃ[^120-16] upaṭṭhahāma[^120-17] uttamaṃ viya ñātakan ti. ||  
+Ja_IV:148 ||  
 
 
 <!-- PTS Page 121 -->
@@ -1514,7 +1662,8 @@ dāpeti[^122-1] sedāpeti[^122-2]. Rājā ñatvā taṃ pakkosāpetvā "bhadde, 
 
 gabbaṃ pavisanto ummāre ṭhatvā" ti. So "sādhū" 'ti sampaticchitvā ācariyaṃ vanditvā gato[^123-1], uparajje[^123-2] patiṭṭhāya pitu accayena rajje patiṭṭhāsi. Tassa putto soḷasavassakāle rañño uyyānakīḷādīnaṃ atthāya nikkhamantassa sirivibhavaṃ[^123-3] disvā pitaraṃ[^123-4] māretvā[^123-5] rajjaṃ gahetukāmo hutvā attano upaṭṭhākānaṃ kathesi. Te "sādhu deva, mahallakakāle laddhena issariyena ko[^123-6] attho, yena kenaci upāyena rājānaṃ māretvā rajjaṃ gaṇhituṃ vaṭṭatīti" vadiṃsu. Kumāro "visaṃ khādāpetvā māressāmīti" pitarā saddhiṃ sāyamāsaṃ bhuñjanto visaṃ gahetvā[^123-7] nisīdi. Rājā bhattapātiyaṃ bhatte[^123-8] āraddhe yeva paṭhamaṃ gātham āha:
 
-Ja_IV,4.8(=338).1: Viditaṃ thusaṃ undurānaṃ, viditaṃ pana taṇḍulaṃ, thusaṃ thusaṃ vivajjetvā taṇḍulaṃ pana khādare ti. || Ja_IV:149 ||
+Ja_IV,4.8(=338).1: Viditaṃ thusaṃ undurānaṃ, viditaṃ pana taṇḍulaṃ, thusaṃ thusaṃ vivajjetvā taṇḍulaṃ pana khādare ti. ||  
+Ja_IV:149 ||  
 
 Tattha viditan ti kāḷavaddale[^123-9] pi andhakāre undurānaṃ thuso thusabhāvena taṇḍulo[^123-10] ca taṇḍulabhāvena vidito pākaṭo yeva[^123-11], idha pana liṅgavipallāsavasena[^123-12] thusaṃ viditaṃ taṇḍulan ti vuttaṃ, khādare ti thusaṃ vajjetvā taṇḍulam eva khādanti, idaṃ vuttaṃ hoti: tāta kumāra yathā undurānaṃ andhakāre pi thuso thusabhāvena taṇḍulo taṇḍulabhāvena pākaṭo te thusaṃ vajjetvā taṇḍulam eva khādanti evam evaṃ mama pi tava visaṃ gahetvā nisinnabhāvo pākaṭo ti. Kumāro "ñāto 'mhīti" bhīto bhattapātiyaṃ visaṃ upanetuṃ[^123-13] avisahitvā uṭṭhāya rājānaṃ vanditvā gato[^123-14]. So[^123-15] tam atthaṃ attano upaṭṭhākānaṃ ārocetvā "ajja tāv'; amhi ñāto, idāni kathaṃ māressāmīti" pucchi. Te tato paṭṭhāya uyyāne paṭicchannā hutvā nikaṇṇikavasena[^123-16] mantayamānā "atth'; eko upāyo, khaggaṃ sannayhitvā[^123-17] mahāupaṭṭhānaṃ[^123-18] gatakāle amaccānaṃ antare ṭhatvā rañño pamattabhāvaṃ ñatvā khaggena paharitvā māretuṃ vaṭṭatīti" vavatthapesuṃ. Kumāro "sādhū" 'ti sampaṭicchitvā mahāupaṭṭhānakāle[^123-19] sannaddha-
 
@@ -1526,11 +1675,13 @@ Tattha viditan ti kāḷavaddale[^123-9] pi andhakāre undurānaṃ thuso thusab
 
 khaggo[^124-1] gantvā ito c'; ito ca[^124-2] rañño paharaṇokāsaṃ upadhāresi[^124-3]. Tasmiṃ khaṇe rājā dutiyaṃ gātham āha:
 
-Ja_IV,4.8(=338).2: Yā[^124-4] mantaṇā[^124-5] araññasmiṃ yā ca gāme nikaṇṇikā[^124-6] yañ[^124-7] c'; etaṃ iti c'; īti ca[^124-8] etam pi viditaṃ mayā ti. || Ja_IV:150 ||
+Ja_IV,4.8(=338).2: Yā[^124-4] mantaṇā[^124-5] araññasmiṃ yā ca gāme nikaṇṇikā[^124-6] yañ[^124-7] c'; etaṃ iti c'; īti ca[^124-8] etam pi viditaṃ mayā ti. ||  
+Ja_IV:150 ||  
 
 Tattha araññasmin ti uyyāne, nikaṇṇikā[^124-9] ti kaṇṇamūle mantaṇā[^124-10], yañ[^124-11] cetaṃ[^124-12] iti cīti cā[^124-13] 'ti yañ ca etaṃ idāni mama paharaṇokāsapariyesanaṃ[^124-14], idaṃ vuttaṃ hoti: tāta kumāra, yā esā tava attano upaṭṭhākehi saddhiṃ uyyāne ca gāme ca nikaṇṇikā[^124-15] mantaṇā[^124-16] yañ c'; etaṃ idāni mama maraṇatthāya[^124-17] iti c'; īti ca[^124-18] kāraṇaṃ[^124-19] etam pi[^124-20] sabbaṃ mayā ñātan ti. Kumāro "jānāti me veribhāvaṃ pitā" ti[^124-21] palāyitvā upaṭṭhākānaṃ ārocesi. Te sattaṭṭhadivase atikkamitvā "kumāra na te pitā[^124-21] veribhāvaṃ jānāti, takkamattena tvaṃ evaṃsaññī ahosi, mārehi nan" ti vadiṃsu. So ekadivasaṃ khaggaṃ gahetvā sopānamatthake[^124-22] gabbhe aṭṭhāsi. Rājā sopānamatthake[^124-22] ṭhito tatiyaṃ gātham āha:
 
-Ja_IV,4.8(=338).3: Dhammena kira jātassa pitā puttassa makkaṭo daharass'; eva santassa dantehi phalam acchidā[^124-23] ti. || Ja_IV:151 ||
+Ja_IV,4.8(=338).3: Dhammena kira jātassa pitā puttassa makkaṭo daharass'; eva santassa dantehi phalam acchidā[^124-23] ti. ||  
+Ja_IV:151 ||  
 
 Tattha dhammenā 'ti sabhāvena, puttassa makkaṭo ti pitā makkaṭo puttassa makkaṭapotassa[^124-24], idaṃ vuttaṃ hoti: yathā araññe jāto makkaṭo attano yūthapariharaṇaṃ āsaṃkanto taruṇassa makkaṭapotakassa[^124-24] dantehi phalaṃ chinditvā purisabhāvaṃ nāseti tathā tava pi[^124-25] atirajjakāmassa phalāni uppāṭetvā[^124-26] purisabhāvaṃ nāsessāmīti. Kumāro "gaṇhāpetukāmo maṃ pitā" ti bhīto palāyitvā "pitarā maṃ[^124-27] santajjito" ti upaṭṭhākānaṃ ārocesi. Te addhamāsamatte[^124-28] vītivatte "kumāra, sace taṃ rājā jāneyya ettakaṃ kālaṃ nādhivāseyya, takkamattena tayā kathitaṃ[^124-29],
 
@@ -1542,7 +1693,8 @@ Tattha dhammenā 'ti sabhāvena, puttassa makkaṭo ti pitā makkaṭo puttassa 
 
 mārehi nan" ti vadiṃsu. So ekadivasaṃ khaggaṃ gahetvā uparipāsāde sirisayanaṃ pavisitvā "āgacchantam eva naṃ paharissāmīti[^125-1]" heṭṭhā pallaṃke nipajji[^125-2]. Rājā bhuttasāyamāso parijanaṃ uyyojetvā "nipajjissāmīti" sirigabbhaṃ pavisitvā[^125-3] ummāre ṭhatvā catutthaṃ gātham āha:
 
-Ja_IV,4.8(=338).4: Yam etaṃ parisappasi ajā kāṇā[^125-4] va sāsape yo p'; āyaṃ heṭṭhato seti etam pi viditaṃ[^125-5] mayā ti. || Ja_IV:152 ||
+Ja_IV,4.8(=338).4: Yam etaṃ parisappasi ajā kāṇā[^125-4] va sāsape yo p'; āyaṃ heṭṭhato seti etam pi viditaṃ[^125-5] mayā ti. ||  
+Ja_IV:152 ||  
 
 Tattha parisappasīti[^125-6] bhayena ito c'; ito ca hosi[^125-7] sāsape ti sāsapakkhette, yo pāyan ti yo pi ayaṃ, idaṃ vuttaṃ hoti: yam pi etaṃ[^125-8] sāsapavanaṃ[^125-9] paviṭṭhakāṇaeḷako[^125-10] viya bhayena ito c'; ito ca saṃsappasi paṭhamaṃ visaṃ gahetvā[^125-11] āgato si[^125-12] dutiyaṃ khaggena paharitukāmo hutvā āgato si tatiyaṃ khaggaṃ ādāya sopānamatthake[^125-13] ṭhatvā[^125-14] aṭṭhāsi idāni maṃ[^125-15] māressāmīti heṭṭhā sayane nipanno si sabbam etaṃ jānāmi, na taṃ[^125-16] idāni lajjāmi[^125-17], gahetvā rājāṇaṃ kāremīti[^125-18], evaṃ tassa ajānantass'; eva sā gāthā taṃ[^125-19] atthaṃ[^125-20] dīpeti[^125-21]. Kumāro "ñāto 'mhi pitarā, idāni maṃ nāsessatīti" bhayappatto[^125-22] heṭṭhā sayanā nikkhamitvā khaggaṃ rañño pādamūle chaḍḍetvā[^125-23] "khamāhi me devā" 'ti pādamūle udarena[^125-24] nipajji. Rājā "na mayhaṃ koci[^125-25] kammaṃ jānātīti tvaṃ cintesīti" taṃ tajjetvā saṃkhalikabandhanena bandhāpetvā kāraṇagharaṃ[^125-26] pavesetvā[^125-27] ārakkhaṃ ṭhapesi. Tadā rājā Bodhisattassa guṇaṃ sallakkhesi. Tato[^125-28] aparabhāge kālam akāsi. Tassa sarīrakiccaṃ katvā kumāraṃ bandhanāgārā nīharitvā rajje patiṭṭhāpesuṃ. Satthā imaṃ desanaṃ[^125-29] āharitvā "evaṃ mahārāja porāṇakarājāno āsaṃkitabbayuttakaṃ āsaṃkantīti" imaṃ[^125-30] kāraṇaṃ kathesi,
 
@@ -1570,13 +1722,17 @@ demā" 'ti. Anupubbena vaḍḍhetvā "satena dethā" 'ti vutte "amhākaṃ esa 
 
 ##### *[PTS Page 128]*
 
-Ja_IV,4.9(=339).1: Adassanena morassa sikhino mañjubhāṇino kākaṃ tattha apūjesuṃ maṃsena ca phalena ca. || Ja_IV:153 ||
+Ja_IV,4.9(=339).1: Adassanena morassa sikhino mañjubhāṇino kākaṃ tattha apūjesuṃ maṃsena ca phalena ca. ||  
+Ja_IV:153 ||  
 
-Ja_IV,4.9(=339).2: Yadā ca sarasampanno moro Bāverum āgamā atha lābho ca sakkāro vāyasassa ahāyatha[^128-1]. || Ja_IV:154 ||
+Ja_IV,4.9(=339).2: Yadā ca sarasampanno moro Bāverum āgamā atha lābho ca sakkāro vāyasassa ahāyatha[^128-1]. ||  
+Ja_IV:154 ||  
 
-Ja_IV,4.9(=339).3: Yāva n'; uppajjati Buddho dhammarājā pabhaṃkaro tāva aññe apūjesuṃ puthū[^128-2] samaṇabrāhmaṇe. || Ja_IV:155 ||
+Ja_IV,4.9(=339).3: Yāva n'; uppajjati Buddho dhammarājā pabhaṃkaro tāva aññe apūjesuṃ puthū[^128-2] samaṇabrāhmaṇe. ||  
+Ja_IV:155 ||  
 
-Ja_IV,4.9(=339).4: Yadā ca sarasampanno Buddho dhammam adesayi atha lābho ca sakkāro titthiyānaṃ ahāyathā[^128-1] ti. || Ja_IV:156 ||
+Ja_IV,4.9(=339).4: Yadā ca sarasampanno Buddho dhammam adesayi atha lābho ca sakkāro titthiyānaṃ ahāyathā[^128-1] ti. ||  
+Ja_IV:156 ||  
 
 Tattha sikhino[^128-3] ti sikhāya samannāgatassa, mañjubhāṇino ti madhurasarassa, apūjesun ti pūjayiṃsu[^128-4], tattha[^128-5] phalena cā 'ti nānappakārena[^128-6] phalāphalena ca[^128-7], Bāverumāgato ti[^128-8] Bāveruraṭṭhaṃ[^128-9] āgato, Bāverun ti pi pāṭho, ahāyathā ti parihīno[^128-10], dhammarājā ti navahi lokuttaradhammehi parisaṃ rañjetīti dhammarājā, pabhaṃkaro ti sattalokasaṃkhāralokesu[^128-11] ālokassa katattā[^128-12], sarasampanno ti brahmassarena samannāgato, dhammamadesayīti catusaccadhammaṃ pakāsesīti[^128-13]. Imā catasso gāthā bhāsitvā[^128-14] jātakaṃ samodhānesi: "Tadā kāko Nigaṇṭho Nāthaputto[^128-15] ahosi, morarājā[^128-16] aham evā[^128-17]" 'ti. Bāverujātakaṃ[^128-18].
 
@@ -1598,7 +1754,8 @@ hutvā pañcahi sīlehi samannāgato dānajjhāsayo dānābhirato ahosi. So cat�
 
 mīti" āharitvā adāsi. Mahāsatto "bhadde, mayā ettakaṃ kālaṃ tiṇaṃ nāma na lāyitapubbaṃ[^130-1], ajja pana tiṇaṃ lāyitvā āharitvā vikkiṇitvā yathānucchavikam dānaṃ dassāmīti" dānupacchedabhayena[^130-2] asitañ c'; eva kājañ ca rajjuñ ca gahetvā nagarā nikkhamma[^130-3] tiṇavatthuṃ[^130-4] gantvā tiṇaṃ lāyitvā "eko[^130-5] amhākaṃ bhavissati, ekena[^130-6] dānaṃ dassāmīti" dve tiṇakalāpe bandhitvā kāje[^130-7] laggetvā[^130-8] ādāya gantvā nagaradvāre vikiṇitvā māsake gahetvā[^130-9] ekaṃ koṭṭhāsaṃ yācakānaṃ adāsi. Yācakā bahū, tesaṃ "mayham pi dehi[^130-10], mayham pi dehīti" vadantānaṃ itaram pi koṭṭhāsaṃ datvā taṃ[^130-11] divasaṃ saddhiṃ bhariyāya anāhāro vītināmesi. Iminā niyāmena cha divasā vītivattā. Ath'; assa sattame divase tiṇaṃ āharamānassa sattāhaṃ nirāhārassa pakatisukhumālassa[^130-12] nalāṭe[^130-13] suriyātapena pahaṭamatte[^130-14] akkhīni bhamiṃsu. So satiṃ paccupaṭṭhāpetuṃ[^130-15] asakkonto tiṇaṃ avattharitvā pati[^130-16]. Sakko tassa kiriyaṃ upadhārayamāno[^130-17] vicarati[^130-18]. So[^130-19] taṃ khaṇaṃ[^130-20] āgantvā ākāse ṭhatvā paṭhamaṃ gātham āha:
 
-Ja_IV,4.10(=340).1: Adāsi dānāni pure[^130-21] Visayha, dadato ca[^130-22] te khayadhammo ahosi, itoparañ[^130-23] ce na dadeyya dānaṃ tiṭṭheyyuṃ te saṃñamantassa[^130-24] bhogā ti. || Ja_IV:157 ||
+Ja_IV,4.10(=340).1: Adāsi dānāni pure[^130-21] Visayha, dadato ca[^130-22] te khayadhammo ahosi, itoparañ[^130-23] ce na dadeyya dānaṃ tiṭṭheyyuṃ te saṃñamantassa[^130-24] bhogā ti. ||  
+Ja_IV:157 ||  
 
 Tass'; attho: ambho Visayha, tvaṃ ito pubbe tava gehe dhane vijjamāne sakala-Jambudīpaṃ[^130-25] unnaṃgalaṃ katvā[^130-26] dānaṃ adāsi, tassa ca evaṃ[^130-27] dadato bhogānañ ca khayadhammo khayabhāvo[^130-28] ahosi, sabbam sāpateyyaṃ khīṇaṃ, itoparañ[^130-29] ce pi[^130-30] dānaṃ na[^130-31] dadeyyāsi[^130-32] tava saṃñamantassa[^130-33] bhogā tath'
 
@@ -1610,11 +1767,14 @@ Tass'; attho: ambho Visayha, tvaṃ ito pubbe tava gehe dhane vijjamāne sakala-
 
 eva tiṭṭheyyuṃ, ito paṭṭhāya na dassāmīti[^131-1] mayhaṃ paṭiññaṃ dehi, ahaṃ te bhoge dassessan[^131-2] ti. Mahāsatto tassa vacanaṃ sutvā "ko si tvan" ti āha. "Sakko 'ham asmīti". Bodhisatto[^131-3] "Sakko nāma sayaṃ dānaṃ datvā sīlaṃ samādiyitvā[^131-4] uposathakammaṃ katvā satta vatapadāni[^131-5] pūretvā Sakkattaṃ patto[^131-6], tvaṃ pana attano[^131-7] issariyakārakaṃ[^131-8] dānaṃ vāresi, anariyaṃ vata karosīti" vatvā tisso gāthā abhāsi:
 
-Ja_IV,4.10(=340).2: Anariyam ariyena sahassanetta suduggatenāpi akiccam āhu, mā vo[^131-9] dhanan taṃ[^131-10] ahuvā janinda[^131-11] yambhogahetu[^131-12] vijahemu saddhaṃ. || Ja_IV:158 ||
+Ja_IV,4.10(=340).2: Anariyam ariyena sahassanetta suduggatenāpi akiccam āhu, mā vo[^131-9] dhanan taṃ[^131-10] ahuvā janinda[^131-11] yambhogahetu[^131-12] vijahemu saddhaṃ. ||  
+Ja_IV:158 ||  
 
-Ja_IV,4.10(=340).3: Yena eko ratho yāti yāti tenāparo[^131-13] ratho, porāṇaṃ nihitaṃ[^131-14] vaḍḍhaṃ[^131-15] vaḍḍhataṃ ñeva[^131-16] Vāsava. || Ja_IV:159 ||
+Ja_IV,4.10(=340).3: Yena eko ratho yāti yāti tenāparo[^131-13] ratho, porāṇaṃ nihitaṃ[^131-14] vaḍḍhaṃ[^131-15] vaḍḍhataṃ ñeva[^131-16] Vāsava. ||  
+Ja_IV:159 ||  
 
-Ja_IV,4.10(=340).4: Yadi hessati dassāma, asante kiṃ dadāmase, evaṃ bhūtāpi dassāma, mā dānaṃ pamadamhase[^131-17] ti. || Ja_IV:160 ||
+Ja_IV,4.10(=340).4: Yadi hessati dassāma, asante kiṃ dadāmase, evaṃ bhūtāpi dassāma, mā dānaṃ pamadamhase[^131-17] ti. ||  
+Ja_IV:160 ||  
 
 Tattha anariyan ti lāmakaṃ pāpakammaṃ, ariyenā[^131-18] 'ti parisuddhācārena ācārāriyena[^131-19], suduggatenāpīti sudaliddenāpi[^131-20], akiccamāhū ti akattabban ti[^131-21] Buddhādayo ariyā vadanti, tvaṃ pana maṃ[^131-22] anariyamaggaṃ āropesīti[^131-23] adhippāyo, vo[^131-24] ti nipātamattaṃ yambhogahetū[^131-25] 'ti yassa dhanassa paribhuñjanahetu mayaṃ dānasaddhaṃ[^131-26] vijahemu pariccajeyyāma taṃ no dhanam eva mā ahu na no tena dhanena attho ti dīpeti, ratho ti yaṃ kiñci yānaṃ, idaṃ vuttaṃ hoti: yena maggena eko ratho yāti añño pi ratho yāti[^131-27], rathassa gatamaggo[^131-28] eso ti ten'; eva maggena yāti, porāṇaṃ nihitaṃ vaḍḍhan[^131-29] ti yaṃ mayā pubbe nihitaṃ vaḍḍhaṃ[^131-30] taṃ mayi dharante[^131-31] yeva mā tiṭṭhatū[^131-32] 'ti attho, evaṃ bhūtā ti evaṃ tiṇahārahabhūtāpi
 
@@ -1638,11 +1798,14 @@ yāva jīvāma tāva[^132-1] dassāma yeva, kiṃkāraṇā: mā dānaṃ pamada
 
 2. Vānarajātaka. Asakkhiṃ[^133-1] vata attānan ti. Idaṃ Satthā Veḷuvane viharanto Devadattassa vadhāya parisakkanaṃ[^133-2] ārabbha kathesi. Vatthuṃ heṭṭhā[^133-3] vitthāritam eva[^133-4]. Atīte pana[^133-5] Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto Himavantapadese[^133-6] kapiyoniyaṃ nibbattitvā vayappatto Gaṅgātīre vasi. Ath'; ekā anto Gaṅgāya[^133-7] suṃsumārī Bodhisattassa hadayamaṃse dohaḷaṃ uppādetvā suṃsumārassa kathesi. So "Bodhisattaṃ udake nimujjāpetvā māretvā hadayamaṃsaṃ gahetvā suṃsumāriyā dassāmīti" cintetvā Mahāsattaṃ āha: "ehi samma, antaradīpake phalāphale khādituṃ gacchāmā" 'ti. "Ahaṃ kathaṃ[^133-8] gamissāmīti" āha. "Taṃ mama piṭṭhiyaṃ nisīdāpetvā nessāmīti". So tassa cittaṃ ajānanto laṃghitvā piṭṭhiyaṃ nisīdi. Suṃsumāro thokaṃ gantvā nimujjituṃ ārabhi[^133-9]. Atha naṃ vānaro "kiṃ[^133-10] bho maṃ udake nimujjāpesīti" āha. "Ahaṃ taṃ māretvā tava hadayamaṃsaṃ mama bhariyāya dassāmīti". "Dandha tvaṃ mama hadayamaṃsaṃ ure[^133-11] ti maññasīti". "Atha kahan[^133-12] te ṭhapitan" ti. "Etaṃ udumbare olambantaṃ na passasīti". "Passāmi, dassasi pana me" ti āha. "Āma dassāmīti". Suṃsumāro dandhatāya taṃ gahetvā nadītīre udumbaramūlaṃ gato. Bodhisatto tassa piṭṭhito laṃghitvā udumbararukkhe nisinno imā gāthā abhāsi:
 
-Ja_IV,5.2(=342).1: Asakkhiṃ[^133-1] vata attānaṃ uṭṭhātum udakā thalaṃ, idān'; āhaṃ puna tuyhaṃ vasaṃ gacchāmi vārija?. || Ja_IV:161 ||
+Ja_IV,5.2(=342).1: Asakkhiṃ[^133-1] vata attānaṃ uṭṭhātum udakā thalaṃ, idān'; āhaṃ puna tuyhaṃ vasaṃ gacchāmi vārija?. ||  
+Ja_IV:161 ||  
 
-Ja_IV,5.2(=342).2: Alam etehi ambehi[^133-13] jambūhi panasehi ca yāni pāraṃ samuddassa, varaṃ[^133-14] mayhaṃ udumbaro. || Ja_IV:162 ||
+Ja_IV,5.2(=342).2: Alam etehi ambehi[^133-13] jambūhi panasehi ca yāni pāraṃ samuddassa, varaṃ[^133-14] mayhaṃ udumbaro. ||  
+Ja_IV:162 ||  
 
-Ja_IV,5.2(=342).3: Yo ca uppatitaṃ atthaṃ na khippam anubujjhati amittavasam anveti, pacchā ca-m-anutappati[^133-15]. || Ja_IV:163 ||
+Ja_IV,5.2(=342).3: Yo ca uppatitaṃ atthaṃ na khippam anubujjhati amittavasam anveti, pacchā ca-m-anutappati[^133-15]. ||  
+Ja_IV:163 ||  
 
 
 <!-- PTS Page 134 -->
@@ -1650,7 +1813,8 @@ Ja_IV,5.2(=342).3: Yo ca uppatitaṃ atthaṃ na khippam anubujjhati amittavasa
 
 ##### *[PTS Page 134]*
 
-Ja_IV,5.2(=342).4: Yo ca uppatitaṃ atthaṃ khippam eva nibodhati muccate sattusambādhā, na ca pacchānutappatīti. || Ja_IV:164 ||
+Ja_IV,5.2(=342).4: Yo ca uppatitaṃ atthaṃ khippam eva nibodhati muccate sattusambādhā, na ca pacchānutappatīti. ||  
+Ja_IV:164 ||  
 
 Tattha asakkhiṃ[^134-1] vatā 'ti samattho vata ahosiṃ[^134-1], uṭṭhātun ti uddharitum, vārijā 'ti suṃsumāraṃ ālapati, yāni pāraṃ samuddassā 'ti Gaṅgaṃ[^134-2] samuddanāmena ālapanto yāni samuddassa pāraṃ gantvā khāditabbāni alaṃ tehīti[^134-3] vadati, pacchā camanutappatīti[^134-4] uppannaṃ atthaṃ khippaṃ ajānanto amittavasaṃ[^134-5] gacchati[^134-6], pacchā ca anutappatīti. Iti so catūhi gāthāhi lokikakiccānaṃ[^134-7] nipphattikāraṇaṃ kathetvā vanasaṇḍam eva pāvisi. Satthā imaṃ desanaṃ[^134-8] āharitvā jātakaṃ samodhānesi: "Tadā suṃsumāro Devadatto ahosi, vānaro aham evā" 'ti. Vānarajātakaṃ[^134-9].
 
@@ -1664,11 +1828,13 @@ Tattha asakkhiṃ[^134-1] vatā 'ti samattho vata ahosiṃ[^134-1], uṭṭhātu
 
 tinī[^135-1], yehi 'ssā potakā[^135-2] māritā te dārake vyagghassa purato[^135-3] pātetvā[^135-4] mārāpetvā[^135-5] palātā[^135-6]" ti. Satthā āgantvā "kayā nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idān'; eva pubbe p'; esā attano potaghātake ghātāpesi yevā[^135-7]" 'ti vatvā[^135-8] atītaṃ āhari: Atīte Bārāṇasiyaṃ Bodhisatto dhammena samena rajjaṃ kāreti[^135-9]. Tassa nivesane ekā kuntanī[^135-10] dūteyyahārikā ti sabbaṃ purimasadisam eva. Ayaṃ pana viseso: Ayam[^135-11] vyagghena dārake mārāpetvā cintesi: "idāni na sakkā mayā idha vasituṃ, gamissāmi, gacchantī[^135-12] ca[^135-13] rañño na anārocetvā[^135-14] gamissāmi, ārocetvā va gamissāmīti" sā rājānaṃ upasaṃkamitvā vanditvā ekamantaṃ ṭhitā "sāmi tumhākaṃ[^135-15] pamādena mama puttake dārakā māresuṃ, ahaṃ kodhavasikā hutvā[^135-16] dārake patimāresiṃ, idāni mayā idha[^135-17] vasituṃ na sakkā" ti vatvā paṭhamaṃ gātham āha:
 
-Ja_IV,5.3(=343).1: Avasimha tavāgāre niccaṃ[^135-18] sakkatapūjitā, tvam eva dānim akara[^135-19], handa rāja vajām'; ahan ti. || Ja_IV:165 ||
+Ja_IV,5.3(=343).1: Avasimha tavāgāre niccaṃ[^135-18] sakkatapūjitā, tvam eva dānim akara[^135-19], handa rāja vajām'; ahan ti. ||  
+Ja_IV:165 ||  
 
 Tattha tvameva dānimakarā 'ti maṃ paṇṇaṃ gāhāpetvā pesetvā attano pamādena mama piyaputtake ārakkhanto tvañ ñeva idāni etaṃ mama gamanakāraṇaṃ[^135-20] akari, handā 'ti vavassaggatthe[^135-21] nipāto, rājā 'ti Bodhisattaṃ ālapati, vajāmahan ti gacchāmi ahaṃ. Taṃ sutvā rājā dutiyaṃ gātham āha:
 
-Ja_IV,5.3(=343).2: Yo ve kate patikate kibbise patikibbise evaṃ[^135-22] taṃ sammatī[^135-23] veraṃ vasakuntani[^135-24] mā gamā ti. || Ja_IV:166 ||
+Ja_IV,5.3(=343).2: Yo ve kate patikate kibbise patikibbise evaṃ[^135-22] taṃ sammatī[^135-23] veraṃ vasakuntani[^135-24] mā gamā ti. ||  
+Ja_IV:166 ||  
 
 Tass'; attho: yo puggalo parena kate kibbise attano puttamāraṇādike dāruṇakamme kate puna attanā[^135-25] tassa puggalassa patikibbise kate[^135-26] pati-
 
@@ -1680,11 +1846,13 @@ Tass'; attho: yo puggalo parena kate kibbise attano puttamāraṇādike dāruṇ
 
 kataṃ mayā tassā 'ti jānāti, evaṃ[^136-1] taṃ sammatī[^136-2] veraṃ[^136-3] ettakena taṃ veraṃ sammati vūpasantaṃ hoti, tasmā vasa kuntani[^136-4] mā gamā ti. Taṃ sutvā[^136-5] tatiyaṃ gātham āha:
 
-Ja_IV,5.3(=343).3: Na katassa ca kattā ca mettī[^136-6] sandhīyate[^136-7] puna, hadayaṃ[^136-8] nānujānāti, gacchañ ñeva rathesabhā 'ti. || Ja_IV:167 ||
+Ja_IV,5.3(=343).3: Na katassa ca kattā ca mettī[^136-6] sandhīyate[^136-7] puna, hadayaṃ[^136-8] nānujānāti, gacchañ ñeva rathesabhā 'ti. ||  
+Ja_IV:167 ||  
 
 Tattha na katassa ca kattā cā 'ti katassa ca abhibhūtassa[^136-9] upapīḷitassa[^136-10] puggalassa idāni vibhattivipariṇāmaṃ[^136-11] katvā yo kattā ca tassa[^136-12] cā 'ti imesaṃ dvinnaṃ puggalānaṃ puna[^136-13] mittabhāvo nāma na sandhīyati na ghaṭīyatīti attho, hadayaṃ nānujānātīti tena kāraṇena mama hadayaṃ idhavāsaṃ[^136-14] nānujānāti[^136-15], gacchaññeva rathesabhā 'ti tasmā ahaṃ mahārāja gamissāmi yevā 'ti. Taṃ sutvā rājā catutthaṃ gātham āha:
 
-Ja_IV,5.3(=343).4: Katassa c'; eva kattā ca mettī[^136-16] sandhīyate[^136-17] puna dhīrānaṃ no ca bālānaṃ, vasa kuntani[^136-18] mā gamā ti. || Ja_IV:168 ||
+Ja_IV,5.3(=343).4: Katassa c'; eva kattā ca mettī[^136-16] sandhīyate[^136-17] puna dhīrānaṃ no ca bālānaṃ, vasa kuntani[^136-18] mā gamā ti. ||  
+Ja_IV:168 ||  
 
 Tass'; attho: katassa c'; eva[^136-19] puggalassa yo ca kattā tassa mettī[^136-20] sandhīyate[^136-21] puna, sā puna[^136-22] dhīrānaṃ no ca bālānaṃ, dhīrānaṃ hi metti[^136-23] bhinnāpi puna ghaṭīyati[^136-24], bālānaṃ pana sakiṃ bhinnā bhinnā va hoti[^136-25], tasmā vasa kuntani[^136-26] mā gamā ti. Sakuṇikā "evaṃ sante pi na sakkā mayā idha[^136-27] vasituṃ sāmīti" rājānaṃ vanditvā uppatitvā Himavantam eva gatā. Satthā imaṃ desanaṃ[^136-28] āharitvā jātakaṃ samodhānesi: "Tadā kuntanī[^136-29] yeva etarahi kuntanī[^136-30] ahosi, Bārāṇasirājā pana aham evā" 'ti. Kuntanijātakaṃ[^136-31].
 
@@ -1704,11 +1872,13 @@ Tass'; attho: katassa c'; eva[^136-19] puggalassa yo ca kattā tassa mettī[^136
 
 pakaṃ anācāraṃ jaṭilaṃ[^138-1] disvā "ayaṃ kūṭajaṭilo kasiṇaparikammādiṃ attano samaṇadhammaṃ pahāya ambavanaṃ rakkhanto vicarati, saṃvejessāmi nan" ti tassa gāmaṃ bhikkhāya paviṭṭhakāle attano ānubhāvena ambe pātetvā corehi vilutte[^138-2] viya akāsi. Tadā Bārāṇasito catasso seṭṭhidhītaro taṃ ambavanaṃ pavisiṃsu. Kūṭajaṭilo tā disvā "tumhehi[^138-3] ambāni khāditānīti" palibuddhi. "Bhante, mayaṃ idāni āgatā, na te ambāni khādimhā[^138-4]" 'ti. "Tena hi sapathaṃ karothā" 'ti[^138-5]. "Katvā puna[^138-6] gantuṃ labhissāma bhante" ti. "Āma labhissathā" 'ti. "Sādhu bhante" ti tāsaṃ[^138-7] jeṭṭhikā sapathaṃ karontī paṭhamaṃ gātham āha:
 
-Ja_IV,5.4(=344).1: Yo nīliyaṃ[^138-8] maṇḍayati saṇḍāsena vihaññati tassa sā vasam anvetu yā te ambe[^138-9] avāharīti. || Ja_IV:169 ||
+Ja_IV,5.4(=344).1: Yo nīliyaṃ[^138-8] maṇḍayati saṇḍāsena vihaññati tassa sā vasam anvetu yā te ambe[^138-9] avāharīti. ||  
+Ja_IV:169 ||  
 
 Tass'; attho: yo puriso palitāni kālavaṇṇakaraṇatthāya tiphalādīhi[^138-10] yojetvā[^138-11] kataṃ nīliyakaṃ[^138-12] maṇḍayati nīlakesantare[^138-13] ca uṭṭhitaṃ[^138-14] uddharanto saṇḍāsena vihaññati kilamati tassa evarūpassa mahallakassa sā vasaṃ anvetu tathārūpaṃ patiṃ[^138-16] labhatu yā te ambe avāharīti. Tāpaso "tvaṃ ekamantaṃ tiṭṭhā[^138-17]" 'ti vatvā dutiyaṃ seṭṭhidhītaraṃ kāresi. Sā dutiyaṃ gātham āha:
 
-Ja_IV,5.4(=344).2: Vīsaṃ vā paṇṇuvīsaṃ[^138-18] vā ūnatiṃsaṃ va[^138-19] jātiyā tādisā patiṃ mā laddhā[^138-20] yā te ambe avāharīti. || Ja_IV:170 ||
+Ja_IV,5.4(=344).2: Vīsaṃ vā paṇṇuvīsaṃ[^138-18] vā ūnatiṃsaṃ va[^138-19] jātiyā tādisā patiṃ mā laddhā[^138-20] yā te ambe avāharīti. ||  
+Ja_IV:170 ||  
 
 Tass'; attho: nāriyo nāma pannarasasoḷasavassakāle purisānaṃ piyā honti, yā pana tava ambāni avāhari sā evarūpe yobbane patiṃ alabhitvā jātiyā vīsaṃ vā pañcavīsaṃ. vā[^138-21] ekena dvīhi ūnatāya ūnatiṃsaṃ[^138-22] vā vassāni patvā tādisā paripakkavayā hutvāpi patiṃ mā latthā[^138-23] ti. Tāya pi sapathaṃ katvā ekamantaṃ ṭhitāya tatiyā tatiyaṃ gātham āha:
 
@@ -1718,11 +1888,13 @@ Tass'; attho: nāriyo nāma pannarasasoḷasavassakāle purisānaṃ piyā honti
 
 ##### *[PTS Page 139]*
 
-Ja_IV,5.4(=344).3: Dīghaṃ gacchatu addhānaṃ ekikā abhisāriyā saṃkete patiṃ mā[^139-1] addasa[^139-2] yā te ambe avāharīti. || Ja_IV:171 ||
+Ja_IV,5.4(=344).3: Dīghaṃ gacchatu addhānaṃ ekikā abhisāriyā saṃkete patiṃ mā[^139-1] addasa[^139-2] yā te ambe avāharīti. ||  
+Ja_IV:171 ||  
 
 Tass'; attho: yā te ambe avāhari sā patiṃ patthayamānā tassa santikaṃ abhisaraṇatāya abhisāriyā[^139-4] nāma hutvā ekā[^139-4] adutiyā gāvutaddhagāvutamattaṃ[^139-5] dīghaṃ addhānaṃ gacchatu[^139-6] gantvāpi ca tasmiṃ asukaṭṭhānaṃ nāma āgaccheyyāsīti kate saṃkete patiṃ mā addasā 'ti. Tāya pi sapathaṃ katvā ekamantaṃ ṭhitāya catutthā catutthaṃ gātham āha:
 
-Ja_IV,5.4(=344).4: Alaṃkatā suvasanā mālinī candanussadā ekikā sayane sayatu yā te ambe avāharīti. || Ja_IV:172 ||
+Ja_IV,5.4(=344).4: Alaṃkatā suvasanā mālinī candanussadā ekikā sayane sayatu yā te ambe avāharīti. ||  
+Ja_IV:172 ||  
 
 Sā uttānatthā yeva. Tāpaso "tumhehi bhāriyā[^139-7] sapathā katā, aññehi ambā khāditā[^139-8] bhavissanti, gacchatha dāni tumhe" ti tā uyyojesi. Sakko bheravarūpārammaṇaṃ dassetvā kūṭatāpasaṃ tato palāpesi. Satthā imaṃ desanaṃ[^139-9] āharitvā jātakaṃ samodhānesi: "Tadā kūṭajaṭilo ayaṃ ambagopako mahallako[^139-10] ahosi, catasso setthidhītaro etā yeva, Sakko pana aham evā[^139-11]" 'ti. Ambacorajātakaṃ[^139-12].
 
@@ -1736,11 +1908,13 @@ Sā uttānatthā yeva. Tāpaso "tumhehi bhāriyā[^139-7] sapathā katā, aññe
 
 viharatīti". Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idān'; eva pubbe pi so[^140-1] ālasiko yevā" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto tassa amaccaratanaṃ[^140-2] ahosi. Bārāṇasirājā ālasiyajātiko ahosi. Bodhisatto "rājānaṃ bodhessāmīti[^140-3]" ekaṃ upāyaṃ[^140-4] upadhārento carati[^140-5]. Ath'; ekadivasaṃ rājā uyyānaṃ gantvā amaccaparivuto[^140-6] tattha vicaranto ekaṃ gajakumbhaṃ[^140-7] ālasiyaṃ passi. Tathārūpā kira ālasiyā sakaladivasaṃ gacchantāpi[^140-8] ekaṅguladvaṅgulamattam[^140-9] eva gacchanti[^140-10]. Rājā {taṃ} disvā "vayassa ko nām'; eso" ti[^140-11] pucchi. Bodhisatto[^140-12] "gajakumbho[^140-7] nām'; esa mahārāja ālasiyo[^140-13], evarūpo[^140-14] hi sakaladivasaṃ gacchanto[^140-15] pi ekaṅguladvaṅgulamattam eva gacchatīti[^140-16]" vatvā tena saddhiṃ sallapanto[^140-17] "ambho gajakumbha[^140-7], tumhākaṃ[^140-18] dandhagamanaṃ, imasmiṃ araññe dāvaggimhi uṭṭhite kiṃ karothā" 'ti vatvā paṭhamaṃ gātham āha:
 
-Ja_IV,5.5(=345).1: Vanaṃ yad'; aggi dahati pāvako kaṇhavattanī[^140-19] kathaṃ karosi pacalaka evaṃ dandhaparakkamo ti. || Ja_IV:173 ||
+Ja_IV,5.5(=345).1: Vanaṃ yad'; aggi dahati pāvako kaṇhavattanī[^140-19] kathaṃ karosi pacalaka evaṃ dandhaparakkamo ti. ||  
+Ja_IV:173 ||  
 
 Tattha yadaggīti yadā aggi, pāvako kaṇhavattanīti aggino va[^140-20] vevacanāni[^140-21], pacalakā 'ti taṃ ālapati, so hi calanto calanto gacchati, niccaṃ vā pacalāyati, tasmā pacalako ti vuccati, dandhaparakkamo ti garuviriyo[^140-22]. Taṃ sutvā gajakumbho[^140-7] dutiyaṃ gātham āha:
 
-Ja_IV,5.5(=345).2: Bahūni rukkhacchiddāni pathavyā vivarāni ca, tāni ce nābhisambhoma hoti no kālapariyāyo ti. || Ja_IV:174 ||
+Ja_IV,5.5(=345).2: Bahūni rukkhacchiddāni pathavyā vivarāni ca, tāni ce nābhisambhoma hoti no kālapariyāyo ti. ||  
+Ja_IV:174 ||  
 
 Tass'; attho: paṇḍita, amhākaṃ ito uttarigamanaṃ nāma n'; atthi imasmiṃ pana araññe rukkhacchiddāni ca puthuvivivarāni[^140-23] ca bahūni, yadi[^140-24] tāni na pāpuṇāma hoti no kālapariyāyo ti maraṇam eva no hotīti.
 
@@ -1752,9 +1926,11 @@ Tass'; attho: paṇḍita, amhākaṃ ito uttarigamanaṃ nāma n'; atthi imasmi
 
 Taṃ sutvā Bodhisatto itarā dve gāthā abhāsi:
 
-Ja_IV,5.5(=345).3: Yo dandhakāle tarati taraṇīye ca[^141-1] dandhati sukkhapaṇṇaṃ va akkamma[^141-2] atthaṃ bhañjati[^141-3] attano. || Ja_IV:175 ||
+Ja_IV,5.5(=345).3: Yo dandhakāle tarati taraṇīye ca[^141-1] dandhati sukkhapaṇṇaṃ va akkamma[^141-2] atthaṃ bhañjati[^141-3] attano. ||  
+Ja_IV:175 ||  
 
-Ja_IV,5.5(=345).4: Yo dandhakāle dandhati taraṇīye ca[^141-1] tārayi sasīva rattiṃ vibhajaṃ tass'; attho paripūratīti. || Ja_IV:176 ||
+Ja_IV,5.5(=345).4: Yo dandhakāle dandhati taraṇīye ca[^141-1] tārayi sasīva rattiṃ vibhajaṃ tass'; attho paripūratīti. ||  
+Ja_IV:176 ||  
 
 Tattha dandhakāle ti tesaṃ tesaṃ kammānaṃ saṇikaṃ[^141-4] kattabbakāle, taratīti turito[^141-5] vegena tāni kammāni karoti, sukkhapaṇṇaṃ vā 'ti yathā vātātapasukkhaṃ[^141-6] tālapaṇṇaṃ balavā puriso akkamitvā bhañjeyya[^141-7] tatth'; eva[^141-8] cuṇṇavicuṇṇaṃ[^141-9] kareyya[^141-10] evaṃ so attano atthaṃ vaḍḍhiṃ[^141-11] bhañjati[^141-12], dandhatīti[^141-13] dandhāyati dandhakātabbakammāni[^141-14] dandham eva karoti, tārayīti[^141-15] tarati[^141-16] turitaṃ kātabbāni kammāni turito va karoti, sasīva rattiṃ vibhajan ti yathā navacando[^141-17] ayaṃ juṇhapakkharattito[^141-18] rattiṃ[^141-19] vibhajanto divase divase paripūrati[^141-20] evaṃ tassa purisassa attho paripūratīti[^141-20] vuttaṃ hoti. Rājā Bodhisattassa vacanaṃ {sutvā} tato paṭṭhāya analaso jāto. Satthā imaṃ desanaṃ[^141-21] āharitvā jātakaṃ samodhānesi: "Tadā gajakumbho[^141-22] alasabhikkhu[^141-23] ahosi, paṇḍitāmacco[^141-24] pana aham evā" 'ti. Gajakumbhajātakaṃ[^141-25].
 
@@ -1784,15 +1960,18 @@ kumāro ti 'ssa nāmaṃ ahaṃsu. So vayappatto Takkasilāyaṃ sabbasippāni u
 
 adhūpanena udakena sittapaṇṇena[^144-1] saddhiṃ sāmākanīvārayāguṃ adāsi, tassa taṃ khaṇañ ñeva lohitapakkhandikā paṭippassambhi. Puna rājā Nāradaṃ pesesi: "gaccha Kesavatāpasassa pavattiṃ jānāhīti". So āgantvā[^144-2] taṃ ārogaṃ disvā "bhante Bārāṇasirājā pañca vejjakulāni gahetvā paṭijagganto tumhe āroge kātuṃ nāsakkhi, kathaṃ vo[^144-3] Kappo paṭijaggīti" vatvā paṭhamaṃ {gātham} āha:
 
-Ja_IV,5.6(=346).1: Manussindaṃ jahitvāna sabbakāmasamiddhinaṃ (Dhp. p.215.) kathan nu bhagavā Kesī Kappassa ramati assame ti. || Ja_IV:177 ||
+Ja_IV,5.6(=346).1: Manussindaṃ jahitvāna sabbakāmasamiddhinaṃ (Dhp. p.215.) kathan nu bhagavā Kesī Kappassa ramati assame ti. ||  
+Ja_IV:177 ||  
 
 Tattha manussindan ti manussānaṃ indaṃ Bārāṇasirājānaṃ, kathan nu bhagavā Kesīti kena nu kho upāyena[^144-4] ayaṃ amhākaṃ bhagavā Kesavatāpaso[^144-5] Kappassa assame ramatīti evaṃ aññena[^144-6] saddhiṃ sallapanto viya Kesavassa abhiratikāraṇaṃ[^144-7] pucchi. Taṃ sutvā Kesavo dutiyaṃ gātham āha:
 
-Ja_IV,5.6(=346).2: Sādūni ramaṇīyāni santi rakkhā[^144-8] manoramā, subhāsitāni Kappassa Nārada ramayanti man ti. || Ja_IV:178 ||
+Ja_IV,5.6(=346).2: Sādūni ramaṇīyāni santi rakkhā[^144-8] manoramā, subhāsitāni Kappassa Nārada ramayanti man ti. ||  
+Ja_IV:178 ||  
 
 Tattha santi rakkhā[^144-9] ti rukkhā, pāliyaṃ[^144-10] pāna rukkhā[^144-11] t'; eva[^144-12] likhitaṃ, subhāsitānīti[^144-13] Kappena kathitāni subhasitāni ca[^144-14] ramayanti man[^144-15] ti attho. Evañ ca pana vatvā "evaṃ maṃ abhiramāpento Kappo aloṇādhūpanaudakasittapaṇṇamissaṃ[^144-16] sāmākanīvārayāguṃ pāyesi, tāya me sarīravyādhi[^144-17] samito[^144-18] ti[^144-19] nīrogo[^144-20] jāto 'mhīti" āha. Taṃ sutvā Nārado tatiyaṃ gātham āha:
 
-Ja_IV,5.6(=346).3: Sālīnaṃ odanaṃ bhuñje suciṃ[^144-21] maṃsūpasecanaṃ, kathaṃ sāmākanīvāraṃ[^144-22] aloṇaṃ[^144-23] chādayanti[^144-24] tan ti. || Ja_IV:179 ||
+Ja_IV,5.6(=346).3: Sālīnaṃ odanaṃ bhuñje suciṃ[^144-21] maṃsūpasecanaṃ, kathaṃ sāmākanīvāraṃ[^144-22] aloṇaṃ[^144-23] chādayanti[^144-24] tan ti. ||  
+Ja_IV:179 ||  
 
 
 <!-- PTS Page 145 -->
@@ -1802,7 +1981,8 @@ Ja_IV,5.6(=346).3: Sālīnaṃ odanaṃ bhuñje suciṃ[^144-21] maṃsūpaseca
 
 Tattha bhuñje ti bhuñji[^145-1] ayam eva vā pāṭho, chādayantīti chādayati[^145-2] pīṇeti toseti, gāthābandhasukhatthaṃ pana anunāsiko kato, idaṃ vuttaṃ hoti: so[^145-3] tvaṃ suciṃ maṃsūpasecanaṃ rājakule rājārahaṃ sālibhattaṃ bhuñji[^145-4], taṃ[^145-5] katham idaṃ sāmākanīvāraṃ[^145-6] aloṇaṃ[^145-7] pīṇesi tosesi, kathaṃ te etaṃ ruccatīti. Taṃ sutvā Kesavo catutthaṃ gātham āha:
 
-Ja_IV,5.6(=346).4: Asāduṃ yadi vā sāduṃ appaṃ vā yadi vā bahuṃ vissattho yattha bhuñjeyya vissāsaparamā rasā ti. || Ja_IV:180 ||
+Ja_IV,5.6(=346).4: Asāduṃ yadi vā sāduṃ appaṃ vā yadi vā bahuṃ vissattho yattha bhuñjeyya vissāsaparamā rasā ti. ||  
+Ja_IV:180 ||  
 
 Tattha yadi vā sādun ti yadi vā asāduṃ[^145-8], vissattho ti nirāsaṃko vissāsappatto[^145-9] hutvā, yattha bhuñjeyyā ti yasmiṃ nivesane evaṃ bhuñjeyya tattha evaṃ bhuttaṃ yaṃ kiñci bhojanaṃ sādum eva, kasmā: yasmā vissāsaparamā rasā, vissāso[^145-10] paramo uttamo etesan ti vissāsaparamā rasā ti, vissāsarasasadiso[^145-11] hi[^145-12] raso nāma n'; atthi, avissāsikena[^145-13] dinnaṃ catumadhuram pi vissāsikena dinnaṃ ambilakañjiyaṃ[^145-14] nāgghatīti[^145-15]. Nārado tassa vacanaṃ sutvā rañño santikaṃ gantvā "Kesavo idaṃ nāma kathesīti" ācikkhi. Satthā imaṃ desanaṃ[^145-16] āharitvā jātakaṃ samodhānesi: "Tadā rājā Ānando ahosi, Nārado Sāriputto, Kesavo Bakabrahmā[^145-17], Kappo[^145-18] aham evā" 'ti. Kesavajātakaṃ[^145-19].
 
@@ -1816,11 +1996,13 @@ Tattha yadi vā sādun ti yadi vā asāduṃ[^145-8], vissattho ti nirāsaṃko 
 
 bahuajeḷakādayo māretvā devatānaṃ balikammaṃ karonti. Bodhisatto "pāṇo na hantabbo" ti bheriñ carāpesi. Yakkhā balikammaṃ alabhamānā Bodhisattassa kujjhitvā Himavante yakkhasamāgamaṃ katvā Bodhisattassa māraṇatthāya ekaṃ kakkhalaṃ[^146-1] yakkhaṃ pesesuṃ. So kaṇṇikamattaṃ mahantaṃ ādittaṃ ayakūṭaṃ gahetvā "iminā naṃ paharitvā māressāmīti" āgantvā majjhimayāmasamanantare Bodhisattassa sayanamatthake aṭṭhāsi. Tasmiṃ khaṇe Sakkassa āsanaṃ[^146-2] uṇhākāraṃ dassesi. So āvajjamāno taṃ[^146-3] kāraṇaṃ ñatvā Inda-vajiraṃ ādāya āgantvā yakkhassa upari aṭṭhāsi. Bodhisatto yakkhaṃ disvā "kiṃ nu kho esa maṃ rakkhamāno ṭhito udāhu māretukāmo" ti tena saddhiṃ sallapanto[^146-4] paṭhamaṃ gātham āha:
 
-Ja_IV,5.7(=347).1: Sabbāyasaṃ kūṭam atippamāṇaṃ paggayha so tiṭṭhati antalikkhe, rakkhāya me tvaṃ vihito nu 's'; ajja[^146-5] udāhu me cetayase vadhāyā 'ti. || Ja_IV:181 ||
+Ja_IV,5.7(=347).1: Sabbāyasaṃ kūṭam atippamāṇaṃ paggayha so tiṭṭhati antalikkhe, rakkhāya me tvaṃ vihito nu 's'; ajja[^146-5] udāhu me cetayase vadhāyā 'ti. ||  
+Ja_IV:181 ||  
 
 Tattha vihito nu sajjā ti vihito nu asi ajja. Bodhisatto pana yakkham eva passati na Sakkaṃ, yakkho Sakkassa bhayena Bodhisattaṃ paharituṃ na sakkoti. So Bodhisattassa kathaṃ sutvā "mahārāja, nāhan tava ārakkhatthāya[^146-6] ṭhito, iminā pana jalitena ayakūṭena paharitvā taṃ māressāmīti āgato 'mhi, Sakkassa bhayena paharituṃ na sakkomīti" etam atthaṃ dīpento dutiyaṃ gātham āha:
 
-Ja_IV,5.7(=347).2: Dūto 'haṃ rājā idha rakkhasānaṃ, vadhāya tuyhaṃ pahito 'ham asmi, Indo ca taṃ rakkhati devarājā, ten'; uttamaṅgaṃ na hi phālayāmīti[^146-7]. || Ja_IV:182 ||
+Ja_IV,5.7(=347).2: Dūto 'haṃ rājā idha rakkhasānaṃ, vadhāya tuyhaṃ pahito 'ham asmi, Indo ca taṃ rakkhati devarājā, ten'; uttamaṅgaṃ na hi phālayāmīti[^146-7]. ||  
+Ja_IV:182 ||  
 
 Taṃ sutvā Bodhisatto itarā dve gāthā abhāsi:
 
@@ -1832,9 +2014,11 @@ Ja_IV,5.7(=347).3: Sace ca[^146-8] maṃ rakkhati devarājā devānam indo Magh
 
 ##### *[PTS Page 147]*
 
-kāmam pisācā vinadantu[^147-1] sabbe, na santase rakkhasiyā pajāya. || Ja_IV:183 ||
+kāmam pisācā vinadantu[^147-1] sabbe, na santase rakkhasiyā pajāya. ||  
+Ja_IV:183 ||  
 
-Ja_IV,5.7(=347).4: Kāmaṃ kandantu kumbhaṇḍā sabbe paṃsupisācakā, nālaṃ pisācā yuddhāya, mahatī sā vihesikā ti. || Ja_IV:184 ||
+Ja_IV,5.7(=347).4: Kāmaṃ kandantu kumbhaṇḍā sabbe paṃsupisācakā, nālaṃ pisācā yuddhāya, mahatī sā vihesikā ti. ||  
+Ja_IV:184 ||  
 
 Tattha rakkhasiyā pajāyā 'ti rakkhasasaṃkhātāya[^147-2] pajāya, rakkhasasattānan ti attho, kumbhaṇḍā ti kumbhamattarahassaṃgā[^147-3] mahodarā yakkhā, paṃsupisācakā ti saṃkārādhānapisācā[^147-4], nālan ti pisācā nāma mayā saddhiṃ yuddhāya na samatthā, mahatī[^147-5] sā vihesikā ti yaṃ pun'; ete yakkhā sannipatitvā vihesikaṃ[^147-6] dassenti[^147-7] mahatī vihesikā[^147-6] bhāyanākāradassanamattam[^147-8] eva mayhaṃ, na panāhaṃ[^147-9] bhāyāmīti attho. Sakko yakkhaṃ palāpetvā Mahāsattaṃ ovaditvā "mā bhāyi mahārāja, ito paṭṭhāya tava rakkhāma, mā bhāyitthā[^147-10]" ti[^147-11] vatvā sakaṭṭhānaṃ eva gato. Satthā imaṃ desanaṃ[^147-2] āharitvā jātakaṃ samodhānesi: "Tadā Sakko Anuruddho ahosi, Bārāṇasirājā pana aham evā" 'ti. Ayakūṭajātakaṃ[^147-13].
 
@@ -1848,15 +2032,19 @@ Tattha rakkhasiyā pajāyā 'ti rakkhasasaṃkhātāya[^147-2] pajāya, rakkhasa
 
 kumārakaṃ palobhetvā sīlavināsaṃ pāpetvā "ehi gacchāmā" 'ti āha. "Pitā tāva me āgacchatu, taṃ passitvā[^148-1] gamissāmīti". "Tena hi disvā āgacchā" 'ti nikkhamitvā antarāmagge nisīdi. Tāpasakumāro pitari āgate paṭhamaṃ gātham āha:
 
-Ja_IV,5.8(=348).1: Araññā gāmam āgamma kiṃsīlaṃ kiṃvataṃ ahaṃ purisaṃ tāta seveyyaṃ, tam me akkhāhi pucchito ti. || Ja_IV:185 ||
+Ja_IV,5.8(=348).1: Araññā gāmam āgamma kiṃsīlaṃ kiṃvataṃ ahaṃ purisaṃ tāta seveyyaṃ, tam me akkhāhi pucchito ti. ||  
+Ja_IV:185 ||  
 
 Tattha araññā gāmamāgammā ti tāta ahaṃ ito araññato manussapathaṃ vasanatthāya gato vasanagāmaṃ patvā[^148-2]. Ath'; assa pitā ovādaṃ dento tisso gāthā abhāsi:
 
-Ja_IV,5.8(=348).2: Yo taṃ vissāsaye[^148-3] tāta vissāsañ ca khameyya te sussūsī ca titikkhī[^148-4] ca taṃ bhajehi[^148-5] ito gato. || Ja_IV:186 ||
+Ja_IV,5.8(=348).2: Yo taṃ vissāsaye[^148-3] tāta vissāsañ ca khameyya te sussūsī ca titikkhī[^148-4] ca taṃ bhajehi[^148-5] ito gato. ||  
+Ja_IV:186 ||  
 
-Ja_IV,5.8(=348).3: Yassa kāyena vācāya manasā n'; atthi dukkataṃ[^148-6] urasīva patiṭṭhāya taṃ bhajehi[^148-7] ito gato. || Ja_IV:187 ||
+Ja_IV,5.8(=348).3: Yassa kāyena vācāya manasā n'; atthi dukkataṃ[^148-6] urasīva patiṭṭhāya taṃ bhajehi[^148-7] ito gato. ||  
+Ja_IV:187 ||  
 
-Ja_IV,5.8(=348).4: Haliddirāgaṃ kapicittaṃ purisaṃ rāgavirāginaṃ tādisaṃ tāta mā sevi nimmanussam pi ce[^148-8] siyā ti. || Ja_IV:188 ||
+Ja_IV,5.8(=348).4: Haliddirāgaṃ kapicittaṃ purisaṃ rāgavirāginaṃ tādisaṃ tāta mā sevi nimmanussam pi ce[^148-8] siyā ti. ||  
+Ja_IV:188 ||  
 
 Tattha yo taṃ vissāsaye[^148-9] ti yo[^148-10] puriso taṃ vissāseyya[^148-11] na parisaṃkeyya, vissāsañca khameyya te ti yo ca attani kayiramānaṃ[^148-12] tava vissāsaṃ pana yaṃ nirāsaṃko taṃ khameyya, sussūsīti yo ca tava vissāsavacanaṃ sotum icchati, titikkhīti[^148-13] yo ca tayā kataṃ aparādhaṃ khamati, taṃ bhajehīti[^148-14] taṃ purisaṃ bhajeyyāsi payirupāseyyāsi, urasīva patiṭṭhāyā 'ti yathā tassa urasi patiṭṭhāya vaḍḍhanto[^148-15] tvam pi tādiso urasi patitaputto[^148-16] viya hutvā evarūpaṃ purisaṃ bhajeyyāsīti attho, haliddirāgan ti haliddirāgasadisaṃ athiracittaṃ[^148-17], kapicittan ti lahuparivattitāya[^148-18] makkaṭacittaṃ, rāgavirāginan ti muhutten'; eva rajjanavirajjanasabhāvaṃ, nimmanussam pi ce siyā ti sace pi sakala-Jambudīpatale[^148-19] kāyaduccaritādirahitassa[^148-20] manussassa abhāvena nimmanussaṃ siyā tathāpi tāta tādisaṃ lahucittaṃ mā sevi, sabbam[^148-21] pi manussapathaṃ vicinitvā heṭṭhāvuttaguṇasampannam eva purisaṃ[^148-22] seveyyāsīti[^148-23] attho.
 
@@ -1884,13 +2072,17 @@ vicaranti. Ath'; eko vanacarako tesaṃ vissāsaṃ disvā araññe uppajjanakab
 
 ##### *[PTS Page 151]*
 
-Ja_IV,5.9(=349).1: N'; eva itthīsu sāmaññaṃ na pi bhakkhesu sārathi[^151-1], ath'; assa sandhibhedassa passa yāva sucintitaṃ. || Ja_IV:189 ||
+Ja_IV,5.9(=349).1: N'; eva itthīsu sāmaññaṃ na pi bhakkhesu sārathi[^151-1], ath'; assa sandhibhedassa passa yāva sucintitaṃ. ||  
+Ja_IV:189 ||  
 
-Ja_IV,5.9(=349).2: Asi tikkho va maṃsamhi[^151-2] pesuññaṃ parivattati yatth'; ūsabhañ ca sīhañ ca bhakkhayanti migādhamā. || Ja_IV:190 ||
+Ja_IV,5.9(=349).2: Asi tikkho va maṃsamhi[^151-2] pesuññaṃ parivattati yatth'; ūsabhañ ca sīhañ ca bhakkhayanti migādhamā. ||  
+Ja_IV:190 ||  
 
-Ja_IV,5.9(=349).3: Imaṃ so sayanaṃ seti ya-y-imaṃ[^151-3] passasi[^151-4] sārathi yo vācaṃ sandhibhedassa pisunassa nibodhati. || Ja_IV:191 ||
+Ja_IV,5.9(=349).3: Imaṃ so sayanaṃ seti ya-y-imaṃ[^151-3] passasi[^151-4] sārathi yo vācaṃ sandhibhedassa pisunassa nibodhati. ||  
+Ja_IV:191 ||  
 
-Ja_IV,5.9(=349).4: Te janā sukham edhanti narā saggagatā-r-iva ye[^151-5] vācaṃ sandhibhedassa nāvabodhanti sārathīti. || Ja_IV:192 ||
+Ja_IV,5.9(=349).4: Te janā sukham edhanti narā saggagatā-r-iva ye[^151-5] vācaṃ sandhibhedassa nāvabodhanti sārathīti. ||  
+Ja_IV:192 ||  
 
 Tattha n'; eva itthīsū 'ti samma sārathi imesaṃ dvinnaṃ janānaṃ n' eva itthisu[^151-6] sāmaññaṃ atthi na bhakkhesu pi[^151-7], aññam eva hi itthiṃ sīho sevati aññaṃ usabho, aññaṃ ca bhakkhaṃ sīho khādati aññaṃ[^151-8] usabho ti attho, ath'; assā 'ti evaṃ kalahakāraṇe avijjamāne pi atha imassa mittasandhibhedakassa duṭṭhasigālassa ubhinnaṃ maṃsaṃ khādissāmīti cintetvā ime mārentassa, passa yāva taṃ cintitaṃ jātaṃ, sucintitan ti[^151-9] adhippāyo, yatthā 'ti yasmiṃ pesuññe parivattamāne usabhañ ca sīhañ ca migādhamā sigālā khādanti, taṃ pesuññaṃ maṃsamhi[^151-10] tikhiṇāsi[^151-11] viya mittabhāvaṃ chindantam eva parivattatīti dīpeti, yayimaṃ[^151-12] passasīti[^151-13] samma sārathi yaṃ imaṃ passasi imesaṃ dvinnaṃ matasayanaṃ[^151-14] añño pi yo puggalo sandhibhedassa pisunassa pisunavācaṃ nibodhati gaṇhati so imaṃ sayanaṃ seti evam evaṃ[^151-15] maratīti[^151-16] dasseti, sukham edhantīti sukhaṃ vindanti labhanti, narā saggagatārivā 'ti saggaṃ gatā dibbabhogasamaṅgino narā viya te[^151-17] sukhaṃ vindanti, nāva-
 
@@ -1916,7 +2108,8 @@ V. PAÑCANIPĀTA.
 
 1. Maṇikuṇḍalajātaka. Jīno[^153-1] rathassamaṇikuṇḍalā cā 'ti. Idaṃ Satthā Jetavane viharanto Kosalarañño antepure paduṭṭhāmaccaṃ ārabbha kathesi. Vatthuṃ heṭṭhā vitthāritam eva. Idhāpi Bodhisatto Bārāṇasiyaṃ[^153-2] rājā ahosi. Duṭṭhāmacco Kosalarājānaṃ ānetvā Kāsirajjaṃ gāhāpetvā[^153-3] bandhanāgāre pāpesi[^153-4]. Rājā[^153-5] jhānaṃ uppādetvā ākāse pallaṃke[^153-6] nisīdi. Corarañño sarīre ḍāho uppajji. So Bārāṇasirājānaṃ upasaṃkamitvā paṭhamaṃ gātham aha:
 
-Ja_V,1.1(=351).1: Jīno[^153-7] rathassamaṇikuṇḍalā[^153-8] ca, putte ca dāre ca tath'; eva jīno[^153-9], sabbesu bhogesu asesitesu[^153-10] kasmā na santappasi[^153-11] sokakāle ti. || Ja_V:1 ||
+Ja_V,1.1(=351).1: Jīno[^153-7] rathassamaṇikuṇḍalā[^153-8] ca, putte ca dāre ca tath'; eva jīno[^153-9], sabbesu bhogesu asesitesu[^153-10] kasmā na santappasi[^153-11] sokakāle ti. ||  
+Ja_V:1 ||  
 
 Tattha jīno[^153-9] rathassamaṇikuṇḍalā[^153-12] cā 'ti taṃ[^153-13] mahārāja[^153-14] rathañ ca asse[^153-15] ca maṇikuṇḍalāni ca jīno, rathe[^153-16] ca maṇikuṇḍale[^153-17] ti pi pāṭho, asesitesū[^153-18] 'ti na sesitesu[^153-19] nissesesū[^153-20] 'ti attho[^153-21].
 
@@ -1928,15 +2121,19 @@ Tattha jīno[^153-9] rathassamaṇikuṇḍalā[^153-12] cā 'ti taṃ[^153-13] 
 
 Taṃ sutvā Bodhisatto imā dve gāthā abhāsi:
 
-Ja_V,1.1(=351).2: Pubbe va maccaṃ vijahanti bhogā macco ca ne[^154-1] pubbataraṃ jahāti, asassatā bhogino kāmakāmi[^154-2], tasmā na socām'; ahaṃ sokakāle. || Ja_V:2 ||
+Ja_V,1.1(=351).2: Pubbe va maccaṃ vijahanti bhogā macco ca ne[^154-1] pubbataraṃ jahāti, asassatā bhogino kāmakāmi[^154-2], tasmā na socām'; ahaṃ sokakāle. ||  
+Ja_V:2 ||  
 
-Ja_V,1.1(=351).3: Udeti āpūrati[^154-2] veti cando, atthaṃ tapetvāna[^154-3] paleti suriyo, viditā mayā sattuka lokadhammā[^154-4], tasmā na socām'; ahaṃ sokakāle ti. || Ja_V:3 ||
+Ja_V,1.1(=351).3: Udeti āpūrati[^154-2] veti cando, atthaṃ tapetvāna[^154-3] paleti suriyo, viditā mayā sattuka lokadhammā[^154-4], tasmā na socām'; ahaṃ sokakāle ti. ||  
+Ja_V:3 ||  
 
 Tattha pubbevamaccan ti maccaṃ bhogā[^154-5] pubbe va paṭhamataraṃ ñeva vijahanti, macco vā te bhoge[^154-6] pubbataraṃ vijahati, kamakāmīti corarājānaṃ ālapati, ambho kāme kāmayamāna[^154-7] kāmakāmi[^154-8] bhogino nāma loke asassatā, bhogesu vā[^154-9] naṭṭhesu jīvamānā va abhogino honti, bhogaṃ vā[^154-10] pahāya sayaṃ[^154-11] nassanti, tasmā ahaṃ mahājanassa sokakāle pi na socāmīti attho, viditā mayā sattuka lokadhammā[^154-12] ti corarājānaṃ ālapanto[^154-13] ambho sattuka[^154-14] mayā[^154-15] lābho alābho yaso ayaso ti ādayo lokadhammā viditā, yath'; eva hi cando udeti pūrati ca puna ca khīyati yathā vā[^154-16] suriyo andhakāraṃ vidhamanto mahantaṃ lokapadesaṃ[^154-17] tappetvāna[^154-18] puna sāyaṃ[^154-19] atthaṃ gacchati na dissati evam evaṃ[^154-20] bhogā uppajjanti ca vinassanti ca, tattha kiṃ sokena, tasmā na socāmīti attho. Evaṃ Mahāsatto corarañño dhammaṃ desetvā[^154-21] idāni tass' evācāraṃ[^154-22] parigaṇhanto:
 
-Ja_V,1.1(=351).4: Alaso gihī kāmabhogī nā sādhu, (Cfr. supra p.105.) asaññato pabbajito na sādhu, rājā na sādhu anisammakārī, yo paṇḍito kodhano taṃ na sādhu. || Ja_V:4 ||
+Ja_V,1.1(=351).4: Alaso gihī kāmabhogī nā sādhu, (Cfr. supra p.105.) asaññato pabbajito na sādhu, rājā na sādhu anisammakārī, yo paṇḍito kodhano taṃ na sādhu. ||  
+Ja_V:4 ||  
 
-Ja_V,1.1(=351).5: Nisamma khattiyo kayirā nānisamma disampati, nisammakārino rāja[^154-23] yaso kitti ca vaḍḍhatīti āha. || Ja_V:5 ||
+Ja_V,1.1(=351).5: Nisamma khattiyo kayirā nānisamma disampati, nisammakārino rāja[^154-23] yaso kitti ca vaḍḍhatīti āha. ||  
+Ja_V:5 ||  
 
 
 <!-- PTS Page 155 -->
@@ -1956,15 +2153,19 @@ Imā pana dve gāthā heṭṭhā vitthāritā eva[^155-1]. Bodhisattaṃ[^155-2
 
 gare[^156-1] ekaṃ matagoṇaṃ disvā tiṇañ ca pānīyañ ca āharitvā tassa purato katvā[^156-2] "khāda khāda, piva pivā" 'ti vadati[^156-3]. Āgatāgatā naṃ[^156-4] disvā[^156-5] "samma Sujāta, kiṃ ummattako si, matagoṇassa tiṇodakaṃ desīti[^156-6]" vadanti. So kiñci na[^156-7] paṭivadati. Ath'; assa pitu santikaṃ gantvā "putto te ummattako jāto, matagoṇassa tiṇodakaṃ detīti" āhaṃsu. Taṃ sutvā kuṭumbikassa pitusoko apagato puttasoko patiṭṭhito. So vegena gantvā[^156-8] "nanu tvaṃ tāta Sujāta paṇḍito[^156-9], kiṃkāraṇā matagoṇassa tiṇodakaṃ desīti" vatvā dve gāthā abhāsi:
 
-Ja_V,1.2(=352).1: Kim nu santaramāno va lāyitvā haritaṃ tiṇaṃ khāda khādā 'ti lapasi[^156-10] gatasattaṃ[^156-11] jaraggavaṃ. || Ja_V:6 ||
+Ja_V,1.2(=352).1: Kim nu santaramāno va lāyitvā haritaṃ tiṇaṃ khāda khādā 'ti lapasi[^156-10] gatasattaṃ[^156-11] jaraggavaṃ. ||  
+Ja_V:6 ||  
 
-Ja_V,1.2(=352).2: Na hi annena pānena mato goṇo samuṭṭhahe, tañ[^156-12] ca tucchaṃ vilapasi yathā taṃ dummatī tathā ti. || Ja_V:7 ||
+Ja_V,1.2(=352).2: Na hi annena pānena mato goṇo samuṭṭhahe, tañ[^156-12] ca tucchaṃ vilapasi yathā taṃ dummatī tathā ti. ||  
+Ja_V:7 ||  
 
 Tattha santaramāno vā 'ti turito viya hutvā, lāyitvā ti lunitvā[^156-13], lapasīti vippalapasi, gatasattaṃ[^156-14] jaraggavan ti gatajīvitaṃ jiṇṇaṃ[^156-15] goṇaṃ, yathā tan ettha tan ti nipātamattaṃ, yathā dummati appañño vippalapeyya[^156-16] tathā tvaṃ tucchaṃ abhūtaṃ[^156-17] vippalapasīti[^156-18]. Tato Bodhisatto dve gāthā abhāsi:
 
-Ja_V,1.2(=352).3: Tath'; eva tiṭṭhati sīsaṃ hatthapādā ca vāladhi, sotā tath'; eva tiṭṭhanti[^156-19], maññe goṇo samuṭṭhahe. || Ja_V:8 ||
+Ja_V,1.2(=352).3: Tath'; eva tiṭṭhati sīsaṃ hatthapādā ca vāladhi, sotā tath'; eva tiṭṭhanti[^156-19], maññe goṇo samuṭṭhahe. ||  
+Ja_V:8 ||  
 
-Ja_V,1.2(=352).4: N'; ev'; ayyakassa sīsaṃ vā[^156-20] hatthapādā ca[^156-21] dissare, rudaṃ mattikathūpasmiṃ[^156-22] nanu tvañ ñeva dummatīti. || Ja_V:9 ||
+Ja_V,1.2(=352).4: N'; ev'; ayyakassa sīsaṃ vā[^156-20] hatthapādā ca[^156-21] dissare, rudaṃ mattikathūpasmiṃ[^156-22] nanu tvañ ñeva dummatīti. ||  
+Ja_V:9 ||  
 
 Tattha tathevā 'ti yathā pubbe ṭhitaṃ tath'; eva tiṭṭhati, maññe ti etesaṃ sīsādīnaṃ tath'; eva ṭhitattā ayaṃ goṇo samuṭṭhaheyyā 'ti maññāmi, nevayyakassā 'ti ayyakassa pana sīsaṃ vā[^156-20] hatthapādā vā[^156-20] na dissanti, piṭṭhipādā vā na dissare ti pi pāṭho, nanu tvaññeva dummatīti ahaṃ tāva sīsādīni passanto evaṃ karomi, tvaṃ pana na kiñci passasi, jhāpitaṭṭhānato aṭṭhīni āharitvā thūpaṃ[^156-23] katvā paridevasi, iti maṃ paṭicca sataguṇena sahassaguṇena[^156-24] tvam eva[^156-25] dummatīti, bhijjanadhammā tāta saṃkhārā bhijjantīti[^156-26], tattha kā paridevanā ti.
 
@@ -1976,13 +2177,17 @@ Tattha tathevā 'ti yathā pubbe ṭhitaṃ tath'; eva tiṭṭhati, maññe ti 
 
 Taṃ sutvā Bodhitassa pitā "mama putto paṇḍito, idhalokaparalokakiccaṃ[^157-1] jānāti, mama saññāpanatthāya etaṃ kammaṃ akāsīti" cintetvā "tāta Sujāta paṇḍita, ‘sabbe saṃkhārā aniccā'; ti me ñātaṃ[^157-2], ito paṭṭhāya na socissāmi[^157-3], pitusokaharaṇaputtena[^157-4] nāma tādisena bhavitabban" ti vatvā puttassa thutiṃ karonto[^157-5].
 
-Ja_V,1.2(=352).5: Ādittaṃ vata maṃ santaṃ[^157-6] ghatasittaṃ[^157-7] va pāvakaṃ[^157-8] vārinā viya[^157-9] osiñcaṃ[^157-10] sabbaṃ nibbāpaye[^157-11] daraṃ. || Ja_V:10 ||
+Ja_V,1.2(=352).5: Ādittaṃ vata maṃ santaṃ[^157-6] ghatasittaṃ[^157-7] va pāvakaṃ[^157-8] vārinā viya[^157-9] osiñcaṃ[^157-10] sabbaṃ nibbāpaye[^157-11] daraṃ. ||  
+Ja_V:10 ||  
 
-Ja_V,1.2(=352).6: Abbahi[^157-12] vata me sallaṃ yam āsi[^157-13] hadayanissitaṃ yo me sokaparetassa pitusokaṃ apānudi. || Ja_V:11 ||
+Ja_V,1.2(=352).6: Abbahi[^157-12] vata me sallaṃ yam āsi[^157-13] hadayanissitaṃ yo me sokaparetassa pitusokaṃ apānudi. ||  
+Ja_V:11 ||  
 
-Ja_V,1.2(=352).7: So 'haṃ[^157-14] abbūḷhasallo[^157-15] smi vītasoko anāvilo, na socāmi na rodāmi tava sutvāna māṇava. (Cfr. Dhp. 96.) || Ja_V:12 ||
+Ja_V,1.2(=352).7: So 'haṃ[^157-14] abbūḷhasallo[^157-15] smi vītasoko anāvilo, na socāmi na rodāmi tava sutvāna māṇava. (Cfr. Dhp. 96.) ||  
+Ja_V:12 ||  
 
-Ja_V,1.2(=352).8: Evaṃ karonti sappaññā ye honti anukampakā[^157-16], vinivattayanti[^157-17] sokamhā Sujāto pitaraṃ yathā ti. || Ja_V:13 ||
+Ja_V,1.2(=352).8: Evaṃ karonti sappaññā ye honti anukampakā[^157-16], vinivattayanti[^157-17] sokamhā Sujāto pitaraṃ yathā ti. ||  
+Ja_V:13 ||  
 
 Tattha nibbāpaye ti nibbāpayi, daran ti sokadarathaṃ[^157-18] Sujāto pitaraṃ yathā ti yathā ma ma putto Sujato maṃ pitaraṃ samānaṃ attano sappaññatāya sokamhā vinivattayi evaṃ[^157-19] aññe pi sappaññā sokamhā vinivattayantīti[^157-20]. Satthā imaṃ desanaṃ[^157-21] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne kuṭumbiko sotāpattiphale patiṭṭhahi) "Tadā Sujāto aham evā" 'ti. Sujātajātakaṃ[^157-22].
 
@@ -1996,9 +2201,11 @@ Tattha nibbāpaye ti nibbāpayi, daran ti sokadarathaṃ[^157-18] Sujāto pitara
 
 pāsādaṃ kārāpesi kāretvā ca pana "ayaṃ vaddhaki aññassāpi[^158-1] rañño evarūpaṃ pāsādaṃ kāreyyā" 'ti maccharāyanto tassa akkhīni uppāṭesi[^158-2]. Tena tassa[^158-3] akkhīni uppāṭitabhāvo[^158-4] bhikkhusaṃgho pākaṭo jāto. Tasmā dhammasabhāyaṃ kathaṃ samuṭṭhāpesuṃ: "āvuso Bodhirājakumāro[^158-5] tathārūpassa vaḍḍhakino akkhīni uppāṭāpesi[^158-6], aho kakkhalo pharuso sāhasiko" ti. Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idān'; eva pubbe p'; esa kakkhalo pharuso sāhasiko va, na kevalañ ca idān'; eva pubbe p'; esa khattiyasahassānaṃ[^158-7] akkhīni uppāṭāpetvā[^158-6] māretvā tesaṃ maṃsena balikammaṃ kāresīti" vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto Takkasilāyaṃ disāpāmokkho ācariyo ahosi, Jambudīpatale khattiyamāṇavā ca[^158-8] brāhmaṇamāṇavā ca tass' eva santike sippaṃ uggaṇhiṃsu. Bārāṇasirañño pi putto Brahmadattakumāro nāma tassa santike tayo vede uggaṇhi. So pana pakatiyā[^158-9] kakkhalo pharuso sāhasiko[^158-10]. Mahāsatto[^158-11] aṅgavijjāvasena[^158-12] tassa kakkhalapharusasāhasikabhāvaṃ ñatvā "tāta tvaṃ kakkhalo pharuso sāhasiko, pharusena nāma[^158-13] laddhaṃ issariyaṃ aciraṭṭhitikaṃ hoti, so issariye vigate[^158-14] bhinnanāvo viya samudde patiṭṭhaṃ na labhati, tasmā mā evarūpo ahosīti" taṃ ovadanto[^158-15] dve gāthā abhāsi:
 
-Ja_V,1.3(=353).1: Na-y-idaṃ niccaṃ bhavitabbaṃ Brahmadatta khemaṃ subhikkhaṃ suhatā va kāye[^158-16], atthaccaye[^158-17] mā hu[^158-18] sammūḷho bhinnaplavo[^158-19] sāgarasseva majjhe. || Ja_V:14 ||
+Ja_V,1.3(=353).1: Na-y-idaṃ niccaṃ bhavitabbaṃ Brahmadatta khemaṃ subhikkhaṃ suhatā va kāye[^158-16], atthaccaye[^158-17] mā hu[^158-18] sammūḷho bhinnaplavo[^158-19] sāgarasseva majjhe. ||  
+Ja_V:14 ||  
 
-Ja_V,1.3(=353).2: Yāni karoti puriso tāni attani passati (Cfrṣupra vol.II p.202.) kalyāṇakāri[^158-20] kalyāṇaṃ pāpakāri ca[^158-21] pāpakaṃ, yādisaṃ vapate[^158-22] bījaṃ tādisaṃ harate phalan ti. || Ja_V:15 ||
+Ja_V,1.3(=353).2: Yāni karoti puriso tāni attani passati (Cfrṣupra vol.II p.202.) kalyāṇakāri[^158-20] kalyāṇaṃ pāpakāri ca[^158-21] pāpakaṃ, yādisaṃ vapate[^158-22] bījaṃ tādisaṃ harate phalan ti. ||  
+Ja_V:15 ||  
 
 
 <!-- PTS Page 159 -->
@@ -2016,7 +2223,9 @@ Tattha suhatāvakāye[^159-1] ti tāta Brahmadatta yad etaṃ khemaṃ vā subhi
 
 chiṃ[^160-1] phāletvā[^160-2] pañcamadhuramaṃsaṃ ādāya imasmiṃ nigrodhe nibbattadevatāya[^160-3] balikammaṃ katvā antavaṭṭīhi rukkhaṃ parikkhipitvā lohitapañcaṅgulikāni karoma, evaṃ no khippam eva jayo bhavissatīti". Rājā "sādhū" ti paṭissutvā[^160-4] antosāṇiyaṃ mahābale malle ṭhapetvā ekamekaṃ rājānaṃ pakkosāpetvā nippīḷanen'; eva visaññikāretvā akkhīni uppāṭetvā māretvā maṃsaṃ ādāya kaḷebarāni[^160-5] Gaṅgāya[^160-6] pavāhetvā vuttappakāraṃ balikammaṃ kāretvā[^160-7] balibheriṃ ākoṭāpetvā yujjhāya[^160-8] gato. Ath'; assa aṭṭālakato eko yakkho āgantvā dakkhiṇaṃ akkhiṃ[^160-9] uppāṭetvā agamāsi[^160-10]. Mahatī vedanā uppajji. So vedanāmatto[^160-11] āgantvā nigrodharukkhamūle paññattasayane[^160-12] uttānako nipajji[^160-13]. Tasmiṃ khaṇe eko gijjho ekaṃ tikhiṇakoṭiṃ[^160-14] aṭṭhiṃ gahetvā tassa[^160-15] rukkhagge nisinno maṃsaṃ khāditvā[^160-16] aṭṭhiṃ vissajjesi, aṭṭhikoṭi[^160-17] āgantvā rañño vāmakkhimhi ayasūlaṃ vipatitvā[^160-18] akkhiṃ[^160-19] bhindi. Tasmiṃ khaṇe Bodhisattassa vacanaṃ sallakkhesi, so "amhākaṃ ācariyo ‘ime sattā bījānurūpaṃ phalaṃ viya kammānurūpaṃ vipākaṃ anubhontīti'; kathento idaṃ disvā kathesi, maññe" ti vatvā vippalapanto[^160-20] dve gāthā abhāsi:
 
-Ja_V,1.3(=353).3: Idaṃ tad ācariyavaco Pārāsariyo yad[^160-21] abravi: (Cfrṣupra vol.II. p.202.) māssu[^160-22] tvaṃ[^160-23] akarā[^160-24] pāpaṃ yaṃ[^160-25] taṃ[^160-26] pacchā kataṃ[^160-27] tape. || Ja_V:16 || Ja_V,1.3(=353).4: Ayam eva so Piṅgiya[^160-28] dhonasākho[^160-29] yahiṃ ghātayiṃ khattiyānaṃ sahassaṃ alaṃkate candanasāralitte[^160-30], tam eva dukkhaṃ paccāgataṃ[^160-31] mamā[^160-32] ti. || Ja_V:17 ||
+Ja_V,1.3(=353).3: Idaṃ tad ācariyavaco Pārāsariyo yad[^160-21] abravi: (Cfrṣupra vol.II. p.202.) māssu[^160-22] tvaṃ[^160-23] akarā[^160-24] pāpaṃ yaṃ[^160-25] taṃ[^160-26] pacchā kataṃ[^160-27] tape. || Ja_V:16 ||  
+Ja_V,1.3(=353).4: Ayam eva so Piṅgiya[^160-28] dhonasākho[^160-29] yahiṃ ghātayiṃ khattiyānaṃ sahassaṃ alaṃkate candanasāralitte[^160-30], tam eva dukkhaṃ paccāgataṃ[^160-31] mamā[^160-32] ti. ||  
+Ja_V:17 ||  
 
 
 <!-- PTS Page 161 -->
@@ -2026,7 +2235,8 @@ Ja_V,1.3(=353).3: Idaṃ tad ācariyavaco Pārāsariyo yad[^160-21] abravi: (Cf
 
 Tattha idaṃ tadācariyavaco ti taṃ idaṃ[^161-1] tassa[^161-2] ācariyassa vacanaṃ, Pārāsariyo[^161-3] ti taṃ gottena kitteti, pacchā katan ti yaṃ pāpaṃ tayā kataṃ pacchā taṃ[^161-4] tāpeyya[^161-5] kilameyya taṃ mā karīti ovādaṃ adāsi, aham pan' assa vacanaṃ na karin ti, ayamevā 'ti nigrodharukkhaṃ dassento vilapati, dhonasākho[^161-6] ti patthaṭasākho, yahiṃ ghātayin ti yamhi rukkhe khattiyasahassaṃ māresiṃ, alaṃkate candanasāralitte[^161-7] ti rājālaṃkārehi alaṃkate candanasāralitte[^161-8] te[^161-9] khattiye sattāhaṃ[^161-10] ghātesiṃ, ayam eva so rukkho, idāni mayhaṃ kiñci parittānaṃ kātuṃ na sakkotīti dīpeti, tameva dukkhan ti yaṃ[^161-11] maya paresaṃ[^161-12] akkhiuppāṭanadukkhaṃ[^161-13] kataṃ idaṃ me tadeva paṭiāgataṃ, idāni no[^161-14] ācariyassa vacanaṃ matthakaṃ pattan ti paridevati. So evaṃ paridevamāno aggamahesiṃ anussaritvā
 
-Ja_V,1.3(=353).5: Sāmā ca[^161-15] kho candanalittagattī[^161-16] laṭṭhīva sobhañjanakassa uggatā, adisvā[^161-17] kālaṃ karissāmi Ubbariṃ, taṃ[^161-18] me tato[^161-19] dukkhataraṃ bhavissatīti || Ja_V:18 ||
+Ja_V,1.3(=353).5: Sāmā ca[^161-15] kho candanalittagattī[^161-16] laṭṭhīva sobhañjanakassa uggatā, adisvā[^161-17] kālaṃ karissāmi Ubbariṃ, taṃ[^161-18] me tato[^161-19] dukkhataraṃ bhavissatīti ||  
+Ja_V:18 ||  
 
 gātham āha. Tass'; attho: mama bhariyā suvaṇṇasāmā Ubbarī, yathā nāma siggurukkhassa ujū[^161-20] uggatā sākhā mandamāḷuteritā[^161-21] kampamānā sobhati evaṃ itthivilāsaṃ kurumānā sobhati, tam ahaṃ idāni akkhīnaṃ[^161-22] bhinnattā Ubbariṃ adisvā va kālaṃ karissāmīti, tam me tassā[^161-23] adassanaṃ ito maraṇadukkhato pi dukkhataraṃ bhavissatīti. So evaṃ vippalapanto yeva maritvā niraye nibbatti, na naṃ issariyaluddho[^161-24] purohito parittānaṃ kātuṃ sakkhi, na[^161-25] attano issariyaṃ laddho[^161-26], tasmiṃ matamatte yeva balakāyo bhijjitvā palāyi. Satthā imaṃ desanaṃ[^161-27] āharitvā jātakaṃ samodhānesi: "Tadā corarājā[^161-28] Bodhirājakumāro ahosi, Piṅgiyo[^161-29] Devadatto, disāpāmokkho ācariyo[^161-30] aham evā" 'ti. Dhonasākhajātakaṃ[^161-31].
 
@@ -2054,9 +2264,11 @@ taṃ gantvā kasati[^163-1]. Putto kacavaraṃ saṃkaḍḍhitvā jhāpesi. Ta
 
 ṭhānā cāvetukāmo" ti upadhārento tesaṃ guṇatejena uṇhabhāvaṃ[^164-1] ñatvā pasannamānaso hutvā "mayā etesaṃ santikaṃ gantvā sīhanādaṃ nadāpetvā sīhanādapariyosāne etesaṃ nivesanaṃ[^164-2] sattaratanapuṇṇaṃ[^164-3] katvā āgantuṃ vaṭṭatīti" vegena tattha gantvā āḷāhanapasse ṭhito[^164-4] "kiṃ karothā" 'ti āha. "Ekaṃ manussaṃ jhāpema sāmīti[^164-5]". "Na tumhe manussaṃ jhāpessatha, ekaṃ pana migaṃ māretvā[^164-6] pacatha, maññe" 'ti. "N'; atth'; etaṃ sāmi, manussam eva jhāpemā" 'ti. "Tena hi verimanusso vo bhavissatīti". Atha naṃ bodhisatto "orasaputto no sāmi, na veriko" ti āha. "Tena hi vo appiyaputto bhavissatīti". "Atipiyaputto sāmīti". "Atha kasmā na rodasīti". So arodanakāraṇaṃ kathento paṭhamaṃ gātham āha:
 
-Ja_V,1.4(=354).1: Urago va tacam jiṇṇaṃ (Dhp. p.360; Thiessen, Kisāg. p.41.) hitvā gacchati san tanuṃ evaṃ sarīre nibbhoge pete kālakate sati. || Ja_V:19 ||
+Ja_V,1.4(=354).1: Urago va tacam jiṇṇaṃ (Dhp. p.360; Thiessen, Kisāg. p.41.) hitvā gacchati san tanuṃ evaṃ sarīre nibbhoge pete kālakate sati. ||  
+Ja_V:19 ||  
 
-Ja_V,1.4(=354).2: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti. || Ja_V:20 ||
+Ja_V,1.4(=354).2: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti. ||  
+Ja_V:20 ||  
 
 Tattha san tanun ti attano sarīraṃ, nibbhoge ti jīvitindriyābhāvena[^164-7] bhogarahite, pete ti paralokaṃ paṭigate[^164-8], kālakate ti katakāle mate ti attho. Idaṃ vuttaṃ hoti: sāmi mama putto yathā nāma urago jiṇṇatacaṃ nivattitvā[^164-9] anolokento[^164-10] anapekho[^164-11] chaḍḍetvā[^164-12] gaccheyya evaṃ attano sarīraṃ chaḍḍetvā[^164-12] gacchati, tassa jīvitindriyarahite sarīre evaṃ nibbhoge tasmiñ ca me putte pete[^164-13] puna paṭigate[^164-8] maraṇakālaṃ katvā ṭhite[^164-14] sati ko rodanena[^164-15] vā paridevitena[^164-16] vā attho, ayaṃ hi[^164-17] yath'; esa[^164-18] sūlehi vijjhitvā ḍayhamāno sukhadukkhaṃ[^164-19] na jānāti evaṃ ñātīnaṃ paridevitaṃ pi na jānāti, tena kāraṇenāhaṃ etaṃ na socāmi, yā tassa attagati[^164-20] taṃ so gato[^164-21] ti.
 
@@ -2068,13 +2280,16 @@ Tattha san tanun ti attano sarīraṃ, nibbhoge ti jīvitindriyābhāvena[^164-7
 
 Sakko Bodhisattassa vacanaṃ sutvā brāhmaṇiṃ pucchi: "amma tuyhaṃ[^165-1] so kiṃ hotīti". "Dasamāse kucchinā pariharitvā thaññaṃ pāyetvā hatthapāde saṇṭhapetvā vaḍḍhitaputto[^165-2] me sāmīti". "Amma pitā tāva[^165-3] purisabhāvena mā[^165-4] rodatu, mātuhadayaṃ nāma[^165-5] mudukaṃ hoti, tvaṃ kasmā na rodasīti". Sā arodanakāraṇaṃ kathentī[^165-6]
 
-Ja_V,1.4(=354).3: Anavhāto tato āgā[^165-7], ananuññāto ito gato, yathāgato tathā gato, tattha kā paridevanā. || Ja_V:21 ||
+Ja_V,1.4(=354).3: Anavhāto tato āgā[^165-7], ananuññāto ito gato, yathāgato tathā gato, tattha kā paridevanā. ||  
+Ja_V:21 ||  
 
-Ja_V,1.4(=354).4: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti || Ja_V:22 ||
+Ja_V,1.4(=354).4: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti ||  
+Ja_V:22 ||  
 
 gāthadvayam āha. Tattha anavhāto ti ayaṃ tāva mayā paralokato anāhuto[^165-8] ayācito, āgā ti[^165-9] amhākaṃ gehaṃ āgato, ito ti ito manussalokato gacchanto pi mayā ananuññāto[^165-10] gato[^165-11], yathāgato ti āgacchanto yathā attano[^165-12] ruciyā āgato gacchanto pi tath'; eva gato, tatthā 'ti tasmiṃ tassa ito gamane kā paridevanā, ḍayhamāno ti gāthā vuttanayen'; eva[^165-13] veditabbā. Sakko brāhmaṇiyā kathaṃ sutvā[^165-14] bhaginiṃ pucchi: "amma tuyh'; eso[^165-15] kiṃ hotīti". "Bhātā me sāmīti". "Amma bhaginiyo nāma bhātusu[^165-16] sasnehā[^165-17] honti, tvaṃ kasmā na rodasīti". Sāpi[^165-18] arodanakāraṇaṃ kathentī[^165-19]
 
-Ja_V,1.4(=354).5: Sace rode kisī[^165-20] assaṃ, tassā[^165-21] me kiṃ phalaṃ siyā, ñātimittāsuhajjānaṃ[^165-22] bhiyyo no[^165-23] aratī siyā. || Ja_V:23 ||
+Ja_V,1.4(=354).5: Sace rode kisī[^165-20] assaṃ, tassā[^165-21] me kiṃ phalaṃ siyā, ñātimittāsuhajjānaṃ[^165-22] bhiyyo no[^165-23] aratī siyā. ||  
+Ja_V:23 ||  
 
 
 <!-- PTS Page 166 -->
@@ -2082,13 +2297,16 @@ Ja_V,1.4(=354).5: Sace rode kisī[^165-20] assaṃ, tassā[^165-21] me kiṃ ph
 
 ##### *[PTS Page 166]*
 
-Ja_V,1.4(=354).6: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti || Ja_V:24 ||
+Ja_V,1.4(=354).6: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti ||  
+Ja_V:24 ||  
 
 gāthadvayam āha. Tattha sace ti yadi ahaṃ bhātari mate rodeyyaṃ kisasarīrā assaṃ, bhātu pana me tappaccayā vaḍḍhi[^166-1] nāma n'; atthīti tassa dasseti, tassā me ti tassā mayhaṃ rodantiyā kiṃ phalaṃ ko ānisaṃso bhaveyya[^166-2], avaḍḍhi[^166-3] pana paññāyatīti dīpeti, ñātimittāsuhajjānan[^166-4] ti ñātimittasuhajjānaṃ[^166-5], ayam eva vā pāṭho, bhiyyo no ti ye amhākaṃ ñātimittā ca suhadayā ca tesaṃ adhikatarā arati siyā. Sakko bhaginiyā kathaṃ sutvā tassa bhariyaṃ pucchi: "amma tuyh'; eso[^166-6] kiṃ hotīti". "Pati me sāmīti". "Itthiyo nāma patimhi mate vidhavā honti anāthā, tvaṃ kasmā na rodasīti". Sāpi 'ssa arodanakāraṇaṃ kathentī:
 
-Ja_V,1.4(=354).7: Yathāpi dārako candaṃ gacchantam anurodati evaṃsampadam ev'; etaṃ yo petam anusocati. || Ja_V:25 ||
+Ja_V,1.4(=354).7: Yathāpi dārako candaṃ gacchantam anurodati evaṃsampadam ev'; etaṃ yo petam anusocati. ||  
+Ja_V:25 ||  
 
-Ja_V,1.4(=354).8: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti || Ja_V:26 ||
+Ja_V,1.4(=354).8: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti ||  
+Ja_V:26 ||  
 
 dve gāthā[^166-7] āha. Tass'; attho: yathā nāma yuttāyuttaṃ labbhanīyālabbhanīyaṃ[^166-8] ajānanto bāladārako mātu ucchaṅge nipanno puṇṇamāsiyaṃ puṇṇacandaṃ ākāse[^166-9] gacchantaṃ disvā amma candaṃ me dehi candaṃ me dehīti punappuna rodati evaṃsampadam ev'; etan ti evaṃnipphattikam[^166-10] eva evaṃ tassa roṇṇaṃ[^166-11] hoti yo petaṃ kālakataṃ anusocati ito pi ca niratthakataraṃ, kiṃkāraṇā: so hi vijjamānaṃ candaṃ anurodati, mayhaṃ pana pati mato, etarahi avijjamāno[^166-12] sūlehi vijjhitvā ḍayhamāno pi na kiñci jānātiti.
 
@@ -2100,9 +2318,11 @@ dve gāthā[^166-7] āha. Tass'; attho: yathā nāma yuttāyuttaṃ labbhanīyā
 
 Sakko bhariyāya kathaṃ[^167-1] sutvā dāsiṃ pucchi: "amma tuyh'; eso[^167-2] kiṃ hotīti". "Ayyo me sāmīti". "Nūna[^167-3] tvaṃ iminā pīletvā[^167-4] bādhetvā[^167-5] paributtā bhavissasi[^167-6], tasmā ‘sumato ayan[^167-7]'; ti na rodasīti". "Sāmi mā evaṃ avaca, na ca etaṃ[^167-8] etassa anucchavikaṃ, khantimettānuddayasampanno me ayyaputto ure saṃvaḍḍhitaputto viya ahosīti". "Atha kasmā na rodasīti". Sāpi 'ssa arodanakāraṇaṃ kathentī:
 
-Ja_V,1.4(=354).9: Yathāpi [brahme9] udakakumbho[^167-10] bhinno appaṭisandhiyo evaṃsampadam ev'; etaṃ yo petam anusocati. || Ja_V:27 ||
+Ja_V,1.4(=354).9: Yathāpi [brahme9] udakakumbho[^167-10] bhinno appaṭisandhiyo evaṃsampadam ev'; etaṃ yo petam anusocati. ||  
+Ja_V:27 ||  
 
-Ja_V,1.4(=354).10: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti || Ja_V:28 ||
+Ja_V,1.4(=354).10: Ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ, tasmā etaṃ na socāmi, gato so tassa yā gatīti ||  
+Ja_V:28 ||  
 
 gāthadvayam āha. Tass'; attho: yathā nāma udakakumbho[^167-10] ukkhippamāno[^167-11] patitvā yathābhinno[^167-12] puna tāni kapālāni paṭipāṭiyā ṭhapetvā saṃvidahitvā[^167-13] paṭipākatiko[^167-14] kātuṃ na sakkā[^167-15] yo petaṃ anusocati tassāpi[^167-16] etaṃ anusocanaṃ evaṃnipphattikaṃ[^167-17] eva hoti matassa[^167-18] jīvāpetuṃ asakkuneyyato, iddhimato[^167-19] vā iddhānubhāvena bhinnaṃ kumbhaṃ sandahitvā[^167-13] udakassa pūretaṃ sakkā bhaveyya, kālakato pana iddhibalena[^167-20] pi na sakkā paṭipākatiko[^167-21] kātun tī, itarā gāthā vuttā yeva. Sakko sabbesaṃ dhammakathaṃ sutvā pasīditvā "tumhehi appamattehi[^167-22] maraṇasati bhāvitā[^167-23], mā[^167-24] tumhe ito paṭṭhāya sahatthena kammaṃ[^167-25] karittha[^167-26], ahaṃ[^167-27] Sakko devarājā, ahaṃ vo gehe sattaratanāni aparimāṇāni karissami, tumhe dānaṃ
 
@@ -2124,17 +2344,22 @@ detha sīlaṃ rakkhatha uposathaṃ upavasatha[^168-1], appamattā hothā" ti t
 
 battetvā ākāse pallaṃkena nisīdi. Vaṃkassa[^169-1] sarīre dāho[^169-2] uṭṭhahi. So gantvā Bodhisattassa suvaṇṇādāsaphullapadumasassirīkaṃ[^169-3] mukhaṃ disvā Bodhisattaṃ pucchanto {paṭhamaṃ} gātham āha:
 
-Ja_V,1.5(=355).1: Aññe socanti rodanti, añño assumukho jano, pasannamukhavaṇṇo si, kasmā Ghata[^169-4] na socasīti. || Ja_V:29 ||
+Ja_V,1.5(=355).1: Aññe socanti rodanti, añño assumukho jano, pasannamukhavaṇṇo si, kasmā Ghata[^169-4] na socasīti. ||  
+Ja_V:29 ||  
 
 Tattha aññe ti taṃ ṭhapetvā sesamanussā. Ath'; assa Bodhisatto asocanakāraṇaṃ kathento sesagāthā[^169-5] abhāsi:
 
-Ja_V,1.5(=355).2: Nābbhatītaharo[^169-6] soko nānāgatasukhāvaho[^169-7], tasmā Vaṃka[^169-8] na socāmi, n'; atthi soke dutiyyatā[^169-9]. || Ja_V:30 ||
+Ja_V,1.5(=355).2: Nābbhatītaharo[^169-6] soko nānāgatasukhāvaho[^169-7], tasmā Vaṃka[^169-8] na socāmi, n'; atthi soke dutiyyatā[^169-9]. ||  
+Ja_V:30 ||  
 
-Ja_V,1.5(=355).3: Socaṃ paṇḍukisīhoti[^169-10], bhattañ c'; assa na ruccati, amittā sumanā honti sallaviddhassa ruppato. || Ja_V:31 ||
+Ja_V,1.5(=355).3: Socaṃ paṇḍukisīhoti[^169-10], bhattañ c'; assa na ruccati, amittā sumanā honti sallaviddhassa ruppato. ||  
+Ja_V:31 ||  
 
-Ja_V,1.5(=355).4: Gāme vā yadi vāraññe ninne vā yadi vā thale (Dhp.v. 98,121.) na man taṃ āgamissati[^169-11], evaṃ diṭṭhapado ahaṃ. || Ja_V:32 ||
+Ja_V,1.5(=355).4: Gāme vā yadi vāraññe ninne vā yadi vā thale (Dhp.v. 98,121.) na man taṃ āgamissati[^169-11], evaṃ diṭṭhapado ahaṃ. ||  
+Ja_V:32 ||  
 
-Ja_V,1.5(=355).5: Yass'; attā[^169-12] nālam eko sabbakāmarasāharo sabbāpi paṭhavī[^169-13] tassa na sukhaṃ āvahissatīti[^169-14]. || Ja_V:33 ||
+Ja_V,1.5(=355).5: Yass'; attā[^169-12] nālam eko sabbakāmarasāharo sabbāpi paṭhavī[^169-13] tassa na sukhaṃ āvahissatīti[^169-14]. ||  
+Ja_V:33 ||  
 
 Tattha nābbhatītaharo[^169-15] ti na abbhatītāhāro[^169-16] ayam eva vā pāṭho, soko nāma abbhatītaṃ atikkantaṃ niruddhaṃ atthaṃ[^169-17] puna nāharati, dutiyyatā[^169-18] ti sāhāyatā[^169-19], atītāharaṇena vā anāgatavahanena[^169-20] vā soko nāma kassaci sahāyo[^169-21] na hoti, tenāpi kāraṇenāhaṃ na socāmīti vadati, socan ti socanto, sallaviddhassa ruppato[^169-22] ti sokasallena viddhassa ten'; eva ghaṭiyamānassa[^169-23], diṭṭhā vata no paccatthikassa[^169-24] piṭṭhīti[^169-25] amittā sumanā hontīti attho, na man taṃ āgamissatīti samma Vaṃkarāja[^169-26] etesu gāmādisu yattha katthaci ṭhitaṃ sattaṃ[^169-27] paṇḍukisabhāvādikaṃ sokamūlakaṃ vyasanaṃ[^169-28] taṃ[^169-29] na āgamissati, evaṃ diṭṭhapado ti yathā taṃ vyasanaṃ[^169-28] nāgacchati[^169-30] evaṃ mayā jhānapadaṃ diṭṭhaṃ[^169-31], aṭṭhalokadhamman[^169-32] ti pi
 
@@ -2164,15 +2389,18 @@ khantīti" āha. "Bhante tumhe etesaṃ aruciyā sīlaṃ detha, ete tumhākaṃ
 
 vesu[^172-1] sukhanisinnesu[^172-2] uṭṭhāya mahantaṃ silaṃ[^172-3] ukkhipitvā kandarāya[^172-4] khipi puna pi puna pi[^172-5] khipi yeva. Atha naṃ te māṇavā uṭṭhāya "ācariya kiṃ karosīti" āhaṃsu. So na kiñci kathesi. Te vegena gantvā ācariyassārocesuṃ[^172-6]. Ācariyo āgantvā tena saddhiṃ sallapaṇto[^172-7] paṭhamaṃ gātham āha:
 
-Ja_V,1.6(=356).1: Eko araññe girikandarāya[^172-4] paggayha paggayha silaṃ[^172-8] pavecchasi punappunaṃ santaramānarūpo, Kāraṇḍiya[^172-9] ko nu tava idh'; attho ti. || Ja_V:34 ||
+Ja_V,1.6(=356).1: Eko araññe girikandarāya[^172-4] paggayha paggayha silaṃ[^172-8] pavecchasi punappunaṃ santaramānarūpo, Kāraṇḍiya[^172-9] ko nu tava idh'; attho ti. ||  
+Ja_V:34 ||  
 
 Tattha ko nu tava idhatto ti ko nu tava idha kandarāya[^172-10] silākhipanena[^172-11] attho. So tassa vacanaṃ sutvā ācariyaṃ bodhetukāmo[^172-12] dutiyaṃ gātham āha:
 
-Ja_V,1.6(=356).2: Ahaṃ h'; imaṃ sāgarasevitantaṃ[^172-13] samaṃ karissāmi yathāpi pāṇiṃ vikiriya sānūni ca pabbatāni ca, tasmā silaṃ[^172-8] dariyā[^172-14] pakkhipāmīti[^172-15]. || Ja_V:35 ||
+Ja_V,1.6(=356).2: Ahaṃ h'; imaṃ sāgarasevitantaṃ[^172-13] samaṃ karissāmi yathāpi pāṇiṃ vikiriya sānūni ca pabbatāni ca, tasmā silaṃ[^172-8] dariyā[^172-14] pakkhipāmīti[^172-15]. ||  
+Ja_V:35 ||  
 
 Tattha ahaṃ himan ti ahaṃ hi imaṃ mahāpaṭhaviṃ, sāgarasevitantan[^172-16] ti sāgarehi sevitaṃ caturantaṃ, yathāpi pāṇin ti hatthatalaṃ viya samaṃ karissāmi, vikiriyā ti vikiritvā, sānūni ca pabbatāni cā 'ti paṃsupabbate ca silāpabbate ca[^172-17]. Taṃ sutvā brāhmaṇo tatiyaṃ gātham aha:
 
-Ja_V,1.6(=356).3: Na imaṃ[^172-18] mahiṃ[^172-19] arahati[^172-20] pāṇikappaṃ[^172-21] samaṃ manusso karaṇāya-m-eko[^172-22], maññām': imañ ñeva dariṃ[^172-23] jigiṃsaṃ[^172-24] Kārandiya[^172-25] hāhasi[^172-26] jīvalokan ti. || Ja_V:36 ||
+Ja_V,1.6(=356).3: Na imaṃ[^172-18] mahiṃ[^172-19] arahati[^172-20] pāṇikappaṃ[^172-21] samaṃ manusso karaṇāya-m-eko[^172-22], maññām': imañ ñeva dariṃ[^172-23] jigiṃsaṃ[^172-24] Kārandiya[^172-25] hāhasi[^172-26] jīvalokan ti. ||  
+Ja_V:36 ||  
 
 
 <!-- PTS Page 173 -->
@@ -2182,11 +2410,13 @@ Ja_V,1.6(=356).3: Na imaṃ[^172-18] mahiṃ[^172-19] arahati[^172-20] pāṇik
 
 Tattha karaṇāyameko[^173-1] ti kāraṇāya[^173-2] eko, eko kātuṃ na sakkotīti dīpeti, maññāmimaññeva dariṃ[^173-3] jigiṃsan[^173-4] ti ahaṃ maññāmi tiṭṭhatu paṭhavi imaṃ ñeva[^173-5] ekaṃ dariṃ[^173-6] jigiṃsaṃ[^173-7] pūraṇatthāya vāyamanto silaṃ[^173-8] pariyesanto upāyaṃ vicinanto va tvaṃ imaṃ jīvalokaṃ hāhasi[^173-9] jahissasi, marissasīti attho. Taṃ sutvā māṇavo catutthaṃ gātham āha:
 
-Ja_V,1.6(=356).4: Sace ayam[^173-10] bhūtadharaṃ[^173-11] na sattho[^173-12] samaṃ manusso karaṇāya-m-eko[^173-13] evam eva[^173-14] tvaṃ[^173-15] brahme ime manusse nānādiṭṭhike nānāyissasi te[^173-16] ti. || Ja_V:37 ||
+Ja_V,1.6(=356).4: Sace ayam[^173-10] bhūtadharaṃ[^173-11] na sattho[^173-12] samaṃ manusso karaṇāya-m-eko[^173-13] evam eva[^173-14] tvaṃ[^173-15] brahme ime manusse nānādiṭṭhike nānāyissasi te[^173-16] ti. ||  
+Ja_V:37 ||  
 
 Tass'; attho: sace ayaṃ[^173-17] eko manusso imaṃ bhūtadharaṃ mahāpaṭhaviṃ samaṃ kātuṃ na sattho[^173-18] na samattho evam eva tvaṃ ime dussīle manusse nānādiṭṭhike nānayissasi ne[^173-19] evaṃ[^173-20] sīlaṃ gaṇhatha[^173-21] sīlaṃ gaṇhathā 'ti vadanto attano vasaṃ[^173-22] na ānayissasi, paṇḍitapuriso yeva hi pāṇātipātaṃ akusalo[^173-23] ti gaṇhati[^173-24], saṃsāramocakādayo pan'; ettha kusalasaññino ne taṃ[^173-25] kathaṃ ānayissasi, tasmā diṭṭhadiṭṭhānaṃ[^173-26] sīlaṃ adatvā yācantānaṃ ñeva dehīti. Taṃ sutvā ācariyo yuttaṃ vadati. Kāraṇḍiko[^173-27] idāni "na evaṃ[^173-28] karissāmīti" attano viruddhabhāvaṃ ñatvā pañcamaṃ gātham āha:
 
-Ja_V,1.6(=356).5: Saṃkhittarūpena bhavaṃ mam'; atthaṃ akkhāsi Kāraṇḍiya[^173-29] evam etaṃ: yathā na sakkā paṭhavī samāyaṃ kātuṃ manussena tathā manussā ti. || Ja_V:38 ||
+Ja_V,1.6(=356).5: Saṃkhittarūpena bhavaṃ mam'; atthaṃ akkhāsi Kāraṇḍiya[^173-29] evam etaṃ: yathā na sakkā paṭhavī samāyaṃ kātuṃ manussena tathā manussā ti. ||  
+Ja_V:38 ||  
 
 Tattha samāyan ti samā[^173-30] ayaṃ. Evaṃ ācariyo māṇavassa thutiṃ akāsi. So pi naṃ bodhetvā[^173-31] gharaṃ nesi.
 
@@ -2200,7 +2430,8 @@ Satthā imaṃ desanaṃ[^174-1] āharitvā jātakaṃ samodhānesi: "Tadā brā
 
 7. Laṭukikajātaka. Vandāmi taṃ kuñjara saṭṭhihāyanan ti. Idaṃ Satthā Veḷuvane viharanto Devadattaṃ ārabbha kathesi, Ekasmiṃ hi divase[^174-4] dhammasabhāyaṃ kathaṃ samuṭṭhāpesuṃ: "āvuso Devadatto kakkhalo pharuso sāhasiko, sattesu karuṇāmattakam[^174-5] pi 'ssa n' atthīti". Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idān' eva pubbe p'; esa nikkaruṇo yevā" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto hatthiyoniyaṃ nibbattitvā vayappatto pāsādiko mahākāyo asītisahassavāraṇaparivāro yūthapati hutvā Himavantapadese[^174-6] vihāsi. Tadā ekā laṭukikā sakuṇikā hatthīnaṃ vicaraṇaṭṭhāne aṇḍāni nikkhipi. Tāni pariṇatāni[^174-7] bhinditvā sakuṇapotakā nikkhamiṃsu. Tesu[^174-8] avirūḷhapakkhesu uppatituṃ asakkontesu yeva Mahāsatto asītisahassavāraṇaparivuto[^174-9] gocarāya caranto taṃ padesaṃ sampatto[^174-10]. Taṃ disvā laṭukikā cintesi: "ayaṃ hatthirājā mama potake madditvā māressati, handa naṃ puttakānaṃ parittānatthāya dhammikaṃ rakkhaṃ yācāmīti" sā ubho pakkhe ekato katvā tassa purato ṭhatvā paṭhamaṃ gātham āha:
 
-Ja_V,1.7(=357).1: Vandāmi taṃ kuñjara saṭṭhihāyanaṃ[^174-11] āraññakaṃ[^174-12] yūthapatiṃ[^174-13] yasassiṃ[^174-14], pakkhehi taṃ pañjalikaṃ karomi: mā me vadhī puttake dubbalāyā 'ti. || Ja_V:39 ||
+Ja_V,1.7(=357).1: Vandāmi taṃ kuñjara saṭṭhihāyanaṃ[^174-11] āraññakaṃ[^174-12] yūthapatiṃ[^174-13] yasassiṃ[^174-14], pakkhehi taṃ pañjalikaṃ karomi: mā me vadhī puttake dubbalāyā 'ti. ||  
+Ja_V:39 ||  
 
 
 <!-- PTS Page 175 -->
@@ -2210,11 +2441,13 @@ Ja_V,1.7(=357).1: Vandāmi taṃ kuñjara saṭṭhihāyanaṃ[^174-11] ārañ�
 
 Tattha saṭṭhihāyanan[^175-1] ti saṭṭhivassakāle[^175-2] hāyanabalaṃ[^175-3], yasassin[^175-4] ti parivārasampannaṃ[^175-5], pakkhehi taṃ pañjalikan[^175-6] ti ahaṃ pakkhehi tava añjalikaṃ karomīti attho. Mahāsatto "mā cintayi laṭukike, ahan te puttake rakkhissan[^175-7]" ti sakuṇapotakānaṃ upari gantvā[^175-8] asītiyā hatthisahassesu gatesu[^175-9] laṭukikaṃ āmantetvā "amhākaṃ pacchato eko ekacārikahatthi[^175-10] āgacchati, so amhākaṃ vacanaṃ na[^175-11] karissati[^175-12], tasmiṃ āgate taṃ pi yācitvā[^175-13] puttakānaṃ sotthibhāvaṃ kareyyāsīti" vatvā pakkāmi. Sāpi tassa paccuggamanaṃ katvā ubhohi pakkhehi añjaliṃ katvā dutiyaṃ gātham āha:
 
-Ja_V,1.7(=357).2: Vandāmi taṃ kuñjara ekacāriṃ[^175-14] āraññakaṃ[^175-15] pabbatasānugocaraṃ[^175-16], pakkhehi taṃ pañjalikaṃ karomi: mā me vadhī puttake dubbalāyā 'ti. || Ja_V:40 ||
+Ja_V,1.7(=357).2: Vandāmi taṃ kuñjara ekacāriṃ[^175-14] āraññakaṃ[^175-15] pabbatasānugocaraṃ[^175-16], pakkhehi taṃ pañjalikaṃ karomi: mā me vadhī puttake dubbalāyā 'ti. ||  
+Ja_V:40 ||  
 
 Tattha pabbatasānugocaran[^175-17] ti ghanaselapabbatesu ca paṃsupabbatesu ca gocaraṃ gaṇhantaṃ[^175-18]. So tassa vacanaṃ sutvā tatiyaṃ gātham āha:
 
-Ja_V,1.7(=357).3: Vadhissāmi te laṭukike puttakāni, kim me tuvaṃ kāhasi dubbalāsi[^175-19], sataṃ[^175-20] sahassāni[^175-21] pi tādisīnaṃ vāmena pādena papothayeyyan ti. || Ja_V:41 ||
+Ja_V,1.7(=357).3: Vadhissāmi te laṭukike puttakāni, kim me tuvaṃ kāhasi dubbalāsi[^175-19], sataṃ[^175-20] sahassāni[^175-21] pi tādisīnaṃ vāmena pādena papothayeyyan ti. ||  
+Ja_V:41 ||  
 
 Tattha vadhissāmi te ti tvaṃ kasmā mama caraṇamagge puttakāni ṭhapesi[^175-22], yasmā ṭhapesi tasmā vadhissāmi te puttakānīti āha[^175-23], kimme tuvaṃ kāhasī ti mayhaṃ mahāthāmassa tvaṃ dubbalā kiṃ karissasi, papothayeyyan ti ahaṃ hi[^175-24] tādisānaṃ pakkhīnaṃ[^175-25] satasahassānam[^175-26] satasahassam pi vāmena pādena saṃcuṇṇeyyaṃ, dakkhiṇena[^175-27] pana kathā va n'; atthīti.
 
@@ -2226,7 +2459,8 @@ Tattha vadhissāmi te ti tvaṃ kasmā mama caraṇamagge puttakāni ṭhapesi[^
 
 Evañ ca pana vatvā so tassā puttake pādena saṃcuṇṇetvā muttena pavāhetvā nadanto[^176-1] pakkāmi. Laṭukikā[^176-2] rukkhasākhāya nisīditvā[^176-3] "idāni tvaṃ nadanto[^176-4] gaccha[^176-5], katipāhen' eva me kiriyaṃ passissasi, kāyabalato ñāṇabalassa mahantatarabhāvaṃ[^176-6] na jānāsi, bho[^176-7] jānāpessāmi[^176-8] tan[^176-9]" ti taṃ santajjayamānā[^176-1] catutthaṃ gātham āha:
 
-Ja_V,1.7(=357).4: Na h'; eva sabbattha balena kiccaṃ, balaṃ hi bālassa vadhāya hoti, karissāmi te nāgarājā[^176-10] anatthaṃ yo me vadhī[^176-11] puttake dubbalāyā 'ti. || Ja_V:42 ||
+Ja_V,1.7(=357).4: Na h'; eva sabbattha balena kiccaṃ, balaṃ hi bālassa vadhāya hoti, karissāmi te nāgarājā[^176-10] anatthaṃ yo me vadhī[^176-11] puttake dubbalāyā 'ti. ||  
+Ja_V:42 ||  
 
 Tattha balenā 'ti kāyabalena, anatthan ti avaḍḍhiṃ[^176-12], yo me ti yo tvaṃ mama dubbalāya puttake vadhi ghātesīti. Evaṃ[^176-13] vatvā katipāhaṃ ekaṃ kākaṃ upaṭṭhahitvā tena tuṭṭhena "kin te karomīti" vuttā[^176-14] "sāmi aññaṃ me kātabbaṃ n'; atthi etassa pana ekacārivāraṇassa tuṇḍena paharitvā tumhehi akkhīni bhinnāni paccāsiṃsāmīti" āha. Sā tena[^176-15] "sādhū" 'ti sampaṭicchite[^176-16] ekaṃ nīlamakkhikaṃ upaṭṭhahi, tāya pi "kin te karomīti" vuttā[^176-17] "iminā kākena[^176-18] ekacārivāraṇassa akkhīsu bhinnesu tumhehi[^176-19] tattha āsāṭikaṃ pātitaṃ icchāmīti[^176-20]" vatvā tāya pi "sādhū" 'ti vutte ekaṃ maṇḍūkaṃ upaṭṭhahitvā tena "kiṃ karomīti" vuttā[^176-21] "yadā esa ekacārivāraṇo andho hutvā pānīyaṃ pariyesati tadā pabbatamatthake ṭhitā[^176-22] saddaṃ katvā etasmiṃ pabbatamatthakaṃ[^176-23] abhirūḷhe[^176-24] otaritvā papāte saddaṃ kareyyātha, ettakaṃ ahaṃ tumhākaṃ santikā paccāsiṃsāmīti" āha. So pi tassā vacanaṃ sutvā "sādhū" 'ti sampaṭicchi. Ath'; ekadivasaṃ kāko vāraṇassa
 
@@ -2238,7 +2472,8 @@ Tattha balenā 'ti kāyabalena, anatthan ti avaḍḍhiṃ[^176-12], yo me ti yo
 
 dve pi akkhīni tuṇḍena bhindi makkhikā āsāṭikaṃ pātesi. So puḷavehi khajjanto[^177-1] vedanamatto pipāsāya abhibhūto pānīyaṃ pariyesamāno vicari. Tasmiṃ kāle maṇḍūko pabbatamatthake ṭhatvā saddam akāsi. Vāraṇo "ettha pānīyaṃ bhavissatīti" pabbataṃ abhirūhi[^177-2]. Atha maṇḍūko otaritvā papāte ṭhatvā saddam akāsi. Vāraṇo "ettha pānīyaṃ bhavissatīti" papātābhimukho gacchanto pavaṭṭetvā[^177-3] pabbatapāde patitvā jīvitakkhayaṃ pāpuṇi. Laṭukikā tassa matabhavaṃ ñatvā "diṭṭhā me paccāmittassa piṭṭhīti" haṭṭhatuṭṭhā tassa khandhe caṃkamitvā yathākammaṃ gatā. Satthā "na bhikkhave kenaci saddhiṃ veraṃ nāma kātabbaṃ, evaṃbalasampannaṃ nāma vāraṇaṃ ime cattāro janā ekato hutvā jīvitakkhayaṃ pāpesun" ti
 
-Ja_V,1.7(=357).5: Kākañ ca passa laṭukikaṃ maṇḍūkaṃ nīlamakkhikaṃ, ete nāgaṃ aghātesuṃ, passa verassa verinaṃ, tasmā hi[^177-4] veraṃ[^177-5] na kayirātha api yena ca kenacīti || Ja_V:43 ||
+Ja_V,1.7(=357).5: Kākañ ca passa laṭukikaṃ maṇḍūkaṃ nīlamakkhikaṃ, ete nāgaṃ aghātesuṃ, passa verassa verinaṃ, tasmā hi[^177-4] veraṃ[^177-5] na kayirātha api yena ca kenacīti ||  
+Ja_V:43 ||  
 
 imaṃ abhisambuddhagāthaṃ vatvā jātakaṃ samodhānesi: Tattha passā[^177-6] ti aniyāmitālapanam[^177-7] etaṃ, bhikkhū[^177-8] pana sandhāya vuttattā passathā bhikkhave ti vuttaṃ hoti, ete ti ete cattāro ekato hutvā, aghātesun ti[^177-9] vadhiṃsu, passa verassa verinan[^177-10] ti passatha verikānaṃ verassa[^177-11] gatin ti attho. "Tadā ekacārihatthi Devadatto ahosi, yūthapati pana aham evā" 'ti. Laṭukikajātakaṃ[^177-12].
 
@@ -2260,7 +2495,8 @@ imasmiṃ pana Culladhammapālajātake[^178-1] Bodhisattassa sattamāsikakāle h
 
 kāsāyavatthanivattho rattamālādharo parasuṃ[^179-1] aṃse ṭhapetvā upadhānaghaṭikaṃ ādāya āgantvā rājānaṃ vanditvā "kiṃ karomi devā" 'ti aṭṭhāsi. "Deviyā sirigabbhaṃ gantvā Dhammapālaṃ ānehīti[^179-2]". Devī pi rañño kujjhitvā nivattanabhāvaṃ[^179-3] ñatvā Bodhisattaṃ ure nipajjāpetvā rodamānā nisīdi. Coraghātako gantvā taṃ piṭṭhiyaṃ paharitvā hatthato kumāraṃ[^179-4] acchinditvā[^179-5] ādāya rañño santikaṃ āgantvā[^179-6] "kiṃ karomi devā" 'ti āha. Rājā "ekaṃ phalakaṃ āharāpetvā purato nikkhipāpetvā idha naṃ nipajjāpehīti[^179-7]" āha. So tathā akāsi. Candādevī pi puttassa pacchato va paridevamānā āgaṃchi[^179-8]. Puna coraghātako "kiṃ karomi devā" 'ti āha. "Dhammapālassa hatthe chindā" 'ti[^179-9]. Candā devī "mahārāja mama putto sattamāsiko bālako na kiñci jānāti, n'; atth'; etassa[^179-10] doso, doso pana honto mayi[^179-11] bhaveyya, tasmā mayhaṃ hatthe chindāpehīti" imam atthaṃ pakāsentī[^179-12] paṭhamaṃ gātham āha:
 
-Ja_V,1.8(=358).1: Aham eva dūsiyā bhūnahatā rañño Mahāpatāpassa, pamuñcantu[^179-13] Dhammapālaṃ, hatthe me deva chedehīti. || Ja_V:44 ||
+Ja_V,1.8(=358).1: Aham eva dūsiyā bhūnahatā rañño Mahāpatāpassa, pamuñcantu[^179-13] Dhammapālaṃ, hatthe me deva chedehīti. ||  
+Ja_V:44 ||  
 
 Tattha dūsiyā ti dūsikā, tumhe disvā anuṭṭhahamānā[^179-14] dosakārikā[^179-15] ti attho, dūsikā ti pi pāṭho ayam ev'; attho, bhūnahatā ti hatabhūnā hatavaḍḍhīti attho, rañño ti idaṃ dūsiyā ti padena yojetabbaṃ, ahaṃ rañño Mahāpatāpassa aparādhakārikā[^179-16] na[^179-17] kumāro, tasmā niraparādhaṃ etaṃ bālakaṃ muñcantu[^179-18] Dhammapālaṃ, sace hi[^179-19] hatthe chedāpetukāmo dosakārikāya hatthe me[^179-20] deva chedehīti, ayam ettha attho. Rājā coraghātakaṃ olokesi. "Kiṃ karomi devā" 'ti. "Papañcaṃ akatvā hatthe chindā" 'ti. Tasmiṃ khaṇe coraghātako tikhiṇaparasuṃ[^179-21] gahetvā kumārassa taruṇavaṃsakaḷīre[^179-22]
 
@@ -2272,11 +2508,13 @@ Tattha dūsiyā ti dūsikā, tumhe disvā anuṭṭhahamānā[^179-14] dosakāri
 
 viya dve hatthe chindi. So[^180-1] hatthesu chijjamānesu n'; eva rodi na paridevi, khantiñ ca mettañ[^180-2] ca purecārikaṃ katvā adhivāsesi. Candā pana devī chinnahatthakoṭiṃ[^180-3] ucchaṅge katvā lohitalittā paridevamānā vicarati. Puna coraghātako "kiṃ karomi devā" 'ti pucchi. "Dve pi pāde chindā" 'ti. Taṃ sutvā Candā dutiyaṃ gātham āha:
 
-Ja_V,1.8(=358).2: Aham eva dūsiyā bhūnahatā rañño Mahāpatāpassa, pamuñcantu[^180-4] Dhammapālaṃ, pāde me deva chedehīti. || Ja_V:45 ||
+Ja_V,1.8(=358).2: Aham eva dūsiyā bhūnahatā rañño Mahāpatāpassa, pamuñcantu[^180-4] Dhammapālaṃ, pāde me deva chedehīti. ||  
+Ja_V:45 ||  
 
 Tatth'; adhippāyo purimanayen'; eva veditabbo. Rājāpi puna coraghātakaṃ āṇāpesi. So ubho pi pāde chindi. Candā devī pāde pi ucchaṅge katvā lohitalittā paridevamānā "sāmi Mahāpatāpa, chinnahatthapādā nāma dārakā mātarā posetabbā honti, ahaṃ bhatiṃ katvā mama puttakaṃ posessāmi, dehi me etan" ti āha. coraghātako "kiṃ deva katā[^180-5] rājāṇā[^180-6], niṭṭhitaṃ mama kiccan" ti pucchi. "Na tāva niṭṭhitan" ti. "Atha kiṃ karomīti". "Sīsam assa chindā" 'ti. Tato[^180-7] Candā[^180-8] tatiyaṃ gātham āha:
 
-Ja_V,1.8(=358).3: Aham eva dūsiyā bhūnahatā rañño Mahāpatāpassa, pamuñcantu[^180-4] Dhammapālaṃ, sīsam me deva chedehīti || Ja_V:46 ||
+Ja_V,1.8(=358).3: Aham eva dūsiyā bhūnahatā rañño Mahāpatāpassa, pamuñcantu[^180-4] Dhammapālaṃ, sīsam me deva chedehīti ||  
+Ja_V:46 ||  
 
 vatvā ca pana[^180-9] attano sīsaṃ upanesi[^180-10]. Puna coraghātako "kiṃ karomi devā" 'ti pucchi. "Sīsam assa chindā" 'ti. So sīsam assa chinditvā "katā deva rājāṇā[^180-11]" 'ti pucchi. "Na tāva katā" ti[^180-12]. "Atha kiṃ karomīti". "Asituṇḍena naṃ[^180-13] paṭicchitvā[^180-14] asimālaṃ[^180-15] nāma kārohīti". So tassa kalevaraṃ[^180-16] ākāse khipitvā asituṇḍena[^180-17] paṭicchitvā[^180-18] asimālaṃ[^180-19] nāma katvā mahātale vippakiri. Candā Bodhisattassa maṃsaṃ ucchaṅge katvā mahātale paridevamānā[^180-20]
 
@@ -2286,13 +2524,16 @@ vatvā ca pana[^180-9] attano sīsaṃ upanesi[^180-10]. Puna coraghātako "ki�
 
 ##### *[PTS Page 181]*
 
-Ja_V,1.8(=358).4: Na ha[^181-1] nūn'; imassa rañño mittāmaccā ca vijjare suhadā ye na vadanti rājānaṃ: mā ghātayi orasaṃ[^181-2] puttaṃ: || Ja_V:47 ||
+Ja_V,1.8(=358).4: Na ha[^181-1] nūn'; imassa rañño mittāmaccā ca vijjare suhadā ye na vadanti rājānaṃ: mā ghātayi orasaṃ[^181-2] puttaṃ: ||  
+Ja_V:47 ||  
 
-Ja_V,1.8(=358).5: Na ha[^181-1] nūn'; imassa rañño mittā ñātī ca vijjare suhadā ye na vadanti rājānaṃ: mā ghātayi atrajaṃ[^181-3] puttan[^181-4] ti || Ja_V:48 ||
+Ja_V,1.8(=358).5: Na ha[^181-1] nūn'; imassa rañño mittā ñātī ca vijjare suhadā ye na vadanti rājānaṃ: mā ghātayi atrajaṃ[^181-3] puttan[^181-4] ti ||  
+Ja_V:48 ||  
 
 imā gāthā abhāsi. Tattha mittāmaccā ca vijjare sahadā ti nūna assa[^181-5] rañño nātidaḷhamittā[^181-6] vā sabbakiccesu[^181-7] sahabhāvino[^181-8] amaccā vā muduhadayatāya suhadā vā keci na vijjanti, ye na vadantīti ye adhunā imaṃ rājānaṃ āgantvā attano piyaputtaṃ mā ghātayīti na vadanti imaṃ rājānaṃ na paṭisedhenti te n'; atthi yevā" 'ti maññe, dutiyagāthāya[^181-9] ñātīti ñātakā. Imā ca[^181-10] pana dve gāthā vatvā Candā devī ubhohi hatthehi hadayamaṃsaṃ dhārayamānā tatiyaṃ gātham āha[^181-11]
 
-Ja_V,1.8(=358).6: Candanasārānulittā[^181-12] bāhā chijjanti Dhammapālassa dāyādassa[^181-13] pathavyā, pāṇā me deva rujjhantīti. || Ja_V:49 ||
+Ja_V,1.8(=358).6: Candanasārānulittā[^181-12] bāhā chijjanti Dhammapālassa dāyādassa[^181-13] pathavyā, pāṇā me deva rujjhantīti. ||  
+Ja_V:49 ||  
 
 Tattha dāyādassa pathavyā ti pitu santakāya cāturantāya[^181-14] paṭhaviyā dāyādassa lohitacandanasārānulittā[^181-15] hatthā chijjanti pādā chijjanti sīsaṃ chijjati, asimālako si[^181-16] kato tava vaṃsaṃ pacchinditvā gato si dānīti evam ādīni vippalapantī[^181-17] evam āha, pāṇā me deva rujjhantīti[^181-18] deva mayham pi imaṃ sokaṃ dhāretuṃ asakkontiyā jīvitaṃ nirujjhatīti[^181-19]. Tassā evaṃ paridevamānāya eva[^181-20] ḍayhamāne veḷuvane veḷu viya hadayaṃ phalitaṃ[^181-21], tatth'; eva[^181-22] jīvitakkhayaṃ pattā. Rājāpi pallaṃke[^181-23] ṭhātuṃ[^181-24] asakkonto mahātale pati, padaraṃ[^181-25] dvidhā chijji[^181-26], so tato pi bhūmiyaṃ pati. Tato catunahutādhikāni dviyojanasatasahassabahalāpi ghanapaṭhavī tassāguṇaṃ dhāretuṃ asakkontī[^181-27] bhijjitvā vivaram adāsi, avīcito jālā uṭṭhāya kuladattikena kambalena parikkhipantī
 
@@ -2322,7 +2563,8 @@ therā idh'; eva[^183-1] nibaddhaṃ āgacchanti, kiṃkāraṇā tumhe na passa
 
 katehi[^184-1] viya hatthapādehi rajatadāmasadisehi visāṇehi maṇiguḷapaṭibhāgehi[^184-2] akkhīhi[^184-3] rattakambalabheṇḍusadisena[^184-4] mukhena ca samannāgato. Bhariyāpi 'ssa migī[^184-5], sāpi[^184-6] abhirūpā ahosi[^184-7]. Te samaggā sammodamānā vasiṃsu[^184-8]. Asītisahassavicittamigā Bodhisattaṃ upaṭṭhahiṃsu. Tesu evaṃ vasantesu eko migaluddako[^184-9] migavīthisu pāsaṃ[^184-10] oḍḍesi[^184-11]. Ath'; ekadivasaṃ Bodhisatto migānaṃ purato gacchanto pādena pāse bandhitvā[^184-12] "chindissāmīti" ākaḍḍhi cammaṃ chindi[^184-13], puna ākaḍḍhi maṃsaṃ[^184-14] chindi[^184-13], puna ākaḍḍhi nahāruṃ[^184-15] chindi[^184-13], pāso[^184-16] aṭṭhiṃ āhacca aṭṭhāsi. So pāsaṃ chindituṃ asakkonto maraṇabhayena tajjito baddharāvaṃ[^184-17] ravi. Taṃ sutvā bhītā migagaṇā palāyiṃsu[^184-18]. Bhariyā pan'; assa palāyitvā migānaṃ antaraṃ[^184-19] olokentī Bodhisattaṃ[^184-20] adisvā "imaṃ bhayaṃ mayhaṃ sāmikassa[^184-21] uppannaṃ bhavissatīti" vegena tassa santikaṃ gantvā assumukhī rodamānā[^184-22] "sāmi tvaṃ hi[^184-23] mahabbalo, kiṃ esa pāsaṃ sandhāretuṃ na sakkhissasi, vegaṃ janetvā chindāhi nan" ti tassa ussāhaṃ janentī[^184-24] paṭhamaṃ gātham āha:
 
-Ja_V,1.9(=359).1: Vikkama re mahāmiga, vikkama re haripada, chinda vārattikaṃ pāsaṃ, nāhaṃ ekā vane rame ti. || Ja_V:50 ||
+Ja_V,1.9(=359).1: Vikkama re mahāmiga, vikkama re haripada, chinda vārattikaṃ pāsaṃ, nāhaṃ ekā vane rame ti. ||  
+Ja_V:50 ||  
 
 Tattha vikkamā 'ti parakkama[^184-25] ākaḍḍhā 'ti attho, re ti āmantaṇe nipāto, haripadā[^184-26] 'ti tassa pādato paṭṭhāya sakalasarīraṃ suvaṇṇavaṇṇattā[^184-27], ayaṃ pana gāraven'; evam āha, nāhaṃ ekā vane rame ti ahaṃ tava[^184-28] vinā ekikā[^184-29] hutvā vane na ramissāmi, tiṇodakaṃ pana aggahetvā sussitvā marissāmīti dasseti.
 
@@ -2334,11 +2576,13 @@ Tattha vikkamā 'ti parakkama[^184-25] ākaḍḍhā 'ti attho, re ti āmantaṇ
 
 Taṃ sutvā Bodhisatto[^185-1] dutiyaṃ gātham āha:
 
-Ja_V,1.9(=359).2: Vikkamāmi na pāremi[^185-2] bhūmiṃ sumhāmi[^185-3] vegasā, daḷho vārattiko pāso pādam me parikantatīti. || Ja_V:51 ||
+Ja_V,1.9(=359).2: Vikkamāmi na pāremi[^185-2] bhūmiṃ sumhāmi[^185-3] vegasā, daḷho vārattiko pāso pādam me parikantatīti. ||  
+Ja_V:51 ||  
 
 Tattha vikkamāmīti bhadde ahaṃ viriyaṃ karomi, na pāremīti[^185-4] pāsaṃ pana chindituṃ na sakkomīti attho, bhūmiṃ sumhāmīti[^185-3] api nu chindeyyan[^185-5] ti pādena bhūmiṃ paharāmi[^185-6] vegena, parikantatīti[^185-7] cammādīni chindanto samantā kantati. Atha naṃ migī "sāmi, mā bhāyi, ahaṃ attano balena luddaṃ[^185-8] yācitvā mama[^185-9] jīvitam pi datvā[^185-10] tava jīvitaṃ āharissāmīti[^185-11]" Mahāsattaṃ assāsetvā lohitalittaṃ Bodhisattaṃ pariggahetvā aṭṭhāsi. Luddako pi asiñ ca sattiñ ca gahetvā kappuṭṭhānaggi viya āgacchi[^185-12]. Sā taṃ disvā "sāmi, luddako āgacchati, ahaṃ attano balena[^185-13] tava mocetuṃ karissāmi, tvaṃ mā bhāyīti" migaṃ assāsetvā luddassa[^185-14] paṭipathaṃ[^185-15] gantvā paṭikkamitvā ekamantaṃ ṭhitā taṃ vanditvā "sāmi mama sāmiko suvaṇṇavaṇṇo sīlācārasampanno asītisahassānaṃ migānaṃ rājā" ti Bodhisattassa guṇaṃ kathetvā migarāje ṭhite yeva attano vadhaṃ yācantī tatiyaṃ gātham āha:
 
-Ja_V,1.9(=359).3: Attharassu palāsāni, asiṃ nibbaha[^185-16] luddaka, paṭhamaṃ maṃ hanitvāna hana pacchā mahāmigan ti. || Ja_V:52 ||
+Ja_V,1.9(=359).3: Attharassu palāsāni, asiṃ nibbaha[^185-16] luddaka, paṭhamaṃ maṃ hanitvāna hana pacchā mahāmigan ti. ||  
+Ja_V:52 ||  
 
 Tattha palāsānīti maṃsaṃ ṭhapanatthāya[^185-17] palāsapaṇṇāni attharassu, asiṃ nibbahā[^185-18] 'ti asikosato asiṃ nīharā 'ti attho, luddakā 'ti dāruṇakammena jīvitattā tena nāmena ālapati[^185-19]. Taṃ sutvā luddo "manussabhūtāpi attano[^185-20] sāmikassa atthāya[^185-21] attano jīvitaṃ na denti[^185-22] atha tiracchānā pageva, kim idan" ti acchariyappatto "ayaṃ[^185-23] manussabhāsāya madhurena
 
@@ -2350,11 +2594,13 @@ Tattha palāsānīti maṃsaṃ ṭhapanatthāya[^185-17] palāsapaṇṇāni at
 
 sarena katheti, ajja imissā ca patino ca[^186-1] jīvitaṃ dammīti" tassā[^186-2] pasannacitto[^186-3] catutthaṃ gātham āha:
 
-Ja_V,1.9(=359).4: Na me sutaṃ[^186-4] vā diṭṭhaṃ[^186-5] vā bhāsantiṃ[^186-6] mānusiṃ[^186-7] migiṃ[^186-8], tvañ ca bhadde sukhī hohi eso cāpi mahāmigo ti. || Ja_V:53 ||
+Ja_V,1.9(=359).4: Na me sutaṃ[^186-4] vā diṭṭhaṃ[^186-5] vā bhāsantiṃ[^186-6] mānusiṃ[^186-7] migiṃ[^186-8], tvañ ca bhadde sukhī hohi eso cāpi mahāmigo ti. ||  
+Ja_V:53 ||  
 
 Tattha sutaṃ[^186-4] vā diṭṭhaṃ[^186-5] vā ti[^186-9] mayā ito pubbe evarūpaṃ diṭṭhaṃ vā sutaṃ vā n'; atthi, bhāsantiṃ[^186-6] mānusiṃ[^186-10] migin[^186-11] ti ahaṃ hi ito pubbe mānusivācena[^186-12] bhāsantiṃ[^186-13] migiṃ[^186-8] n'; eva ca[^186-14] addasaṃ[^186-15] nāssosiṃ, yesaṃ pana na[^186-16] me sutaṃ[^186-4] vā diṭṭhaṃ[^186-5] vā bhāsantiṃ mānusiṃ migin[^186-17] ti pāli[^186-18], tesaṃ yathāpāliṃ eva attho, bhadde ti laṭṭhake[^186-19] paṇḍite[^186-20] upāyakusale[^186-21], iti taṃ ālapitvā ca[^186-22] pana[^186-23] eso cāpi māhamigo ti dve pi janā[^186-24] sukhā niddukkhā hothā 'ti taṃ[^186-25] sammassāsetvā so luddako Bodhisattassa santikaṃ gantvā vāsiyā cammapāsaṃ chinditvā pāde laggitaṃ pāsaṃ[^186-26] sanikaṃ[^186-27] nīharitvā cammehi cammaṃ maṃsehi maṃsaṃ nahārūhi nahāruṃ[^186-28] paṭipādetvā pādaṃ hatthena parimajji, taṃ khaṇaṃ yeva[^186-29] Mahāsattassa pūritapāramitānubhāvena[^186-30] luddassa mettacittānubhāvena ca migiyā[^186-31] mettadhammānubhāvena ca[^186-32] cammamaṃsanahārūni paṭipāṭiyā saṇṭhahiṃsu[^186-33], Bodhisatto pi[^186-34] sukhī niddukkho hutvā[^186-35] aṭṭhāsi[^186-36] Migī Bodhisattaṃ sukhitaṃ disvā somanassajātā luddassa[^186-37] anumodanaṃ karontī[^186-38] pañcamaṃ gātham āha:
 
-Ja_V,1.9(=359).5: Evaṃ luddaka nandassu saha sabbehi ñātihi[^186-39] yathāham ajja nandāmi muttaṃ disvā mahāmigan ti[^186-40]. || Ja_V:54 ||
+Ja_V,1.9(=359).5: Evaṃ luddaka nandassu saha sabbehi ñātihi[^186-39] yathāham ajja nandāmi muttaṃ disvā mahāmigan ti[^186-40]. ||  
+Ja_V:54 ||  
 
 Bodhisatto ca evaṃ cintesi: "mayhaṃ jīvitañ ca migiyā ca asītisahassamigānañ ca jīvitaṃ iminā luddena dinnaṃ[^186-41], mayhaṃ avassayo jāto, mayāpi 'ssa avassayena bhavituṃ vaṭ-
 
@@ -2384,11 +2630,13 @@ cārikānaṃ antare ṭhitā taṃ[^188-1] olokesi. So pi deviṃ olokesi. Dve 
 
 otaritvā velante vicarantī Saggagandhabbaṃ[^189-1] disvā sañjānitvā "kathaṃ āgato sīti" pucchi. So sabbaṃ kathesi. "Tena hi mā bhāyīti" taṃ assāsetvā bāhāhi pariggahetvā vimānaṃ āropetvā sayanapiṭṭhe nipajjāpetvā samassatthakāle dibbabhojanaṃ datvā dibbagandhodakena nahāpetvā dibbavatthehi acchādetvā dibbagandhapupphehi alaṃkaritvā puna dibbasayane nipajjāpetvā[^189-2] evaṃ taṃ paṭijaggamānā supaṇṇarañño āgatavelāya[^189-3] paṭicchādetvā gatakāle tena saddhiṃ kilesavasena abhirami. Tato māsaddhamāsaccayena Bārāṇasi-vāsino vāṇijā dārūdakagahaṇatthāya[^189-4] tasmiṃ dīpe nigrodharukkhamūlaṃ[^189-5] sampattā. So tehi saddhiṃ nāvaṃ abhiruyha Bārāṇasiṃ gantvā rājānaṃ disvā va tassa[^189-6] jūtakīḷanavelāya vīṇaṃ gahetvā[^189-7] gandhabbaṃ karonto paṭhamaṃ gātham āha:
 
-Ja_V,1.10(=360).1: Vāti gandho timirānaṃ, kusamuddo[^189-8] va[^189-9] ghosavā, dūre ito pi Sussondī[^189-10], Tamba kāmā tudanti man ti. || Ja_V:55 ||
+Ja_V,1.10(=360).1: Vāti gandho timirānaṃ, kusamuddo[^189-8] va[^189-9] ghosavā, dūre ito pi Sussondī[^189-10], Tamba kāmā tudanti man ti. ||  
+Ja_V:55 ||  
 
 Tattha timirānan ti timirarukkhapupphānaṃ, taṃ kira nigrodhaṃ parivāretvā timirarukkho atthi, te sandhāy'; evaṃ vadati[^189-11], kusamuddo[^189-12] ti khuddakasamuddo, ghosavā ti mahāravo, tass'; eva nigrodhassa santike samuddaṃ sandhāy'; evam āha, ito hīti imamhā nagarā, Tambā 'ti rājānaṃ ālapati, athavā Tambakāmā ti Tambena kāmitakāmā[^189-13] Tambakāmā nāma, te[^189-14] maṃ hadaye vijjhantīti[^189-15] dīpeti. Taṃ sutvā supaṇṇo dutiyaṃ gātham āha:
 
-Ja_V,1.10(=360).2: Kathaṃ samuddaṃ atari, kathaṃ addakkhi Serumaṃ[^189-16], kathaṃ tassā ca tuyhañ ca ahū[^189-17] Sagga samāgamo ti. || Ja_V:56 ||
+Ja_V,1.10(=360).2: Kathaṃ samuddaṃ atari, kathaṃ addakkhi Serumaṃ[^189-16], kathaṃ tassā ca tuyhañ ca ahū[^189-17] Sagga samāgamo ti. ||  
+Ja_V:56 ||  
 
 Tattha Seruman[^189-18] ti Serumadīpaṃ[^189-19]
 
@@ -2400,11 +2648,14 @@ Tattha Seruman[^189-18] ti Serumadīpaṃ[^189-19]
 
 Tato Saggo tisso gāthā abhāsi:
 
-Ja_V,1.10(=360).3: Bharukaccha-payātānaṃ[^190-1] vāṇijānaṃ dhanesinaṃ makarehi bhinnā[^190-2] nāvā, phalaken'; aham aplaviṃ. || Ja_V:57 ||
+Ja_V,1.10(=360).3: Bharukaccha-payātānaṃ[^190-1] vāṇijānaṃ dhanesinaṃ makarehi bhinnā[^190-2] nāvā, phalaken'; aham aplaviṃ. ||  
+Ja_V:57 ||  
 
-Ja_V,1.10(=360).4: Sā maṃ saṇhena mudunā niccaṃ candanagandhinī aṃkena uddharī bhaddā mātā puttaṃ va orasaṃ. || Ja_V:58 ||
+Ja_V,1.10(=360).4: Sā maṃ saṇhena mudunā niccaṃ candanagandhinī aṃkena uddharī bhaddā mātā puttaṃ va orasaṃ. ||  
+Ja_V:58 ||  
 
-Ja_V,1.10(=360).5: Sā maṃ annena pānena vatthena sayanena ca attanāpi ca mandakkhī, evaṃ Tamba vijānahīti. || Ja_V:59 ||
+Ja_V,1.10(=360).5: Sā maṃ annena pānena vatthena sayanena ca attanāpi ca mandakkhī, evaṃ Tamba vijānahīti. ||  
+Ja_V:59 ||  
 
 Tattha sā maṃ saṇhenā 'ti evaṃ phalakena tīraṃ uttiṇṇaṃ maṃ samuddatīre vicarantī[^190-3] sā[^190-4] disvā mā bhāyīti saṇhena mudunā vacanena samassāsetvā ti attho, aṃkenā[^190-5] 'ti bāhāyugalaṃ idha aṃko[^190-6] ti vuttaṃ, bhaddā ti dassanīyā pāsādikā, sā maṃ annenā 'ti sā maṃ etena annādinā santappesīti attho, attanāpi cā 'ti na kevalaṃ annādīh'; eva[^190-7] attanāpi maṃ abhiramentī[^190-8] santappesīti dīpeti, mandakkhīti mandanayanā mudunā ākārena olokanasīlā[^190-9] ti vuttaṃ hoti, mattakkhīti pi pāṭho madamattehi viya akkhīhi samannāgatā ti attho, evaṃ Tambā 'ti evaṃ Tambarāja jānāhīti. Supaṇṇo gandhabbassa kathentass'; eva vippaṭisārī hutvā "ahaṃ supaṇṇabhavane vasanto pi rakkhituṃ nāsakkhiṃ, kiṃ etāya dussīlāyā" 'ti taṃ ānetvā rañño datvā[^190-10] pakkāmi. Tato paṭṭhāya puna nāgañchi. Satthā imaṃ desanaṃ[^190-11] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Sacca pariyosāne ukkaṇṭhitabhikkhu sotāpattiphale patiṭṭhahi) "Tadā rājā Ānando ahosi, supaṇṇarājā pana aham evā" 'ti. Sussondijātakaṃ[^190-12]. Maṇikuṇḍalavaggo paṭhamo[^190-13].
 
@@ -2426,15 +2677,19 @@ Tattha sā maṃ saṇhenā 'ti evaṃ phalakena tīraṃ uttiṇṇaṃ maṃ s
 
 vyaggho ca araññe pabbataguhāyaṃ vasanti. Eko sigālo te upaṭṭhahanto tesaṃ vighāsaṃ[^192-1] khāditvā mahākāyo hutvā ekadivasaṃ cintesi: "mayā sīhavyagghamaṃsaṃ[^192-2] na khāditapubbaṃ, mayā ime dve jane bhindituṃ vaṭṭati, tato tesaṃ kalahaṃ katvā matānaṃ maṃsaṃ khādissāmīti" so sīhaṃ upasaṃkamitvā "kiṃ sāmi tumhākaṃ vyagghena saddhiṃ kiñci veraṃ atthīti" pucchi. "Kiṃ pana[^192-3] sammā" ti. "Esa bhante ‘mama[^192-4] gatakāle sīho nāma sarīravaṇṇena vā ārohapariṇāhena vā jātibalaviriyehi vā mama kalābhāgaṃ[^192-5] na pāpuṇātīti'; tumhākaṃ avaṇṇam[^192-6] evā kathetīti[^192-7]". Atha naṃ sīho "gaccha tvaṃ, na eso evaṃ kathessatīti" āha. Vyaggham pi upasaṃkamitvā eten'; eva upāyena kathesi. Taṃ sutvā vyaggho sīhaṃ upasaṃkamitvā "samma tvaṃ kira idañ c'; idañ ca vadesīti" pucchanto paṭhamaṃ gātham āha:
 
-Ja_V,2.1(=361).1: Vaṇṇārohena jātiyā balā nikkamanena ca Subāhu na mayā seyyo Sudāṭha[^192-8] iti bhāsasīti[^192-9]. || Ja_V:60 ||
+Ja_V,2.1(=361).1: Vaṇṇārohena jātiyā balā nikkamanena ca Subāhu na mayā seyyo Sudāṭha[^192-8] iti bhāsasīti[^192-9]. ||  
+Ja_V:60 ||  
 
 Tattha balā nikkamanena cā 'ti kāyabalena c'; eva viriyabalena ca, Subāhu na mayā seyyo ti ayam Subāhu nāma vyaggho etehi kāraṇehi mayā n'; eva sadiso na uttaritaro ti saccaṃ kira tvaṃ sobhanāhi[^192-10] dāṭhāhi samannāgata Sudāṭha migarāja evaṃ vadesīti. Taṃ sutvā Sudāṭho sesā catasso gāthā abhāsi:
 
-Ja_V,2.1(=361).2: Vaṇṇārohena jātiyā balā nikkamanena ca Sudāṭho na mayā seyyo Subāhu iti bhāsasi[^192-11]. || Ja_V:61 ||
+Ja_V,2.1(=361).2: Vaṇṇārohena jātiyā balā nikkamanena ca Sudāṭho na mayā seyyo Subāhu iti bhāsasi[^192-11]. ||  
+Ja_V:61 ||  
 
-Ja_V,2.1(=361).3: Evaṃ ce maṃ[^192-12] viharantaṃ Subāhu samma dubbhasi, na dān'; āhaṃ tayā saddhiṃ saṃvāsam abhirocaye. || Ja_V:62 ||
+Ja_V,2.1(=361).3: Evaṃ ce maṃ[^192-12] viharantaṃ Subāhu samma dubbhasi, na dān'; āhaṃ tayā saddhiṃ saṃvāsam abhirocaye. ||  
+Ja_V:62 ||  
 
-Ja_V,2.1(=361).4: Yo paresaṃ vacanāni saddahetha yathātathaṃ khippaṃ bhijjetha mittasmiṃ verañ ca pasave bahuṃ. || Ja_V:63 ||
+Ja_V,2.1(=361).4: Yo paresaṃ vacanāni saddahetha yathātathaṃ khippaṃ bhijjetha mittasmiṃ verañ ca pasave bahuṃ. ||  
+Ja_V:63 ||  
 
 Ja_V,2.1(=361).5: Na so mitto yo sadā appamatto bhedāsaṃkī randham evānupassī,
 
@@ -2444,7 +2699,8 @@ Ja_V,2.1(=361).5: Na so mitto yo sadā appamatto bhedāsaṃkī randham evānup
 
 ##### *[PTS Page 193]*
 
-yasmiñ ca setī urasīva putto sa ve mitto yo abhejjo parehīti[^193-1]. || Ja_V:64 || Tattha sammā 'ti vayassa[^193-2], dubbhasīti yadi evaṃ tayā saddhiṃ samaggavāsaṃ vasantaṃ maṃ sigālassa kathaṃ gahetvā tvaṃ dubbhasi hanituṃ icchasi ito dāni paṭṭhāya ahaṃ tayā saddhiṃ saṃvāsaṃ nābhirocaye, yathātathan ti tatvato yathāvatathaṃ[^193-3] yathātacchaṃ avisaṃvādakena ariyena vuttavacanaṃ saddhātabbaṃ, evaṃ yo[^193-4] yesaṃ kesañci paresaṃ vacanāni[^193-5] saddahethā 'ti pi attho, yo sadā appamatto ti yo niccaṃ appamatto hutvā mittassa vissāsaṃ na deti so mitto nāma na hotīti attho, bhedāsaṃkīti ajja bhijjissati[^193-6] sve bhijjissatīti evaṃ mittassa bhedam eva āsaṃkati, randham evānupassīti chiddaṃ vivaram eva passanto, urasīva putto ti yasmiṃ mitte mātu hadaye putto viya nirāsaṃko nibbhayo seti. Iti imāhi catūhi gāthāhi sīhena mittaguṇe kathite vyaggho "mayhaṃ doso" ti sīhaṃ khamāpesi. Te tatth'; eva[^193-7] samaggavāsaṃ vasiṃsu. Sigālo pana palāyitvā aññattha gato. Satthā imaṃ desanaṃ[^193-8] āharitvā jātakaṃ samodhānesi: "Tadā sigālo vighāsādo ahosi, sīho Sāriputto, vyaggho Moggallāno, taṃ kāraṇaṃ paccakkhato disvā tasmiṃ vane vutthadevatā[^193-9] aham evā 'ti. Vaṇṇārohajātakaṃ[^193-10].
+yasmiñ ca setī urasīva putto sa ve mitto yo abhejjo parehīti[^193-1]. || Ja_V:64 ||  
+Tattha sammā 'ti vayassa[^193-2], dubbhasīti yadi evaṃ tayā saddhiṃ samaggavāsaṃ vasantaṃ maṃ sigālassa kathaṃ gahetvā tvaṃ dubbhasi hanituṃ icchasi ito dāni paṭṭhāya ahaṃ tayā saddhiṃ saṃvāsaṃ nābhirocaye, yathātathan ti tatvato yathāvatathaṃ[^193-3] yathātacchaṃ avisaṃvādakena ariyena vuttavacanaṃ saddhātabbaṃ, evaṃ yo[^193-4] yesaṃ kesañci paresaṃ vacanāni[^193-5] saddahethā 'ti pi attho, yo sadā appamatto ti yo niccaṃ appamatto hutvā mittassa vissāsaṃ na deti so mitto nāma na hotīti attho, bhedāsaṃkīti ajja bhijjissati[^193-6] sve bhijjissatīti evaṃ mittassa bhedam eva āsaṃkati, randham evānupassīti chiddaṃ vivaram eva passanto, urasīva putto ti yasmiṃ mitte mātu hadaye putto viya nirāsaṃko nibbhayo seti. Iti imāhi catūhi gāthāhi sīhena mittaguṇe kathite vyaggho "mayhaṃ doso" ti sīhaṃ khamāpesi. Te tatth'; eva[^193-7] samaggavāsaṃ vasiṃsu. Sigālo pana palāyitvā aññattha gato. Satthā imaṃ desanaṃ[^193-8] āharitvā jātakaṃ samodhānesi: "Tadā sigālo vighāsādo ahosi, sīho Sāriputto, vyaggho Moggallāno, taṃ kāraṇaṃ paccakkhato disvā tasmiṃ vane vutthadevatā[^193-9] aham evā 'ti. Vaṇṇārohajātakaṃ[^193-10].
 
 2. Sīlavīmaṃsajātaka. Sīlaṃ seyyo ti. Idaṃ Satthā Jetavane viharanto ekaṃ sīlavīmaṃsakabrāhmaṇaṃ ārabbha kathesi. Taṃ kira rājā "esa sīlasampanno" ti aññehi brāhmaṇehi atirekaṃ katvā passati[^193-11]. So cintesi: "kin nu kho maṃ rājā ‘sīlasampanno'; ti aññehi atirekaṃ katvā passati[^193-11] udāhu ‘sutādhārayutto[^193-12]'; ti, vīmaṃsissāmi tāva sīlassa[^193-13] vā sutassa vā mahantabhāvan" ti so ekadivasaṃ heraññikaphalakato kahāpaṇaṃ gaṇhi. Heraññiko garubhāvena na kiñci āha[^193-14]. Tatiyavāre pana taṃ ‘vilopakhādako[^193-15]'; ti gāhāpetvā rañño dassetvā "kiṃ iminā katan" ti vutte "kuṭumbaṃ vilumpatīti" āha. "Saccaṃ
 
@@ -2456,13 +2712,17 @@ yasmiñ ca setī urasīva putto sa ve mitto yo abhejjo parehīti[^193-1]. || Ja_
 
 kira brāhmaṇā" 'ti. "Na mahārāja kuṭumbaṃ vilumpāmi, mayhaṃ pana ‘sīlaṃ nu kho mahantaṃ sutaṃ nu kho'; ti kukkuccaṃ ahosi, sv-āhaṃ ‘etesu kataraṃ nu kho mahantan'; ti vīmaṃsanto tayo vāre kahāpaṇaṃ gaṇhiṃ, taṃ maṃ esa bandhāpetvā tumhākaṃ dassesi, idāni me sutato sīlassa mahantabhāvo ñāto, na me gharāvāsen'; attho, pabbajissām'; ahan" ti pabbajjaṃ anujānāpetvā gharadvāraṃ anoloketvā va Jetavanaṃ gantvā Satthāraṃ pabbajjaṃ yāci. Tassa Satthā pabbajjañ ca upasampadañ ca dāpesi. So acirūpasampanno vipassitvā aggaphale patiṭṭhahi. Dhammasabhāyaṃ kathaṃ samuṭṭhāpesuṃ: "āvuso asukabrāhmaṇo attano sīlaṃ vimaṃsitvā pabbajito vipassitvā arahattaṃ patto" ti. Satthā agantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idāni[^194-1] ayam eva pubbe paṇḍitāpi sīlaṃ vīmaṃsitvā pabbajitvā attano patiṭṭhaṃ kariṃsu yevā" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto brāhmaṇakule nibbattitvā vayappatto Takkasilāyaṃ[^194-2] sabbasippaṃ[^194-3] uggaṇhitvā Bārāṇasiṃ[^194-4] gantvā[^194-5] rājānaṃ passi. Rājā tassa purohitaṭṭhānaṃ adāsi. So pañcasīlāni rakkhati. Rājā[^194-6] naṃ ‘sīlavā'; ti garuṃ katvā passati. So cintesi: "kin nu kho rājā ‘sīlavā'; ti maṃ garuṃ[^194-7] katvā passati udāhu sutādhārayutto" ti sabbaṃ paccuppannavatthusadisam eva, idha pana so brāhmaṇo "idāni me sutato sīlassa mahantabhāvo ñāto" ti vatvā imā pañca gāthā abhāsi:
 
-Ja_V,2.2(=362).1: Sīlaṃ seyyo sutaṃ seyyo iti me saṃsayo ahū, sīlam eva sutā seyyo iti me n'; atthi saṃsayo. || Ja_V:65 ||
+Ja_V,2.2(=362).1: Sīlaṃ seyyo sutaṃ seyyo iti me saṃsayo ahū, sīlam eva sutā seyyo iti me n'; atthi saṃsayo. ||  
+Ja_V:65 ||  
 
-Ja_V,2.2(=362).2: Moghā jāti ca vaṇṇo ca, sīlam eva kir'; uttamaṃ, sīlena anupetassa suten'; attho na vijjati. || Ja_V:66 ||
+Ja_V,2.2(=362).2: Moghā jāti ca vaṇṇo ca, sīlam eva kir'; uttamaṃ, sīlena anupetassa suten'; attho na vijjati. ||  
+Ja_V:66 ||  
 
-Ja_V,2.2(=362).3: Khattiyo ca adhammaṭṭho vesso cādhammanissito[^194-8] te pariccajj'; ubho loke upapajjanti duggatiṃ. || Ja_V:67 ||
+Ja_V,2.2(=362).3: Khattiyo ca adhammaṭṭho vesso cādhammanissito[^194-8] te pariccajj'; ubho loke upapajjanti duggatiṃ. ||  
+Ja_V:67 ||  
 
-Ja_V,2.2(=362).4: Khattiyā brāhmaṇā vessā suddā caṇḍālapukkusā idha dhammaṃ caritvāna bhavanti tidive samā. || Ja_V:68 ||
+Ja_V,2.2(=362).4: Khattiyā brāhmaṇā vessā suddā caṇḍālapukkusā idha dhammaṃ caritvāna bhavanti tidive samā. ||  
+Ja_V:68 ||  
 
 
 <!-- PTS Page 195 -->
@@ -2470,7 +2730,8 @@ Ja_V,2.2(=362).4: Khattiyā brāhmaṇā vessā suddā caṇḍālapukkusā idh
 
 ##### *[PTS Page 195]*
 
-Ja_V,2.2(=362).5: Na vedā samparāyāya na jāti no pi bandhavā sakañ ca sīlaṃ saṃsuddhaṃ samparāyasukhāya cā 'ti. || Ja_V:69 ||
+Ja_V,2.2(=362).5: Na vedā samparāyāya na jāti no pi bandhavā sakañ ca sīlaṃ saṃsuddhaṃ samparāyasukhāya cā 'ti. ||  
+Ja_V:69 ||  
 
 Tattha sīlam eva sutā seyyo ti sutapariyattito sataguṇena sahassaguṇena sīlam eva uttaritaran ti, evañ ca pana vatvā sīlaṃ nām'; etaṃ ekavidhaṃ saṃvaravasena duvidhaṃ cārittavārittavasena tividhaṃ kāyikavācasikamānasikavasena catubbidhaṃ pātimokkhasaṃvaraindriyasaṃvarāajīvapārisuddhipaccayasannisitavasenā 'ti mātikaṃ ṭhapetvā vitthārento sīlassa vaṇṇaṃ bhāsi[^195-1], moghā ti aphalā tucchā, jātīti khattiyakulādīsu nibbatti, vaṇṇo ti sarīravaṇṇo abhirūpabhāvo, so hi yasmā sīlarahitassa jātisampadā vā vaṇṇasampadā vā saggasukhaṃ[^195-2] dātuṃ na sakkoti tasmā ubhayam pi taṃ moghan ti āha, sīlam eva kirā 'ti anussavavasena vadati na pana sayaṃ jānāti, anupetassā 'ti anupagatassa, sutenattho na vijjatīti sīlarahitassa sutapariyattimattena idhaloke vā paraloke vā kāci[^195-3] vaḍḍhi nāma n'; atthi, tato parā dve gāthā jātiyā moghabhāvadassanatthaṃ vuttā, tattha te pariccajjubho loke ti ṭe dussīlā devalokañ ca manussalokañ cā 'ti[^195-4] ubho[^195-5] loke pariccajitvā duggatiṃ upapajjanti, caṇḍālapukkusā ti chavachaḍḍakacaṇḍālā ca pupphachaḍḍakapukkusā ca, bhavanti tidive samā ti ete sabbe pi sīlānubhāvena devaloke nibbattā samā honti, nibbisesā devā t'; eva[^195-6] saṃkhaṃ[^195-7] gacchanti, pañcamagāthā sabbesam pi sutādīnaṃ moghabhāvadassanatthaṃ vuttā, tass'; attho mahārāja ete vedādayo ṭhapetvā idhaloke yasamattadānaṃ[^195-8] samparāye dutiye vā tatiye vā bhave yasaṃ vā sukhaṃ vā dātuṃ nāma na sakkonti, suparisuddhaṃ pana attano sīlam eva taṃ[^195-9] sakkotīti. Evaṃ Mahāsatto sīlaguṇaṃ[^195-10] kathetvā rājānaṃ pabbajjaṃ anujānāpetvā taṃ divasam eva Himavantaṃ pavisitvā isipabbajjaṃ pabbajitvā abhiññā ca samāpattiyo ca nibbattetvā Brahmaloka-parāyano ahosi. Satthā imaṃ desanaṃ[^195-11] āharitvā jātakaṃ samodhānesi: "Tadā sīlaṃ vīmaṃsitvā isipabbajjaṃ pabbajito aham evā" 'ti. Sīlavīmaṃsajātakaṃ[^195-12].
 
@@ -2482,15 +2743,20 @@ Tattha sīlam eva sutā seyyo ti sutapariyattito sataguṇena sahassaguṇena s�
 
 3. Hirijātaka. Hirintarantan ti. Idaṃ Satthā Jetavane viharanto Anāthapiṇḍikassa sahāyaṃ paccantavāsiṃ seṭṭhiṃ ārabbha kathesi. Dve pi vatthūni Ekanipāte navamavaggassa[^196-1] pariyosānajātaka vitthāritān'; eva, idha pana "paccantavāsiseṭṭhino manussā pacchinnasabbasāpateyyā[^196-2] attano santakassa asāmino hutvā palātā" ti Bārāṇasiseṭṭhissa ārocite Bārāṇasiseṭṭhi "attano santikaṃ āgatānaṃ kattabbaṃ akarontā[^196-3] nāma paṭikārake na labhanti yevā" 'ti vatvā imā gāthā abhāsi:
 
-Ja_V,2.3(=363).1: Hirin tarantaṃ vijigucchamānaṃ (cfr. Suttanipāta v.253 p.204-205) tavāham asmī[^196-4] iti bhāsamānaṃ seyyāni kammāni anādiyantaṃ n'; eso maman ti iti taṃ[^196-5] vijaññā. || Ja_V:70 ||
+Ja_V,2.3(=363).1: Hirin tarantaṃ vijigucchamānaṃ (cfr. Suttanipāta v.253 p.204-205) tavāham asmī[^196-4] iti bhāsamānaṃ seyyāni kammāni anādiyantaṃ n'; eso maman ti iti taṃ[^196-5] vijaññā. ||  
+Ja_V:70 ||  
 
-Ja_V,2.3(=363).2: Yaṃ hi kayirā taṃ hi vade yaṃ na kayirā na taṃ vade, akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. (J. 320 V.2) || Ja_V:71 ||
+Ja_V,2.3(=363).2: Yaṃ hi kayirā taṃ hi vade yaṃ na kayirā na taṃ vade, akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. (J. 320 V.2) ||  
+Ja_V:71 ||  
 
-Ja_V,2.3(=363).3: Na so mitto yo sadā appamatto (= supra p.192 v.5.) bhedāsaṃkī randham evānupassī, yasmiñ ca seti urasīva putto sa ve mitto yo abhejjo[^196-6] parehi. || Ja_V:72 ||
+Ja_V,2.3(=363).3: Na so mitto yo sadā appamatto (= supra p.192 v.5.) bhedāsaṃkī randham evānupassī, yasmiñ ca seti urasīva putto sa ve mitto yo abhejjo[^196-6] parehi. ||  
+Ja_V:72 ||  
 
-Ja_V,2.3(=363).4: Pāmujjakaraṇaṃ[^196-7] ṭhānaṃ pasaṃsāvahanaṃ sukhaṃ phalānisaṃso bhāveti vahanto porisaṃ dhuraṃ. || Ja_V:73 ||
+Ja_V,2.3(=363).4: Pāmujjakaraṇaṃ[^196-7] ṭhānaṃ pasaṃsāvahanaṃ sukhaṃ phalānisaṃso bhāveti vahanto porisaṃ dhuraṃ. ||  
+Ja_V:73 ||  
 
-Ja_V,2.3(=363).5: Pavivekarasaṃ pītvā rasaṃ upasamessa[^196-8] ca (Dhp. v. 205) niddaro hoti nippāpo dhammapītirasaṃ pivan ti. || Ja_V:74 ||
+Ja_V,2.3(=363).5: Pavivekarasaṃ pītvā rasaṃ upasamessa[^196-8] ca (Dhp. v. 205) niddaro hoti nippāpo dhammapītirasaṃ pivan ti. ||  
+Ja_V:74 ||  
 
 Tattha hirintarantan ti lajjaṃ atikkamantaṃ, vijigucchamānan ti mittabhāvena jigucchamānaṃ, tavāhamasmīti[^196-9] tava ahaṃ mitto ti kevalaṃ vacanamatten'; eva bhāsamānaṃ, seyyāni kammānīti dassāmīti vacanassa anurūpāni uttamakammāni, anādiyantan ti akarontaṃ[^196-10], neso maman ti evarūpaṃ puggalaṃ[^196-11] eso[^196-12] mama[^196-13] mitto[^196-14] ti na[^196-15] vijaññā, pāmujjakara-
 
@@ -2514,11 +2780,13 @@ Tattha hirintarantan ti lajjaṃ atikkamantaṃ, vijigucchamānan ti mittabhāve
 
 pabbājetvā tath'; eva akāsi. Tatiyam pi vibbhamitvā puna yāciyamāno oloketum pi na icchi. Dhammasabhāyaṃ[^198-1] kathaṃ samuṭṭhāpesuṃ: "āvuso asukamahallako attano sāmaṇerena sahāpi vināpi vasituṃ[^198-2] na sakkoti, itaro tassa dosaṃ disvā puna oloketum pi na icchi, suhadayo kumārako" ti. Satthā āgantvā "kāya na 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave idān'; eva pubbe p'; esa sāmaṇero suhadayo vasati, dosaṃ disvā puna oloketum pi na icchatīti" vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto dhaññavāṇijakule nibbattitvā vayappatto dhaññavikkayena jīvikaṃ kappeti[^198-3]. Ath'; eko ahiguṇḍiko[^198-4] makkaṭaṃ gahetvā sikkhāpetvā ahiṃ kīḷāpento Bārāṇasiyaṃ[^198-5] ussave ghuṭṭhe[^198-6] tam makkaṭaṃ dhaññavāṇijakassa santike ṭhapetvā ahiṃ kīḷāpento[^198-7] sattadivasāni cari[^198-8]. So pi vāṇijo makkaṭassa khādaniyabhojaniyaṃ adāsi. Ahiguṇḍiko[^198-9] sattame divase ussavakīḷāmatto[^198-10] āgantvā taṃ makkaṭaṃ veḷupesikāya tikkhattuṃ paharitvā ādāya uyyānaṃ gantvā bandhitvā niddaṃ okkami. Makkaṭo bandhanaṃ mocetvā ambarukkhaṃ abhiruyha ambāni khādanto nisīdi. So pabuddho rukkhe makkaṭaṃ disvā "etaṃ mayā upalāpetvā gahetuṃ vaṭṭatīti" tena saddhiṃ sallapanto paṭhamaṃ gātham āha:
 
-Ja_V,2.5(=365).1: Vutto 'mhi[^198-11] samma sumukha jūte akkhaparājito, sevehi[^198-12] ambapakkāni, viriyan te bhakkhayāmase ti. || Ja_V:75 ||
+Ja_V,2.5(=365).1: Vutto 'mhi[^198-11] samma sumukha jūte akkhaparājito, sevehi[^198-12] ambapakkāni, viriyan te bhakkhayāmase ti. ||  
+Ja_V:75 ||  
 
 Tattha akkhaparājito[^198-13] ti akkhehi parājito, sevehīti[^198-14] pātehi, savehīti[^198-15] pi pāṭho. Taṃ sutvā makkaṭo sesagāthā abhāsi:
 
-Ja_V,2.5(=365).2: Alikaṃ vata maṃ samma abhūtena pasaṃsayi[^198-16], ko te suto vā diṭṭho vā sumukho nāma makkaṭo. || Ja_V:76 ||
+Ja_V,2.5(=365).2: Alikaṃ vata maṃ samma abhūtena pasaṃsayi[^198-16], ko te suto vā diṭṭho vā sumukho nāma makkaṭo. ||  
+Ja_V:76 ||  
 
 
 <!-- PTS Page 199 -->
@@ -2526,11 +2794,14 @@ Ja_V,2.5(=365).2: Alikaṃ vata maṃ samma abhūtena pasaṃsayi[^198-16], ko 
 
 ##### *[PTS Page 199]*
 
-Ja_V,2.5(=365).3: Ajjāpi me taṃ manasi yaṃ maṃ tvaṃ[^199-1] ahiguṇḍika[^199-2] dhaññāpaṇaṃ pavisitvā matto chātaṃ hanāsi[^199-3] maṃ. || Ja_V:77 ||
+Ja_V,2.5(=365).3: Ajjāpi me taṃ manasi yaṃ maṃ tvaṃ[^199-1] ahiguṇḍika[^199-2] dhaññāpaṇaṃ pavisitvā matto chātaṃ hanāsi[^199-3] maṃ. ||  
+Ja_V:77 ||  
 
-Ja_V,2.5(=365).4: T'; āhaṃ[^199-4] saraṃ dukkhaseyyaṃ api rajjam pi kāraye n'; eva taṃ[^199-5] yācito dajjaṃ[^199-6], tathā hi bhayatajjito. || Ja_V:78 ||
+Ja_V,2.5(=365).4: T'; āhaṃ[^199-4] saraṃ dukkhaseyyaṃ api rajjam pi kāraye n'; eva taṃ[^199-5] yācito dajjaṃ[^199-6], tathā hi bhayatajjito. ||  
+Ja_V:78 ||  
 
-Ja_V,2.5(=365).5: Yañ ca jaññā kule jātaṃ gabbhe tittaṃ[^199-7] amacchariṃ[^199-8] tena sakkhiñ[^199-9] ca mittañ ca dhīro sandhātum arahatīti. || Ja_V:79 ||
+Ja_V,2.5(=365).5: Yañ ca jaññā kule jātaṃ gabbhe tittaṃ[^199-7] amacchariṃ[^199-8] tena sakkhiñ[^199-9] ca mittañ ca dhīro sandhātum arahatīti. ||  
+Ja_V:79 ||  
 
 Tattha alikaṃ vatā 'ti musā vata, abhūtenā ti avijjamānena, ko te ti kattha tayā, sumukho ti sundaramukho, ahiguṇḍikā[^199-10] 'ti taṃ ālapati, ahiguṇṭhikā[^199-11] ti pi pāṭho, chātan[^199-12] ti jighacchābhibhūtaṃ dubbalaṃ kapaṇaṃ, hanāsīti veḷupesikāya tikkhattuṃ paharasi, tāhan ti taṃ ahaṃ, saran ti saranto, dukkhaseyyan ti tasmiṃ āpaṇe dukkhasayanaṃ, api rajjampi kāraye ti sace pi Bārāṇasirajjaṃ gahetvā mayhaṃ datvā maṃ rajjaṃ kāreyyāsi[^199-13] evam pi[^199-14] n'; eva naṃ yācito dajjaṃ, taṃ ekam pi ambapakkaṃ ahaṃ tayā yācito na dadeyyaṃ, kiṃkāraṇā: tathā hi bhayatajjito ti tathā hi ahaṃ tayā bhayena tajjito ti attho, gabbhe tittan[^199-15] ti subhojanarasena mātukucchiyaṃ yeva alaṃkatapaṭiyatte sayanagabbhe yeva vā tittaṃ bhogāsāya akapaṇaṃ, sakkhiñ[^199-16] camittañ cā 'ti sakhibhāvañ[^199-17] ca mittabhāvañ ca tathārūpena kulajātena tittena akapaṇenena amaccharinā saddhiṃ paṇḍito sandhātuṃ puna ghaṭetuṃ arahati, tayā pana kapaṇena ahiguṇḍikena[^199-18] saddhiṃ ko pana mittabhāvaṃ ghaṭessatīti attho Evaṃ vatvā vānaro ghaṭaṃ[^199-19] pāvisi. Satthā imaṃ desanaṃ[^199-20] āharitvā jātakaṃ samodhānesi: "Tadā ahiguṇḍiko[^199-21] mahallako[^199-22] ahosi, makkaṭo sāmaṇero, dhaññavāṇijo aham evā" 'ti. Ahiguṇḍikajātakaṃ[^199-23].
 
@@ -2550,15 +2821,20 @@ Tattha alikaṃ vatā 'ti musā vata, abhūtenā ti avijjamānena, ko te ti katt
 
 madhuraṃ adāsi, iti te tassānubhāvena jīvitaṃ paṭilabhiṃsu. Bodhisatto sotthinā icchitaṭṭhānaṃ[^201-1] gantvā bhaṇḍaṃ vissajjetvā attano geham eva agamāsi[^201-2].
 
-Ja_V,2.6(=366).1: Madhuvaṇṇaṃ madhurasaṃ madhugandhaṃ visaṃ ahu, Gumbiyo ghāsam esāno araññe odahī visam. || Ja_V:80 ||
+Ja_V,2.6(=366).1: Madhuvaṇṇaṃ madhurasaṃ madhugandhaṃ visaṃ ahu, Gumbiyo ghāsam esāno araññe odahī visam. ||  
+Ja_V:80 ||  
 
-Ja_V,2.6(=366).2: Madhū 'ti maññamānā ye taṃ visaṃ samāsāsisuṃ[^201-3] tesaṃ taṃ kaṭukaṃ āsi, maraṇaṃ ten'; upāgamuṃ. || Ja_V:81 ||
+Ja_V,2.6(=366).2: Madhū 'ti maññamānā ye taṃ visaṃ samāsāsisuṃ[^201-3] tesaṃ taṃ kaṭukaṃ āsi, maraṇaṃ ten'; upāgamuṃ. ||  
+Ja_V:81 ||  
 
-Ja_V,2.6(=366).3: Ye ca kho paṭisaṃkhāya visaṃ taṃ parivajjayuṃ te āturesu sukhitā ḍayhamānesu nibbutā. || Ja_V:82 ||
+Ja_V,2.6(=366).3: Ye ca kho paṭisaṃkhāya visaṃ taṃ parivajjayuṃ te āturesu sukhitā ḍayhamānesu nibbutā. ||  
+Ja_V:82 ||  
 
-Ja_V,2.6(=366).4: Evam eva manussesu visaṃ kāmā samohitā āmisaṃ bandhanaṃ c'; etaṃ maccuveso[^201-4] guhāsayo. || Ja_V:83 ||
+Ja_V,2.6(=366).4: Evam eva manussesu visaṃ kāmā samohitā āmisaṃ bandhanaṃ c'; etaṃ maccuveso[^201-4] guhāsayo. ||  
+Ja_V:83 ||  
 
-Ja_V,2.6(=366).5: Evam eva[^201-5] ime kāme[^201-6] āturā paricārake[^201-7] ye sadā parivajjenti[^201-8] saṃgaṃ[^201-9] loke upaccagun[^201-10] ti. || Ja_V:84 ||
+Ja_V,2.6(=366).5: Evam eva[^201-5] ime kāme[^201-6] āturā paricārake[^201-7] ye sadā parivajjenti[^201-8] saṃgaṃ[^201-9] loke upaccagun[^201-10] ti. ||  
+Ja_V:84 ||  
 
 Satthā imā[^201-11] abhisambuddhagāthā vatvā saccāni pakāsetvā jātakaṃ samodhānesi[^201-12]: Tattha Gumbiyo ti tasmiṃ vanagumbe vicaraṇena evaṃladdhanāmayakkho[^201-13], ghāsamesāno ti taṃ visaṃ khāditvā mate khādissāmīti evaṃ attano ghāsaṃ pariyesanto, odahīti taṃ madhunā samānavaṇṇagandharasaṃ visaṃ nikkhipi, kaṭukaṃ āsīti[^201-14] tikhiṇaṃ ahosi, maraṇaṃ tenupāgamun ti tena visena te sattā maraṇaṃ upagatā, āturesū[^201-15] 'ti visavegena āsannamaraṇesu, ḍayhamānesū 'ti visatejena[^201-16] ḍayhantesu, visaṃ kāmā[^201-17] samohitā ti yathā tasmiṃ vattanimahāmagge[^201-18] visaṃ[^201-19] samohitaṃ nikkhittaṃ evaṃ manussesu pi ye ete rūpādayo pañca vatthukāmā tattha tattha samohitā nikkhittā te visan ti veditabbā, āmisaṃ bandhanaṃ cetan[^201-20] ti ye te[^201-21] pañcakāmaguṇā nāma etaṃ[^201-22] imassa maccubhūtassa lāmakassa[^201-23] Mārabālisikena[^201-24] pakkhittaṃ āmisañ c'; eva bhavābhavato nikkhamituṃ appadānena[^201-25] āhuādibhedaṃ[^201-26] nānappakārakaṃ[^201-27] bandhanañ ca[^201-28], maccuveso[^201-29] guhā-
 
@@ -2580,15 +2856,20 @@ sayo[^202-1] ti sarīraguhāya vasako[^202-2] maraṇamaccuveso[^202-3], evameva
 
 ti. "Pass'; eso[^203-1] viṭabhiantare sayito" ti. so sappabhāvaṃ ajānanto rukkhaṃ āruyha taṃ gīvāya[^203-2] gahetvā sappo ti ñatvā[^203-3] nivattituṃ adento[^203-4] sugahitaṃ gahetvā[^203-5] vegena khipi. So gantvā vejjassa gīvāya[^203-6] patito gīvaya[^203-7] paliveṭhetvā karakarāni khāditvā[^203-8] tatth'; eva naṃ pātetvā palāyi. Manussā parivārayiṃsu. Mahāsatto sampattaparisāya dhammaṃ desento[^203-9]
 
-Ja_V,2.7(=367).1: Yo 'yaṃ[^203-10] sāliyachāpo[^203-11] ti kaṇhasappaṃ agāhayi tena sappen'; ayaṃ daṭṭho hato pāpānusāsako. || Ja_V:85 ||
+Ja_V,2.7(=367).1: Yo 'yaṃ[^203-10] sāliyachāpo[^203-11] ti kaṇhasappaṃ agāhayi tena sappen'; ayaṃ daṭṭho hato pāpānusāsako. ||  
+Ja_V:85 ||  
 
-Ja_V,2.7(=367).2: Ahanantam ahantāraṃ yo naro hantum icchati evaṃ so nihato seti yathāyaṃ puriso hato. || Ja_V:86 ||
+Ja_V,2.7(=367).2: Ahanantam ahantāraṃ yo naro hantum icchati evaṃ so nihato seti yathāyaṃ puriso hato. ||  
+Ja_V:86 ||  
 
-Ja_V,2.7(=367).3: Ahanantaṃ aghātentaṃ yo naro hantum icchati evaṃ so nihato seti yathāyaṃ puriso hato. || Ja_V:87 ||
+Ja_V,2.7(=367).3: Ahanantaṃ aghātentaṃ yo naro hantum icchati evaṃ so nihato seti yathāyaṃ puriso hato. ||  
+Ja_V:87 ||  
 
-Ja_V,2.7(=367).4: Yathā paṃsumuṭṭhiṃ puriso paṭivātaṃ paṭikkhipe tam eva so[^203-12] rajo hanti yathāyaṃ puriso hato. || Ja_V:88 ||
+Ja_V,2.7(=367).4: Yathā paṃsumuṭṭhiṃ puriso paṭivātaṃ paṭikkhipe tam eva so[^203-12] rajo hanti yathāyaṃ puriso hato. ||  
+Ja_V:88 ||  
 
-Ja_V,2.7(=367).5: Yo appaduṭṭhassa narassa dussati (Dhp. v. 125.) suddhassa posassa anaṅgaṇassa tam eva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto ti || Ja_V:89 ||
+Ja_V,2.7(=367).5: Yo appaduṭṭhassa narassa dussati (Dhp. v. 125.) suddhassa posassa anaṅgaṇassa tam eva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto ti ||  
+Ja_V:89 ||  
 
 imā gāthā abhāsi[^203-13]. Tatthā yoyan[^203-14] ti yo ayaṃ ayam eva vā pāṭho, sappenayan ti sappena ayaṃ, sayam eva[^203-15] tena sappena daṭṭho, pāpānusāsako ti pāpakaṃ anusāsanaṃ[^203-16] anusāsako, ahanantan ti apaharantaṃ, ahantāran ti amārentaṃ[^203-17], suddhassā 'ti niraparādhassa, posassā 'ti sattassa, anaṅgaṇassā 'ti idaṃ pi niraparādhabhāvaṃ ñeva sandhāya vuttaṃ, paccetīti kammasarikkhakaṃ hutvā paṭieti[^203-18]. Satthā imaṃ desanaṃ[^203-19] āhāritvā jātakaṃ samodhānesi: "Tadā dubbalavejjo[^203-20] Devadatto ahosi, paṇḍitadaharako[^203-21] pana aham evā" 'ti. Sāliyajātakaṃ[^203-22].
 
@@ -2600,11 +2881,13 @@ imā gāthā abhāsi[^203-13]. Tatthā yoyan[^203-14] ti yo ayaṃ ayam eva vā 
 
 8. Tacasārajātaka. Amittahatthatthagatā ti. Idaṃ Satthā Jetavane viharanto paññāpāramiṃ ārabbha kathesi. Tadā hi Satthā "na bhikkhave idān'; eva pubbe pi Tathāgato paññavā upāyakusalo yevā" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto gāmake kuṭumbikakule nibbattitvā ti[^204-1] sabbaṃ purimajātakaniyāmen'; eva kathetabbaṃ. Idha pana vejje[^204-2] mate gāmavāsino "manussamārakā" ti[^204-3] dārake gaddūlehi bandhitvā "rañño dassessāmā" 'ti Bārāṇasiṃ[^204-4] nayiṃsu. Bodhisatto antarāmagge yeva sesadārakānaṃ ovādaṃ adāsi: "tumhe mā bhāyatha, rājānaṃ disvāpi abhītā tuṭṭhindriyā bhāveyyātha, rājā amhehi saddhiṃ paṭhamataraṃ kathessati, tato paṭṭhāya ahaṃ jānissāmīti". Te "sādhū" 'ti sampaṭicchitvā tathā kariṃsu. Rājā te abhīte tuṭṭhindriye disvā "ime manussamārakā ti kudaṇḍakabaddhā ānītā, evarūpaṃ dukkhaṃ pattāpi ca na bhāyanti tuṭṭhindriyā yeva, kin nu kho etesaṃ nasocanakāraṇaṃ[^204-5], pucchissāmi ne" ti paṭhamaṃ gātham āha:
 
-Ja_V,2.8(=368).1: Amittahatthatthagatā tacasārasamappitā pasannamukhavaṇṇātha kasmā tumhe na socathā 'ti. || Ja_V:90 ||
+Ja_V,2.8(=368).1: Amittahatthatthagatā tacasārasamappitā pasannamukhavaṇṇātha kasmā tumhe na socathā 'ti. ||  
+Ja_V:90 ||  
 
 Tattha amittahatthatthagatā ti kudaṇḍakehi gīvāya[^204-6] bandhitvā ānentānaṃ amittānaṃ hatthagatā[^204-7], tacasārasamappitā ti veṇudaṇḍakehi[^204-8] baddhattā evam āha, kasmā ti evarūpaṃ vyasanaṃ pattāpi tumhe kiṃkāranā na socathā 'ti[^204-9] Taṃ sutvā Bodhisatto sesagāthā abhāsi:
 
-Ja_V,2.8(=368).2: Na socanāya paridevanāya attho va[^204-10] labbho[^204-11] api appako pi, socantam enaṃ dukhitaṃ[^204-12] viditvā paccatthikā attamanā bhavanti. || Ja_V:91 ||
+Ja_V,2.8(=368).2: Na socanāya paridevanāya attho va[^204-10] labbho[^204-11] api appako pi, socantam enaṃ dukhitaṃ[^204-12] viditvā paccatthikā attamanā bhavanti. ||  
+Ja_V:91 ||  
 
 
 <!-- PTS Page 205 -->
@@ -2612,11 +2895,14 @@ Ja_V,2.8(=368).2: Na socanāya paridevanāya attho va[^204-10] labbho[^204-11] 
 
 ##### *[PTS Page 205]*
 
-Ja_V,2.8(=368).3: Yato ca kho paṇḍito āpadāsu na vedhati atthavinicchayaññū paccatthikāssa[^205-1] dukkhitā[^205-2] bhavanti disvā mukhaṃ avikāraṃ[^205-3] purāṇaṃ. || Ja_V:92 ||
+Ja_V,2.8(=368).3: Yato ca kho paṇḍito āpadāsu na vedhati atthavinicchayaññū paccatthikāssa[^205-1] dukkhitā[^205-2] bhavanti disvā mukhaṃ avikāraṃ[^205-3] purāṇaṃ. ||  
+Ja_V:92 ||  
 
-Ja_V,2.8(=368).4: Japena[^205-4] mantena subhāsitena (cfr. Supra p. 114,13) anuppadānena paveṇiyā vā yathā yathā yattha labhetha atthaṃ tathā tathā tattha parakkameyya. || Ja_V:93 ||
+Ja_V,2.8(=368).4: Japena[^205-4] mantena subhāsitena (cfr. Supra p. 114,13) anuppadānena paveṇiyā vā yathā yathā yattha labhetha atthaṃ tathā tathā tattha parakkameyya. ||  
+Ja_V:93 ||  
 
-Ja_V,2.8(=368).5: Yato ca[^205-5] jāneyya[^205-6] alabbhaneyyo mayā va[^205-7] aññena vā esa attho asocamāno adhivāsayeyya[^205-8] kammaṃ daḷhaṃ kinti karomi dānīti. || Ja_V:94 ||
+Ja_V,2.8(=368).5: Yato ca[^205-5] jāneyya[^205-6] alabbhaneyyo mayā va[^205-7] aññena vā esa attho asocamāno adhivāsayeyya[^205-8] kammaṃ daḷhaṃ kinti karomi dānīti. ||  
+Ja_V:94 ||  
 
 Tattha attho ti vaḍḍhi, paccatthikā attamanā ti evaṃ[^205-9] purisaṃ socantaṃ dukkhitaṃ viditvā paccāmittā tuṭṭhacittā honti, tesaṃ tussanakāraṇaṃ nāma paṇḍitena kātuṃ na vaṭṭatīti dīpeti, yato ti yadā, na vedhatīti cittutrāsabhayena na kampati, atthavinicchayaññū ti tassa tassa atthassa vinicchayakusalo, japenā[^205-10] 'ti mantaparijapanena[^205-11], mantenā 'ti paṇḍitehi saddhiṃ mantagahaṇena, subhāsitenā 'ti piyavacanena, anuppadānenā 'ti lañcadānena, paveṇiyā[^205-12] ti kulavaṃsena, idam vuttaṃ hoti: mahārāja paṇḍitena nāma āpadāsu uppannāsu na socitabbaṃ kilamitabbaṃ, imesu pana pañcasu kāraṇesu aññataravasena paccāmittā jinitabbā, sace hi sakkoti mantaṃ parijapitvā[^205-13] mukhabandhanaṃ[^205-14] katvāpi te jinitabbā, tathā asakkontena paṇḍitehi saddhiṃ mantetvā ekaṃ upāyaṃ sallakkhetvā jinitabbā, piyavacanaṃ vattuṃ sakkontena piyaṃ vatvāpi te jinitabbā, tathā asakkontena vinicchayāmaccānaṃ lañcaṃ datvāpi jinitabbā, tathā asakkontena kulavaṃsaṃ kathetvā mayaṃ asukapaveṇiyā āgatā tumhākañ ca amhākañ ca eko va pubbapuriso ti evaṃ vijjamānaṃ ñātikoṭiṃ ghaṭetvāpi[^205-15] jinitabbā evā 'ti, yathā yathā ti etesu pañcasu kāraṇesu yena yena kāraṇena yattha yattha attano vaḍḍhiṃ labheyya, tathā tathā ti tena tena kāraṇena tattha tattha parakkameyya parakkamaṃ katvā paccatthike jineyyā 'ti adhippāyo, yato ca jāneyyā 'ti yato pajāneyya[^205-16] mayā vā aññena vā esa attho alabbhaneyyo nānappakārena
 
@@ -2630,7 +2916,8 @@ vāyamitvāpi na sakkā laddhuṃ tadā paṇḍito puriso asocamāno akilamamā
 
 9. Mittavindajātaka. Kyāhaṃ devānamakaran ti. Idaṃ Satthā Jetavane viharanto ekaṃ dubbacabhikkhuṃ ārabbha kathesi. Vatthuṃ Mahāmittavindajātake[^206-4] āvibhavissati. Ayaṃ pana Mittavindako samudde khitto atriccho hutvā parato gantvā nerayikasattānaṃ paccanaṭṭhānaṃ[^206-5] Ussadanirayaṃ ekaṃ[^206-6] nagaran ti saññāya pavisitvā khuracakkaṃ āsādesi[^206-7]. Tadā Bodhisatto devaputto hutvā ussadacārikaṃ cari. So taṃ disvā pucchanto paṭhamaṃ gātham āha:
 
-Ja_V,2.9(=369).1: Ky-āhaṃ devānam akaraṃ kiṃ pāpaṃ pakataṃ[^206-8] mayā yaṃ[^206-9] me sirasmiṃ ūhacca cakkaṃ bhamati matthake ti. || Ja_V:95 ||
+Ja_V,2.9(=369).1: Ky-āhaṃ devānam akaraṃ kiṃ pāpaṃ pakataṃ[^206-8] mayā yaṃ[^206-9] me sirasmiṃ ūhacca cakkaṃ bhamati matthake ti. ||  
+Ja_V:95 ||  
 
 Tattha kyāhaṃ devānamakaran ti sāmi devaputta kiṃ nāma ahaṃ devānaṃ akariṃ, kiṃ maṃ devā bādhenti, kiṃ pāpaṃ pakataṃ[^206-8] mayā ti dukkhamahantatāya vedanāmatto[^206-10] attanā katapāpaṃ asallakkhento evam āha, yaṃ[^206-9] me ti yena pāpena maṃ sirasmiṃ ūhacca hanitvā idaṃ khuracakkaṃ mama matthake bhamati naṃ[^206-11] kiṃ nāmā[^206-12] 'ti.
 
@@ -2642,15 +2929,19 @@ Tattha kyāhaṃ devānamakaran ti sāmi devaputta kiṃ nāma ahaṃ devānaṃ
 
 Taṃ sutvā Bodhisatto dutiyaṃ gātham āha: (Cfr. vol.I. p.363.)
 
-Ja_V,2.9(=369).2: Atikkamma ramaṇakaṃ sadāmattañ ca dūbhakaṃ brahmattarañ ca pāsādaṃ ken'; atthena idhāgato ti. || Ja_V:96 ||
+Ja_V,2.9(=369).2: Atikkamma ramaṇakaṃ sadāmattañ ca dūbhakaṃ brahmattarañ ca pāsādaṃ ken'; atthena idhāgato ti. ||  
+Ja_V:96 ||  
 
 Tattha ramaṇakan ti phalikapāsādaṃ sadāmattan ti rajatapāsādaṃ, dūbhakan ti maṇipāsādaṃ, brahmattarañ ca pāsādan ti suvaṇṇapāsādañ ca, kenatthenā 'ti tvaṃ etesu ramaṇakādīsu catasso aṭṭha soḷasa battiṃsā[^207-1] ti etā devadhītaro pahāya te pāsāde atikkamitvā kena kāraṇena idha āgato ti[^207-2]. Tato Mittavindako tatiyaṃ gātham āha:
 
-Ja_V,2.9(=369).3: Ito bahutarā bhogā atra maññe bhavissare[^207-3], iti etāya saññāya passa maṃ[^207-4] vyasanaṃ gatan ti. || Ja_V:97 ||
+Ja_V,2.9(=369).3: Ito bahutarā bhogā atra maññe bhavissare[^207-3], iti etāya saññāya passa maṃ[^207-4] vyasanaṃ gatan ti. ||  
+Ja_V:97 ||  
 
-Tattha ito bahutarā ti imesu catūsu pāsādesu bhogehi[^207-5] atirekatarā bhavissantīti[^207-6]. Tato Bodhisatto sesagāthā abhāsi: Ja_V,2.9(=369).4: Catubbhi aṭṭh'; ajjhagamā aṭṭhāhi[^207-7] pi[^207-8] ca soḷasa (vol.I p.414.) soḷasāhi[^207-9] ca battiṃsa[^207-10], atricchaṃ cakkam āsado[^207-11], icchāhatassa posassa cakkaṃ bhamati matthake. || Ja_V:98 ||
+Tattha ito bahutarā ti imesu catūsu pāsādesu bhogehi[^207-5] atirekatarā bhavissantīti[^207-6]. Tato Bodhisatto sesagāthā abhāsi: Ja_V,2.9(=369).4: Catubbhi aṭṭh'; ajjhagamā aṭṭhāhi[^207-7] pi[^207-8] ca soḷasa (vol.I p.414.) soḷasāhi[^207-9] ca battiṃsa[^207-10], atricchaṃ cakkam āsado[^207-11], icchāhatassa posassa cakkaṃ bhamati matthake. ||  
+Ja_V:98 ||  
 
-Ja_V,2.9(=369).5: Uparivisālaṃ duppūraṃ[^207-12] icchāvisaṭagāminiṃ ye ca[^207-13] taṃ[^207-14] anugijjhanti te honti cakkadhārino ti. || Ja_V:99 ||
+Ja_V,2.9(=369).5: Uparivisālaṃ duppūraṃ[^207-12] icchāvisaṭagāminiṃ ye ca[^207-13] taṃ[^207-14] anugijjhanti te honti cakkadhārino ti. ||  
+Ja_V:99 ||  
 
 Tattha uparivisālan ti Mittavindaka taṇhā nām'; esā āseviyamānā upari visālā hoti patthaṭā[^207-15] mahāsamuddo viya duppūrā rūpādīsu taṃ[^207-16] taṃ ārammaṇaṃ icchamānāya[^207-17] icchāya[^207-18] patthaṭāya[^207-19] visaṭagāminī[^207-20], tasmā ye purisā taṃ evarūpaṃ taṇhaṃ anugijjhanti punappuna giddhā hutvā gaṇhanti te honti cakkadhārino te evaṃ khuracakkaṃ dhārentīti vadati. Mittavindikaṃ[^207-21] pana kathentam eva nipiṃsamānaṃ[^207-22] taṃ cakkaṃ bhassi[^207-23], tena so puna kathetuṃ nāsakkhi, devaputto attano devaṭṭhānam eva gato.
 
@@ -2670,15 +2961,18 @@ Satthā imaṃ desanaṃ[^208-1] āharitvā jātakaṃ samodhānesi: "Tadā Mitt
 
 ##### *[PTS Page 209]*
 
-Ja_V,2.10(=370).1: Haṃso palāsam avaca: nigrodho samma jāyati, aṃkasmiṃ te nisinno va[^209-1] so te mammāni checchatīti. || Ja_V:100 ||
+Ja_V,2.10(=370).1: Haṃso palāsam avaca: nigrodho samma jāyati, aṃkasmiṃ te nisinno va[^209-1] so te mammāni checchatīti. ||  
+Ja_V:100 ||  
 
 Paṭhamapādo pan'; ettha abhisambuddhena[^209-2] hutvā Satthārā vutto. Palāsan ti palāsadevataṃ, sammā 'ti vayassa, aṃkasmin ti viṭabhiyaṃ, so te mammāni checchatīti so[^209-3] te[^209-4] aṃkesu vaḍḍhitasapatto[^209-5] viya jīvitaṃ chindissatīti attho, jīvitasaṃkhārā hi idha mammānīti[^209-6] vuttā. Taṃ sutvā tassa vacanaṃ agaṇhantī[^209-7] palāsadevatā dutiyaṃ gātham āha:
 
-Ja_V,2.10(=370).2: Vaḍḍhatām[^209-8] eva nigrodho, patiṭṭh'; assa[^209-9] bhavām'; ahaṃ yathā pitā vā mātā vā, evam eso bhavissatīti. || Ja_V:101 ||
+Ja_V,2.10(=370).2: Vaḍḍhatām[^209-8] eva nigrodho, patiṭṭh'; assa[^209-9] bhavām'; ahaṃ yathā pitā vā mātā vā, evam eso bhavissatīti. ||  
+Ja_V:101 ||  
 
 Samma[^209-10] na tvaṃ[^209-11] jānāsi: vaddhatām[^209-12] eva esa[^209-13], aham assa[^209-14] yathā bālakāle puttānaṃ mātāpitaro patiṭṭhā honti tathā bhavissāmi, yathā pana samvaddhā puttā pacchā mahallakakāle mātāpitunnaṃ patiṭṭhā honti mayham pi[^209-15] mahallakakāle evam eva so[^209-16] patiṭṭhā bhavissatīti. Tato haṃso tatiyaṃ gātham āha:
 
-Ja_V,2.10(=370).3: Yaṃ tvaṃ aṃkasmiṃ vaḍḍhesi[^209-17] khīrarukkhaṃ bhayānakaṃ āmanta kho taṃ gacchāma vaḍḍhi-m-assa na ruccatīti. || Ja_V:102 ||
+Ja_V,2.10(=370).3: Yaṃ tvaṃ aṃkasmiṃ vaḍḍhesi[^209-17] khīrarukkhaṃ bhayānakaṃ āmanta kho taṃ gacchāma vaḍḍhi-m-assa na ruccatīti. ||  
+Ja_V:102 ||  
 
 Tattha yaṃ tvan ti yasmā tvaṃ etaṃ bhayadāyakaṃ khīrarukkhaṃ sapattaṃ viya aṃkena vaḍḍhesi[^209-18], āmanta kho tan ti tasmā mayaṃ taṃ āmantetvā jānāpetvā gacchāma, vaḍḍhimassā 'ti assa vaḍḍhi mayhaṃ na ruccatīti. Evañ ca pana vatvā haṃsarājā pakkhe pasāretvā Cittakūṭapabbatam eva gato. Tato paṭṭhāya na punāgañchi[^209-19]. Aparabhāge nigrodho vaḍḍhi. Tasmiṃ ekā rukkhadevatāpi nibbatti. So vaḍḍhito[^209-20] palāsaṃ bhañji[^209-21], sākhāya[^209-22] saddhiṃ yeva devatāya vimānaṃ pati. Sā tasmiṃ kāle haṃsarañño vacanaṃ sallakkhetvā idaṃ anāgatabhayaṃ disvā "haṃsarājā
 
@@ -2690,11 +2984,13 @@ Tattha yaṃ tvan ti yasmā tvaṃ etaṃ bhayadāyakaṃ khīrarukkhaṃ sapatt
 
 kathesi, ahaṃ pan'; assa vacanaṃ na kāsin ti" paridevamānā catutthaṃ gātham āha:
 
-Ja_V,2.10(=370).4: Idāni kho maṃ bhāyati Mahāneru-nidassanaṃ, haṃsassa anabhiññāya[^210-1] mahā me bhayam āgatan ti. || Ja_V:103 ||
+Ja_V,2.10(=370).4: Idāni kho maṃ bhāyati Mahāneru-nidassanaṃ, haṃsassa anabhiññāya[^210-1] mahā me bhayam āgatan ti. ||  
+Ja_V:103 ||  
 
 Tattha idāni kho maṃ bhāyatīti ayaṃ nigrodho taruṇakāle tosetvā idāni maṃ bhāyāpeti santajjeti[^210-2], mahānerunidassanan ti Sinerupabbatasadisaṃ mahantam, haṃsarājassa vacanaṃ sutvā ajānitvā taruṇakāle yeva etāssa anuddhaṭattā[^210-3] mahā me bhayam āgatan ti idāni mayhaṃ mahantaṃ bhayaṃ āgatan ti paridevi. Nigrodho pi vaḍḍhanto[^210-4] sabbaṃ palāsaṃ bhañjitvā[^210-5] khāṇukam[^210-6] eva akāsi, devatāya vimānaṃ sabbaṃ antaradhāyi.
 
-Ja_V,2.10(=370).5: Na[^210-7] tassa vaḍḍhi kusalappasatthā[^210-8] yo vaḍḍhamāno ghasate patiṭṭhaṃ, tass'; ūparodhaṃ parisaṃkamāno patārayī[^210-9] mūlavadhāya[^210-10] dhīro ti || Ja_V:104 ||
+Ja_V,2.10(=370).5: Na[^210-7] tassa vaḍḍhi kusalappasatthā[^210-8] yo vaḍḍhamāno ghasate patiṭṭhaṃ, tass'; ūparodhaṃ parisaṃkamāno patārayī[^210-9] mūlavadhāya[^210-10] dhīro ti ||  
+Ja_V:104 ||  
 
 pañcamā abhisambuddhagāthā. Tattha kusalappasatthā[^210-11] ti {kusalehi} pasatthā[^210-12], ghasate ti khādati vināsetīti attho, patārayīti[^210-13] patarati[^210-14] vāyamati, idaṃ vuttaṃ hoti: bhikkhave yo vaḍḍhamāno attano patiṭṭhaṃ nāseti tassa vaḍḍhi[^210-15] paṇḍitehi na pasatthā[^210-16] tassa pana abbhantarassa vā bāhirassa vā parissayassa ito me uparodho[^210-17] bhavissatīti evaṃ uparodhaṃ vināsaṃ parisaṃkamāno dhīro ñāṇasampanno mūlavadhāya parakkamatīti[^210-18]. Satthā imaṃ desanaṃ[^210-19] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne pañcasatā bhikkhū arahattaṃ pāpuṇiṃsu) "Tadā suvaṇṇahaṃso aham eva ahosin" ti. Palāsajātakaṃ[^210-20]. Vaṇṇārohavaggo dutiyo[^210-21].
 
@@ -2708,11 +3004,13 @@ pañcamā abhisambuddhagāthā. Tattha kusalappasatthā[^210-11] ti {kusalehi} p
 
 1. Dīghitikosalajātaka. Evaṃbhūtassa te rājā 'ti. Idaṃ Satthā Jetavane viharanto Kosambake bhaṇḍanakārake ārabbha kathesi. Tesaṃ hi Jetavanaṃ āgantvā khamāpanakāle Satthā ne[^211-1] āmantetvā "bhikkhave tumhe mayhaṃ orasā mukhato jātā[^211-2] puttā nāma[^211-3], puttehi ca pitarā dinnaṃ ovādaṃ maddituṃ na vaṭṭati, tumhe pana mama ovādaṃ na karittha, porāṇakapaṇḍitā attano mātāpitaro ghātetvā rajjaṃ gahetvā ṭhitacore pi araññe hatthapathaṃ[^211-4] āgate ‘mātāpitūhi dinnaṃ na maddissāmā'; 'ti na mārayiṃsū[^211-5]" 'ti vatvā atītaṃ āhari. Imasmiṃ[^211-1] pana jātake dve pi vatthūni Saṃghabhedakajātake vitthārato āvibhavissanti. So pana Dīghāyukumāro[^211-7] araññe attano aṃke nipannaṃ Bārāṇasirājānaṃ cūḷāya gahetvā "idāni mayhaṃ mātāpitughātakaṃ coraṃ cuddasa khaṇḍāni[^211-8] katvā chindissāmīti" asiṃ ukkhipanto[^211-8] tasmiṃ khaṇe mātāpitūhi dinnaṃ ovādaṃ saritvā "jīvitaṃ[^211-10] cajanto pi tesaṃ ovādaṃ na maddissāmīti kevalaṃ imaṃ tajjessāmīti" cintetvā paṭhamaṃ gātham āha:
 
-Ja_V,3.1(=371).1: Evaṃbhūtassa te rāja āgatassa vaso mama atthi nu[^211-11] koci[^211-12] pariyāyo[^211-13] yo[^211-14] taṃ dukkhā pamocaye ti. || Ja_V:105 ||
+Ja_V,3.1(=371).1: Evaṃbhūtassa te rāja āgatassa vaso mama atthi nu[^211-11] koci[^211-12] pariyāyo[^211-13] yo[^211-14] taṃ dukkhā pamocaye ti. ||  
+Ja_V:105 ||  
 
 Tattha vaso mamā[^211-15] 'ti mama vasaṃ āgatassa, pariyāyo ti kāraṇaṃ. Tato rājā dutiyaṃ gātham āha:
 
-Ja_V,3.1(=371).2: Evaṃbhūtassa me tāta[^211-16] āgatassa vaso tava[^211-17] n'; atthi no koci[^211-18] pariyāyo[^211-19] yo maṃ dukkhā pamocaye ti. || Ja_V:106 ||
+Ja_V,3.1(=371).2: Evaṃbhūtassa me tāta[^211-16] āgatassa vaso tava[^211-17] n'; atthi no koci[^211-18] pariyāyo[^211-19] yo maṃ dukkhā pamocaye ti. ||  
+Ja_V:106 ||  
 
 
 <!-- PTS Page 212 -->
@@ -2722,13 +3020,17 @@ Ja_V,3.1(=371).2: Evaṃbhūtassa me tāta[^211-16] āgatassa vaso tava[^211-17
 
 Tattha no ti nipātamattaṃ, n'; atthi koci[^212-1] pariyāyo[^212-2] yo[^212-3] taṃ[^212-4] etasmā dukkhā pamocaye ti attho. Tato Bodhisatto avasesagāthā abhāsi:
 
-Ja_V,3.1(=371).3: Nāññaṃ sucaritaṃ rāja nāññaṃ rāja subhāsitaṃ tāyate maraṇakāle[^212-5], evam ev'; itaraṃ[^212-6] dhanaṃ. || Ja_V:107 ||
+Ja_V,3.1(=371).3: Nāññaṃ sucaritaṃ rāja nāññaṃ rāja subhāsitaṃ tāyate maraṇakāle[^212-5], evam ev'; itaraṃ[^212-6] dhanaṃ. ||  
+Ja_V:107 ||  
 
-Ja_V,3.1(=371).4: Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me, (Dhp. v. 3-5.) ye[^212-7] taṃ upanayhanti[^212-8] veraṃ tesaṃ na sammati. || Ja_V:108 ||
+Ja_V,3.1(=371).4: Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me, (Dhp. v. 3-5.) ye[^212-7] taṃ upanayhanti[^212-8] veraṃ tesaṃ na sammati. ||  
+Ja_V:108 ||  
 
-Ja_V,3.1(=371).5: Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me, ye taṃ na upanayhanti[^212-8] veraṃ tes'; ūpasamati. || Ja_V:109 ||
+Ja_V,3.1(=371).5: Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me, ye taṃ na upanayhanti[^212-8] veraṃ tes'; ūpasamati. ||  
+Ja_V:109 ||  
 
-Ja_V,3.1(=371).6: Na hi verena verāni sammantīdha kudācanaṃ averena ca sammanti, esa dhammo sanantano ti. || Ja_V:110 ||
+Ja_V,3.1(=371).6: Na hi verena verāni sammantīdha kudācanaṃ averena ca sammanti, esa dhammo sanantano ti. ||  
+Ja_V:110 ||  
 
 Tattha nāññaṃ sucaritan ti nāññā sucaritā, ayam eva vā pāṭho, ṭhapetvā sucaritaṃ aññaṃ na passāmīti vā[^212-9] attho, idha sucaritan ti[^212-10] mātāpitūhi dinnaṃ ovādaṃ sandhāy'; evam āha[^212-11], evamevā 'ti niratthakam eva, idaṃ vuttaṃ hoti: mahārāja aññatra ovādānusatthisaṃkhātā sucaritasubhāsitā maraṇakāle tāyituṃ rakkhituṃ samattho nāma añño n'; atthi, yaṃ etaṃ itaraṃ dhanaṃ evam eva niratthakam eva hoti, tvaṃ hi idāni mayham koṭisatasahassamattam pi dhanaṃ dadanto jīvitaṃ na labheyyāsi, tasmā veditabbam etaṃ: dhanato sucaritasubhāsitam[^212-12] eva uttaritaran ti, sesagāthāsu pi ayaṃ saṃkhepattho: mahārāja ye purisā[^212-13] ayaṃ maṃ akkosi ayaṃ maṃ pahari ayaṃ maṃ ajini ayaṃ mama santakaṃ ahāsīti evaṃ veraṃ upanayhanti bandhitvā viya hadaye ṭhapenti tesaṃ veraṃ na upasammati[^212-14], ye pan'; etaṃ[^212-15] na upanayhanti[^212-16] hadaye na ṭhapenti tesaṃ upasammati[^212-17], verāni hi na kadāci verena sammanti averen' eva pana sammanti, esa dhammo sanantano[^212-18] porāṇo[^212-19] dhammo cirakālappavatto sabhāvo ti. Evañ ca pana vatvā Bodhisatto "ahaṃ mahārāja tayi na dubbhāmi, tvaṃ pana maṃ mārehīti" tassa hatthe asiṃ ṭhapesi. Rājāpi, "nāhaṃ tayi dubbhāmīti" sapathaṃ katvā tena saddhiṃ nagaraṃ gantvā taṃ amaccānaṃ dassetvā "ayaṃ bhaṇe Kosalarañño putto Dīghāvukumāro, iminā mayhaṃ jīvi-
 
@@ -2750,17 +3052,21 @@ taṃ dinnaṃ, na labbhā imaṃ kiñci kātun" ti vatvā attano dhītaraṃ da
 
 "saṃvejessāmi nan" ti āgantvā ākāse ṭhito paṭhamaṃ gātham āha:
 
-Ja_V,3.2(=372).1: Agārā paccupetassa[^214-1] anāgārassa te sato samaṇassa na taṃ sādhu yaṃ petam anusocasīti. || Ja_V:111 ||
+Ja_V,3.2(=372).1: Agārā paccupetassa[^214-1] anāgārassa te sato samaṇassa na taṃ sādhu yaṃ petam anusocasīti. ||  
+Ja_V:111 ||  
 
 Taṃ sutvā tāpaso dutiyaṃ gātham āha:
 
-Ja_V,3.2(=372).2: Saṃvāsena have Sakka manussassa migassa vā hadaye jāyate pemaṃ, taṃ na sakkā asocitun ti. || Ja_V:112 ||
+Ja_V,3.2(=372).2: Saṃvāsena have Sakka manussassa migassa vā hadaye jāyate pemaṃ, taṃ na sakkā asocitun ti. ||  
+Ja_V:112 ||  
 
 Tattha taṃ na sakkā[^214-2] ti taṃ manussaṃ vā tiracchānaṃ vā na sakkā na[^214-3] socituṃ, socām'; evāhan[^214-4] ti. Tato Sakko dve gāthā abhāsi:
 
-Ja_V,3.2(=372).3: Mataṃ marissaṃ rodanti ye rudanti lapanti ca, isi mā rudi[^214-6], roditaṃ[^214-7] mogham āhu santo. (cfr. p. 390,10) || Ja_V:113 ||
+Ja_V,3.2(=372).3: Mataṃ marissaṃ rodanti ye rudanti lapanti ca, isi mā rudi[^214-6], roditaṃ[^214-7] mogham āhu santo. (cfr. p. 390,10) ||  
+Ja_V:113 ||  
 
-Ja_V,3.2(=372).4: Roditena have brahme mato peto samuṭṭhahe sabbe saṃgamma rodāma aññamaññassa ñātake ti. || Ja_V:114 ||
+Ja_V,3.2(=372).4: Roditena have brahme mato peto samuṭṭhahe sabbe saṃgamma rodāma aññamaññassa ñātake ti. ||  
+Ja_V:114 ||  
 
 Tattha marissan ti yo[^214-8] idāni marissati taṃ, lapanti cā 'ti vippalapanti ca, idaṃ vuttaṃ hoti: ye va[^214-9] loke matañ ca marissantañ ca rodanti te rudanti[^214-10] yeva[^214-11] vippalapanti ca, tesaṃ assu pacchijja[^214-12] divaso nāma n' atthi[^214-13], kiṃkāraṇā: sadāpi matānañ ca marissantānañ ca atthitāya, isi mā rudīti[^214-14] tasmā tvaṃ isi mā rudīti, kiṃkāraṇā: roditaṃ moghamāhu santo ti[^214-15] santo[^214-16] hi[^214-17] Buddhādayo[^214-18] roditaṃ moghan ti vadanti, mato peto ti yo esa mato peto ti vuccati yadi so roditena samuṭṭhaheyya evaṃ sante kiṃ nikkamma[^214-19] acchāma[^214-20] sabbe[^214-21] samāgamma aññamaññassa ñātake rodāma, yasmā pana te roditakāraṇā na uṭṭhahanti tasmā moghaṃ ruditan ti[^214-22] roditassa moghabhāvaṃ sādheti. Evaṃ Sakkassa kathentassa[^214-23] tāpaso "niratthakaṃ roditan" ti[^214-24] sallakkhetvā Sakkassa thutiṃ karonto tisso gāthā abhāsi:
 
@@ -2770,11 +3076,14 @@ Tattha marissan ti yo[^214-8] idāni marissati taṃ, lapanti cā 'ti vippalapan
 
 ##### *[PTS Page 215]*
 
-Ja_V,3.2(=372).5: Ādittaṃ vata maṃ santaṃ ghatasittaṃ va pāvakaṃ vārinā viya osiñcaṃ[^215-1] sabbaṃ nibbāpaye daraṃ. || Ja_V:115 ||
+Ja_V,3.2(=372).5: Ādittaṃ vata maṃ santaṃ ghatasittaṃ va pāvakaṃ vārinā viya osiñcaṃ[^215-1] sabbaṃ nibbāpaye daraṃ. ||  
+Ja_V:115 ||  
 
-Ja_V,3.2(=372).6: Abbahi[^215-2] vata me sallaṃ yam m'; āsi[^215-3] hadayanissitaṃ yo me sokaparetassa puttasokaṃ apānudi. || Ja_V:116 ||
+Ja_V,3.2(=372).6: Abbahi[^215-2] vata me sallaṃ yam m'; āsi[^215-3] hadayanissitaṃ yo me sokaparetassa puttasokaṃ apānudi. ||  
+Ja_V:116 ||  
 
-Ja_V,3.2(=372).7: So 'haṃ abbūḷhasallo[^215-4] 'smi vītasoko anāvilo, na socāmi na rodāmi tava sutvāna Vāsavā 'ti. || Ja_V:117 || (Cfr. supra p.157.) Tattha yammāsīti[^215-5] yam[^215-6] me āsi, hadayanissitan ti hadaye[^215-7] nissitaṃ, apānudīti nīhari. Sakko tāpasassa ovādaṃ datvā sakaṭṭhānam eva gato. Satthā imaṃ desanaṃ[^215-8] āharitvā jātakaṃ samodhānesi: "Tadā tāpaso mahallako ahosi, migo sāmaṇero, Sakko[^215-9] aham evā" 'ti. Migapotakajātakaṃ[^215-10].
+Ja_V,3.2(=372).7: So 'haṃ abbūḷhasallo[^215-4] 'smi vītasoko anāvilo, na socāmi na rodāmi tava sutvāna Vāsavā 'ti. || Ja_V:117 ||  
+(Cfr. supra p.157.) Tattha yammāsīti[^215-5] yam[^215-6] me āsi, hadayanissitan ti hadaye[^215-7] nissitaṃ, apānudīti nīhari. Sakko tāpasassa ovādaṃ datvā sakaṭṭhānam eva gato. Satthā imaṃ desanaṃ[^215-8] āharitvā jātakaṃ samodhānesi: "Tadā tāpaso mahallako ahosi, migo sāmaṇero, Sakko[^215-9] aham evā" 'ti. Migapotakajātakaṃ[^215-10].
 
 3. Mūsikajātaka. Kuhiṃ gatā kattha gatā ti. Idaṃ Satthā Veḷuvane viharanto Ajātasattuṃ ārabbha kathesi. Vatthuṃ heṭṭhā Thusajātake vitthāritam eva. Idhāpi hi[^215-11] Satthā tath'; eva rājānaṃ sakiṃ puttena saddhiṃ kīḷamānam sakiṃ dhammaṃ suṇamānaṃ disvā taṃ nissāya rañño bhayaṃ uppajjissatīti" ñatvā "mahārāja, porāṇakarājāno āsaṃkitabbaṃ āsaṃkitvā[^215-12] attano putte[^215-13] ‘amhākaṃ dhūmakāle rajjaṃ kārentū[^215-14]'; 'ti ekamante akaṃsū" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto Takkasilāyaṃ brāhmaṇakule nibbattitvā disāpāmokkhācariyo ahosi. Tassa santike Bārāṇasirañño putto Yavakumāro nāma sabbasippāni uggaṇhitvā anuyogaṃ datvā gantukāmo taṃ āpucchi. Ācariyo "puttaṃ nissāya tassa antarāyo bhavissatīti" aṅgavijjāvasena ñatvā "etam[^215-15] assa[^215-16] harissāmīti" ekaṃ upamaṃ upadhāretuṃ ārabhi. Tadā pan'; assa
 
@@ -2794,11 +3103,13 @@ eko asso ahosi, tassa pāde vaṇo uṭṭhahi, taṃ vaṇānurakkhaṇatthaṃ
 
 ti. So "sādhū" 'ti anto nivesane rañño sāyaṃ nahānapokkharaṇīsamīpaṃ gantvā "ettha taṃ[^217-1] māressāmīti" khaggaṃ gahetvā aṭṭhāsi. Rājā sāyaṃ Mūsikaṃ nāma dāsiṃ "gantvā[^217-2] pokkharaṇīpiṭṭhiṃ sodhetvā ehi, nahāyissāmīti" pesesi. Sā gantvā pokkharaṇīpiṭṭhiṃ sodhentī[^217-3] kumāraṃ passi. Kumāro attano kammassa pākaṭabhāvabhayena taṃ dvidhā chinditvā pokkharaṇiyaṃ pātesi. Rājā nahāyituṃ agamāsi[^217-4]. Sesajano "ajjāpi Mūsikā dāsī[^217-5] na punāgacchati, kuhiṃ gatā kattha gatā" ti āha. Rājā
 
-Ja_V,3.3(=373).1: Kuhiṃ gatā kattha gatā iti lālappatī[^217-6] jano, aham eva eko jānāmi: udapāne Mūsikā hatā[^217-7] ti || Ja_V:118 ||
+Ja_V,3.3(=373).1: Kuhiṃ gatā kattha gatā iti lālappatī[^217-6] jano, aham eva eko jānāmi: udapāne Mūsikā hatā[^217-7] ti ||  
+Ja_V:118 ||  
 
 paṭhamaṃ gāthaṃ bhaṇanto pokkharaṇītīraṃ agamāsi. Tattha kuhiṃ katthā[^217-8] 'ti aññamaññavevacanāni, iti lālappatīti[^217-9] evaṃ vippalapati[^217-10], iti ayaṃ gāthā ajānanto jano Mūsikā[^217-11] dāsī[^217-12] kuhiṃ gatā ti vippalapati rājakumārena[^217-13] dvidhā chinditvā Mūsikāya pokkharaṇiyaṃ[^217-14] pātitabhāvaṃ aham eva eko[^217-15] jānāmīti rañño ajānantass'; eva imam atthaṃ dīpeti. Kumāro "mayā katakammaṃ mayhaṃ pitarā ñātan" ti bhīto palāyitvā tam atthaṃ upaṭṭhākānaṃ ārocesi. Te sattaṭṭhadivasaccayena puna taṃ āhaṃsu: "deva sace rājā jāneyya[^217-16] na[^217-17] tuṇhī[^217-18] bhaveyya, takkagāhena[^217-19] pana tena vuttaṃ bhavissati, mārehi nan" ti. So pun'; ekadivasaṃ khaggahattho sopānapādamūle ṭhatvā rañño āgamanakāle ito c'; ito ca paharaṇokāsaṃ olokesi. Rājā
 
-Ja_V,3.3(=373).2: Yath'; etaṃ[^217-20] iti c'; īti ca[^217-21] gadrabho va nivattasi[^217-22], udapāne Mūsikaṃ hantvā yavaṃ bhakkhetum icchasīti || Ja_V:119 ||
+Ja_V,3.3(=373).2: Yath'; etaṃ[^217-20] iti c'; īti ca[^217-21] gadrabho va nivattasi[^217-22], udapāne Mūsikaṃ hantvā yavaṃ bhakkhetum icchasīti ||  
+Ja_V:119 ||  
 
 dutiyaṃ gāthaṃ sajjhāyanto agamāsi.
 
@@ -2810,13 +3121,16 @@ dutiyaṃ gāthaṃ sajjhāyanto agamāsi.
 
 Ayam pi gāthā yasmā tvaṃ iti cīti ca[^218-1] ito c'; ito ca-paharaṇokāsaṃ olokento gadrabho va[^218-3] nivattasi tasmā taṃ[^218-4] jānāmi purimadivasaṃ pokkharaṇiyaṃ Mūsikaṃ[^218-5] dāsiṃ[^218-6] hantvā[^218-7] ajja maṃ Yavarājānaṃ bhakkhetum icchasīti rañño ajānantass'; eva imam atthaṃ dīpeti. Kumāro[^218-8] "diṭṭho 'mhi pitarā" ti utrasto[^218-9] palāyi. So puna aḍḍhamāsamattaṃ atikkamitvā "rājānaṃ davyā[^218-10] paharitvā[^218-11] māressāmīti" ekaṃ dīghadaṇḍakaṃ dabbīpaharaṇaṃ gahetvā olambetvā aṭṭhāsi. Rājā[^218-12]
 
-Ja_V,3.3(=373).3: Daharo c'; asi dummedha paṭhamuppattito[^218-13] susu, dīgham etaṃ[^218-14] samāsajja[^218-15] na te dassāmi jīvitan ti || Ja_V:120 ||
+Ja_V,3.3(=373).3: Daharo c'; asi dummedha paṭhamuppattito[^218-13] susu, dīgham etaṃ[^218-14] samāsajja[^218-15] na te dassāmi jīvitan ti ||  
+Ja_V:120 ||  
 
 tatiyaṃ gāthaṃ sajjhāyanto sopānamatthakaṃ abhirūhi. Tattha paṭhamuppattito ti paṭhamavayena uppattito uggato, paṭhamavaye ṭhito ti attho, susū 'ti taruṇo, dīghan ti dīghadaṇḍakaṃ dabbīpaharaṇaṃ, samāsajjā 'ti gahetvā olambetvā ṭhito sīti attho. Ayam pi gāthā dummedha attano vayaṃ paribhuñjituṃ na labhissasi[^218-16] na te dāni lajjissāmi[^218-17] māretvā[^218-18] khaṇḍākhaṇḍaṃ chinditvā sūle yeva āvuṇāpessāmīti rañño ajānantass' eva kumāraṃ santajjamāno imam atthaṃ dīpeti. So taṃ divasaṃ palāyituṃ asakkonto "jīvitaṃ me dehi devā" 'ti rañño pādamūle nipajji. Rājā taṃ tajjetvā saṃkhalikāhi bandhāpetvā bandhanāgāre kāretvā setacchattassa heṭṭhā alaṃkatarājāsane nisīditvā "amhākaṃ ācariyo disāpāmokkhabrāhmaṇo imaṃ mayhaṃ antarāyaṃ disvā imā tisso gāthā adāsīti[^218-19]" haṭṭhatuṭṭho udānento sesagāthā abhāsi:
 
-Ja_V,3.3(=373).4: Nāntalikkhabhavanena[^218-20] n'; aṅgaputtasirena vā puttena hi patthayito silokehi pamocito. || Ja_V:121 ||
+Ja_V,3.3(=373).4: Nāntalikkhabhavanena[^218-20] n'; aṅgaputtasirena vā puttena hi patthayito silokehi pamocito. ||  
+Ja_V:121 ||  
 
-Ja_V,3.3(=373).5: Sabbaṃ sutam adhīyetha[^218-21] hīnamukkhaṭṭamajjhimaṃ, sabbassa attham jāneyya, na ca sabbaṃ payojaye, hoti tādisako kālo yattha atthāvahaṃ sutan ti. || Ja_V:122 ||
+Ja_V,3.3(=373).5: Sabbaṃ sutam adhīyetha[^218-21] hīnamukkhaṭṭamajjhimaṃ, sabbassa attham jāneyya, na ca sabbaṃ payojaye, hoti tādisako kālo yattha atthāvahaṃ sutan ti. ||  
+Ja_V:122 ||  
 
 
 <!-- PTS Page 219 -->
@@ -2844,7 +3158,8 @@ tānaṃ ñeva bhariyaṃ gahetvā taṃ aṭavimukhaṃ abhirūhi. Ath'; assa a
 
 corassa hatthe[^221-1] tharuṃ[^221-2] sāmikassa hatthe[^221-3] thalaṃ[^221-4] ṭhapesi. Coro tharudaṇḍaṃ[^221-5] parāmasitvā asiṃ nīharitvā Dhanuggahassa sīsaṃ chindi[^221-6]. So taṃ ghātetvā itthiṃ ādāya gacchanto jātiṃ pucchi. Sā[^221-7] "Takkasilāya[^221-8] disāpāmokkhācariyassa dhītāmhīti[^221-9]" āha. "Kathaṃ tvaṃ iminā laddhā" ti. "Mayhaṃ pitā ‘ayaṃ mayā sadisaṃ katvā sippaṃ sikkhīti'; tussitvā maṃ imassa adāsi, sāhaṃ tayi sinehaṃ katvā attano[^221-10] kuladattikasāmikaṃ mārāpesin" ti. Corajeṭṭhako "kuladattiyaṃ tāv'; esā sāmikaṃ māresi, aññaṃ pan'; ekaṃ disvā mama pi[^221-11] evam evaṃ karissati, imaṃ chaḍḍetuṃ vaṭṭatīti" cintetvā gacchanto antarāmagge ekaṃ kunnadiṃ uttānatalaṃ taṃkhaṇodakapūraṃ[^221-12] disvā "bhadde, imissā nadiyā suṃsumāro kakkhalo, kiṃ karomā" 'ti āha. "Sāmi sabbaṃ ābharaṇabhaṇḍaṃ mama uttarāsaṅge bhaṇḍikaṃ katvā paratīraṃ netvā puna āgantvā maṃ gahetvā gacchā" 'ti. So "sādhū" 'ti sabbaṃ ābharaṇabhaṇḍaṃ ādāya nadiṃ otaritvā taranto viya paratīraṃ patvā taṃ chaḍḍetvā pāyāsi[^221-13]. Sā taṃ disvā "sāmi[^221-14], maṃ chaḍḍetvā viya gacchasi, kasmā evaṃ karosi, ehi mam pi ādāya gacchā" 'ti tena saddhiṃ sallapantī paṭhamaṃ gātham āha:
 
-Ja_V,3.4(=374).1: Sabbaṃ bhaṇḍaṃ samādāya pāraṃ tiṇṇo si brāhmaṇa, pacchā gaccha[^221-15] lahuṃ, khippaṃ mam pi tārehi dān'; ito ti. || Ja_V:123 ||
+Ja_V,3.4(=374).1: Sabbaṃ bhaṇḍaṃ samādāya pāraṃ tiṇṇo si brāhmaṇa, pacchā gaccha[^221-15] lahuṃ, khippaṃ mam pi tārehi dān'; ito ti. ||  
+Ja_V:123 ||  
 
 Tattha lahuṃ khippan ti lahuṃ pacchā gaccha, khippaṃ mam pi tārehi idāni ito ti attho. Coro taṃ sutvā paratīre ṭhito[^221-16] yeva dutiyaṃ gātham āha:
 
@@ -2856,7 +3171,8 @@ Ja_V,3.4(=374).2: Asanthutaṃ maṃ cirasanthutena[^221-17] (Cfr. supra p. 63.
 
 ##### *[PTS Page 222]*
 
-mayāpi bhotī[^222-1] nimineyya aññaṃ, ito ahaṃ dūrataraṃ gamissan ti. || Ja_V:124 || Sā heṭṭhā vuttā[^222-2] yeva. Coro pana "ito ahaṃ dūrataraṃ gamissaṃ, tiṭṭha tvan" ti tassā viravantiyā va[^222-3] ābharaṇabhaṇḍaṃ ādāya palāto[^222-4]. Sā bālā atricchatāya evarūpaṃ vyasanaṃ pattā. Anāthā hutvā avidūre ekaṃ eḷagalāgumbaṃ[^222-5] upagantvā rodamānā nisīdi. Tasmiṃ khaṇe Sakko lokaṃ olokento taṃ atricchatāhataṃ[^222-6] sāmikā ca jārā[^222-7] ca parihīnaṃ rodamānaṃ disvā "etaṃ niggaṇhitvā lajjāpetvā āgamissāmīti" Mātaliñ ca Pañcasikhañ ca ādāya tattha gantvā nadītīre ṭhatvā "Mātali tvaṃ maccho bhava, Pañcasikha tvaṃ sakuṇo bhava, ahaṃ pana sigālo hutvā mukhena maṃsapiṇḍaṃ gahetvā[^222-8] etissā pamukhaṭṭhānaṃ[^222-9] gamissāmi, tvaṃ mayi tattha gate udakato ullaṃghitvā[^222-10] mama purato pata, athāhaṃ mukhena gahitaṃ maṃsapiṇḍaṃ chaḍḍetvā macchaṃ gahetuṃ pakkhandissāmi, tasmiṃ khaṇe tvaṃ[^222-11] Pañcasikha tam[^222-12] maṃsapiṇḍaṃ gahetvā ākāse uppata[^222-13], tvaṃ Mātali udake patā" 'ti āṇāpesi. "Sādhu devā" 'ti. Mātali maccho ahosi, Pañcasikho sakuṇo ahosi, Sakko sigālo hutvā maṃsapiṇḍaṃ mukhenādāya tassā sammukhaṭṭhānaṃ agamāsi. Maccho udakā uppatitvā sigālassa purato pati, so mukhena gahitamaṃsapiṇḍaṃ chaḍḍetvā macchatthāya[^222-14] pakkhandi, maccho uppatitvā udake pati, sakuṇo maṃsapiṇḍaṃ gahetvā ākāse uppati, sigālo ubho pi alabhitvā eḷagalāgumbaṃ[^222-15] olokento dummukho nisīdi. Sā taṃ disvā[^222-16] "atricchatāhato[^222-17] n'; eva maṃsaṃ na macchaṃ labhīti" kūṭaṃ[^222-18]
+mayāpi bhotī[^222-1] nimineyya aññaṃ, ito ahaṃ dūrataraṃ gamissan ti. || Ja_V:124 ||  
+Sā heṭṭhā vuttā[^222-2] yeva. Coro pana "ito ahaṃ dūrataraṃ gamissaṃ, tiṭṭha tvan" ti tassā viravantiyā va[^222-3] ābharaṇabhaṇḍaṃ ādāya palāto[^222-4]. Sā bālā atricchatāya evarūpaṃ vyasanaṃ pattā. Anāthā hutvā avidūre ekaṃ eḷagalāgumbaṃ[^222-5] upagantvā rodamānā nisīdi. Tasmiṃ khaṇe Sakko lokaṃ olokento taṃ atricchatāhataṃ[^222-6] sāmikā ca jārā[^222-7] ca parihīnaṃ rodamānaṃ disvā "etaṃ niggaṇhitvā lajjāpetvā āgamissāmīti" Mātaliñ ca Pañcasikhañ ca ādāya tattha gantvā nadītīre ṭhatvā "Mātali tvaṃ maccho bhava, Pañcasikha tvaṃ sakuṇo bhava, ahaṃ pana sigālo hutvā mukhena maṃsapiṇḍaṃ gahetvā[^222-8] etissā pamukhaṭṭhānaṃ[^222-9] gamissāmi, tvaṃ mayi tattha gate udakato ullaṃghitvā[^222-10] mama purato pata, athāhaṃ mukhena gahitaṃ maṃsapiṇḍaṃ chaḍḍetvā macchaṃ gahetuṃ pakkhandissāmi, tasmiṃ khaṇe tvaṃ[^222-11] Pañcasikha tam[^222-12] maṃsapiṇḍaṃ gahetvā ākāse uppata[^222-13], tvaṃ Mātali udake patā" 'ti āṇāpesi. "Sādhu devā" 'ti. Mātali maccho ahosi, Pañcasikho sakuṇo ahosi, Sakko sigālo hutvā maṃsapiṇḍaṃ mukhenādāya tassā sammukhaṭṭhānaṃ agamāsi. Maccho udakā uppatitvā sigālassa purato pati, so mukhena gahitamaṃsapiṇḍaṃ chaḍḍetvā macchatthāya[^222-14] pakkhandi, maccho uppatitvā udake pati, sakuṇo maṃsapiṇḍaṃ gahetvā ākāse uppati, sigālo ubho pi alabhitvā eḷagalāgumbaṃ[^222-15] olokento dummukho nisīdi. Sā taṃ disvā[^222-16] "atricchatāhato[^222-17] n'; eva maṃsaṃ na macchaṃ labhīti" kūṭaṃ[^222-18]
 
 
 <!-- PTS Page 223 -->
@@ -2866,15 +3182,18 @@ mayāpi bhotī[^222-1] nimineyya aññaṃ, ito ahaṃ dūrataraṃ gamissan ti.
 
 bhindantī[^223-1] vīya mahāhasitaṃ hasi. Taṃ sutvā sigālo tatiyaṃ gātham āha:
 
-Ja_V,3.4(=374).3: Kāyaṃ eḷagalāgumbe[^223-2] karoti ahuhāliyaṃ, na-y-idha naccaṃ vā gītaṃ vā tālaṃ vā susamāhitaṃ, anamhakāle[^223-3] sussoṇi kin nu jagghasi sobhaṇe ti. || Ja_V:125 ||
+Ja_V,3.4(=374).3: Kāyaṃ eḷagalāgumbe[^223-2] karoti ahuhāliyaṃ, na-y-idha naccaṃ vā gītaṃ vā tālaṃ vā susamāhitaṃ, anamhakāle[^223-3] sussoṇi kin nu jagghasi sobhaṇe ti. ||  
+Ja_V:125 ||  
 
 Tattha kāyan ti kā ayaṃ, eḷagalāgumbe[^223-4] ti kambojigumbe[^223-5], ahuhāliyan ti dantavidaṃsakaṃ[^223-6] mahāhasitaṃ vuccati, taṃ[^223-7] kā esā etasmiṃ gumbe karotīti pucchati, nayidha naccaṃ vā ti imasmiṃ ṭhāne kassaci naccantassa[^223-8] naccaṃ vā gāyantassa[^223-9] gītaṃ vā hatthe susamāhite katvā vādentassa susamāhitaṃ hatthatālaṃ vā n'; atthi yaṃ[^223-10] disvā tvaṃ haseyyāsīti[^223-11] dīpeti, anamhakāle[^223-3] ti ārodanakāle[^223-12], sussoṇīti sundarasoṇi, kinnujagghasīti kena nu[^223-13] kāraṇena tvaṃ rodituṃ yuttakāle arodamānā[^223-14] va mahāhasitaṃ hasi, sobhaṇe[^223-15] ti taṃ pasaṃsanto ālapati. Taṃ sutvā sā catuttham gātham āha:
 
-Ja_V,3.4(=374).4: Sigāla bāla dummedha appapañño si jambuka, jīno[^223-16] macchañ ca pesiñ ca kapaṇo viya jhāyasīti. || Ja_V:126 ||
+Ja_V,3.4(=374).4: Sigāla bāla dummedha appapañño si jambuka, jīno[^223-16] macchañ ca pesiñ ca kapaṇo viya jhāyasīti. ||  
+Ja_V:126 ||  
 
 Tattha jīno[^223-16] ti jānippatto hutvā, pesin ti maṃsapesiṃ, kapaṇo viya jhāyasīti sahassabhaṇḍikaṃ parājito kapaṇo viya jhāyasi socasi cintesi. Tato sigālo pañcamaṃ gātham āha: (Dhp. v. 252.)
 
-Ja_V,3.4(=374).5: Sudassaṃ vajjaṃ aññesaṃ attano pana duddasaṃ, jīnā[^223-17] patiñ ca[^223-18] jārañ ca[^223-19] tvam pi maññe va jhāyasīti. || Ja_V:127 ||
+Ja_V,3.4(=374).5: Sudassaṃ vajjaṃ aññesaṃ attano pana duddasaṃ, jīnā[^223-17] patiñ ca[^223-18] jārañ ca[^223-19] tvam pi maññe va jhāyasīti. ||  
+Ja_V:127 ||  
 
 Tattha tvampi maññeva jhāyasīti pāpadhamme dussīle ahaṃ[^223-20] tāva mama gocaraṃ labhissāmi tvaṃ pana atricchatāya hatā taṃ[^223-21] muhuttaṃ[^223-22] diṭṭhake[^223-23] core[^223-24] paṭibaddhacittā hutvā tañ ca[^223-25] jāraṃ[^223-26] kuladattikañ ca patiṃ[^223-27] jīnā[^223-28], maṃ upādāya sataguṇena sahassaguṇena kapaṇatarā va[^223-29] hutvā jhāyasi paridevasīti lajjāpetvā vippakāraṃ pāpento Mahāsatto evam āha.
 
@@ -2886,11 +3205,13 @@ Tattha tvampi maññeva jhāyasīti pāpadhamme dussīle ahaṃ[^223-20] tāva m
 
 Sā tassa vacanaṃ sutvā
 
-Ja_V,3.4(=374).6: Evam etaṃ migarāja yathā bhāsasi jambuka, sā nūnāhaṃ ito gantvā bhattu hessaṃ vasānugā ti || Ja_V:128 ||
+Ja_V,3.4(=374).6: Evam etaṃ migarāja yathā bhāsasi jambuka, sā nūnāhaṃ ito gantvā bhattu hessaṃ vasānugā ti ||  
+Ja_V:128 ||  
 
 gātham āha. Tattha nūnā 'ti ekaṃsatthe[^224-1] nipato, sā ahaṃ ito gantvā puna aññaṃ bhattāraṃ labhitvā ekaṃsen'; eva tassa bhattu vasānugā vasavattinī[^224-2] bhavissamīti. Ath'; assā anācārāya dussīlāya kathaṃ sutvā Sakko devarājā osānagātham āha:
 
-Ja_V,3.4(=374).7: Yo hare[^224-3] mattikāthālaṃ[^224-4] kaṃsathālam pi so hare, kataṃ yeva[^224-5] tayā pāpaṃ puna p'; evaṃ[^224-6] karissasīti. || Ja_V:129 ||
+Ja_V,3.4(=374).7: Yo hare[^224-3] mattikāthālaṃ[^224-4] kaṃsathālam pi so hare, kataṃ yeva[^224-5] tayā pāpaṃ puna p'; evaṃ[^224-6] karissasīti. ||  
+Ja_V:129 ||  
 
 Tass'; attho: anācāre kiṃ kathesi yo mattikāthālaṃ[^224-7] harati suvaṇṇathālarajatathālādibhedaṃ kaṃsathālam pi so harat'; eva[^224-8], idañ ca tayā pāpaṃ katam eva na sakkā tava sandhāretum[^224-9], sā tvaṃ puna pi evam karissasi yevā 'ti. Evaṃ so taṃ lajjāpetvā vippaṭisāraṃ[^224-10] pāpetvā sakaṭṭhānaṃ eva agamāsi. Satthā imaṃ desanaṃ[^224-11] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne ukkaṇṭhitabhikkhu sotāpattiphale patiṭṭhahi) "Tadā Dhanuggaho ukkaṇṭhitabhikkhu ahosi, sā itthi purāṇadutiyikā, Sakko devarājā[^224-12] aham evā" 'ti. Culladhanuggahajātakaṃ[^224-13].
 
@@ -2904,7 +3225,8 @@ Tass'; attho: anācāre kiṃ kathesi yo mattikāthālaṃ[^224-7] harati suva�
 
 Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto pārāpatayoniyaṃ[^225-1] nibbattitvā Bārāṇasiseṭṭhino mahānase nīḷapacchiyaṃ[^225-2] vasati. Ath'; eko kāko macchimaṃsaluddho tena saddhiṃ mettiṃ katvā tatth'; eva vasi. So ekadivasaṃ bahuṃ[^225-3] macchamaṃsaṃ disvā "idaṃ[^225-4] khādissāmīti" tintiṇāyanto[^225-5] nīḷapacchiyaṃ[^225-6] yeva nipajjitvā pārāpatena "ehi samma gocarāya gamissāmā" 'ti vuccamāno pi "ajīrakena nipanno 'mhi, gaccha tvan" ti agantvā[^225-8] tasmiṃ gate[^225-9] "gato me paccāmittakaṇṭako[^225-10], idāni yathāruciṃ macchamaṃsaṃ khādissāmīti" cintetvā paṭhamaṃ gātham āha:
 
-Ja_V,3.5(=375).1: Idāni kho 'mhi sukhito arogo nikkaṇṭako, nippatito[^225-11] kapoto, kāhāmi[^225-12] dāni hadayassa tuṭṭhiṃ, tathā hi maṃ maṃsasākaṃ baletīti[^225-13]. || Ja_V:130 ||
+Ja_V,3.5(=375).1: Idāni kho 'mhi sukhito arogo nikkaṇṭako, nippatito[^225-11] kapoto, kāhāmi[^225-12] dāni hadayassa tuṭṭhiṃ, tathā hi maṃ maṃsasākaṃ baletīti[^225-13]. ||  
+Ja_V:130 ||  
 
 Tattha nippatito[^225-14] ti niggato, kapoto[^225-15] ti pārāpato[^225-16], kāhāmi dānīti karissāmi dāni, tathā hi maṃ maṃsasākaṃ baletīti tathā hi maṃsañ ca avasesaṃ sākañ ca mayhaṃ balaṃ karoti, uṭṭhehi khādā 'ti vadamānaṃ viya ussāhaṃ maṃ karotīti attho. So bhattakārake[^225-17] macchamaṃsaṃ pacitvā mahānasā nikkhamma sarīrato sedaṃ pavāhente[^225-18] pacchito nikkhamitvā[^225-19] rasakaroṭiyaṃ[^225-20] nilīyi[^225-21]. Karoṭi[^225-22] kilīti[^225-23] saddaṃ akāsi. Bhattakārako vegena gantvā[^225-24] kākaṃ gahetvā sabbapattāni luñcitvā allasiṅgiverañ ca siddhatthake ca piṃsitvā pūtitakkena madditvā sakalasarīraṃ makkhetvā ekaṃ kaṭhalaṃ[^225-25]
 
@@ -2916,19 +3238,23 @@ Tattha nippatito[^225-14] ti niggato, kapoto[^225-15] ti pārāpato[^225-16], k�
 
 ghaṃsitvā vijjhitvā suttakena tassa gīvāya[^226-1] bandhitvā nīḷapacchiyaṃ[^226-2] yeva naṃ[^226-3] khipitvā[^226-4] agamāsi. Pārāpato[^226-5] āgantvā taṃ disvā "kā esā[^226-6] balākā[^226-7] mama sahāyassa pacchiyaṃ nipannā, caṇḍo hi[^226-8] so āgantvā ghāteyyāpi[^226-9] nan" ti parihāsaṃ karonto dutiyaṃ gātham āha:
 
-Ja_V,3.5(=375).2: Kāyaṃ balākā[^226-7] sikhinī corī laṃghīpitāmahā[^226-10], (= vol.II p.363.) oraṃ balāke āgaccha, caṇḍo me vāyaso sakhā ti. || Ja_V:131 ||
+Ja_V,3.5(=375).2: Kāyaṃ balākā[^226-7] sikhinī corī laṃghīpitāmahā[^226-10], (= vol.II p.363.) oraṃ balāke āgaccha, caṇḍo me vāyaso sakhā ti. ||  
+Ja_V:131 ||  
 
 Sā heṭṭhāvuttatthā yeva. Taṃ sutvā kāko tatiyaṃ gātham āha:
 
-Ja_V,3.5(=375).3: Alaṃ hi[^226-11] te jagghitāye mamaṃ disvāna edisaṃ vilūnaṃ sūdaputtena piṭṭhimaddena makkhitan ti. || Ja_V:132 ||
+Ja_V,3.5(=375).3: Alaṃ hi[^226-11] te jagghitāye mamaṃ disvāna edisaṃ vilūnaṃ sūdaputtena piṭṭhimaddena makkhitan ti. ||  
+Ja_V:132 ||  
 
 Tattha alan ti paṭisedhatthe[^226-12] nipāto, jagghitāye ti hasitvā[^226-13], idaṃ vuttaṃ hoti: idāni maṃ edisaṃ evaṃ dukkhapattaṃ disvā tava alaṃ[^226-14] hasitena[^226-15], mā īdise kāle parihāsakeliṃ[^226-16] karohīti. So keliṃ[^226-16] karonto va[^226-17] puna catutthaṃ gātham āha:
 
-Ja_V,3.5(=375).4: Sunahāto suvilitto annapānena tappito, kaṇṭhe[^226-18] ca te veḷuriyo, agamā nu Kajaṃgalan ti. || Ja_V:133 ||
+Ja_V,3.5(=375).4: Sunahāto suvilitto annapānena tappito, kaṇṭhe[^226-18] ca te veḷuriyo, agamā nu Kajaṃgalan ti. ||  
+Ja_V:133 ||  
 
 Tattha kaṇṭhe ca te veḷuriyo ti ayaṃ te veḷuriyamaṇi[^226-19] pi kaṇṭhe pilandho[^226-20], tvaṃ ettakaṃ[^226-21] kālaṃ amhākaṃ etaṃ na dassesīti[^226-22] sandhāy'; evam āha, Kajaṃgalan ti idha Bārāṇasi yeva[^226-23] Kajaṃgalā[^226-24] ti adhippetā[^226-25], ito nikkhamitvā kacci[^226-26] anto nagaraṃ gato ti pucchīti. Tato kāko pañcamaṃ gātham āha:
 
-Ja_V,3.5(=375).5: Mā te mitto amitto vā agamāsi Kajaṃgalaṃ, piñjāni[^226-27] tattha lāyitvā[^226-28] kaṇṭhe bandhanti vaḍḍhanan[^226-29] ti. || Ja_V:134 ||
+Ja_V,3.5(=375).5: Mā te mitto amitto vā agamāsi Kajaṃgalaṃ, piñjāni[^226-27] tattha lāyitvā[^226-28] kaṇṭhe bandhanti vaḍḍhanan[^226-29] ti. ||  
+Ja_V:134 ||  
 
 
 <!-- PTS Page 227 -->
@@ -2938,7 +3264,8 @@ Ja_V,3.5(=375).5: Mā te mitto amitto vā agamāsi Kajaṃgalaṃ, piñjāni[^2
 
 Tattha piñjānīti[^227-1] piñjāni[^227-2], tattha lāyitvā[^227-3] ti tasmiṃ Bārāṇasinagare luñcitvā, vaḍḍhanan[^227-4] ti kaṭhalakam[^227-5]. Taṃ sutvā pārāpato[^227-6] osānagātham āha:
 
-Ja_V,3.5(=375).6: Puna p'; āpajjasī[^227-7] samma, sīlaṃ[^227-8] hi tava tādisaṃ[^227-9], (vol.II p.364.) na hi mānusakā bhogā subhuñjā honti pakkhinā ti. || Ja_V:135 ||
+Ja_V,3.5(=375).6: Puna p'; āpajjasī[^227-7] samma, sīlaṃ[^227-8] hi tava tādisaṃ[^227-9], (vol.II p.364.) na hi mānusakā bhogā subhuñjā honti pakkhinā ti. ||  
+Ja_V:135 ||  
 
 Tattha puna pāpajjasīti[^227-10] puna pi[^227-11] evarūpaṃ āpajjissasi, evarūpaṃ hi te sīlan ti. Iti taṃ[^227-12] so ovaditvā tattha avasitvā pakkhe pasāretvā aññattha agamāsi. Kāko[^227-13] tatth'; eva jīvitakkhayaṃ pāpuṇi. Satthā imaṃ desanaṃ[^227-14] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne lolabhikkhu anāgāmiphale patiṭṭhahi) "Tadā kāko lolabhikkhu ahosi, kapoto[^227-15] aham evā" 'ti. Kapotajātakaṃ[^227-16]. Aḍḍhavaggo tatiyo[^227-17]. Pañcanipātavaṇṇanā[^227-18] niṭṭhitā.
 
@@ -2962,9 +3289,11 @@ VI. CHANIPĀTA.
 
 lāyaṃ sabbasippāni uggaṇhitvā isipabbajjaṃ pabbajitvā dīgham addhānaṃ Himavante phalāphalena yāpetvā loṇambilasevanatthāya Bārāṇasiṃ patvā rājuyyāne vasitvā punadivase nagaraṃ bhikkhāya pāvisi. Atha naṃ rājaṃgaṇaṃ pattaṃ rājā disvā tassa iriyāpathe pasīditvā antepuraṃ ānetvā bhojetvā paṭiññaṃ gahetvā rājuyyāne vāsesi[^229-1], devasikaṃ upaṭṭhānaṃ agamāsi. Tam enaṃ Bodhisatto "raññā nāma mahārāja cattāri agatigamanāni vajjetvā appamattena[^229-2] khantimettānuddayasampannena hutvā dhammena rajjaṃ kāretabban" ti vatvā devasikaṃ ovadanto
 
-Ja_VI,1.1(=376).1: Māssu kujjhi bhūmipati, māssu kujjhi rathesabha, kuddhaṃ appaṭikujjhanto[^229-3] rājā raṭṭhassa pūjito. || Ja_VI:1 ||
+Ja_VI,1.1(=376).1: Māssu kujjhi bhūmipati, māssu kujjhi rathesabha, kuddhaṃ appaṭikujjhanto[^229-3] rājā raṭṭhassa pūjito. ||  
+Ja_VI:1 ||  
 
-Ja_VI,1.1(=376).2: Gāme vā yadivāraññe ninne va yadivā thale (Dhp. v. 98.) sabbattha-m-anusāsāmi: māssu kujjhi rathesabhā 'ti || Ja_VI:2 ||
+Ja_VI,1.1(=376).2: Gāme vā yadivāraññe ninne va yadivā thale (Dhp. v. 98.) sabbattha-m-anusāsāmi: māssu kujjhi rathesabhā 'ti ||  
+Ja_VI:2 ||  
 
 dve gāthā vadeti[^229-4]. Tattha raṭṭhassa pūjito ti evarūpo rājā raṭṭhassa pūjanīyo hotīti attho, sabbatthamanusāsāmīti etesu gāmādisu yattha katthaci vasanto[^229-5] p'; ahaṃ[^229-6] mahārāja imāya eva anusatthiyā[^229-7] taṃ anusāsāmi, etesu vā gāmādisu yattha katthaci ekasmim pi ekasatte pi, māssu kujjhi rathesabhā 'ti evam evāhaṃ taṃ anusāsāmi: raññā nāma kujjhituṃ na vaṭṭati, kiṃkāraṇā: rājāno nāma vācāvudhā, tesaṃ kuddhānaṃ[^229-8] vacanamatten'; eva bahū jīvitakkhayaṃ pāpuṇantīti. Evaṃ Bodhisatto rañño āgatāgatadivase imā[^229-9] gāthā vadeti[^229-10]. Rājā pasannacitto Mahāsattassa satasahassuṭṭhānakaṃ[^229-11] gāmaṃ[^229-12] adāsi. Bodhisatto paṭikkhipi. Iti so tatth' eva dvādasa saṃvacchare[^229-14] vasitvā[^229-15] "aticiraṃ nivuttho 'smi, janapadacārikaṃ tāva[^229-15] caritvā āgamissāmīti" rañño akathetvā va uyyānapālaṃ āmantetvā "tāta ukkaṇṭhitarūpo 'smi, janapadaṃ caritvā āgamissāmi, tvaṃ[^229-16] rañño kātheyyāsīti" vatvā
 
@@ -2976,11 +3305,13 @@ dve gāthā vadeti[^229-4]. Tattha raṭṭhassa pūjito ti evarūpo rājā ra�
 
 pakkanto Gaṃgāya nāvātitthaṃ[^230-1] pāpuṇi. Tattha Avāriyapitā[^230-2] nāma nāviko ahosi bālo, n'; eva guṇavantānaṃ guṇaṃ na attano[^230-3] āyāpāyaṃ[^230-4] jānāti, Gaṃgaṃ taritukāmaṃ janaṃ paṭhamaṃ tāretvā pacchā vetanaṃ yācati, vetanaṃ adentehi[^230-5] saddhiṃ kalahaṃ karonto akkosappahāre yeva bahū labhati[^230-6] appalābhaṃ, evarūpo andhabālo. Taṃ sandhāya Satthā abhisambuddho hutvā tatiyaṃ gātham āha:
 
-Ja_VI,1.1(=376).3: Avāriyapitā[^230-7] nāma ahū Gaṃgāya nāviko, pubbe janaṃ[^230-8] tāretvāna pacchā yācati vetanaṃ, ten'; assa bhaṇḍanaṃ hoti, na ca bhogehi vaḍḍhatīti. || Ja_VI:3 ||
+Ja_VI,1.1(=376).3: Avāriyapitā[^230-7] nāma ahū Gaṃgāya nāviko, pubbe janaṃ[^230-8] tāretvāna pacchā yācati vetanaṃ, ten'; assa bhaṇḍanaṃ hoti, na ca bhogehi vaḍḍhatīti. ||  
+Ja_VI:3 ||  
 
 Tattha Avāriyapitā[^230-9] ti Avāriyā[^230-9] nāma tassa dhītā, tassā vasena Avāriyapitā[^230-10] nāma jāto, tenassa bhaṇḍanan ti ten'; assa kāraṇena tena pacchā yāciyamānena janena saddhiṃ tassa bhaṇḍanaṃ hoti. Bodhisatto taṃ nāvikaṃ upasaṃkamitvā "āvuso paratīraṃ maṃ nehīti" āha[^230-11], "Samaṇa kiṃ[^230-12] me vetanaṃ dassasīti". "Āvuso ahaṃ bhogavaḍḍhiṃ atthavaḍḍhiṃ dhammavaḍḍhiṃ nāma kathessāmīti[^230-13]". Nāviko "dhuvaṃ esa mayhaṃ kiñci dassatīti" taṃ paratīraṃ netvā "dehi me nāvāvetanan" ti[^230-14]. So tassa "sādh'; āvuso[^230-15]" ti paṭhamaṃ bhogavaḍḍhiṃ kathento
 
-Ja_VI,1.1(=376).4: Atiṇṇaṃ yeva yācassu apāraṃ[^230-16] tāta nāvika, añño hi tiṇṇassa mano, añño hoti taresino[^230-17] ti || Ja_VI:4 ||
+Ja_VI,1.1(=376).4: Atiṇṇaṃ yeva yācassu apāraṃ[^230-16] tāta nāvika, añño hi tiṇṇassa mano, añño hoti taresino[^230-17] ti ||  
+Ja_VI:4 ||  
 
 gātham āha. Tattha apāran ti tāta nāvika paratīraṃ atiṇṇaṃ eva janaṃ orimatīre ṭhitaṃ ñeva vetanaṃ yācassu, tato laddhaṃ gahetvā gutte ṭhāne ṭhapetvā pacchā manusse paratīraṃ neyyāsi, evaṃ te bhogavaddhi bhavissatīti, añño hi tiṇṇassa mano ti[^230-18] paratīraṃ gatassa hi añño mano hoti[^230-19], adatvā va[^230-20] gantukāmo hoti, yo pan'; esa taresī[^230-21] nāma[^230-22] taraṃ[^230-23] esati paratīraṃ gantukāmo hoti so atirekam pi datvā gantukāmo hotīti, iti taresino[^230-17] añño mano[^230-24] hoti, tasmā tvaṃ atiṇṇam eva yāceyyāsi, ayaṃ[^230-25] tāva te bhogānaṃ vaḍḍhi nāma.
 
@@ -2992,11 +3323,13 @@ gātham āha. Tattha apāran ti tāta nāvika paratīraṃ atiṇṇaṃ eva jan
 
 Nāviko cintesi: "ayaṃ[^231-1] tāva me ovādo bhavissati, idāni pan'; esa aññaṃ kiñci mayhaṃ dassatīti[^231-2]". Atha naṃ Bodhisatto: "ayaṃ[^231-1] tāva te āvuso bhogavaḍḍhi, idāni atthadhammavaḍḍhiṃ[^231-3] suṇā[^231-4]" 'ti vatvā ovadanto
 
-Ja_VI,1.1(=376).5: Gāme vā yadi vāraṇṇe ninne vā yadi vā thale sabbattha-m-anusāsāmi: māssu kujjhi nāvikā 'ti || Ja_VI:5 ||
+Ja_VI,1.1(=376).5: Gāme vā yadi vāraṇṇe ninne vā yadi vā thale sabbattha-m-anusāsāmi: māssu kujjhi nāvikā 'ti ||  
+Ja_VI:5 ||  
 
 gātham āha. Iti 'ssa[^231-5] imāya gāthāya atthadhammavaḍḍhiṃ kathetvā "ayaṃ te atthavaḍḍhi[^231-6] ca dhammavaḍḍhi[^231-6] cā" 'ti āha. So pana[^231-7] dandhapuriso[^231-8] taṃ ovādaṃ na kismiñci maññamāno "idaṃ samaṇa tayā mayhaṃ dinnaṃ nāvāvetanan" ti āha. "Āmāvuso" ti. "Mayhaṃ iminā kammaṃ n'; atthi, aññaṃ me dehīti". "Āvuso idaṃ ṭhapetvā mayhaṃ aññaṃ n'; atthīti". "Atha kasmā mama nāvaṃ ārūḷho sīti[^231-2] tāpasaṃ Gaṃgātīre pātetvā ure[^231-9] nisīditvā mukham ev'; assa pothesi. Satthā "iti kho bhikkhave yaṃ so tāpaso ovādaṃ datvā rañño santikā gāmavaraṃ labhi tam eva ovādaṃ andhabālassa nāvikassa kathetvā mukhapothanaṃ pāpuṇi, tasmā ovādaṃ dentena[^231-10] yuttajanass' eva dātabbo na ayuttajanassā[^231-11] 'ti vatvā abhisambuddho hutvā tadanantaraṃ gātham āha:
 
-Ja_VI,1.1(=376).6: Yāy'; eva[^231-12] anusāsaniyā rājā gāmavaraṃ adā tāy'; eva[^231-13] anusāsaniyā[^231-14] nāviko pahari mukhe[^231-15] ti. || Ja_VI:6 ||
+Ja_VI,1.1(=376).6: Yāy'; eva[^231-12] anusāsaniyā rājā gāmavaraṃ adā tāy'; eva[^231-13] anusāsaniyā[^231-14] nāviko pahari mukhe[^231-15] ti. ||  
+Ja_VI:6 ||  
 
 Tassa taṃ paharantass'; eva bhariyā bhattaṃ gahetvā āgatā, taṃ[^231-16] tāpasaṃ disvā "sāmi, ayaṃ tāpaso[^231-17] rājakulūpako, mā paharīti" āha. So[^231-18] kujjhitvā "tvaṃ me imaṃ kūṭatāpasaṃ paharituṃ na desīti" uṭṭhāya taṃ paharitvā pātesi. Bhattapātī[^231-19] patitvā bhijji[^231-20], tassā ca[^231-21] garugabbhāya gabbho bhūmiyaṃ pati. Atha naṃ manussā samparivāretvā "puri-
 
@@ -3008,7 +3341,8 @@ Tassa taṃ paharantass'; eva bhariyā bhattaṃ gahetvā āgatā, taṃ[^231-16
 
 saghātakacoro" ti gahetvā bandhitvā rañño dassesuṃ. Rājā vinicchinitvā tassa rājāṇaṃ[^232-1] kāresi. Satthā abhisambuddho hutvā imam atthaṃ pakāsento osānagātham āha:
 
-Ja_VI,1.1(=376).7: Bhattaṃ bhinnaṃ hatā bhariyā, gabbho va[^232-2] patito chamā, migo va jātarūpena na ten'; atthaṃ abandhi sū[^232-3] 'ti. || Ja_VI:7 ||
+Ja_VI,1.1(=376).7: Bhattaṃ bhinnaṃ hatā bhariyā, gabbho va[^232-2] patito chamā, migo va jātarūpena na ten'; atthaṃ abandhi sū[^232-3] 'ti. ||  
+Ja_VI:7 ||  
 
 Tattha bhattaṃ bhinnan ti bhattapātī[^232-4] bhinnā, hatā ti pahaṭā, chamā ti bhūmiyaṃ, migo va jātarūpenā 'ti yathā migo suvaṇṇaṃ vā[^232-5] muttāmaṇiādīni vā madditvā gacchanto pi attharitvā nipajjanto pi tena jātarūpena attano atthavaḍḍhiṃ bandhituṃ nibbattetuṃ na sakkoti evaṃ so andhabālo paṇḍitehi dinnovādaṃ[^232-6] sutvāpi attano atthaṃ bandhituṃ[^232-7] nibbattetuṃ na[^232-8] sakkhīti vuttaṃ hoti, abandhi sū[^232-9] 'ti ettha hi bandhi[^232-10] so iti evam attho veditabbo[^232-11], so iti[^232-12] imesaṃ padānaṃ[^232-13] hi[^232-14] sū 'ti sandhi hoti. Satthā imaṃ desanaṃ[^232-15] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne so bhikkhu sotāpattiphale patiṭṭhahi "Tadā nāviko idāni nāviko, rājā Ānando[^232-16], tāpaso[^232-17] aham evā" 'ti. Avāriyajātakaṃ[^232-18].
 
@@ -3030,9 +3364,11 @@ Ja_VI,1.2(=377).1: Mā tāta kujjhi, na hi sādhu kodho, bahum pi te adiṭṭh
 
 ##### *[PTS Page 234]*
 
-mātāpitā disā tā[^234-1] Setaketu, ācariyam āhu disataṃ pasatthā. || Ja_VI:8 ||
+mātāpitā disā tā[^234-1] Setaketu, ācariyam āhu disataṃ pasatthā. ||  
+Ja_VI:8 ||  
 
-Ja_VI,1.2(=377).2: Agārino annadapānavatthadā[^234-2] (= vol.I. p.401.) avhāyikā tam pi disaṃ vadanti, esā[^234-3] disā paramā Setaketu yaṃ patvā dukkhī sukhino bhavantīti. || Ja_VI:9 ||
+Ja_VI,1.2(=377).2: Agārino annadapānavatthadā[^234-2] (= vol.I. p.401.) avhāyikā tam pi disaṃ vadanti, esā[^234-3] disā paramā Setaketu yaṃ patvā dukkhī sukhino bhavantīti. ||  
+Ja_VI:9 ||  
 
 Tattha na hi sādhu kodho ti kodho nāma[^234-4] uppajjamāno subhāsitadubbhāsitaṃ atthānatthaṃ hitāhitaṃ jānituṃ na detīti[^234-5] na sādhu na laṭṭhako, bahumpi te adiṭṭhan ti tayā cakkhunā adiṭṭhaṃ sotena ca asutam eva bahutaraṃ, disā tā[^234-6] ti disā mātāpitaro puttānaṃ purimataraṃ uppannattā puratthimadisā nāma jātā ti vadati[^234-7], disataṃ pasatthā ti ācariyā pana dakkhiṇeyyattā disataṃ pasatthā dakkhiṇā disā ti Buddhādayo ariyā āhu kathenti dīpentīti vadati[^234-8], agārino ti gahaṭṭhā, annadapānavatthadā[^234-9] ti annadā pānavatthadā[^234-10] ca, avhāyikā[^234-11] ti ettha deyyadhammaṃ patigaṇhathā[^234-12] 'ti pakkosanakā, tam pi disaṃ vadantīti tam pi Buddhādayo ariyā ekaṃ[^234-13] disaṃ vadanti, iminā catupaccayadāyakā gahaṭṭhā paccaye[^234-14] apadisitvā[^234-15] dhammikasamaṇā brāhmaṇehi upagantabbattā ekā[^234-16] disā nāmā 'ti dīpeti, aparo nayo: ye ete agārino annapānavatthadā nesaṃ chakāmamaggasampattidāyakattena[^234-17] upari[^234-18] avhāyanato ye avhāyikā {dhammikasamaṇabrāhmaṇā} tam pi disaṃ[^234-19] vadanti taṃ Buddhādayo ariyā uparimadisaṃ[^234-20] nāma vadantīti dīpeti, vuttam pi c'; etaṃ: Mātāpitā disā pubbā ācariyā dakkhiṇā disā puttadārā disā pacchā mittāmaccā ca[^234-21] uttarā   (= vol.I. v.401 and Grimblot, S. S. P. p.309). Dāsakammakarā heṭṭhā uddhaṃ samaṇabrāhmaṇā, etā disā namasseyya alamatto[^234-22] kule gihīti. Esā[^234-23] disā ti idaṃ pana nibbānaṃ sandhāya vuttaṃ, jātiādinā hi nānappakārena dukkhena dukkhitā sattā taṃ patvā niddukkhā sukhino bhavanti, esā eva ca sattehi agatapubbā[^234-24] disā nāma, ten'; eva taṃ paramā ti āha[^234-25], vuttam pi c'; etaṃ:
 
@@ -3052,11 +3388,13 @@ Samatittiyaṃ[^235-1] anavasesaṃ[^235-2] (= vol.I p.400) telapattaṃ yathā 
 
 āgantvā te micchātapaṃ karonte disvā tuṭṭho Setaketuṃ upasaṃkamitvā vanditvā ekamantaṃ nisinno purohitena saddhiṃ sallapanto tatiyaṃ gātham āha:
 
-Ja_VI,1.2(=377).3: Kharājinā jaṭilā paṃkadantā dummukkharūpā[^236-1] ye 'me[^236-2] japanti[^236-3] kacci nu te mānusake payoge idaṃ vidū parimuttā apāyā ti. || Ja_VI:10 ||
+Ja_VI,1.2(=377).3: Kharājinā jaṭilā paṃkadantā dummukkharūpā[^236-1] ye 'me[^236-2] japanti[^236-3] kacci nu te mānusake payoge idaṃ vidū parimuttā apāyā ti. ||  
+Ja_VI:10 ||  
 
 Tattha kharājinā ti kharehi ajinehi samannāgatā, paṃkadantā ti dantakaṭṭhassa akhādanena malaggahitadantā, dummukkharūpā[^236-4] ti anañjitāmaṇḍitalūkhanivāsanapārupanā[^236-5] mālāgandhavilepanavajjitā[^236-6] kiliṭṭharūpā ti vuttaṃ hoti, ye me japantīti[^236-7] ye ime[^236-8] mante sajjhāyanti, mānusake payoge ti manusehi kattabbapayoge[^236-9] ṭhitā, idaṃ vidū parimuttā apāyā ti imasmiṃ payoge ṭhatvā imaṃ lokaṃ viditvā pākaṭaṃ katvā kacci[^236-10] nu ete isayo catūhi apāyehi muttā ti pucchati. Taṃ sutvā purohito catutthaṃ gātham āha:
 
-Ja_VI,1.2(=377).4: Pāpāni kammāni karitvāna[^236-11] rāja bahussuto ce na careyya dhammaṃ sahassavedo[^236-12] pi na taṃ paṭicca dukkhā pamuñce caraṇaṃ apatvā ti. || Ja_VI:11 ||
+Ja_VI,1.2(=377).4: Pāpāni kammāni karitvāna[^236-11] rāja bahussuto ce na careyya dhammaṃ sahassavedo[^236-12] pi na taṃ paṭicca dukkhā pamuñce caraṇaṃ apatvā ti. ||  
+Ja_VI:11 ||  
 
 Tattha karitvānā[^236-11] 'ti katvā, caraṇan ti saha sīlena aṭṭhasamāpattiyo, idaṃ vuttaṃ hoti: mahārāja, ahaṃ bahussuto 'mhīti sahassavedo[^236-12] pi ce tividhaṃ sucaritaṃ dhammaṃ na careyya pāpān'; eva[^236-13] kareyya so tāni pāpāni kammāni katvā taṃ bāhusaccaṃ paṭicca sīlasamāpattisaṃkhātaṃ caraṇaṃ appatvā[^236-14] dukkhā na muñce[^236-15] apāyadukkhato na muccat'; evā[^236-16] 'ti attho Taṃ sutvā rājā tāpasesu[^236-17] pasādaṃ hari[^236-18]. Tato Setaketu[^236-19] cintesi: "imassa rañño tāpasesu pasādo udapādi, taṃ pan' esa purohito vāsiyā paharitvā viya chindi, mayā etena saddhiṃ kathetuṃ vaṭṭatīti" so tena sadhiṃ kathento pañcamaṃ gātham āha:
 
@@ -3066,11 +3404,13 @@ Tattha karitvānā[^236-11] 'ti katvā, caraṇan ti saha sīlena aṭṭhasamā
 
 ##### *[PTS Page 237]*
 
-Ja_VI,1.2(=377).5: Sahassavedo[^237-1] pi na taṃ paṭicca dukkhā pamuñce caraṇaṃ apatvā[^237-2], maññāmi vedā aphalā bhavanti, sasaññamaṃ[^237-3] caraṇaṃ ñeva saccan ti. || Ja_VI:12 ||
+Ja_VI,1.2(=377).5: Sahassavedo[^237-1] pi na taṃ paṭicca dukkhā pamuñce caraṇaṃ apatvā[^237-2], maññāmi vedā aphalā bhavanti, sasaññamaṃ[^237-3] caraṇaṃ ñeva saccan ti. ||  
+Ja_VI:12 ||  
 
 Tass'; attho: sace sahassavedo[^237-1] pi taṃ bāhusaccaṃ paṭicca caraṇaṃ apatvā attānaṃ na dukkhā pamuñce evaṃ sante[^237-4] ahaṃ maññām'; tayo vedā aphalā honti sasīlaṃ[^237-5] aṭṭhasamāpatticaraṇaṃ[^237-6] ekaṃ saccaṃ[^237-7] hotīti[^237-8]. Taṃ sutvā purohito chaṭṭhaṃ gātham āha:
 
-Ja_VI,1.2(=377).6: Na h'; eva vedā aphalā bhavanti sasaṃyamaṃ caraṇaṃ yeva[^237-9] saccaṃ, kittiṃ hi pappoti adhicca vede santiṃ pun'; eti[^237-10] caraṇena danto ti. || Ja_VI:13 ||
+Ja_VI,1.2(=377).6: Na h'; eva vedā aphalā bhavanti sasaṃyamaṃ caraṇaṃ yeva[^237-9] saccaṃ, kittiṃ hi pappoti adhicca vede santiṃ pun'; eti[^237-10] caraṇena danto ti. ||  
+Ja_VI:13 ||  
 
 Tass'; attho: tayo vedā aphalā sasaṃyamaṃ[^237-11] caraṇam eva saccaṃ seyyaṃ uttamaṃ pavaraṃ na h'; eva hoti, kiṃkāraṇā: kittiṃ hi pappoti tayo vede adhicca[^237-12], diṭṭhadhamme kittimattaṃ yasamattaṃ labhati itoparaṃ aññaṃ n'; atthi, tasmā na te aphalā, santiṃ pun'; eti[^237-10] caraṇena pana danto, sīle patiṭṭhāya[^237-13] samāpattiyo nibbattetvā samāpattipadaṭṭhānaṃ vipassanaṃ vaḍḍhento[^237-14] accantasantim[^237-15] nibbānaṃ[^237-16] nāma taṃ eti pāpuṇāti. Iti purohito Setaketuno vādaṃ bhinditvā te sabbe gihī kāretvā phalakāvudhāni gāhāpetvā mahantatarake[^237-17] katvā[^237-18] rañño upaṭṭhāke[^237-19] kāresi, ayaṃ kira mahantatarakānaṃ[^237-20] vaṃso. Satthā imaṃ desanaṃ[^237-21] āharitvā jātakaṃ samodhānesi; "Tadā Setaketu kuhako bhikkhu ahosi, caṇḍālo[^237-22] Sāriputto[^237-23], purohito pana aham evā" 'ti. Setaketujātakaṃ[^237-24]
 
@@ -3106,7 +3446,8 @@ hutvā iddhiyā ākāse uppatitvā Himavantapadese Nandamūlapabbhāraṃ[^240-1
 
 karosīti" ādīni vadanto paṭisanthāraṃ katvā "Brahmadatta, mahallako si, etarahi kāme pahāya pabbajituṃ te samayo" ti vatvā tassa dhammaṃ desento paṭhamaṃ gātham āha:
 
-Ja_VI,1.3(=378).1: Paṃko ca kāmā palipā[^241-1] ca kāmā bhayañ ca m-etaṃ[^241-2] timūlaṃ pavuttaṃ, rajo ca dhūmo ca mayā pakāsitā[^241-3], hitvā tuvaṃ pabbaja Brahmadattā 'ti. || Ja_VI:14 ||
+Ja_VI,1.3(=378).1: Paṃko ca kāmā palipā[^241-1] ca kāmā bhayañ ca m-etaṃ[^241-2] timūlaṃ pavuttaṃ, rajo ca dhūmo ca mayā pakāsitā[^241-3], hitvā tuvaṃ pabbaja Brahmadattā 'ti. ||  
+Ja_VI:14 ||  
 
 Tattha paṃko ti udake jātāni tiṇasevālanaḷakumudagacchādīni[^241-4] adhippetāni, yathā hi udakaṃ tarantaṃ laggāpenti tathā saṃsārasāgaraṃ tarantassa yogāvacarassa pañcakāmaguṇā sabbe vā pana vatthukāmakilesakāmā laggāpanavasena paṃko nāma, imasmiṃ hi pana paṃke āsattā[^241-5] visattā devāpi manussāpi tiracchānāpi kilamanti[^241-6] paridevanti, palipā[^241-1] ca kāmā ti palipo vuccati mahākaddamo yamhi laggā sūkaramigādayo pi[^241-7] sīhāpi vāraṇāpi attānaṃ uddharitvā gantuṃ na sakkonti, vatthukāmakilesakāmāpi taṃsarikkhatāya palipā[^241-1] ti vuttā, paññāvanto pi hi sattā tesu kāmesu sakiṃ[^241-8] laggakālato paṭṭhāya te kāme padāletvā sīghaṃ uṭṭhāya akiñcanaṃ apalibodhaṃ ramaṇīyaṃ pabbajjaṃ upagantuṃ na sakkonti, bhayañ ca metan ti bhayañ ca etaṃ makāro vyañjanasandhivasena vutto, timūlan ti tīhi mūlehi patiṭṭhitaṃ[^241-9] viya acalaṃ, balavabhayass'; etaṃ nāmaṃ, pavuttan ti mahārāja ete kāmā nāma diṭṭhadhammikasamparāyikassa attānuvādabhayādikassa c'; eva[^241-10] dvattiṃsakammakaraṇāṭṭhanavutirogavasappavattassa[^241-11] ca bhayassa paccayaṭṭhena[^241-12] balavabhayan[^241-13] ti Buddhapaccekabuddhasāvakehi c'; eva sabbaññūbodhisattehi ca pavuttaṃ kathitaṃ dīpitan ti attho, athavā bhayañ ca metan ti bhayañ ca mayā etaṃ[^241-14] timūlaṃ[^241-15] pavuttan ti evam ettha attho daṭṭhabbo yeva, rajo ca dhūmo cā 'ti rajadhūmasadisattā rajo ti[^241-16] dhūmo ti ca mayā pakāsitā, yathā hi[^241-17] sunahātassa[^241-18] suvilittālaṃkatassa[^241-19] purisassa sarīre sukhumarajaṃ patitaṃ taṃ purisaṃ dubbaṇṇaṃ sobhārahitaṃ[^241-20] kiliṭṭhaṃ karoti evam eva iddhibalena ākāsena gantvā[^241-21] cando viya[^241-22] suriyo viya ca loke paññātāpi[^241-23] sakiṃ kāmarajassa antopatitakālato[^241-24] paṭṭhāya guṇavaṇṇaguṇasobhāguṇasuddhīnaṃ[^241-25] upahatattā dubbaṇṇā sobhārahitā kiliṭṭhā yeva honti[^241-26], yathā ca dhūmena pahaṭakālato[^241-27] paṭṭhāya suparisuddhā[^241-28] bhittikālavaṇṇā honti[^241-29] evam evaṃ[^241-30] atiparisuddhañā-
 
@@ -3118,7 +3459,8 @@ Tattha paṃko ti udake jātāni tiṇasevālanaḷakumudagacchādīni[^241-4] a
 
 ṇāpi[^242-1] kāmadhūmena pahaṭakālato paṭṭhāya guṇavināsappattiyā mahājanamajjhe kālakā va hutvā paññāyanti, iti rajadhūmasarikkhatāya ete kāmā rajo ca dhūmo cā 'ti mayā tuyhaṃ pakāsitā, tasmā ime[^242-2] kāme hitvā[^242-3] tvaṃ pabbaja Brahmadattā 'ti rājānaṃ pabbajjāya ussāheti[^242-4]. Taṃ sutvā rājā kilesehi attano baddhabhāvaṃ kathento dutiyaṃ gātham āha:
 
-Ja_VI,1.3(=378).2: Gatito[^242-5] ca ratto ca adhimucchito[^242-6] ca kāmesv-āhaṃ brāhmaṇa, bhiṃsarūpaṃ[^242-7] taṃ n'; ussahe jīvikattho pahātuṃ, kāhāmi puññani anappakānīti. || Ja_VI:15 ||
+Ja_VI,1.3(=378).2: Gatito[^242-5] ca ratto ca adhimucchito[^242-6] ca kāmesv-āhaṃ brāhmaṇa, bhiṃsarūpaṃ[^242-7] taṃ n'; ussahe jīvikattho pahātuṃ, kāhāmi puññani anappakānīti. ||  
+Ja_VI:15 ||  
 
 Tattha gatito[^242-5] ti abhijjhāvyāpādakāyaganthena[^242-8] baddho, ratto ti pakatijahāpanena rāgena ratto, adhimucchito[^242-6] ti ativiya mucchito[^242-9], kāmesvāhan ti duvidhesu pi kāmesu ahaṃ, brāhmaṇā ti paccekabuddhaṃ ālapati, bhiṃsarūpan[^242-10] ti balavarūpaṃ, taṃ nussahe[^242-11] jīvikattho pahātun ti imāya jīvikāya atthiko ahaṃ[^242-12] taṃ kāmaṃ pahātuṃ na sakkomīti vadati, kāhāmi puññānīti dānasīlauposathakammasaṃkhātāni pana puññāni anappakāni bahūni karissāmīti. Evaṃ kilesakāmo nām'; esa sakiṃ allīnakālato[^242-13] paṭṭhāya apanetuṃ na sakkā, yena saṃkiliṭṭhacitto mahāpuriso paccekabuddhe[^242-14] pabbajjāya guṇaṃ kathente[^242-15] pi pabbajituṃ na sakkomīti āha. Yo[^242-16] Dīpaṃkarapādamūle attano sabhāvena[^242-17] ñāṇena Buddhakārakadhamme vicinanto tatiyaṃ[^242-18] nekkhammapāramiṃ[^242-19] disvā Imaṃ tvaṃ tatiyaṃ tāva daḷhaṃ katvā samādiya (Cfr. vol.I, 21) nekkhamme[^242-19] pāramiṃ[^242-20] gaccha yadi bodhiṃ pattuṃ icchasi Yathā andughare puriso ciravuttho dukhaddito na tattha rāgam abhijaneti[^242-21] muttiṃ yeva gavesati Tath'; eva tvaṃ sabbabhave passa andughare viya nekkhammābhimukho[^242-22] hutvā sambodhiṃ pāpuṇissasīti[^242-23] evaṃ nekkhamme guṇam parikittesi so ajja paccekabuddhena pabbajjāya vaṇṇaṃ vatvā kilese chaḍḍetvā[^242-24] samaṇo hohīti vuccamāno nāhaṃ kilese chaḍḍetvā samaṇo bhavituṃ sakkomīti vadati. Imasmiṃ kira loke aṭṭha ummattakā nāma, tenāhu porāṇā: aṭṭha puggalā ummattakasaññaṃ paṭilabhanti, kāmummattako
 
@@ -3130,9 +3472,10 @@ Tattha gatito[^242-5] ti abhijjhāvyāpādakāyaganthena[^242-8] baddho, ratto t
 
 lobhavasagato[^243-1], kodhummattako vihesāvasagato[^243-2], diṭṭhummattako vipallāsavasagato[^243-1], mohummattako aññāṇavasagato[^243-1], yakkhummattako yakkhavasagato[^243-1], pittummattako pittavasagato[^243-1], surummattako pānavasagato[^243-1], vyasanummattako sokavasagato[^243-1] ti, imesu aṭṭhasu ummattakesu Mahāsatto imasmiṃ jātake kāmummattako hutvā lobhavasagato[^243-1] pabbajjāguṇaṃ[^243-2] na aññāsi. Evaṃ[^243-4] anatthakārakaṃ pan'; imaṃ[^243-5] guṇaparidhaṃsakaṃ lobhaṃ jānaṃ[^243-6] kasmā[^243-7] sattā parimuñcituṃ[^243-8] na sakkontīti: anamatagge saṃsāre anekāni kappakoṭisatasahassāni ekato vaḍḍhitabhāvena[^243-9], evaṃ sante pi taṃ paṇḍitā appassādā kāmā ti ādīnaṃ anekesaṃ paccavekkhaṇānaṃ vasena pajahanti. Ten'; eva Darīmukkho paccekabuddho Mahāsattena "pabbajituṃ na sakkomīti" vutte pi dhuranikkhepaṃ akatvā uttarim pi ovadanto[^243-10]
 
-Ja_VI,1.3(=378).3: Yo atthakāmassa hitānukampino ovajjamāno na karoti sāsanaṃ idam eva seyyo iti maññamāno punappunaṃ gabbham upeti mando. (Dhp. v. 325.) Ja_6.16 ||
+Ja_VI,1.3(=378).3: Yo atthakāmassa hitānukampino ovajjamāno na karoti sāsanaṃ idam eva seyyo iti maññamāno punappunaṃ gabbham upeti mando. (Dhp. v. 325.) Ja_6.16 ||  
 
-Ja_VI,1.3(=378).4: So ghorarūpaṃ nirayaṃ upeti subhāsubhaṃ muttakarīsapūraṃ, sattā[^243-11] sakāye[^243-12] na jahanti giddhā ye[^243-13] honti kāmesu avītarāgā ti || Ja_VI:17 ||
+Ja_VI,1.3(=378).4: So ghorarūpaṃ nirayaṃ upeti subhāsubhaṃ muttakarīsapūraṃ, sattā[^243-11] sakāye[^243-12] na jahanti giddhā ye[^243-13] honti kāmesu avītarāgā ti ||  
+Ja_VI:17 ||  
 
 dve gāthā āha. Tattha atthakāmassā 'ti vaḍḍhikāmassa[^243-14], hitānukampino ti hitena muducittena anukampantassa, ovajjamāno ti ovadiyamāno, idameva seyyo ti yaṃ attanā gahitagahaṇaṃ aseyyaṃ[^243-15] anuttamam[^243-16] pi samānaṃ taṃ idam eva seyyo iti maññamāno, mando ti so[^243-17] aññāṇī[^243-18] puggalo mātukucchiyā vāsaṃ nātikkamati, punappunaṃ gabbham upeti yevā 'ti attho, so ghorarūpan ti mahārāja so mando taṃ mātukucchiṃ upento ghorarūpaṃ dāruṇajātikaṃ nirayaṃ upeti nāma, mātukucchi hi nirassādaṭṭhena idha nirayo vutto, Catukuṇḍikanirayo[^243-19] nāma kataro ti[^243-20] vutto, mātukucchim eva vattuṃ vaṭṭati, Avīcimahāniraye nibbattasattassa hi aparāparaṃ ādhāvanaparidhāvanaṃ hoti yeva, tasmā taṃ[^243-21] Catukuṇḍikanirayo[^243-22] ti vattuṃ na labbhati, mātukucchiyaṃ pana
 
@@ -3144,9 +3487,11 @@ dve gāthā āha. Tattha atthakāmassā 'ti vaḍḍhikāmassa[^243-14], hitānu
 
 nava vā dasa vā māse catūhi pi[^244-1] passehi ito c'; ito ca gantuṃ[^244-2] nāma na sakkā, atisambādhe okāse catukuṇḍena[^244-3] catusaṃkuṭiten'; eva hutvā acchitabbaṃ, tasmā eva[^244-4] Catukuṇḍikanirayo[^244-5] ti vuccati, subhāsubhan ti subhānaṃ asubhaṃ[^244-6], subhānaṃ[^244-7] hi saṃsārabhīrukānaṃ yogāvacarakulaputtānaṃ mātukucchi ekantaṃ asubhasammato, tena vuttaṃ: Ajaññaṃ jaññasammataṃ[^244-8] asuciṃ sucisammataṃ (Cfr. vol.II. p.437.) nānākuṇapaparipūraṃ[^244-9] jaññarūpaṃ apassato. Dhi-r-atthu 'maṃ āturaṃ pūtikāyaṃ jegucchiyaṃ asuciṃ vyādhidhammaṃ, ettha-ppamattā[^244-10] adhimucchitā[^244-11] pajā hāpenti[^244-12] maggaṃ sugatūpapattiyā. Sattā[^244-13] ti āsattā[^244-14] visattā laggā lagitā[^244-15], sakāye[^244-16] na jahantīti taṃ[^244-17] mātukucchiṃ na pariccajanti, giddhā ti gathitā[^244-18], ye[^244-19] hontīti ye kāmesu avītarāgā honti te etaṃ gabbhāvāsaṃ[^244-20] na jahantīti. Evaṃ Darīmukho paccekabuddho gabbhokkantimūlakaṃ[^244-21] parihāramūlakañ ca dukkhaṃ dassetvā idāni gabbhavuṭṭhānamūlakaṃ[^244-22] dassetuṃ
 
-Ja_VI,1.3(=378).5: Mīḷhena littā ruhirena makkhitā semhena littā upanikkhamanti, yaṃ yaṃ hi kāyena phusanti tāvade sabbaṃ asātaṃ dukkham eva kevalaṃ. || Ja_VI:18 ||
+Ja_VI,1.3(=378).5: Mīḷhena littā ruhirena makkhitā semhena littā upanikkhamanti, yaṃ yaṃ hi kāyena phusanti tāvade sabbaṃ asātaṃ dukkham eva kevalaṃ. ||  
+Ja_VI:18 ||  
 
-Ja_VI,1.3(=378).6a: Ḍisvā vadāmi na hi aññato savaṃ[^244-23] pubbenivāsaṃ bahukaṃ sarāmīti || Ja_VI:19a ||
+Ja_VI,1.3(=378).6a: Ḍisvā vadāmi na hi aññato savaṃ[^244-23] pubbenivāsaṃ bahukaṃ sarāmīti ||  
+Ja_VI:19a ||  
 
 diyaḍḍhagātham āha. Tattha mīḷhena littā ti mahārāja ime sattā mātukucchito nikkhamantā na catujātigandhaṃ vilimpitvā surabhimālaṃ pilandhitvā[^244-24] nikkhamanti, purāṇagūthena pana makkhitā palibuddhā hutvā nikkhamanti, ruhirena makkhitā ti rattalohitacandanānulittāpi ca[^244-23] hutvā na nikkhamanti, rattalohitamakkhitā pana hutvā nikkhamanti, semhena littā ti na cāpi[^244-26] te[^244-27] setacandanena vilittā[^244-28] nikkhamanti, bahalapicchilasemhalittā[^244-29] pana hutvā nikkhamanti,
 
@@ -3158,7 +3503,8 @@ diyaḍḍhagātham āha. Tattha mīḷhena littā ti mahārāja ime sattā māt
 
 itthīnaṃ hi gabbhavuṭṭhānakāle etāni asucīni nikkhamanti, tāvade[^245-1] ti tasmiṃ samaye, idaṃ vuttaṃ hoti: mahārāja ime sattā tasmiṃ mātukucchito nikkhamanasamaye evaṃ mīḷhādilittā nikkhamantā yaṃ yaṃ nikkhamanamaggaṃ padesaṃ vā hatthaṃ vā pādaṃ[^245-2] vā phusanti taṃ sabbaṃ asātaṃ[^245-3] amadhuraṃ kevalaṃ asammissaṃ[^245-4] dukkham eva phusanti, sukhaṃ nāma tesaṃ[^245-5] tasmiṃ samaye n'; atthi[^245-6], disvā vadāmi na hi aññato savan ti mahārāja ahaṃ imaṃ ettakaṃ vadanto na aññato savaṃ[^245-7] aññassa[^245-8] samaṇassa vā brāhmaṇassa vā[^245-9] sutvā vadāmi attano pana paccekabodhiñāṇena[^245-10] disvā paṭivijjhitvā paccakkhaṃ katvā vadāmīti attho, pubbenivāsaṃ bahukan[^245-11] ti idaṃ attano ānubhāvaṃ dassento āha, idaṃ vuttaṃ hoti: mahārāja ahaṃ[^245-12] hi pubbe nivutthakhandhapaṭipāṭisaṃkhātaṃ[^245-13] pubbenivāsaṃ bahuṃ[^245-14] sarāmi, satasahassakappādhikāni dve asaṃkheyyāni sarāmīti. Idāni Satthā abhisambuddho hutvā, evaṃ so paccekabuddho rājānaṃ subhāsitakathāya[^245-15] saṃgaṇhīti[^245-16]" vatvā osāne upaḍḍhagātham abhāsi[^245-17]:
 
-Ja_VI,1.3(=378).6b:  Citrāhi gāthāhi subhāsitāhi Darīmukho nijjhapayī[^245-18] Sumedhan ti. || Ja_VI:19b ||
+Ja_VI,1.3(=378).6b:  Citrāhi gāthāhi subhāsitāhi Darīmukho nijjhapayī[^245-18] Sumedhan ti. ||  
+Ja_VI:19b ||  
 
 Tattha citrāhīti anekatthasannissitāhi, subhāsitāhīti sukathitāhi, Darīmukho nijjhapayī[^245-19] Sumedhan ti bhikkhave so Darīmukho[^245-20] paccekabuddho taṃ Sumedhaṃ sundarapaññaṃ[^245-21] kāraṇākāraṇajānanasamatthaṃ rājānaṃ nijjhāpayi ñāpesi[^245-22] attano[^245-23] yacanaṃ gaṇhāpesīti attho. Paccekabuddho[^245-24] kāmesu dosaṃ dassetvā attano[^245-23] vacanaṃ[^245-25] gāhāpetvā, "mahārāja, idāni pabbaja[^245-26] vā mā vā, mayā pana tuyhaṃ kāmesu ādīnavo[^245-27] pabbajjāya ca ānisaṃso kathito, tvaṃ appamatto hohīti" vatvā suvaṇṇarājahaṃso viya ākāse uppatitvā valāhakagabbhaṃ maddanto Nandamūlakapabbhāram[^245-28] eva gato. Mahāsatto dasanakhasamodhānasamujjalaṃ añjaliṃ sirasmiṃ ṭhapetvā namassamāno ṭhatvā tasmiṃ dassanavisa-
 
@@ -3180,19 +3526,24 @@ yaṃ[^246-1] atīte[^246-2] jeṭṭhaputtaṃ pakkosāpetvā rajjaṃ paṭicc
 
 tāpi 'ssa atthi, te Cittakūṭapabbate vasantā Himavantapadese[^247-1] sayaṃjātasāliṃ khādanti. Te ekadivasaṃ tattha caritvā Cittakūṭaṃ āgacchantā antarāmagge ekaṃ Neruṃ nāma kañcanapabbataṃ disvā tassa matthake nisīdiṃsu. Taṃ pana pabbataṃ nissāya vasantā[^247-2] sakuṇā[^247-3] catuppādā ca[^247-4] gocarabhūmiyaṃ nānāvaṇṇā honti, pabbataṃ paviṭṭhakālato paṭṭhāya tass' obhāsena suvaṇṇavaṇṇā va[^247-5] honti. Taṃ disvā Bodhisattassa kaniṭṭho kāraṇaṃ ajānitvā "kin[^247-6] nu kho ettha kāraṇan" ti bhātarā[^247-7] saddhiṃ sallapanto dve gāthā abhāsi:
 
-Ja_VI,1.4(=379).1: Kākolā kākasaṃghā ca mayañ[^247-8] ca patataṃ[^247-9] varā sabbe va sadisā homa imaṃ āgamma pabbataṃ. || Ja_VI:20 ||
+Ja_VI,1.4(=379).1: Kākolā kākasaṃghā ca mayañ[^247-8] ca patataṃ[^247-9] varā sabbe va sadisā homa imaṃ āgamma pabbataṃ. ||  
+Ja_VI:20 ||  
 
-Ja_VI,1.4(=379).2: Idha sīhā ca vyagghā ca sigālā ca migādhamā sabbe va sadisā honti, ayaṃ ko nāma pabbato ti. || Ja_VI:21 ||
+Ja_VI,1.4(=379).2: Idha sīhā ca vyagghā ca sigālā ca migādhamā sabbe va sadisā honti, ayaṃ ko nāma pabbato ti. ||  
+Ja_VI:21 ||  
 
 Tattha kākolā ti vanakākā, kākasaṃghā ti pākatikakākaghaṭā[^247-10] patataṃ[^247-11] varā ti pakkhiseṭṭhā, sadisā homā 'ti samavaṇṇā homa. Tassa vacanaṃ sutvā Bodhisatto tatiyaṃ gātham āha:
 
-Ja_VI,1.4(=379).3: Imaṃ Nerū[^247-12] 'ti jānanti manussā pabbatuttamaṃ, idha vaṇṇena sampannā vasanti sabbapāṇino ti. || Ja_VI:22 ||
+Ja_VI,1.4(=379).3: Imaṃ Nerū[^247-12] 'ti jānanti manussā pabbatuttamaṃ, idha vaṇṇena sampannā vasanti sabbapāṇino ti. ||  
+Ja_VI:22 ||  
 
 Tattha idha vaṇṇenā 'ti imasmiṃ Nerupabbate obhāsena vaṇṇasampannā hutvā. Taṃ sutvā kaniṭṭho sesagāthā āha:
 
-Ja_VI,1.4(=379).4: Amānanā[^247-13] yattha[^247-14] siyā santāna[^247-15] vā vimānanā[^247-16] hīnasammānanā[^247-17] vāpi na tattha vasa divase[^247-18]. || Ja_VI:23 ||
+Ja_VI,1.4(=379).4: Amānanā[^247-13] yattha[^247-14] siyā santāna[^247-15] vā vimānanā[^247-16] hīnasammānanā[^247-17] vāpi na tattha vasa divase[^247-18]. ||  
+Ja_VI:23 ||  
 
-Ja_VI,1.4(=379).5: Yattha alaso[^247-19] dakkho ca sūro bhīru ca pūjiyā na tattha santo nivasanti avisesakare nage[^247-20]. || Ja_VI:24 ||
+Ja_VI,1.4(=379).5: Yattha alaso[^247-19] dakkho ca sūro bhīru ca pūjiyā na tattha santo nivasanti avisesakare nage[^247-20]. ||  
+Ja_VI:24 ||  
 
 
 <!-- PTS Page 248 -->
@@ -3200,7 +3551,8 @@ Ja_VI,1.4(=379).5: Yattha alaso[^247-19] dakkho ca sūro bhīru ca pūjiyā na 
 
 ##### *[PTS Page 248]*
 
-Ja_VI,1.4(=379).6: Nāyaṃ Neru vibhajati[^248-1] hīnamukkaṭṭhamajjhime, avisesakaro Neru, handa Neruṃ jahāmase ti. || Ja_VI:25 ||
+Ja_VI,1.4(=379).6: Nāyaṃ Neru vibhajati[^248-1] hīnamukkaṭṭhamajjhime, avisesakaro Neru, handa Neruṃ jahāmase ti. ||  
+Ja_VI:25 ||  
 
 Tattha paṭhamagāthāy'; attho[^248-2]: yattha santānaṃ[^248-3] paṇḍitānaṃ sīlasampannānaṃ mānanassa abhāvena amānanā vā avamānavasena vimānanā vā hīnānaṃ vā dussīlānaṃ sammānanā[^248-4] siyā tattha divasam pi[^248-5] na vaseyya, pūjiyā ti ete ettha ekasadisāya[^248-6] pūjāya[^248-7] pūjanīyā[^248-8] honti, samakaṃ sakkāraṃ labhanti, hīnamukkaṭṭhamajjhime ti jātigottakulapadesasīlācārañāṇādīhi[^248-9] hīne[^248-10] ca majjhime ca ukkaṭṭhe ca ayaṃ na vibhajati[^248-11], handā 'ti vavassaggatthe[^248-12] nipāto, jahāmase ti pariccajāma. Evañ ca pana vatvā ubho pi te haṃsā uppatitvā Cittakūṭam eva gatā. Satthā imaṃ desanaṃ[^248-13] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne so bhikkhu sotāpattiphale patiṭṭhahi) "Tadā kaniṭṭhahaṃso Ānando ahosi, jeṭṭho[^248-14] aham evā" 'ti. Nerujātakaṃ[^248-15].
 
@@ -3230,11 +3582,14 @@ pavisitvā Mahāsattaṃ vanditvā[^250-1] "bhante, itthiyo nāma brahmacariyass
 
 sasahasse[^251-1] vassasahasse[^251-2] phalati, surāsoṇḍā devaputtā[^251-3] ‘ito phalaṃ labhissāma'; 'ti dibbapānapipāsaṃ[^251-4] adhivāsetvā vassasahassaṃ nibaddhaṃ[^251-5] gantvā taṃ[^251-6] lataṃ ‘ārogā[^251-7] nu kho'; ti olokenti, tvaṃ pana ekasaṃvaccharen'; eva[^251-8] ukkaṇṭhito, āsāphalalābho nāma sukho, mā ukkaṇṭhīti" vatvā tisso gāthā abhāsi:
 
-Ja_VI,1.5(=380).1: Āsāvatī nāma latā jātā Cittalatāvane, tassā vassasahassena ekaṃ nibbattate phalaṃ, taṃ devā payirupāsanti tāva dūraphalaṃ satiṃ[^251-9]. || Ja_VI:26 ||
+Ja_VI,1.5(=380).1: Āsāvatī nāma latā jātā Cittalatāvane, tassā vassasahassena ekaṃ nibbattate phalaṃ, taṃ devā payirupāsanti tāva dūraphalaṃ satiṃ[^251-9]. ||  
+Ja_VI:26 ||  
 
-Ja_VI,1.5(=380).2: Āsiṃs'; eva tuvaṃ rāja, āsā phalavatī sukhā, āsiṃseth'; eva[^251-10] so pakkhī[^251-11], āsiṃseth eva[^251-12] so dijo. || Ja_VI:27 ||
+Ja_VI,1.5(=380).2: Āsiṃs'; eva tuvaṃ rāja, āsā phalavatī sukhā, āsiṃseth'; eva[^251-10] so pakkhī[^251-11], āsiṃseth eva[^251-12] so dijo. ||  
+Ja_VI:27 ||  
 
-Ja_VI,1.5(=380).3: Tassa cāsā[^251-13] samijjhittha[^251-14] tāva dūragatā satī[^251-15], āsiṃs'; eva tuvaṃ rāja, āsā phalavatī sukhā ti. || Ja_VI:28 ||
+Ja_VI,1.5(=380).3: Tassa cāsā[^251-13] samijjhittha[^251-14] tāva dūragatā satī[^251-15], āsiṃs'; eva tuvaṃ rāja, āsā phalavatī sukhā ti. ||  
+Ja_VI:28 ||  
 
 Tattha Āsāvatīti evaṃnāmikā[^251-16], sā hi yasmā tassā phale āsā uppajjati tasmā evaṃ nāmaṃ labhi[^251-17], Cittalatāvane ti evaṃnāmake uyyāne, tasmiṃ kira uyyāne rukkhalatādīnaṃ pabhā paviṭṭhapaviṭṭhānaṃ[^251-18] devānam sarīravaṇṇaṃ cittaṃ[^251-19] karoti, ten'; assa Cittalatāvanan ti nāmaṃ jātaṃ, payirupāsantīti punappunaṃ upenti[^251-20], āsiṃsevā[^251-21] 'ti āsiṃsāhi[^251-22] yeva patthehi yeva mā āsacchedakaṃ[^251-23] kammaṃ karohīti[^251-24]. Rājā tassā kathāya[^251-25] bajjhitvā puna amacce sannipātetvā[^251-26] dasanāmaṃ[^251-27] kāretvā nāmaṃ gavesanto aparam pi {saṃvaccharaṃ} vasi. Tassā dasanāmake pi nāmaṃ na hoti[^251-28], asukaṃ[^251-29] nāmā 'ti vutte Bodhisatto paṭikkhipat'; eva[^251-30] Puna rājā "kiṃ[^251-31] me imāyā" 'ti pāyāsi. Sāpi[^251-32] vātapāne ṭhatvā attānaṃ dassesi[^251-33], Rājā "tiṭṭha tvaṃ[^251-34], mayaṃ gamissāmā"
 
@@ -3254,13 +3609,17 @@ Tattha Āsāvatīti evaṃnāmikā[^251-16], sā hi yasmā tassā phale āsā up
 
 satanāmavasena[^253-1] gavesantassāpi 'ssa[^253-2] aññaṃ saṃvaccharaṃ atītaṃ. So tiṇṇaṃ saṃvaccharānaṃ accayena Bodhisattaṃ upasaṃkamitvā "satanāmavasena asukaṃ nāma[^253-3] bhavissati bhante" ti pucchi. "Na jānāsi mahārājā" 'ti. So "gamissām' idāni[^253-4] mayan" ti Bodhisattaṃ vanditvā pāyāsi. Āsaṃkakumārikā puna phalikavātapānaṃ[^253-5] nissāya ṭhitā[^253-6]. Rājā taṃ[^253-7] disvā "tvaṃ tiṭṭha, mayaṃ gamissāmā" 'ti āha. "Kasmā mahārājā" 'ti. "Tvaṃ maṃ vacanen'; eva santappesi[^253-8] na kāmaratiyā, tava madhuravacane[^253-9] bajjhitvā vasantassa mama tīṇi saṃvaccharāni atikkantāni, idāni gamissāmīti[^253-10]" vatvā
 
-Ja_VI,1.5(=380).4: Sampesi kho maṃ vācāya, na ca sampesi kammanā[^253-11], mālā sereyyakass'; eva[^253-12] vaṇṇavantā agandhikā[^253-13]. || Ja_VI:29 ||
+Ja_VI,1.5(=380).4: Sampesi kho maṃ vācāya, na ca sampesi kammanā[^253-11], mālā sereyyakass'; eva[^253-12] vaṇṇavantā agandhikā[^253-13]. ||  
+Ja_VI:29 ||  
 
-Ja_VI,1.5(=380).5: Aphalaṃ madhuraṃ vācaṃ yo mittesu pakubbati[^253-14] adadaṃ[^253-15] avissajaṃ[^253-16] bhogaṃ sandhi ten'; assa jīrati. || Ja_VI:30 ||
+Ja_VI,1.5(=380).5: Aphalaṃ madhuraṃ vācaṃ yo mittesu pakubbati[^253-14] adadaṃ[^253-15] avissajaṃ[^253-16] bhogaṃ sandhi ten'; assa jīrati. ||  
+Ja_VI:30 ||  
 
-Ja_VI,1.5(=380).6: Yaṃ hi kayirā[^253-17] taṃ[^253-18] hi vade, yaṃ na kayirā[^253-17] na taṃ vade, akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. (J. 363 v. 2.) || Ja_VI:31 ||
+Ja_VI,1.5(=380).6: Yaṃ hi kayirā[^253-17] taṃ[^253-18] hi vade, yaṃ na kayirā[^253-17] na taṃ vade, akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. (J. 363 v. 2.) ||  
+Ja_VI:31 ||  
 
-Ja_VI,1.5(=380).7: Balañ ca vata me khīṇaṃ, pātheyyañ ca na vijjati, saṃke pāṇuparodhāya[^253-19], handa dāni vajām'; ahan ti || Ja_VI:32 ||
+Ja_VI,1.5(=380).7: Balañ ca vata me khīṇaṃ, pātheyyañ ca na vijjati, saṃke pāṇuparodhāya[^253-19], handa dāni vajām'; ahan ti ||  
+Ja_VI:32 ||  
 
 imā gāthā abhāsi. Tattha sampesīti santappesi pīṇesi[^253-20], sereyyakassā[^253-21] 'ti kaṇṭakakuraṇḍakassa[^253-22], desanāsīsam ev'; etaṃ[^253-23], yaṃ kiñci pana suvaṇṇakuraṇḍakajīvasumanādikaṃ[^253-24] aññam pi pupphaṃ agandhakaṃ[^253-25] sabban tam sandhāy'; evam āha, vaṇṇavantā agandhikā ti yathā sereyyakādīnaṃ[^253-26] mālā vaṇṇavantatāya dassanena tappeti agandhatāya[^253-27] gandhena na tappeti evaṃ tvam pi maṃ dassanavacaneh'; eva tappesi[^253-28] na kammanā[^253-29] ti dīpeti, adadan ti bhadde[^253-30] yo[^253-31] imaṃ nāma bhogaṃ dassāmīti madhuravacanena vatvā taṃ bhogaṃ[^253-32] adadanto avissajjento[^253-33] kevalaṃ madhuravacanam eva karoti tena saddhiṃ assa
 
@@ -3272,7 +3631,8 @@ imā gāthā abhāsi. Tattha sampesīti santappesi pīṇesi[^253-20], sereyyaka
 
 mittassa sandhi[^254-1] jīrati mittasanthavo[^254-2] na ghaṭīyati[^254-3], pātheyyañ cā 'ti bhadde mayhaṃ tava madhuravacane[^254-4] bandhitvā[^254-5] tīṇi saṃvaccharāni vasantass'; eva[^254-6] hatthiassarathapadātisaṃkhātaṃ[^254-7] balañ ca khīṇaṃ manussānaṃ bhattavetanasaṃkhātaṃ pātheyyañ ca n'; atthi, saṃke pāṇuparodhāyā[^254-8] 'ti sv-āhaṃ idh' eva attano jīvitavināsaṃ āsaṃkāmi, handa idān'; āhaṃ gacchāmīti. Āsaṃkakumārikā rañño vacanaṃ sutvā "mahārāja, tvaṃ mayhaṃ nāmaṃ jānāsi, tayā vuttam eva, mama nāmaṃ idaṃ me pitu kathetvā maṃ gaṇhitvā yāhīti" raññā saddhiṃ sallapantī[^254-9]
 
-Ja_VI,1.5(=380).8: Etad eva hi me nāmaṃ yaṃnām'; asmi[^254-10] rathesabha, āgamehi[^254-11] mahārāja, pitaraṃ āmantayām'; ahan ti || Ja_VI:33 ||
+Ja_VI,1.5(=380).8: Etad eva hi me nāmaṃ yaṃnām'; asmi[^254-10] rathesabha, āgamehi[^254-11] mahārāja, pitaraṃ āmantayām'; ahan ti ||  
+Ja_VI:33 ||  
 
 āha. Tass'; attho: yannāmā[^254-12] aham asmi taṃ etaṃ[^254-13] āsaṃkat'; eva mama nāman ti. Rājā[^254-14] Bodhisattassa santikaṃ gantvā vanditvā "bhante tumhākaṃ dhītā Āsaṃkā nāmā[^254-15]" ti āha[^254-16]. "Nāmaṃñātakālato paṭṭhāya[^254-17] gahetvā gaccha mahārājā" 'ti. So Mahāsattaṃ vanditvā phalikavimānadvāraṃ āgantvā[^254-18] "bhadde pitarāpi[^254-19] mayhaṃ dinnā, ehi dānīti[^254-20]". "Āgamehi[^254-21] mahārāja[^254-22], pitaraṃ āmantayām'; ahan" ti vatvā pāsādā otaritvā Mahāsattaṃ vanditvā khamāpetvā rañño santikaṃ āgatā. Rājā taṃ gahetvā Bārāṇasiṃ gantvā puttadhītāhi vaḍḍhanto piyasaṃvāsaṃ vasi. Bodhisatto aparihīnajjhāno Brahmaloke uppajji. Satthā imaṃ desanaṃ[^254-23] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne ukkaṇṭhitabhikkhu sotāpattiphale patiṭṭhahi) "Tadā Āsaṃkakumārikā purāṇadutiyikā ahosi, rājā ukkaṇṭhitabhikkhu, tāpaso[^254-24] aham evā" 'ti. Āsaṃkajātakaṃ[^254-25].
 
@@ -3284,11 +3644,14 @@ Ja_VI,1.5(=380).8: Etad eva hi me nāmaṃ yaṃnām'; asmi[^254-10] rathesabha
 
 6. Migālopajātaka. Na me ruccan ti. Idaṃ Satthā Jetavane viharanto ekaṃ dubbacabhikkhuṃ[^255-1] ārabbha kathesi. Satthā taṃ bhikkhuṃ[^255-2] "saccaṃ kira tvaṃ[^255-3] dubbaco[^255-4]" ti pucchitvā "āma bhante" ti vutte "na kho bhikkhu idān'; eva[^255-5] pubbe pi tvaṃ dubbaco[^255-6], dubbacabhāvaṃ[^255-1] pana nissāya paṇḍitānaṃ vacanaṃ akaronto verambavātamukhe[^255-7] nidhanaṃ[^255-8] gato sīti" vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto gijjhayoniyaṃ nibbattitvā[^255-9] Aparaṇṇagijjho[^255-10] nāma ahosi. So gijjhagaṇaparivuto Gijjhapabbate[^255-11] vasi. Putto pan'; assa Migālopo[^255-12] nāma thāmabalasampanno ahosi, so aññesaṃ gijjhānaṃ sīmaṃ atikkamitvā uccaṃ[^255-13] uppati[^255-14]. Gijjhā "putto vo[^255-15] atidūraṃ uppattīti[^255-16]" gijjharañño ācikkhiṃsu. So[^255-17] taṃ pakkositvā "tvaṃ kira tāta atiuccaṃ gacchasi[^255-18], atiuccaṃ gacchanto jīvitakkhayaṃ pāpuṇissasīti" vatvā tisso gāthā abhāsi:
 
-Ja_VI,1.6(=381).1: Na me ruccaṃ Migālopa[^255-12] yassa te tādisā gati, atuccaṃ tāta patasi, abhūmiṃ tāta sevasi. || Ja_VI:34 ||
+Ja_VI,1.6(=381).1: Na me ruccaṃ Migālopa[^255-12] yassa te tādisā gati, atuccaṃ tāta patasi, abhūmiṃ tāta sevasi. ||  
+Ja_VI:34 ||  
 
-Ja_VI,1.6(=381).2: Catukkaṇṇaṃ va[^255-19] kedāraṃ[^255-20] yadā te paṭhavī siyā tato tāta nivattassu, māssu[^255-21] etto paraṃ gami. || Ja_VI:35 ||
+Ja_VI,1.6(=381).2: Catukkaṇṇaṃ va[^255-19] kedāraṃ[^255-20] yadā te paṭhavī siyā tato tāta nivattassu, māssu[^255-21] etto paraṃ gami. ||  
+Ja_VI:35 ||  
 
-Ja_VI,1.6(=381).3: Santi aññe[^255-22] pi sakuṇā pattayānā vihaṅgamā, akkhittā vātavegena naṭṭhā te sassatīsamā[^255-23] ti. || Ja_VI:36 ||
+Ja_VI,1.6(=381).3: Santi aññe[^255-22] pi sakuṇā pattayānā vihaṅgamā, akkhittā vātavegena naṭṭhā te sassatīsamā[^255-23] ti. ||  
+Ja_VI:36 ||  
 
 Tattha Migālopā[^255-12] 'ti puttaṃ nāmenālapati, atuccaṃ tāta patasīti tāta tvaṃ aññesaṃ gijjhānaṃ sīmaṃ atikkamitvā atiuccaṃ gacchasi, catukkaṇṇaṃ va[^255-19] kedāran[^255-20] ti imināssa[^255-24] sīmaṃ ācikkhati[^255-25], idaṃ vuttaṃ hoti: tāta yadā te ayaṃ mahāpaṭhavī catukkaṇṇakedāraṃ[^255-26] viya siyā evaṃ[^255-27]
 
@@ -3300,11 +3663,14 @@ Tattha Migālopā[^255-12] 'ti puttaṃ nāmenālapati, atuccaṃ tāta patasīt
 
 khuddikā viya hutvā paññāyetha[^256-1] atha tvaṃ ettakā ṭhānā nivatteyyāsi, etto paraṃ mā gamīti, santi aññe pīti na kevalaṃ tvam eva aññe pi gijjhā evaṃ kariṃsū 'ti dīpeti, akkhittā ti te pi amhākaṃ sīmaṃ atikkamitvā gatā vātavegena ākaḍḍhitā nassiṃsu, sassatīsamā[^256-2] ti sassatī hi[^256-3] paṭhavi, pabbatādīhi samaṃ attānaṃ maññamānā attano vassasahassaparimāṇaṃ āyuṃ apūretvāpi antarā va[^256-4] naṭṭhā[^256-5] ti attho. Migālopo[^256-6] anovādakattā pitu vacanaṃ akatvā laṃghanto laṃghanto pitarā[^256-7] akkhātaṃ sīmaṃ disvā taṃ[^256-8] atikkamma kālavāte patvā tepi[^256-9] chinditvā uppatito verambhavātamukhaṃ pakkhandi. Atha naṃ verambhavātā pahariṃsu. So tehi pahaṭamatto[^256-10] va[^256-11] khaṇḍākhaṇḍaṃ hutvā ākāse va[^256-12] antaradhāyi.
 
-Ja_VI,1.6(=381).4: Akatvā Aparaṇṇassa[^256-13] pitu vaddhassa[^256-14] bhāsanaṃ kālavāte[^256-15] atikkamma verambānaṃ vasaṃ agā[^256-16]. || Ja_VI:37 ||
+Ja_VI,1.6(=381).4: Akatvā Aparaṇṇassa[^256-13] pitu vaddhassa[^256-14] bhāsanaṃ kālavāte[^256-15] atikkamma verambānaṃ vasaṃ agā[^256-16]. ||  
+Ja_VI:37 ||  
 
-Ja_VI,1.6(=381).5: Tassa puttā ca dārā ca ye c'; aññe anujīvino sabbe vyasanam[^256-17] āpāduṃ anovādakare dije[^256-18]. || Ja_VI:38 ||
+Ja_VI,1.6(=381).5: Tassa puttā ca dārā ca ye c'; aññe anujīvino sabbe vyasanam[^256-17] āpāduṃ anovādakare dije[^256-18]. ||  
+Ja_VI:38 ||  
 
-Ja_VI,1.6(=381).6: Evam pi idha vaddhānaṃ[^256-19] yo vākyaṃ[^256-20] nāvabujjhati atisīmacaro ditto gijjho vātītasāsano[^256-21], sabbe vyasanaṃ[^256-17] papponti akatvā vaddhasāsanan[^256-22] ti || Ja_VI:39 ||
+Ja_VI,1.6(=381).6: Evam pi idha vaddhānaṃ[^256-19] yo vākyaṃ[^256-20] nāvabujjhati atisīmacaro ditto gijjho vātītasāsano[^256-21], sabbe vyasanaṃ[^256-17] papponti akatvā vaddhasāsanan[^256-22] ti ||  
+Ja_VI:39 ||  
 
 imā tisso abhisambuddhagāthā. Tattha anujīvino ti taṃ nissāya jīvanakā[^256-24], anovādakare dije[^256-18] ti tasmiṃ Migālopagijjhe[^256-25] ovādaṃ akaronte[^256-26] sabbe p'; ete tena saddhiṃ atisīmaṃ gantvā vināsaṃ pāpuṇiṃsu. Evaṃ pīti[^256-27] bhikkhave yathā so gijjho evaṃ[^256-28] yo añño pi gahaṭṭho va pabbajito vā hitānukampakānaṃ[^256-29] vaddhānaṃ[^256-30] vacanaṃ na gaṇhāti[^256-31] so pi ayaṃ sīmaṃ atikkamitvā caranto ditto[^256-32] gabbito[^256-33] gijjho va vyasanaṃ pāpuṇātīti. Satthā imaṃ desanaṃ[^256-34] āharitvā[^256-35] jātakaṃ samodhānesi: "Tadā Migālopo[^256-36] dubbacabhikkhu ahosi, Aparaṇṇo[^256-37] aham evā" 'ti. Migālopajātakaṃ[^256-38].
 
@@ -3332,19 +3698,23 @@ khūnaṃ titthe bhikkhū va[^258-1], tāpasanaṃ titthe tāpasā va[^258-1], c
 
 {oloketvā} taṃ addasa, dassanen'; ev'; assa[^259-1] appiyā ahosi amanāpā. So tāya saddhiṃ sallapanto paṭhamaṃ gātham āha:
 
-Ja_VI,1.7(=382).1: Kā nu kāḷena[^259-2] vaṇṇena na cāpi piyadassanā, kā vā[^259-3] tvaṃ kassa vā dhītā, kathaṃ jānemu taṃ[^259-4] mayan ti. || Ja_VI:40 ||
+Ja_VI,1.7(=382).1: Kā nu kāḷena[^259-2] vaṇṇena na cāpi piyadassanā, kā vā[^259-3] tvaṃ kassa vā dhītā, kathaṃ jānemu taṃ[^259-4] mayan ti. ||  
+Ja_VI:40 ||  
 
 Tattha kāḷenā[^259-5] 'ti nīlavaṇṇenā[^259-6] 'ti sarīravatthābharaṇavaṇṇena[^259-7], na cāpi piyadassanā ti dhātuso bhikkhave sattā saṃsandantīti[^259-8] hi vuttaṃ, ayañ ca devadhītā anācārā dussīlā, tasmā dassanen'; ev'; assa[^259-9] appiyā jātā, ten' evam āha[^259-10], kā vā tvan ti kā[^259-11] ca[^259-12] tvaṃ ayam eva vā pāṭho. Taṃ sutvā Kālakaṇṇī[^259-13] dutiyaṃ gātham āha:
 
-Ja_VI,1.7(=382).2: Mahārājass'; ahaṃ[^259-14] dhītā Virūpakkhassa caṇḍiyā, ahaṃ Kālī alakkhikā, Kālakaṇṇīti maṃ vidū, okāsaṃ yācito dehi, vasemu tava santike ti. || Ja_VI:41 ||
+Ja_VI,1.7(=382).2: Mahārājass'; ahaṃ[^259-14] dhītā Virūpakkhassa caṇḍiyā, ahaṃ Kālī alakkhikā, Kālakaṇṇīti maṃ vidū, okāsaṃ yācito dehi, vasemu tava santike ti. ||  
+Ja_VI:41 ||  
 
 Tattha caṇḍiyā ti[^259-15] kodhanabhāvena hi mayhaṃ caṇḍīti nāmaṃ kariṃsu, alakkhikā ti nippuññā[^259-16], maṃ vidū ti evaṃ[^259-17] maṃ cātummahārājikadevaloke jānanti, vasemū[^259-18] 'ti mayaṃ ajja[^259-19] ekarattiṃ tava santike vaseyyāma, etasmiṃ me anucchiṭṭhāsane[^259-20] okāsaṃ dehīti. Tato Bodhisatto tatiyaṃ gātham āha:
 
-Ja_VI,1.7(=382).3: Kiṃsīle kiṃsamācāre purise nivase[^259-21] tuvaṃ, puṭṭhā me Kāli akkhāhi yathā jānemu taṃ[^259-22] mayan ti. || Ja_VI:42 ||
+Ja_VI,1.7(=382).3: Kiṃsīle kiṃsamācāre purise nivase[^259-21] tuvaṃ, puṭṭhā me Kāli akkhāhi yathā jānemu taṃ[^259-22] mayan ti. ||  
+Ja_VI:42 ||  
 
 Tattha nivase[^259-23] ti tava cittena vasasi[^259-24] patiṭṭhahasi. Tato sā attano guṇaṃ kathentī catutthaṃ gātham āha:
 
-Ja_VI,1.7(=382).4: Makkhī palāsī sārambhī issukī maccharī saṭho so mayhaṃ puriso kanto laddhaṃ yassa[^259-25] vinassatīti. || Ja_VI:43 ||
+Ja_VI,1.7(=382).4: Makkhī palāsī sārambhī issukī maccharī saṭho so mayhaṃ puriso kanto laddhaṃ yassa[^259-25] vinassatīti. ||  
+Ja_VI:43 ||  
 
 Tass'; attho: yo puriso attano kataguṇaṃ na jānāti guṇamakkhī hoti attano kismiñci kāraṇe kathite kiṃ ahaṃ etaṃ[^259-26] jānāmīti[^259-27] yugaggāhaṃ[^259-28]
 
@@ -3356,11 +3726,14 @@ Tass'; attho: yo puriso attano kataguṇaṃ na jānāti guṇamakkhī hoti atta
 
 gaṇhāti aññehi kiñci kataṃ disvā sārambhavasena kāraṇuttaraṃ karoti pare lābhaṃ[^260-1] labhante na tussati mayhaṃ acchariyaṃ paresaṃ mā hotu mayham eva hotū 'ti sakasampattiṃ gahetvā[^260-2] parassa tiṇena[^260-3] telabindum pi na deti kerāṭi yalakkhaṇena samannāgato hutvā attano santakaṃ parassa adatvā tehi tehi upāyehi parasantakam[^260-4] eva khādati yassa laddhaṃ dhanaṃ vā dhaññaṃ vā nassati[^260-5] na tiṭṭhati surādhutto akkhadhutto itthidhutto vā hutvā laddhaṃ[^260-6] vināseti[^260-7] ayaṃ etehi guṇehi samannāgato puriso mayhaṃ kanto piyo manāpo, evarūpe ahaṃ cittena patiṭṭhahāmīti. Sā[^260-8] yeva pañcamacchaṭṭhasattamagāthā[^260-9] abhāsi:
 
-Ja_VI,1.7(=382).5: Kodhano upanāhī ca pisuno[^260-10] hi vibhedako aṇḍakavāco[^260-11] pharuso so me kantataro tato. || Ja_VI:44 ||
+Ja_VI,1.7(=382).5: Kodhano upanāhī ca pisuno[^260-10] hi vibhedako aṇḍakavāco[^260-11] pharuso so me kantataro tato. ||  
+Ja_VI:44 ||  
 
-Ja_VI,1.7(=382).6: Ajja-ssuve[^260-12] ti puriso sadatthaṃ nāvabujjhati, ovajjamāno kuppati, seyyaṃ so atimaññati. || Ja_VI:45 ||
+Ja_VI,1.7(=382).6: Ajja-ssuve[^260-12] ti puriso sadatthaṃ nāvabujjhati, ovajjamāno kuppati, seyyaṃ so atimaññati. ||  
+Ja_VI:45 ||  
 
-Ja_VI,1.7(=382).7: Davappaladdho[^260-13] puriso sabbamittehi dhaṃsati[^260-14], so mayhaṃ puriso kanto, tasmiṃ homi anāmayā ti. || Ja_VI:46 ||
+Ja_VI,1.7(=382).7: Davappaladdho[^260-13] puriso sabbamittehi dhaṃsati[^260-14], so mayhaṃ puriso kanto, tasmiṃ homi anāmayā ti. ||  
+Ja_VI:46 ||  
 
 Tāpi iminā va nayena vitthāretabbā[^260-15], saṃkhepato pan'; ettha: kodhano ti appamattakena pi kujjhanako, upanāhīti parassa aparādhaṃ hadaye ṭhapetvā sucirena pi tassa anatthakārako, pisuno[^260-16] ti pisunāvāco[^260-17], vibhedako ti appamattakena pi mettibhindanako[^260-18], aṇḍakavāco[^260-19] ti sadosavāco[^260-20], pharuso ti thaddhavāco, kantataro ti so puriso mayhaṃ purimamhāpi[^260-21] kantataro piyataro, ajjassuve[^260-12] ti idaṃ kammaṃ ajja kātabbaṃ idaṃ suve[^260-22] idaṃ tatiyadivasādisū 'ti evaṃ so sadatthaṃ[^260-23] attano kiccaṃ nāvabujjhati na jānāti, ovajjamāno ti ovadiyamāno, seyyaṃ so[^260-24] atimaññatīti jātigotta, kulapadesasīlācāraguṇehi uttaritaraṃ uttamapuggalaṃ tvaṃ mayhaṃ kiṃ pahosīti[^260-25] atikkamitvā maññati, davappaladdho[^260-26] ti rūpādisu kāmaguṇesu nirantaraṃ davena paladdho[^260-27] abhibhūto vase[^260-28] kato[^260-29], dhaṃsatīti tayā[^260-30] mayhaṃ kiṃ katan ti ādīni vatvā sabbeh'; eva mittehi dhaṃsati[^260-31] parihiyyati, anāmayā ti ahaṃ etehi guṇehi samannāgate puggale niddukkhā nissokā homi, taṃ labhitvā[^260-32] aññattha anālayā hutvā vasāmīti.
 
@@ -3372,15 +3745,18 @@ Tāpi iminā va nayena vitthāretabbā[^260-15], saṃkhepato pan'; ettha: kodha
 
 Atha naṃ garahanto Mahāsatto aṭṭhamaṃ gātham āha:
 
-Ja_VI,1.7(=382).8: Apehi etto tvaṃ[^261-1] Kāli, n'; etaṃ amhesu vijjati, aññaṃ janapadaṃ gaccha nigame rājadhāniyo[^261-2] ti. || Ja_VI:47 ||
+Ja_VI,1.7(=382).8: Apehi etto tvaṃ[^261-1] Kāli, n'; etaṃ amhesu vijjati, aññaṃ janapadaṃ gaccha nigame rājadhāniyo[^261-2] ti. ||  
+Ja_VI:47 ||  
 
 Tattha apehīti apagaccha, netaṃ amhesū 'ti etaṃ[^261-3] makkhādikaṃ tava piyabhāvakaraṇaṃ amhesu[^261-4] na vijjati n'; atthi, nigame rājadhāniyo[^261-2] ti nigame pi aññe[^261-5] rājadhāniyo[^261-2] pi aññattha gaccha yattha mayaṃ na vasāma[^261-6] 'ti dīpeti. Taṃ sutvā Kālakaṇṇī[^261-7] additā[^261-8] hutvā anantaraṃ gātham āha:
 
-Ja_VI,1.7(=382).9: Aham pi kho taṃ jānāmi: n'; etaṃ tumhesu[^261-9] vijjati, santi loke alakkhikā, saṃgharanti[^261-10] bahuṃ dhanaṃ, ahaṃ Devo ca me bhātā ubho naṃ[^261-11] vidhamemasīti. || Ja_VI:48 ||
+Ja_VI,1.7(=382).9: Aham pi kho taṃ jānāmi: n'; etaṃ tumhesu[^261-9] vijjati, santi loke alakkhikā, saṃgharanti[^261-10] bahuṃ dhanaṃ, ahaṃ Devo ca me bhātā ubho naṃ[^261-11] vidhamemasīti. ||  
+Ja_VI:48 ||  
 
 Tattha netaṃ tumhesū 'ti yaṃ[^261-12] mama piyabhāvakaraṇaṃ makkhādikaṃ[^261-13] yena[^261-14] ahaṃ attanāpi samannāgatā taṃ tumhesu n'; atthīti aham pi[^261-15] etaṃ jānāmi, santi loke alakkhikā ti aññe pana loke nissīlā nippuññā santi saṃgharantīti te nissīlā nippuññāpi[^261-16] samānā etehi makkhādihi[^261-17] bahudhanaṃ saṃgharanti[^261-10] piṇḍaṃ karonti, ubho nan[^261-18] ti tam pana etehi saṃgharitvā[^261-19] ṭhapitaṃ dhanaṃ ahañ ca mayham eva[^261-20] bhātā Devo[^261-21] ca nāma devaputto ti ubho pi ekato hutvā vidhamema[^261-22] nāsema, amhākaṃ pana bahudibbabhogā[^261-23] atthi, dibbāni āsanāni dibbāni sayanāni[^261-24] tvaṃ dadeyyāsi vā na[^261-25] vā, ko me tayā attho ti vatvā pakkāmi. Tassā pakkantakāle Sirī devadhītā suvaṇṇavaṇṇehi vatthavilepanehi[^261-26] suvaṇṇadassanena ca[^261-27] alaṃkārenāgantvā[^261-28] upaṭṭhānadvāre pītaraṃsiṃ[^261-29] vissajjetvā samehi pādehi samaṃ paṭhaviyaṃ patiṭṭhāya sagāravā aṭṭhāsi. Taṃ disvā Mahāsatto paṭhamaṃ gātham āha:
 
-Ja_VI,1.7(=382).10: Kā nu dibbena vaṇṇena pathavyā[^261-30] suppatiṭṭhitā, kā vā tvaṃ kassa vā dhītā, kathaṃ jānemu taṃ[^261-31] mayanti. || Ja_VI:49 ||
+Ja_VI,1.7(=382).10: Kā nu dibbena vaṇṇena pathavyā[^261-30] suppatiṭṭhitā, kā vā tvaṃ kassa vā dhītā, kathaṃ jānemu taṃ[^261-31] mayanti. ||  
+Ja_VI:49 ||  
 
 
 <!-- PTS Page 262 -->
@@ -3390,15 +3766,19 @@ Ja_VI,1.7(=382).10: Kā nu dibbena vaṇṇena pathavyā[^261-30] suppatiṭṭ
 
 Tattha dibbenā 'ti visiṭṭhena uttamena. Taṃ sutvā Sirī dutiyaṃ gātham āha:
 
-Ja_VI,1.7(=382).11: Mahārājass'; ahaṃ[^262-1] dhītā Dhataraṭṭhassa[^262-2] sirīmato, ahaṃ Sirī ca Lakkhī ca, bhūripaññā ti maṃ vidū, okāsaṃ yācito dehi, vasemu tava santike ti. || Ja_VI:50 ||
+Ja_VI,1.7(=382).11: Mahārājass'; ahaṃ[^262-1] dhītā Dhataraṭṭhassa[^262-2] sirīmato, ahaṃ Sirī ca Lakkhī ca, bhūripaññā ti maṃ vidū, okāsaṃ yācito dehi, vasemu tava santike ti. ||  
+Ja_VI:50 ||  
 
 Tattha Sirī ca Lakkhī cā 'ti Sirīti ca Lakkhīti ca aham eva na aññā, bhūripaññā ti maṃ vidū 'ti maṃ Cātummahārājikadevaloke paṭhavisamāya vipulapaññāya[^262-3] samannāgatā ti jānanti, vasemū 'ti tava santike anucchiṭṭhāsane[^262-4] sayane ca ekarattiṃ vaseyyāma okāsaṃ me dehīti. Tatoparaṃ
 
-Ja_VI,1.7(=382).12: Kiṃsīle kiṃsamācāre purise nivase[^262-5] tuvaṃ, puṭṭhā me Lakkhi akkhāhi yathā[^262-7] jānemu taṃ[^262-7] mayaṃ[^262-8]. || Ja_VI:51 ||
+Ja_VI,1.7(=382).12: Kiṃsīle kiṃsamācāre purise nivase[^262-5] tuvaṃ, puṭṭhā me Lakkhi akkhāhi yathā[^262-7] jānemu taṃ[^262-7] mayaṃ[^262-8]. ||  
+Ja_VI:51 ||  
 
-Ja_VI,1.7(=382).13: Yo vāpi sīte athavāpi uṇhe vātātape ḍaṃsasiriṃsape ca khudaṃ pipāsaṃ abhibhuyya sabbaṃ rattiṃdivaṃ yo satataṃ niyutto kālābhatañ[^262-9] ca na hāpeti atthaṃ[^262-10] so me manāpo nivase ca tamhi[^262-11]. || Ja_VI:52 ||
+Ja_VI,1.7(=382).13: Yo vāpi sīte athavāpi uṇhe vātātape ḍaṃsasiriṃsape ca khudaṃ pipāsaṃ abhibhuyya sabbaṃ rattiṃdivaṃ yo satataṃ niyutto kālābhatañ[^262-9] ca na hāpeti atthaṃ[^262-10] so me manāpo nivase ca tamhi[^262-11]. ||  
+Ja_VI:52 ||  
 
-Ja_VI,1.7(=382).14: Akkodhano mittavā cāgavā ca[^262-12] sīlūpapanno asaṭho ujjubhūto[^262-13] saṃgāhako sakhilo saṇhavāco mahattapatto[^262-14] pi nivātavutti[^262-15] tasm'; āhaṃ pose[^262-16] vipulā bhavāmi ūmī samuddassa yathāpi vaṇṇaṃ. || Ja_VI:53 ||
+Ja_VI,1.7(=382).14: Akkodhano mittavā cāgavā ca[^262-12] sīlūpapanno asaṭho ujjubhūto[^262-13] saṃgāhako sakhilo saṇhavāco mahattapatto[^262-14] pi nivātavutti[^262-15] tasm'; āhaṃ pose[^262-16] vipulā bhavāmi ūmī samuddassa yathāpi vaṇṇaṃ. ||  
+Ja_VI:53 ||  
 
 Ja_VI,1.7(=382).15: Yo vāpi[^262-17] mitte athavā amitte seṭṭhe sarikkhe athavāpi hīne atthaṃ carantaṃ athavā anatthaṃ āvī raho saṃgaham eva vatte
 
@@ -3408,11 +3788,14 @@ Ja_VI,1.7(=382).15: Yo vāpi[^262-17] mitte athavā amitte seṭṭhe sarikkhe 
 
 ##### *[PTS Page 263]*
 
-vācaṃ na vajjā pharusaṃ kadāci matassa jīvassa ca[^263-1] tassa homi. || Ja_VI:54 ||
+vācaṃ na vajjā pharusaṃ kadāci matassa jīvassa ca[^263-1] tassa homi. ||  
+Ja_VI:54 ||  
 
-Ja_VI,1.7(=382).16: Etesaṃ yo aññataraṃ labhitvā kantā[^263-2] sirī[^263-3] majjati appapañño taṃ dittarūpaṃ visamaṃ carantaṃ karīsavācaṃ[^263-4] va vivajjayāmi. || Ja_VI:55 ||
+Ja_VI,1.7(=382).16: Etesaṃ yo aññataraṃ labhitvā kantā[^263-2] sirī[^263-3] majjati appapañño taṃ dittarūpaṃ visamaṃ carantaṃ karīsavācaṃ[^263-4] va vivajjayāmi. ||  
+Ja_VI:55 ||  
 
-Ja_VI,1.7(=382).17: Attanā[^263-5] kurute lakkhiṃ alakkhiṃ kurut'; attanā, na hi lakkhiṃ alakkhiṃ vā añño aññassa kārako ti || Ja_VI:56 ||
+Ja_VI,1.7(=382).17: Attanā[^263-5] kurute lakkhiṃ alakkhiṃ kurut'; attanā, na hi lakkhiṃ alakkhiṃ vā añño aññassa kārako ti ||  
+Ja_VI:56 ||  
 
 seṭṭhissa pucchā[^263-6] hoti Siriyā vissajjanā[^263-7]. Tattha ḍaṃsasiriṃsape ti ḍaṃsā vuccanti piṅgalamakkhikā, sabbā[^263-8] makkhikajāti[^263-9] adhippetā, siriṃsapā[^263-10] ti[^263-11] dīghajātikā, ḍaṃsā ca siriṃsapā ca ḍaṃsasiriṃsapā, tasmim ḍaṃsasiriṃsape sati, idaṃ vuttaṃ hoti: yo mahāseṭṭhipuriso sīte vā uṇhe vā vātātape vā ḍaṃsasiriṃsape vā sati etehi sītādīhi pīḷiyamāno pi etāni c'; eva sītādīni khudaṃ pipāsañ cā 'ti sabbam p'; etaṃ parissayaṃ abhibhuyya abhibhavitvā tiṇaṃ viya[^263-12] agaṇetvā rattiṃdivaṃ kasivanijjādīsu c'; eva dānasīlādīsu ca satataṃ attano kammesu yutto[^263-13] attānaṃ yojetvā vattati[^263-14], kālābhatañcā[^263-15] 'ti kasikālādisu kasiādīni[^263-16] dhanapariccāgasīlarakkhaṇadhammasavanādikālesu[^263-17] dhanapariccajanādibhedam diṭṭhadhammasamparāyisukhāvahaṃ[^263-18] atthaṃ na hāpeti yuttapayuttakāle karoti yeva so mayhaṃ manāpo tasmiñ ca purise aham nivasāmīti, akkodhano ti adhivāsanakhantiyā samannāgato, mittavā ti kalyāṇamittehi samannāgato, cāgavā ti dhanapariccāgayutto, saṃgāhako ti mittasaṃgahāamisasaṃgahadhammasaṃgahānaṃ[^263-19] kārako, sakhilo ti muduvāco, saṇhavāco ti maṭṭavacano[^263-20], mahattapatto[^263-21] pi nivātavuttīti mahantam ṭhānaṃ vipulaṃ issariyaṃ patto pi yasena anuddhato nīcavutti paṇḍitānaṃ ovādakaro hoti, tassāhaṃ pose ti tasmiṃ ahaṃ purise, vipulā bhavāmīti akhuddikā homi, so hi mahatiyā siriyā padaṭṭhānaṃ[^263-22], ūmi[^263-23] samuddassa yathāpi vaṇṇan ti yathā nāma samuddassa vaṇṇaṃ olokentānaṃ uparūpari āgacchamānā ūmi[^263-23] vipulā khāyati evam ahaṃ tasmiṃ puggale vipulā homīti dīpeti, āvī raho ti sammukhā ca parammukhā ca, saṃgahameva vatte ti etasmiṃ mittādibhede puggale catubbidhaṃ saṃgahaṃ eva vatteti pavatteti[^263-24], na vajjā ti yo ca kadāci kismiñci pi kāle pharusavacanaṃ na vadeyya madhuravacano hoti, matassa jī-
 
@@ -3432,11 +3815,13 @@ vassa cā[^264-1] 'ti tassāhaṃ puggalassa matassa pi jīvantassa[^264-2] pi p
 
 8. Kukkuṭajātaka. Sucittapattacchadanā ti. Idaṃ Satthā Jetavane viharanto ekaṃ ukkaṇṭhitabhikkhuṃ ārabbha kathesi. Taṃ bhikkhuṃ Satthā "kasmā ukkaṇṭhito sīti" pucchitvā "ekaṃ alaṃkataitthiṃ[^265-1] disvā kilesavasena bhante" ti vutte "bhikkhu itthiyo nāma vañcetvā upalāpetvā[^265-2] attano vasaṃ gatakāle vināsaṃ pāpanena[^265-3] biḷārī[^265-4] viya hontīti[^265-5]" vatvā[^265-6] atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto araññe kukkuṭayoniyaṃ nibbattitvā anekasatakukkuṭaparivāro araññe vasati. Tassa avidūre ekā biḷārikāpi[^265-7] vasati, sā ṭhapetvā Bodhisattaṃ sesakukkuṭe[^265-8] upāyena vañcetvā khādi. Bodhisatto tassā gahaṇaṃ na gacchati[^265-9]. Sā cintesi: "ayaṃ kukkuṭo ativiya saṭho[^265-10] amhākañ ca saṭhabhāvaṃ[^265-11] upāyakusalabhāvaṃ[^265-12] na jānāti, imaṃ mayā[^265-13] ‘bhariyā te bhavissāmīti'; upalāpetvā attano vasaṃ āgatakāle khādituṃ vaṭṭatīti" sā tena nisinnarukkhassa mūlaṃ gantvā vaṇṇabhāsanapubbaṅgamāya vācāya taṃ yācamānā paṭhamaṃ gātham āha:
 
-Ja_VI,1.8(=383).1: Sucittapattacchadana[^265-14] lambacūlavihaṅgama[^265-15] oroha[^265-16] dumasākhāya, mudhā bhariyā bhavāmi te ti. || Ja_VI:57 ||
+Ja_VI,1.8(=383).1: Sucittapattacchadana[^265-14] lambacūlavihaṅgama[^265-15] oroha[^265-16] dumasākhāya, mudhā bhariyā bhavāmi te ti. ||  
+Ja_VI:57 ||  
 
 Tattha sucittapattacchadanā[^265-14] 'ti sucittehi pattehi katacchadana, mudhā[^265-17] ti vinā mūlena kiñci gahetvā. Taṃ {sutvā} Bodhisatto "imāya mama sabbañātakā[^265-18] khāditā, idāni maṃ upalāpetvā khāditukāmā[^265-17], uyyojessāmi nan" ti cintetvā dutiyaṃ gātham āha:
 
-Ja_VI,1.8(=383).2: Catuppadā[^265-20] tvaṃ kalyāṇi[^265-21], dipad'; āhaṃ[^265-22] manorame, migī pakkhī asaññuttā[^265-23], aññaṃ pariyesa sāmikan ti. || Ja_VI:58 ||
+Ja_VI,1.8(=383).2: Catuppadā[^265-20] tvaṃ kalyāṇi[^265-21], dipad'; āhaṃ[^265-22] manorame, migī pakkhī asaññuttā[^265-23], aññaṃ pariyesa sāmikan ti. ||  
+Ja_VI:58 ||  
 
 
 <!-- PTS Page 266 -->
@@ -3446,17 +3831,21 @@ Ja_VI,1.8(=383).2: Catuppadā[^265-20] tvaṃ kalyāṇi[^265-21], dipad'; āha
 
 Tattha migīti biḷāriṃ sandhāyāha, asaññuttā ti jayampatikā bhavituṃ ayuttā[^266-1] asambandhā[^266-2] vā, n'; atth'; etesaṃ īdiso sambandho ti dīpeti. Tato[^266-3] sā "ayaṃ ativiya saṭho[^266-4], yena kenaci upāyena naṃ[^266-5] vañcetvā khādissāmīti" cintetvā tatiyaṃ gātham āha:
 
-Ja_VI,1.8(=383).3: Komārikā te[^266-6] hessāmi mañjukā piyabhāṇinī[^266-7], vinda maṃ ariyena vedena, sāvayā[^266-8] maṃ yad icchasīti. || Ja_VI:59 ||
+Ja_VI,1.8(=383).3: Komārikā te[^266-6] hessāmi mañjukā piyabhāṇinī[^266-7], vinda maṃ ariyena vedena, sāvayā[^266-8] maṃ yad icchasīti. ||  
+Ja_VI:59 ||  
 
 Tattha komārikā ti ahaṃ ettakaṃ kālaṃ aññaṃ purisaṃ na jānāmi, tava komārikabhariyā[^266-9] bhavissāmīti vadati, mañjukā piyabhāṇinīti tava madhurakathā piyabhāṇinī yeva bhavissāmi, vinda man ti paṭilabha maṃ, ariyena vedenā 'ti sundarena paṭilābhena, ahaṃ hi[^266-10] ito pubbe purisasamphassaṃ na jānāmi tvam pi itthisamphassaṃ[^266-11], iti pakatiyā brahmacārī brahmacārīnaṃ mam niddosena lābhena labha, sāvayā[^266-12] maṃ yadicchasīti atha me vacanaṃ na saddahasi dvādasayojanāya Bārāṇasiyā bheriñ carāpetvā ayaṃ me dāsīti sāvaya, maṃ[^266-13] attano dāsiṃ katvā gaṇhā 'ti vadati[^266-14]. Tato Bodhisatto "imaṃ tajjetvā palāpetuṃ vaṭṭatīti" cintetvā catutthaṃ gātham āha:
 
-Ja_VI,1.8(=383).4: Sakuṇakhādini[^266-15] lohitape[^266-16] cori kukkuṭapothini[^266-17] na tvaṃ ariyena vedena mamaṃ bhattāraṃ[^266-18] icchasīti. || Ja_VI:60 ||
+Ja_VI,1.8(=383).4: Sakuṇakhādini[^266-15] lohitape[^266-16] cori kukkuṭapothini[^266-17] na tvaṃ ariyena vedena mamaṃ bhattāraṃ[^266-18] icchasīti. ||  
+Ja_VI:60 ||  
 
 Tattha na tvaṃ ariyenā 'ti tvaṃ ariyena brahmacariyavāsalābhena na maṃ[^266-19] bhattāraṃ icchasi vañcetvā pana khāditukāmāsīti[^266-20] taṃ palāpeti[^266-21]. Sā palāpetvā[^266-22] gatā na puna oloketum pi visahi.
 
-Ja_VI,1.8(=383).5: Evam pi caturā nārī disvāna pavaraṃ[^266-23] naraṃ[^266-24] nenti saṇhāhi vācāhi biḷārī viya kukkuṭaṃ. || Ja_VI:61 ||
+Ja_VI,1.8(=383).5: Evam pi caturā nārī disvāna pavaraṃ[^266-23] naraṃ[^266-24] nenti saṇhāhi vācāhi biḷārī viya kukkuṭaṃ. ||  
+Ja_VI:61 ||  
 
-Ja_VI,1.8(=383).6: Yo ve[^266-25] uppatitaṃ atthaṃ na khippam anubujjhati (= supra p.133.) amittavasaṃ anveti pacchā ca-m-anutappati[^266-26]. || Ja_VI:62 ||
+Ja_VI,1.8(=383).6: Yo ve[^266-25] uppatitaṃ atthaṃ na khippam anubujjhati (= supra p.133.) amittavasaṃ anveti pacchā ca-m-anutappati[^266-26]. ||  
+Ja_VI:62 ||  
 
 
 <!-- PTS Page 267 -->
@@ -3464,7 +3853,8 @@ Ja_VI,1.8(=383).6: Yo ve[^266-25] uppatitaṃ atthaṃ na khippam anubujjhati (
 
 ##### *[PTS Page 267]*
 
-Ja_VI,1.8(=383).7: Yo ve[^267-1] uppatitaṃ atthaṃ khippam eva nibodhati muccate sattusambādhā[^267-2] kukkuṭo va biḷāriyā ti. || Ja_VI:63 ||
+Ja_VI,1.8(=383).7: Yo ve[^267-1] uppatitaṃ atthaṃ khippam eva nibodhati muccate sattusambādhā[^267-2] kukkuṭo va biḷāriyā ti. ||  
+Ja_VI:63 ||  
 
 Imā abhisambuddhagāthā[^267-3]. Tattha caturā ti cāturiyena samannāgatā, nārīti itthiyo, nentīti attano vasaṃ upanenti, biḷārī viyā 'ti yathā sā biḷārī taṃ kukkuṭaṃ netuṃ vāyami[^267-4] evaṃ aññā[^267-5] nāriyo nenti yeva, uppatitaṃ atthan ti uppannaṃ kiñcid eva atthaṃ, na anubujjhatīti[^267-6] yathāsabhāvena na jānāti, pacchā ca manutappatīti[^267-7] pacchā ca anutappati, kukkuṭo vā 'ti yathā so[^267-8] ñāṇena[^267-9] sampanno kukkuṭo biḷārito mutto evaṃ sattusaṃbādhato muccati[^267-10]. Satthā imaṃ desanaṃ[^267-11] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne ukkaṇṭhitabhikkhu sotāpattiphale patiṭṭhahi) Tadā kukkuṭarājā[^267-12] aham eva ahosin ti. Kukkuṭajātakaṃ[^267-12].
 
@@ -3478,11 +3868,13 @@ Imā abhisambuddhagāthā[^267-3]. Tattha caturā ti cāturiyena samannāgatā, 
 
 nikkhitte paṭhavi dhāretuṃ na sakkotīti[^268-1]". "Atha kasmā mukhaṃ vivaritvā tiṭṭhasīti". "Mayaṃ aññaṃ āhāraṃ na khādāma, vātam eva pivāmā[^268-2]" 'ti, evañ ca pana vatvā te sakuṇe āmantetvā ovādaṃ vo dassāmi, taṃ suṇāthā" 'ti tesaṃ ovādavasena paṭhamaṃ gātham āha:
 
-Ja_VI,1.9(=384).1: Dhammaṃ caratha ñātayo, dhammaṃ caratha, bhaddaṃ vo, dhammacārī[^268-3] sukhaṃ seti asmiṃ loke paramhi cā 'ti. || Ja_VI:64 ||
+Ja_VI,1.9(=384).1: Dhammaṃ caratha ñātayo, dhammaṃ caratha, bhaddaṃ vo, dhammacārī[^268-3] sukhaṃ seti asmiṃ loke paramhi cā 'ti. ||  
+Ja_VI:64 ||  
 
 Tattha dhammaṃ carathā 'ti kāyasucaritādibhedaṃ dhammaṃ karotha, ñātayo ti te ālapati, dhammaṃ caratha bhaddaṃ vo ti ekavāraṃ[^268-4] caritvā mā osakkatha puna[^268-5] carath'; eva, bhaddaṃ vo bhavissatīti, sukhaṃ setīti desanāsīsam etaṃ, dhammacārī pana[^268-6] sukhaṃ tiṭṭhati gacchati nisīdati sayati[^268-7] sabbiriyāpathesu sukhito hotīti dīpeti. Sakuṇā "ayaṃ[^268-8] kohaññena aṇḍakāni[^268-9] khādituṃ evaṃ vadatīti" ajānitvā taṃ vaṇṇentā dutiyaṃ gātham āhaṃsu:
 
-Ja_VI,1.9(=384).2: Bhaddako vat'; ayaṃ[^268-10] pakkhī dijo paramadhammiko, ekapādena tiṭṭhanto dhammam evānusāsatīti[^268-11]. || Ja_VI:65 ||
+Ja_VI,1.9(=384).2: Bhaddako vat'; ayaṃ[^268-10] pakkhī dijo paramadhammiko, ekapādena tiṭṭhanto dhammam evānusāsatīti[^268-11]. ||  
+Ja_VI:65 ||  
 
 Tattha dhammamevā 'ti sabhāvam eva anusāsatīti katheti[^268-12]. Sakuṇā tassa dussīlassa saddahitvā "tvaṃ kira sāmi aññaṃ[^268-13] gocaraṃ na[^268-14] gaṇhasi, vātam eva bhakkhesi[^268-15], tena hi amhākaṃ aṇḍakāni ca chāpake ca olokeyyāsīti" vatvā gocarāya gacchanti. So pāpo tesaṃ gatakāle aṇḍakāni chāpake ca kucchipūraṃ khāditvā tesaṃ āgamanakāle upasanto hutvā mukhaṃ vivaritvā ekena pādena tiṭṭhati. Sakuṇā āgantvā puttake apassantā "ko nu kho khādatīti" mahāsaddena viravanti, "ayaṃ kāko dhammiko" ti tasmiṃ āsaṃkamattam pi na karonti[^268-16]. Ath'; ekadivasaṃ Mahāsatto cintesi: "idha pubbe koci paripantho[^268-17] n'; atthi, imassāgatakālato paṭṭhāya jāto, imaṃ pariggahetuṃ vaṭṭatīti" so sakuṇehi saddhiṃ gocarāya gacchanto viya hutvā nivattitvā paṭicchannaṭṭhāne aṭṭhāsi.
 
@@ -3494,13 +3886,17 @@ Tattha dhammamevā 'ti sabhāvam eva anusāsatīti katheti[^268-12]. Sakuṇā t
 
 Kāko[^269-1] "gatā sakuṇā" ti nirāsaṃko hutvā uṭṭhāya[^269-2] gantvā aṇḍakāni ca chāpake ca khāditvā punāgantvā mukhaṃ {vivaritvā} ekena pādena aṭṭhāsi. Sakuṇarājā sakuṇesu āgatesu sabbe sannipātāpetvā "ahaṃ vo ajja puttakānaṃ paripanthaṃ[^269-3] parigaṇhanto imaṃ pāpakākaṃ[^269-4] khādantaṃ addasaṃ, atha naṃ gaṇhāmā" 'ti sakuṇasaṃghaṃ ānetvā samparivāretvā[^269-5] "sace palāyati gaṇheyyātha nan" ti vatvā avasesagāthā[^269-6] abhāsi:
 
-Ja_VI,1.9(=384).3: Nāssa sīlaṃ vijānātha, anaññāya pasaṃsatha, bhutvā aṇḍañ ca potañ ca dhammo dhammo ti bhāsati. || Ja_VI:66 ||
+Ja_VI,1.9(=384).3: Nāssa sīlaṃ vijānātha, anaññāya pasaṃsatha, bhutvā aṇḍañ ca potañ ca dhammo dhammo ti bhāsati. ||  
+Ja_VI:66 ||  
 
-Ja_VI,1.9(=384).4: Aññaṃ bhaṇati vācāya, aññaṃ kāyena kubbati, vācāya no ca kāyena na taṃ dhammaṃ adhiṭṭhito. || Ja_VI:67 ||
+Ja_VI,1.9(=384).4: Aññaṃ bhaṇati vācāya, aññaṃ kāyena kubbati, vācāya no ca kāyena na taṃ dhammaṃ adhiṭṭhito. ||  
+Ja_VI:67 ||  
 
-Ja_VI,1.9(=384).5: Vācāya sakhilo manoviduggo paṭicchanno[^269-7] kūpasayo[^269-8] kaṇhasappo dhammadhajo gāmanigamasādhu[^269-9] bhaddako[^269-10] dujjāno purisena bālisena[^269-11]. || Ja_VI:68 ||
+Ja_VI,1.9(=384).5: Vācāya sakhilo manoviduggo paṭicchanno[^269-7] kūpasayo[^269-8] kaṇhasappo dhammadhajo gāmanigamasādhu[^269-9] bhaddako[^269-10] dujjāno purisena bālisena[^269-11]. ||  
+Ja_VI:68 ||  
 
-Ja_VI,1.9(=384).6: Imaṃ tuṇḍehi pakkhehi pādā c'; imaṃ vipothatha, chavaṃ h'; imaṃ vināsetha, nāyaṃ saṃvāsanāraho ti. || Ja_VI:69 ||
+Ja_VI,1.9(=384).6: Imaṃ tuṇḍehi pakkhehi pādā c'; imaṃ vipothatha, chavaṃ h'; imaṃ vināsetha, nāyaṃ saṃvāsanāraho ti. ||  
+Ja_VI:69 ||  
 
 Tattha nāssa sīlan ti na[^269-12] assa sīlaṃ, anaññāyā 'ti ajānitvā bhutvā ti khāditvā, vācāya no ca kāyenā 'ti ayaṃ hi vacanen'; eva dhammaṃ carati[^269-13] kāyena pana na karoti, na taṃ dhammaṃ adhiṭṭhito ti tasmiṃ[^269-14] jānitabbo yathāyaṃ dhammaṃ bhaṇati taṃ na adhiṭṭhito[^269-15] tasmiṃ dhamme na patiṭṭhito, vācāya sakhilo ti[^269-16] vacanena mudu, manoviduggo ti manasā viduggo duppavesā[^269-17] visamo, paṭicchanno[^269-18] ti yasmiṃ bile sayati tena channo, kūpasayo ti bilāsayo, dhammadhajo ti sucaritadhammaṃ dhajaṃ katvā vicaraṇena dhammadhajo[^269-19], gāmanigamasādhū[^269-20] 'ti gāmesu ca nigamesu ca sādhu, bhaddako ti sambhāvito, dujjāno ti ayaṃ evarūpo dussīlo paṭicchannakammanto bālena[^269-21] aññāṇena purisena na sakkā jānituṃ, pādā ciman[^269-22] ti attano[^269-23] pādena ca[^269-24] imaṃ, vipothathā 'ti paharatha hanatha, chavan ti lāmakaṃ, nāyan ti ayaṃ amhehi saddhiṃ ekasmiṃ ṭhāne saṃvāsaṃ na arahatīti.
 
@@ -3530,13 +3926,16 @@ yojanamattaṭṭhānaṃ[^271-1] parikkhipiṃsu. Tasmiṃ khaṇe Nandiyo ekas
 
 pesessāmā" 'ti cintetvā maggasamīpe ṭhatvā ekaṃ brāhmaṇaṃ disvā "ayya kahaṃ gacchasīti" mānusikāyā vācāya pucchitvā "Sāketan" ti vutte puttassa sāsanaṃ pahiṇantā paṭhamaṃ gātham āhaṃsu:
 
-Ja_VI,1.10(=385).1: Sace brāhmaṇa gacchasi Sākete Añjanaṃvanaṃ vajjāsi Nandiyaṃ nāma puttaṃ asmākam orasaṃ: mātāpitā ca te vuddhā[^272-1], te taṃ icchanti passitun ti. || Ja_VI:70 ||
+Ja_VI,1.10(=385).1: Sace brāhmaṇa gacchasi Sākete Añjanaṃvanaṃ vajjāsi Nandiyaṃ nāma puttaṃ asmākam orasaṃ: mātāpitā ca te vuddhā[^272-1], te taṃ icchanti passitun ti. ||  
+Ja_VI:70 ||  
 
 Tass'; attho: sace tvaṃ brāhmaṇa Sāketaṃ gacchasi Sākete Añjanavanaṃ nāma uyyānaṃ atthi, tattha amhākaṃ putto Nandiyo nāma migo, taṃ vadeyyāsi: mātāpitaro[^272-2] te vuddhā te yāva na maranti tāva taṃ passituṃ icchantīti. So "sādhū" 'ti sampaṭicchitvā Sāketaṃ[^272-3] gantvā punadivase uyyānaṃ pavisitvā "Nandiyamigo nāma kataro" ti pucchi. Migo āgantvā tassa samīpe ṭhatvā "ahan" ti āha. Brāhmaṇo taṃ atthaṃ ārocesi. Nandiyo taṃ sutvā "gaccheyy' āhaṃ brāhmaṇa[^272-4], vatiṃ laṃghitvāpi no na gaccheyyaṃ, mayā pana rañño santikā nivāpapānabhojanaṃ[^272-5] bhuttaṃ, taṃ me iṇaṭṭhāne ṭhitaṃ imesañ cāpi migānaṃ majjhe ciravuttho 'smi, tassa me rañño c'; eva etesañ ca sotthibhāvaṃ akatvā attano balaṃ adassetvā gamanaṃ nāma ayuttaṃ[^272-6], attano pana vāre[^272-7] sampatte ahaṃ etesaṃ sotthibhāvaṃ katvā sukhito āgacchissāmīti" imaṃ[^272-8] atthaṃ pakāsento dve gāthā abhāsi:
 
-Ja_VI,1.10(=385).2: Bhuttā mayā nivāpā[^272-9] rājino pānabhojanaṃ, taṃ rājapiṇḍaṃ avabhottuṃ[^272-10] nāhaṃ brāhmaṇa-m-ussahe. || Ja_VI:71 ||
+Ja_VI,1.10(=385).2: Bhuttā mayā nivāpā[^272-9] rājino pānabhojanaṃ, taṃ rājapiṇḍaṃ avabhottuṃ[^272-10] nāhaṃ brāhmaṇa-m-ussahe. ||  
+Ja_VI:71 ||  
 
-Ja_VI,1.10(=385).3: Odahissām'; ahaṃ passaṃ khurapāṇissa[^272-11] rājino, tadāhaṃ sukhito mutto api passeyya[^272-12] mātaran ti. || Ja_VI:72 ||
+Ja_VI,1.10(=385).3: Odahissām'; ahaṃ passaṃ khurapāṇissa[^272-11] rājino, tadāhaṃ sukhito mutto api passeyya[^272-12] mātaran ti. ||  
+Ja_VI:72 ||  
 
 Tattha nivāpā ti[^272-13] tesu tesu[^272-14] ṭhānesu nivuttā[^272-15] nivāpā[^272-16], pānabhojanan ti pānīyañ ca avasesatiṇañ ca, taṃ rājapiṇḍan ti taṃ rañño santikā[^272-17] saṃkaḍḍhitvā samodhānitaṭṭhena[^272-18] piṇḍaṃ, avabhottun[^272-19] ti dubbhuttaṃ[^272-20]
 
@@ -3554,17 +3953,22 @@ bhuñjituṃ[^273-1], rañño hi[^273-2] kiccaṃ anipphādento taṃ avabhuñja
 
 ##### *[PTS Page 274]*
 
-Ja_VI,1.10(=385).4: Dānaṃ sīlaṃ pariccāgaṃ ajjavaṃ maddavaṃ tapaṃ akkodhaṃ avihiṃsā ca khantī ca avirodhanaṃ, || Ja_VI:73 ||
+Ja_VI,1.10(=385).4: Dānaṃ sīlaṃ pariccāgaṃ ajjavaṃ maddavaṃ tapaṃ akkodhaṃ avihiṃsā ca khantī ca avirodhanaṃ, ||  
+Ja_VI:73 ||  
 
-Ja_VI,1.10(=385).5: Icc-ete kusale dhamme ṭhite passāmi[^274-1] attani, tato me jāyate pīti somanassañ c'; anappakan ti. || Ja_VI:74 ||
+Ja_VI,1.10(=385).5: Icc-ete kusale dhamme ṭhite passāmi[^274-1] attani, tato me jāyate pīti somanassañ c'; anappakan ti. ||  
+Ja_VI:74 ||  
 
 evaṃ vutte[^274-2] rājadhamme gāthābandhanen'; eva[^274-3] desetvā katipāhaṃ rañño santike vasitvā nagare[^274-4] sabbasattānaṃ abhayadānappakāsanaṃ[^274-5] suvaṇṇabheriñ carāpetvā "appamatto hohi mahārājā" 'ti vatvā mātāpitunnaṃ[^274-6] dassanatthāya gato.
 
-Ja_VI,1.10(=385).6: Migarājā pure āsiṃ Kosalassa niketave Nandiyo nāma nāmena abhirūpo catuppado. || Ja_VI:75 ||
+Ja_VI,1.10(=385).6: Migarājā pure āsiṃ Kosalassa niketave Nandiyo nāma nāmena abhirūpo catuppado. ||  
+Ja_VI:75 ||  
 
-Ja_VI,1.10(=385).7: Taṃ maṃ vadhituṃ āgañchi dāyasmiṃ[^274-7] Añjanāvane dhanuṃ adejjhaṃ katvāna[^274-8] usuṃ sandhāya[^274-9] Kosalo. || Ja_VI:76 ||
+Ja_VI,1.10(=385).7: Taṃ maṃ vadhituṃ āgañchi dāyasmiṃ[^274-7] Añjanāvane dhanuṃ adejjhaṃ katvāna[^274-8] usuṃ sandhāya[^274-9] Kosalo. ||  
+Ja_VI:76 ||  
 
-Ja_VI,1.10(=385).8: Tassāhaṃ odahiṃ passaṃ khurapāṇissa[^274-10] rājino, tadāhaṃ sukhito mutto mātaraṃ daṭṭhum āgato ti || Ja_VI:77 ||
+Ja_VI,1.10(=385).8: Tassāhaṃ odahiṃ passaṃ khurapāṇissa[^274-10] rājino, tadāhaṃ sukhito mutto mātaraṃ daṭṭhum āgato ti ||  
+Ja_VI:77 ||  
 
 imā abhisambuddhagāthā honti. Tattha Kosalassa niketave ti Kosalarañño niketave vasanaṭṭhāne, tassa santike araññasmin ti attho, dāyasmin ti migānaṃ vasanatthāya dinne uyyāne, adejjhaṃ[^274-11] katvānā 'ti jiyāya saddhiṃ ekato katvā, āropetvā ti attho, sandhāyā[^274-12] 'ti sandahitvā[^274-13] yojetvā, odahin ti oḍḍesiṃ, mātaraṃ daṭṭhumāgato ti desanāsīsaṃ etaṃ, rañño dhammaṃ desetvā sabbasattānaṃ abhayatthāya suvaṇṇabheriñ carāpetvā mātāpitaro daṭṭhuṃ āgato 'smīti attho. Satthā imaṃ desanaṃ[^274-14] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne mātuposakabhikkhu sotāpattiphale patiṭṭhahi) "Tadā mātāpitaro[^274-15] mahārājakulāni ahesuṃ, brāhmaṇo Sāriputto, rājā Ānando, migarājā[^274-16] aham evā" 'ti. Nandiyamigajātakaṃ[^274-17]. Avāriyavaggo[^274-18] paṭhamo.
 
@@ -3602,13 +4006,16 @@ pūvasakaṭaṃ nikkujjitaṃ, madhuphāṇitapūve[^277-1] khādathā" 'ti vir
 
 ajikaṃ katvā attanā[^278-1] ajo hutvā "mahājano mā passīti[^278-2]" adhiṭṭhāya rañño rathassa purato ahosi. Taṃ rājā c'; eva rathe yuttasindhavā ca passanti, añño koci na passati. So kathāsamuṭṭhāpanatthaṃ[^278-3] ajikāya saddhiṃ methunadhammaṃ patisevanto[^278-4] viya ahosi. Tam eko rathe yuttasindhavo disvā "samma aja[^278-5] mayaṃ pubbe ‘ajā kira bālā ahirikā'; ti assumha[^278-6] na[^278-7] passimha[^278-8], tvaṃ kira[^278-9] raho paṭicchannaṭṭhāne[^278-10] kattabbaṃ anācāraṃ[^278-11] amhākaṃ ettakānaṃ[^278-12] passantānaṃ ñeva karosi na lajjasi, taṃ no pubbe sutaṃ iminā diṭṭhena sametīti" vatvā paṭhamaṃ gātham āha:
 
-Ja_VI,2.1(=386).1: Saccaṃ kir'; evam āhaṃsu bhastaṃ[^278-13] bālo ti paṇḍitā, passa: bālo rahokammaṃ āvikubbaṃ na bujjhatīti. || Ja_VI:78 ||
+Ja_VI,2.1(=386).1: Saccaṃ kir'; evam āhaṃsu bhastaṃ[^278-13] bālo ti paṇḍitā, passa: bālo rahokammaṃ āvikubbaṃ na bujjhatīti. ||  
+Ja_VI:78 ||  
 
 Tattha bhastan[^278-14] ti ajaṃ, paṇḍitā ti ñāṇasampannā taṃ bālo ti vadantā[^278-15] saccaṃ kira vadanti[^278-16], passā 'ti ālapanaṃ, passathā 'ti attho, na bujjhatīti evaṃ[^278-17] kātuṃ na[^278-18] yuttan ti na jānāti. Taṃ sutvā ajo dve gāthā abhāsi:
 
-Ja_VI,2.1(=386).2: Tvaṃ ca[^278-19] kho samma bālo si, kharaputta vijānahi[^278-20]: rajjuyāsi[^278-21] parikkhitto vaṃkoṭṭho ohitomukho. || Ja_VI:79 ||
+Ja_VI,2.1(=386).2: Tvaṃ ca[^278-19] kho samma bālo si, kharaputta vijānahi[^278-20]: rajjuyāsi[^278-21] parikkhitto vaṃkoṭṭho ohitomukho. ||  
+Ja_VI:79 ||  
 
-Ja_VI,2.1(=386).3: Aparam pi[^278-22] samma te balyaṃ[^278-23] yo mutto na palāyasi, so ca bālātaro[^278-24] samma yaṃ[^278-25] tvaṃ vahasi[^278-26] Senakan ti. || Ja_VI:80 ||
+Ja_VI,2.1(=386).3: Aparam pi[^278-22] samma te balyaṃ[^278-23] yo mutto na palāyasi, so ca bālātaro[^278-24] samma yaṃ[^278-25] tvaṃ vahasi[^278-26] Senakan ti. ||  
+Ja_VI:80 ||  
 
 Tattha tvañ ca[^278-19] kho sammā 'ti samma sindhava mayāpi kho tvaṃ bālataro, kharaputtā 'ti so kira gadrabhassa jātako[^278-27], tena[^278-28] taṃ evaṃ āha, vijānahīti[^278-29] aham eva bālo ti jāna[^278-30], parikkhitto ti yugena saddhiṃ gīvāya parikkhitto, vaṃkoṭṭho ti vaṃkaoṭṭho, ohitomukho[^278-31] ti mukhabandhakena[^278-32] ṭhapitamukho, yo[^278-33] mutto na palāyasīti yo tvaṃ rathato mutto samāno muttakāle palāyitvā araññaṃ na pavisasi[^278-34], taṃ te apalāyanaṃ aparam[^278-22] pi
 
@@ -3620,11 +4027,13 @@ Tattha tvañ ca[^278-19] kho sammā 'ti samma sindhava mayāpi kho tvaṃ bālat
 
 bālyaṃ, so ca bālataro ti yaṃ tvam Senakaṃ vahasi so[^279-1] Senako tayāpi[^279-2] bālataro. Rājā tesaṃ[^279-3] ubhinnaṃ pi kathaṃ jānāti, tasmā taṃ suṇanto sanikaṃ rathaṃ pesesi. Gadrabho pi 'ssa[^279-4] kathaṃ sutvā puna catutthaṃ gātham āha:
 
-Ja_VI,2.1(=386).4: Yan[^279-5] nu samma ahaṃ bālo ajarāja[^279-6] vijānahi, atha kena Senako bālo taṃ me akkhāhi pucchito ti. || Ja_VI:81 ||
+Ja_VI,2.1(=386).4: Yan[^279-5] nu samma ahaṃ bālo ajarāja[^279-6] vijānahi, atha kena Senako bālo taṃ me akkhāhi pucchito ti. ||  
+Ja_VI:81 ||  
 
 Tattha yan ti karaṇatthe paccattavacanaṃ[^279-7], nū 'ti tāvatthe[^279-8] nipāto, idaṃ vuttaṃ hoti: samma ajarāja yena tāva tiracchānagatatthena[^279-9] kāraṇena ahaṃ bālo taṃ tvaṃ kāraṇaṃ jānāsi[^279-10], sakkā[^279-11] etaṃ tayā ñātuṃ, ahaṃ[^279-12] tiracchānagatattā va[^279-13] bālo, tasmā[^279-14] kharaputtā 'ti ādini vadanto suṭṭhu[^279-15] vadasi[^279-16], ayaṃ pana Senako rājā kena kāraṇena bālo, tam me[^279-17] kāraṇaṃ pucchito akkhāhīti. Taṃ ācikkhanto ajo[^279-18] pañcamaṃ gātham āha:
 
-Ja_VI,2.1(=386).5: Uttamatthaṃ[^279-19] labhitvāna bhariyā yo padassati[^279-20] tena jahissat'; attānaṃ[^279-21] sā c'; ev'; assa na hessatīti[^279-22]. || Ja_VI:82 ||
+Ja_VI,2.1(=386).5: Uttamatthaṃ[^279-19] labhitvāna bhariyā yo padassati[^279-20] tena jahissat'; attānaṃ[^279-21] sā c'; ev'; assa na hessatīti[^279-22]. ||  
+Ja_VI:82 ||  
 
 Tattha uttamatthan[^279-23] ti sabbarūtajānanamantaṃ[^279-24], tenā 'ti tena tassā mantappadānasaṃkhātena[^279-25] kāraṇena taṃ datvā[^279-26] aggiṃ pavisanto attānañ ca jahissati[^279-27] sā c'; assa bhariyā na bhavissati[^279-28], tasmā[^279-29] esa tayāpi[^279-30] bālataro yo laddhaṃ yasaṃ rakkhituṃ na sakkotīti. Rājā[^279-31] tassa vacanaṃ sutvā "ajarāja[^279-32] amhākaṃ sotthiṃ karonto pi tvaṃ ñeva karissasi, kathehi tāva no kattabbayuttan[^279-33]" ti āha. Atha naṃ ajarājā "mahārāja imesaṃ sattānaṃ attanā[^279-34] añño piyataro nāma n'; atthi, ekaṃ piyabhaṇḍam
 
@@ -3636,7 +4045,8 @@ Tattha uttamatthan[^279-23] ti sabbarūtajānanamantaṃ[^279-24], tenā 'ti ten
 
 nissāya attānaṃ nāsetuṃ laddhaṃ[^280-1] yasaṃ pahātuṃ na[^280-2] vaṭṭatīti" vatvā chaṭṭhamaṃ[^280-3] gātham āha:
 
-Ja_VI,2.1(=386).6: Na ve ‘piyaṃ me[^280-4]'; ti janinda tādiso attaṃ niraṃkatvā[^280-5] piyāni sevati, attā va seyyo paramā va seyyo labbhā[^280-6] piyā ocitatthena[^280-7] pacchā ti. || Ja_VI:83 ||
+Ja_VI,2.1(=386).6: Na ve ‘piyaṃ me[^280-4]'; ti janinda tādiso attaṃ niraṃkatvā[^280-5] piyāni sevati, attā va seyyo paramā va seyyo labbhā[^280-6] piyā ocitatthena[^280-7] pacchā ti. ||  
+Ja_VI:83 ||  
 
 Tattha piyaṃ me[^280-8] ti piyaṃ me ti[^280-9] ayam eva vā pāṭho, idaṃ vuttaṃ hoti: janinda tādiso[^280-10] tumhādiso yasamahante ṭhito puggalo ekaṃ piyabhaṇḍaṃ[^280-11] nissāya idaṃ piyaṃ me ti attaṃ[^280-12] niraṃkatvā[^280-10] attānaṃ chaḍḍetvā tāni piyāni na sevat'; eva, kiṃkāraṇā: attā va seyyo paramā va seyyo ti yasmā sataguṇena sahassaguṇena attā va seyyo varo uttamo, kuto: paramā va[^280-13] seyyo, paramā uttamāpi[^280-14] aññasmā piyabhaṇḍā ti attho, ettha hi vakāro[^280-15] pikāratthe[^280-16] nipāto[^280-17] ti daṭṭhabbo, labbhā piyā ocitatthena[^280-18] pacchā ti ocitatthena[^280-19] hi vaḍḍhitatthena[^280-20] yasappattena[^280-21] purisena pacchāpi[^280-22] nāma sakkā laddhuṃ, tasmā[^280-23] kāraṇā attā na[^280-24] nāsetabbo[^280-25] ti. Evaṃ Mahāsatto rañño ovādaṃ adāsi. Rājā tussitvā "ajarāja kuto āgato sīti" pucchi. "Sakko ahaṃ mahārāja, tava anukampāya taṃ[^280-26] maraṇā mocetuṃ āgato 'mhīti[^280-27]. "Devarāja ahaṃ ‘etissā[^280-28] mantaṃ dassāmīti'; avacaṃ, idāni kiṃ karomīti[^280-20]". "Tumhākaṃ ubhinnam pi vināsena kiccaṃ n'; atthi, ‘sippassa upacāro[^280-30]'; ti vatvā etaṃ katipayehi pahārehi paharāpehi[^280-31], iminā upāyena na gaṇhissatīti". Rājā "sādhū" 'ti sampaṭicchi. Mahāsatto rañño ovādaṃ datvā sakaṭṭhānam eva gato[^280-32]. Rājā uyyānaṃ gantvā deviṃ pakkosāpetvā āha "gaṇhissasi bhadde mantan" ti. "Āma devā" 'ti. "Tena hi upacāraṃ karohīti". "Ko upacāro" ti. "Piṭṭhiyaṃ pahāra-
 
@@ -3658,11 +4068,13 @@ sate patamāne[^281-1] saddaṃ kātuṃ na vaṭṭatīti". Sā mantalobhena "s
 
 rūpaṃ[^282-1] vaṇṇenti. Bodhisatto taṃ sutvā savanasaṃsaggena bandhitvā[^282-2] "pādaparicārikaṃ taṃ[^282-3] karissāmīti[^282-4]" uttamajātikaṃ ayaṃ[^282-5] gahetvā ekaṃ sukhumaṃ ghanaṃ sūciṃ katvā pāse vijjhitvā odake[^282-6] opilāpetvā[^282-7] aparam pi tathārūpam eva tassā[^282-8] kosakaṃ katvā pāse[^282-9] vijjhi, iminā niyāmena tassā sattakose[^282-10] akāsi, kathaṃ akāsīti na vattabbaṃ, Bodhisattānaṃ hi ñāṇamahantatāya kāraṇaṃ ijjhati[^282-11]. So taṃ sūciṃ nāḷikāya[^282-12] pakkhipitvā ovaṭṭikāya katvā taṃ gāmaṃ gantvā kammārajeṭṭhakassa vasanavīthiṃ pucchitvā tattha gantvā dvāre ṭhatvā "ko mama hatthato[^282-13] evarūpaṃ nāma sūciṃ mūlena kiṇituṃ icchatīti" sūciṃ vaṇṇento jeṭṭhakakammāragharasamīpe[^282-14] ṭhatvā[^282-15] paṭhamaṃ gātham āha:
 
-Ja_VI,2.2(=387).1: Akakkasaṃ apharusaṃ kharadhotaṃ supāsiyaṃ[^282-16] sukhumaṃ tikhiṇaggañ ca ko sūciṃ ketum icchatīti. || Ja_VI:84 ||
+Ja_VI,2.2(=387).1: Akakkasaṃ apharusaṃ kharadhotaṃ supāsiyaṃ[^282-16] sukhumaṃ tikhiṇaggañ ca ko sūciṃ ketum icchatīti. ||  
+Ja_VI:84 ||  
 
 Tass'; attho: paṭalassa vā tilakassa vā odhino vā[^282-17] abhāvena akakkasaṃ, vaṭṭatāya[^282-18] apharusaṃ, kharena[^282-19] arena[^282-20] pāsāṇena dhotattā[^282-21] kharadhotaṃ, sundarena suviddhena[^282-22] pāsena samannāgatattā supāsiyam[^282-23], saṇhatāya[^282-24] sukhumaṃ, aggassa tikhiṇatāya tikhiṇaggaṃ sūciṃ mama hatthato mūlaṃ datvā ko kiṇitum icchatīti. Evañ ca pana vatvā puna pi taṃ vaṇṇento dutiyaṃ gātham āha:
 
-Ja_VI,2.2(=387).2: Sumajjañ ca supāsañ ca anupubbaṃ suvaṭṭitaṃ[^282-25] ghanaghātimaṃ[^282-26] paṭitthaddhaṃ ko sūciṃ ketum icchatīti. || Ja_VI:85 ||
+Ja_VI,2.2(=387).2: Sumajjañ ca supāsañ ca anupubbaṃ suvaṭṭitaṃ[^282-25] ghanaghātimaṃ[^282-26] paṭitthaddhaṃ ko sūciṃ ketum icchatīti. ||  
+Ja_VI:85 ||  
 
 Tattha sumajjan ti kuruvindakacuṇṇena suṭṭhu majjitaṃ, supāsan ti saṇhena pāsavedhakena[^282-27] viddhattā[^282-28] sundarapāsaṃ, ghanaghātiman[^282-29] ti yā ghātiyamānā[^282-30] adhikaraṇiṃ[^282-31] anupavisati ayaṃ ghanaghātimā ti vuccati[^282-32], tādisā ti attho, paṭitthaddhan ti amudukaṃ.
 
@@ -3674,9 +4086,11 @@ Tattha sumajjan ti kuruvindakacuṇṇena suṭṭhu majjitaṃ, supāsan ti sa�
 
 Tasmiṃ khaṇe sā kumārikā bhuttapātarāsaṃ[^283-1] pitaraṃ darathapaṭippassambhanatthaṃ[^283-2] cullasayanake[^283-3] nipannaṃ tālavaṇṭena vījayamānā Bodhisattassa madhurasaddaṃ sutvā allapiṇḍamaṃsena[^283-4] hadaye pahaṭā[^283-5] viya ghaṭasahassena nibbāpitadarathā[^283-6] viya hutvā "ko nu kho esa madhurena[^283-7] saddena kammārānaṃ vasanagāme sūciṃ vikkiṇāti, kena nu kho kammena āgato, jānissāmi nan" ti tālavaṇṭaṃ ṭhapetvā gehā nikkhamma[^283-8] bahi ālindake ṭhatvā tena saddhiṃ kathesi[^283-9]. Bodhisattānaṃ patthitaṃ nāma samijjhati, so hi tassā yev'; atthāya taṃ gāmaṃ āgato. Sā yeva[^283-10] tena saddhiṃ kathentī "māṇava sakalaraṭṭhavāsino sūciādīnaṃ atthāya imaṃ gāmaṃ āgacchanti, tvaṃ bālatāya kammāragāme sūcī vikketum[^283-11] icchasi, sace pi divasaṃ sūciyā vaṇṇaṃ bhāsissasi[^283-12] na te koci hatthato sūciṃ gaṇhissati, sace[^283-13] mūlaṃ laddhum icchasi aññaṃ gāmaṃ yāhīti" vatvā dve gāthā abhāsi:
 
-Ja_VI,2.2(=387).3: Ito dāni patāyanti[^283-14] sūciyo balisāni ca, ko 'yaṃ kammāragāmasmiṃ sūcī vikketum icchati. || Ja_VI:86 ||
+Ja_VI,2.2(=387).3: Ito dāni patāyanti[^283-14] sūciyo balisāni ca, ko 'yaṃ kammāragāmasmiṃ sūcī vikketum icchati. ||  
+Ja_VI:86 ||  
 
-Ja_VI,2.2(=387).4: Ito satthāni gacchanti kammantā vividhā puthū, ko 'yaṃ kammāragāmasmiṃ sūcī vikketum arahatīti[^283-15]. || Ja_VI:87 ||
+Ja_VI,2.2(=387).4: Ito satthāni gacchanti kammantā vividhā puthū, ko 'yaṃ kammāragāmasmiṃ sūcī vikketum arahatīti[^283-15]. ||  
+Ja_VI:87 ||  
 
 Tattha ito dānīti imasmiṃ raṭṭhe idāni sūciyo[^283-16] balisāni ca aññani ca[^283-17] upakaraṇāni imamhā kammāragāmā patāyanti nikkhamanti, taṃ taṃ disaṃ pattharantā[^283-18] nigacchanti, ko yan ti evaṃ sante ko ayaṃ imasmiṃ kammāragāme sūciṃ vikkiṇituṃ icchati[^283-19], satthānīti Bārāṇasiṃ[^283-20] gacchantāni nānappakārāni satthāni[^283-21] ito va gacchanti, vividhā puthū ti nānappakārakā bahukammantāpi sakalaraṭṭhavāsīnaṃ ito gahitaupakaraṇeh'; eva[^283-22] pavattanti Bodhisatto tassā vacanaṃ sutvā "bhadde tvaṃ ajānantī aññāṇena evaṃ vadasīti[^283-23]" vatvā dve gāthā abhāsi:
 
@@ -3686,9 +4100,11 @@ Tattha ito dānīti imasmiṃ raṭṭhe idāni sūciyo[^283-16] balisāni ca a�
 
 ##### *[PTS Page 284]*
 
-Ja_VI,2.2(=387).5: Sūciṃ[^284-1] kammāragāmasmiṃ vikketabbā pajānatā, ācariyā va sañjānanti kammaṃ sukatadukkataṃ[^284-2]. || Ja_VI:88 ||
+Ja_VI,2.2(=387).5: Sūciṃ[^284-1] kammāragāmasmiṃ vikketabbā pajānatā, ācariyā va sañjānanti kammaṃ sukatadukkataṃ[^284-2]. ||  
+Ja_VI:88 ||  
 
-Ja_VI,2.2(=387).6: Imañ ca te pitā bhadde sūciṃ jaññā mayā kataṃ tayā ca maṃ nimanteyya yañ c'; atth'; aññaṃ[^284-3] ghare dhanan ti. || Ja_VI:89 ||
+Ja_VI,2.2(=387).6: Imañ ca te pitā bhadde sūciṃ jaññā mayā kataṃ tayā ca maṃ nimanteyya yañ c'; atth'; aññaṃ[^284-3] ghare dhanan ti. ||  
+Ja_VI:89 ||  
 
 Tattha sūcin ti vibhattivipallāso kato, idaṃ vuttaṃ hoti: sūci nāma pajānatā paṇḍitena purisena kammāragāmasmiṃ yeva vikketabbā, kiṃkāraṇā ācariyā sañjānanti kammaṃ sukatadukkataṃ[^284-4], tassa tassa hi sippassa ācariyā va[^284-5] tasmiṃ tasmiṃ sippe sukatadukkataṃ[^284-6] kammaṃ jānanti, sv-āhaṃ kammārakammaṃ ajānantānaṃ gahapatikānaṃ gāmaṃ gantvā mama sūciyā sukatadukkatabhāvaṃ[^284-7] kathaṃ jānāpessāmi[^284-8], imasmiṃ pana gāme mama balaṃ jānāpessāmīti, evaṃ Bodhisatto imāya gāthāya attano balaṃ vaṇṇesi, tayā ca maṃ nimanteyyā 'ti bhadde sace tava[^284-9] pitā imaṃ mayā kataṃ sūciṃ īdisā[^284-10] vā esā evaṃ vā[^284-11] katā ti jāneyya imaṃ te dhītaraṃ[^284-12] pādaparicārikaṃ dammi gaṇhāhi tan ti evaṃ tayā ca maṃ nimanteyya yañcatthaññaṃ[^284-13] ghare dhanaṃ yañ ca aññaṃ[^284-14] saviññāṇakaṃ vā aviññāṇakaṃ vā ghare dhanaṃ atthi tena maṃ[^284-15] nimanteyya, yañcassaññan[^284-16] ti pi pātho, yañ ca assa[^284-18] ghare aññaṃ dhanaṃ atthīti attho. Kammārajeṭṭhako sabbaṃ tesaṃ kathaṃ sutvā "ammā[^284-18]" 'ti dhītaraṃ pakkositvā[^284-19] "kena[^284-20] saddhiṃ sallapasīti[^284-21]" pucchi. "Tāta, eko manusso sūciṃ vikkiṇāti[^284-21], tena saddhin" ti[^284-23]. "Tena hi pakkosāhi nan[^284-24]" ti. Sā gantvā pakkosi. Bodhisatto[^284-25] kammārajeṭṭhakaṃ vanditvā[^284-26] aṭṭhasi. Atha naṃ[^284-27] "kataragāmavāsiko[^284-28] sīti" pucchi[^284-29]. "Ahaṃ[^284-30] asukagāmavāsī[^284-31] asukakammārassa putto" ti. "Kasmā idhāgato[^284-32] sīti". "Sūcivikkayatthāyā[^284-33]" 'ti. "Āhara[^284-34], sūciṃ te pas-
 
@@ -3726,7 +4142,8 @@ pavattayiṃsu. Kammārajeṭṭhako dhītaraṃ pakkositvā[^286-1] tasmiṃ ñ
 
 sutvā Mahātuṇḍilo "ettakaṃ kālaṃ mama mātarā[^288-1] Cullatuṇḍilassa[^288-2] saddo na dinnapubbo, maṃ yeva paṭhamaṃ saddāyati, avassaṃ ajja amhākaṃ bhayaṃ uppannaṃ bhavissatīti" aññāsi. So kaniṭṭhaṃ āmantetvā[^288-3] "tāta, mama mātā taṃ pakkosati[^288-4], gaccha tāva, jānāhīti[^288-5]". So gacchā nikkhamitvā bhattadoṇisamīpe tesaṃ ṭhitabhāvaṃ disvā "ajja me maraṇaṃ uppannan" ti maraṇabhayatajjito nivattitvā kampamāno bhātu santikaṃ āgantvā santhambhituṃ[^288-6] nāsakkhi, kampamāno[^288-7] paribbhamati. Mahātuṇḍilo taṃ disvā "tāta, tvaṃ pan'; ajja vedhasi bhamasi[^288-8] pavisanaṭṭhānaṃ olokesi, kiṃ[^288-9] nām'; etaṃ karosīti" pucchi. So attanā[^288-10] diṭṭhakāraṇaṃ kathento paṭhamaṃ gātham āha:
 
-Ja_VI,2.3(=388).1: Navachandake[^288-11] dāni[^288-12] diyyati, puṇṇāyaṃ[^288-13] doṇī, suvāminī[^288-14] ṭhitā, bahuke jane pāsapāṇike, no ca[^288-15] kho me paṭibhāti bhuñjitun ti. || Ja_VI:90 ||
+Ja_VI,2.3(=388).1: Navachandake[^288-11] dāni[^288-12] diyyati, puṇṇāyaṃ[^288-13] doṇī, suvāminī[^288-14] ṭhitā, bahuke jane pāsapāṇike, no ca[^288-15] kho me paṭibhāti bhuñjitun ti. ||  
+Ja_VI:90 ||  
 
 Tattha navachandake[^288-16] dāni[^288-12] diyyatīti bhātika pubbe amhākaṃ kuṇḍakayāgu[^288-17] vā jhāmabhattaṃ[^288-18] vā diyyati, ajja pana navachandakaṃ[^288-19] navākāraṃ[^288-20] dānaṃ[^288-21] diyyati, puṇṇāyaṃ[^288-22] doṇīti ayaṃ amhākaṃ bhattadoṇi suddhabhattassa puṇṇā, suvāminī[^288-23] ṭhitā ti ayyāpi no tassā[^288-24] santike ṭhitā, bahuke jane ti na kevalañ ca ayyā va[^288-25] añño pi hahuko jano pāsapāṇiko[^288-26] ṭhito[^288-27], no ca kho me paṭibhātīti ayaṃ evaṃ etesaṃ ṭhitabhāvo pi[^288-28] idaṃ bhattaṃ bhuñjitum pi mayhaṃ na paṭibhāti na ruccatīti attho. Taṃ sutvā Mahāsatto "tāta Cullatuṇḍila[^288-2], mama kira mātā etth'; eva[^288-29] sūkare posentā nāma yadatthaṃ poseti[^288-30] sv-assā[^288-31]
 
@@ -3738,9 +4155,11 @@ Tattha navachandake[^288-16] dāni[^288-12] diyyatīti bhātika pubbe amhākaṃ
 
 attho ajja matthakaṃ patto, tvaṃ[^289-1] mā cintayīti" vatvā madhurena sarena Buddhalīḷhāya dhammaṃ desento dve gāthā abhāsi:
 
-Ja_VI,2.3(=388).2: Tasasi bhamasi lenam icchasi attāṇo si kuhiṃ gamissasi, appossukko bhuñja Tuṇḍila, maṃsatthāya hi posiyāmase. || Ja_VI:91 ||
+Ja_VI,2.3(=388).2: Tasasi bhamasi lenam icchasi attāṇo si kuhiṃ gamissasi, appossukko bhuñja Tuṇḍila, maṃsatthāya hi posiyāmase. ||  
+Ja_VI:91 ||  
 
-Ja_VI,2.3(=388).3: Ogaha[^289-2] rahadaṃ akaddamaṃ[^289-3], sabbaṃ sedamalaṃ pavāhaya[^289-4], gaṇhāhi navaṃ vilepanaṃ yassa gandho na kadāci[^289-5] chijjatīti. || Ja_VI:92 ||
+Ja_VI,2.3(=388).3: Ogaha[^289-2] rahadaṃ akaddamaṃ[^289-3], sabbaṃ sedamalaṃ pavāhaya[^289-4], gaṇhāhi navaṃ vilepanaṃ yassa gandho na kadāci[^289-5] chijjatīti. ||  
+Ja_VI:92 ||  
 
 Tassa dasapāramiyo āvajjitvā mettāpāramiṃ purecārikaṃ katvā paṭhamaṃ padaṃ[^289-6] udāharantass'; eva saddo[^289-7] sakalaṃ[^289-8] dvādasayojaniyaṃ[^289-9] Bārāṇasiṃ ajjhotharitvā[^289-10] gato. Sutasutakhaṇe[^289-11] yeva rājauparājādayo ādiṃ katvā Bārāṇasivāsino āgamiṃsu, anāgatāpi gehe ṭhitā va suṇiṃsu. Rājapurisā gacchaṃ bhinditvā bhūmiṃ samaṃ katvā vālikaṃ[^289-12] okiriṃsu[^289-13]. Dhuttānaṃ surāmado chijji[^289-14], pāse chaḍḍetvā dhammaṃ suṇamānā aṭṭhaṃsu. Mahallikāya pi maddo[^289-15] chijji[^289-16]. Mahāsatto mahājanamajjhe Cullatuṇḍilassa[^289-16] dhammadesanaṃ ārabhi[^289-17]. Tattha tasasi bhamasīti maraṇabhayena uttasasi, ten'; eva kilamanto bhamasi, lenamicchasīti patiṭṭhaṃ olokesi, attāṇo sīti tāta pubbe amhākaṃ mātā patisaraṇaṃ hoti[^289-18], sā ajja[^289-19] nirapekkhā[^289-20] amhe chaḍḍesi, idāni kuhiṃ gamissasi[^289-21], ogahā[^289-22] 'ti ogāha, ayam eva vā pāṭho, pavāhayā 'ti hārehi[^289-23], na chijjatīti na nassati, idaṃ vuttaṃ hoti[^289-24]: sace maraṇato bhāyasi[^289-25] akaddamaṃ pokkharaṇiṃ otaritvā tava sarīre sabbaṃ sedañ ca malañ ca pavāhetvā[^289-26] niccaṃ surabhigandhavilepanaṃ vilimpā[^289-27] 'ti[^289-28].
 
@@ -3752,13 +4171,16 @@ Tassa dasapāramiyo āvajjitvā mettāpāramiṃ purecārikaṃ katvā paṭhama
 
 Taṃ sutvā Cullatuṇḍilo[^290-1] "mayhaṃ bhātā evaṃ vadeti, amhākañ ca vaṃso pokkharaṇiṃ otaritvā nahānaṃ[^290-2] sarīrato sedamalapavāhanaṃ[^290-3] purāṇavilepanaṃ hāretvā navavilepanagahaṇañ[^290-4] ca kismiñci[^290-5] kāle n'; atthi, kin nu kho sandhāya bhātā maṃ evam āhā" 'ti pucchanto catutthaṃ gātham āha:
 
-Ja_VI,2.3(=388).4: Katamo rahado[^290-5] akaddamo, kiṃ su sedamalan ti vuccati, katamañ ca navaṃ vilepanaṃ yassa[^290-7] gandho na kadāci[^290-8] chijjatīti. || Ja_VI:93 ||
+Ja_VI,2.3(=388).4: Katamo rahado[^290-5] akaddamo, kiṃ su sedamalan ti vuccati, katamañ ca navaṃ vilepanaṃ yassa[^290-7] gandho na kadāci[^290-8] chijjatīti. ||  
+Ja_VI:93 ||  
 
 Taṃ sutvā Mahāsatto "tena hi[^290-9] ohitasoto suṇāhīti" Buddhalīḷhāya dhammaṃ desento
 
-Ja_VI,2.3(=388).5: Dhammo rahado[^290-10] akaddamo, pāpaṃ sedamalan ti vuccati, sīlañ ca navaṃ vilepanaṃ, tassa gandho na kadāci[^290-8] chijjati. || Ja_VI:94 ||
+Ja_VI,2.3(=388).5: Dhammo rahado[^290-10] akaddamo, pāpaṃ sedamalan ti vuccati, sīlañ ca navaṃ vilepanaṃ, tassa gandho na kadāci[^290-8] chijjati. ||  
+Ja_VI:94 ||  
 
-Ja_VI,2.3(=388).6: Nandanti sarīraghātino, na ca nandanti sarīradhārino, puṇṇāya ca puṇṇamāsiyā ramamānā va jahanti jīvitan ti || Ja_VI:95 ||
+Ja_VI,2.3(=388).6: Nandanti sarīraghātino, na ca nandanti sarīradhārino, puṇṇāya ca puṇṇamāsiyā ramamānā va jahanti jīvitan ti ||  
+Ja_VI:95 ||  
 
 imā gāthā āha[^290-11]. Tattha dhammo pañcasīladasasīlāni[^290-12] tīṇi sucaritāni sattatiṃsabodhapakkhiyadhammā amatamahānibbānan ti sabbo p'; esa dhammo nāma, akaddamo ti rāgadosamohamānadiṭṭhikilesakaddamānaṃ abhāvena akaddamo, iminā sesadhammato vinivaṭṭetvā nibbānam eva dasseti, "yāvatā bhikkhave dhammā saṃkhātā vā asaṃkhātā vā virāgo tesaṃ dhammānaṃ aggam akkhāyati, yadidaṃ madanimmadano pipāsavinayo ālayasamugghāto vaṭṭūpacchedo[^290-13] taṇhakkhayo virāgo nirodho nibbānan" ti[^290-14] vuttaṃ, tad ev'; esa[^290-15] dassento tāta Cullatuṇḍila[^290-16] ahaṃ nibbānatalākaṃ rahado[^290-17] ti kathemi, jātijarāvyādhimaraṇāni[^290-18] hi[^290-19] tatth' eva n'; atthi, sace pi maraṇato muccitukāmo[^290-20] nibbānagāminiṃ paṭipadaṃ[^290-21] gaṇhā 'ti; upanissayapaccayavasena kira Bodhisatto evaṃ kathesi, pāpaṃ seda-
 
@@ -3804,7 +4226,8 @@ dhovanakāle kakkaṭako[^294-1] santikaṃ āgañchi[^294-2]. Atha naṃ so ukk
 
 yādaṃ nissāya tiṇehi paṭicchanno hutvā tassāgamanaṃ olokento nipajji. Bodhisatto āgacchanto paṭhamaṃ sobbhaṃ otaritvā mukhaṃ dhovitvā sinehaṃ paccupaṭṭhāpetvā suvaṇṇakakkaṭakaṃ[^295-1] āliṅgitvā uttarisāṭakantare nipajjāpetvā khettaṃ pāvisi. Sappo taṃ āgacchantaṃ disvā va[^295-2] vegena pakkhanditvā piṇḍikamaṃse ḍasitvā[^295-3] tatth'; eva pātetvā vammīkaṃ sandhāya palāyi. Bodhisattassa patanañ ca kañcanakakkaṭakassa sāṭakantarato laṃghanañ ca kākassa āgantvā Bodhisattassa ure nilīyanañ ca apacchāpurimaṃ[^295-4] ahosi[^295-5]. Kāko nilīyitvā akkhīnaṃ tuṇḍaṃ pasāresi[^295-6]. Kakkaṭako "imaṃ kākaṃ nissāya mama sahāyassa bhayaṃ uppannaṃ, etasmiṃ gahite sappo āgacchissatīti" saṇḍāsena gaṇhanto viya kākaṃ gīvāya[^295-7] aḷena[^295-8] daḷhaṃ gahetvā kilametvā thokaṃ sithilam akāsi. Kāko "kissa mam samma[^295-9] chaḍḍetvā palāyasi, esa[^295-10] maṃ kakkaṭako viheseti[^295-11], yāva na marāmi[^295-12] tāva[^295-13] ehīti" sappaṃ pakkosanto paṭhamaṃ gatham āha:
 
-Ja_VI,2.4(=389).1: Siṅgī migo āyatacakkhunetto (Cfr. II p.343.) aṭṭhittaco vārisayo[^295-14] alomo, tenābhibhūto kapaṇaṃ rudāmi, hare sakhā kissa nu maṃ jahāsīti. || Ja_VI:96 ||
+Ja_VI,2.4(=389).1: Siṅgī migo āyatacakkhunetto (Cfr. II p.343.) aṭṭhittaco vārisayo[^295-14] alomo, tenābhibhūto kapaṇaṃ rudāmi, hare sakhā kissa nu maṃ jahāsīti. ||  
+Ja_VI:96 ||  
 
 Tattha siṅgīmigo[^295-15] ti siṅgīsuvaṇṇavaṇṇatāya[^295-16] vā alasaṃkhātānaṃ[^295-17] vā siṅgānaṃ atthitāya kakkaṭako vutto, āyatacakkhunetto ti dīghehi cakkhusaṃkhātehi nettehi samannāgato, aṭṭhim eva taco assā 'ti aṭṭhittaco, hare sakhā ti ālapanam etaṃ, ambho[^295-18] sahāyā 'ti attho. Sappo taṃ sutvā mahantaṃ phaṇaṃ katvā kākaṃ assāsento agamāsi. Satthā imam atthaṃ dīpento abhisambuddho hutvā dutiyaṃ gātham āha:
 
@@ -3814,17 +4237,21 @@ Tattha siṅgīmigo[^295-15] ti siṅgīsuvaṇṇavaṇṇatāya[^295-16] vā a
 
 ##### *[PTS Page 296]*
 
-Ja_VI,2.4(=389).2: So passasanto mahatā phaṇena bhujaṅgamo kakkaṭaṃ ajjhapatto sakhā sakhāraṃ paritāyamāno, bhujaṅgamaṃ kakkaṭako gahesīti[^296-1]. || Ja_VI:97 ||
+Ja_VI,2.4(=389).2: So passasanto mahatā phaṇena bhujaṅgamo kakkaṭaṃ ajjhapatto sakhā sakhāraṃ paritāyamāno, bhujaṅgamaṃ kakkaṭako gahesīti[^296-1]. ||  
+Ja_VI:97 ||  
 
 Tattha kakkaṭamajjhapatto ti kakkaṭakaṃ sampatto, sakhā sakhāran ti sahāyo sahāyaṃ, sakaṃ sakhāran ti pi pāṭho, attano sahāyan ti attho, paritāyamāno ti rakkhamāno, gahesīti[^296-1] dutiyena alena[^296-2] gīvāya[^296-3] daḷhaṃ gahesi. Atha naṃ kilametvā thokaṃ sithilam akāsi. Atha sappo "kakkaṭakā nāma n'; eva[^296-4] vāyasamaṃsaṃ[^296-5] khādanti na sappamaṃsaṃ, kena nu kho kāraṇena ayaṃ amhe gaṇhīti[^296-6]" cintetvā taṃ pucchanto tatiyaṃ gātham āha:
 
-Ja_VI,2.4(=389).3: Na vāyasaṃ no pana sapparājaṃ[^296-7] ghāsatthiko kakkaṭako adeyya[^296-8], pucchāmi taṃ āyatanettacakkhu[^296-9] atha kissa hetu 'mha[^296-10] ubho gahītā ti. || Ja_VI:98 ||
+Ja_VI,2.4(=389).3: Na vāyasaṃ no pana sapparājaṃ[^296-7] ghāsatthiko kakkaṭako adeyya[^296-8], pucchāmi taṃ āyatanettacakkhu[^296-9] atha kissa hetu 'mha[^296-10] ubho gahītā ti. ||  
+Ja_VI:98 ||  
 
 Tattha ghāsatthiko ti āhāratthiko hutvā, ādeyyā[^296-11] 'ti ādiyeyya, nakārena[^296-12] yojetvā na gaṇhīti attho. Taṃ sutvā kakkaṭako gahaṇakāraṇaṃ kathento dve gāthā abhāsi:
 
-Ja_VI,2.4(=389).4: Ayaṃ puriso mama atthakāmo[^296-13], yo[^296-14] maṃ gahetvāna dakāya[^296-15] neti, tasmiṃ[^296-16] mate dukkham anappakam me, ahañ ca eso ca ubho na homa. || Ja_VI:99 ||
+Ja_VI,2.4(=389).4: Ayaṃ puriso mama atthakāmo[^296-13], yo[^296-14] maṃ gahetvāna dakāya[^296-15] neti, tasmiṃ[^296-16] mate dukkham anappakam me, ahañ ca eso ca ubho na homa. ||  
+Ja_VI:99 ||  
 
-Ja_VI,2.4(=389).5: Mamañ ca disvāna pavaddhakāyaṃ[^296-17] sabbo jano hiṃsitum eva[^296-18]-m-icche, sāduñ ca thullañ[^296-19] ca muduñ ca maṃsaṃ kākāpi maṃ disva[^296-20] viheṭhayeyyun[^296-21] ti. || Ja_VI:100 ||
+Ja_VI,2.4(=389).5: Mamañ ca disvāna pavaddhakāyaṃ[^296-17] sabbo jano hiṃsitum eva[^296-18]-m-icche, sāduñ ca thullañ[^296-19] ca muduñ ca maṃsaṃ kākāpi maṃ disva[^296-20] viheṭhayeyyun[^296-21] ti. ||  
+Ja_VI:100 ||  
 
 
 <!-- PTS Page 297 -->
@@ -3834,7 +4261,8 @@ Ja_VI,2.4(=389).5: Mamañ ca disvāna pavaddhakāyaṃ[^296-17] sabbo jano hi�
 
 Tattha ayan ti Bodhisattaṃ niddisati, atthakāmo ti hitakāmo, dakāya[^297-1] netīti yo[^297-2] maṃ sampiyāyamāno[^297-3] uttarisāṭakena gahetvā udakāya neti attano vasanakasobbhaṃ pāpeti, tasmiṃ[^297-4] mate ti sace so imasmiṃ ṭhāne marissati etasmiṃ[^297-5] mate[^297-6] mama kāyikacetasikaṃ mahantaṃ dukkhaṃ bhavissatīti dīpeti, ubho na homā 'ti dve[^297-7] janā na bhavissāma, mamañca disvā ti gāthāya ayam attho: idañ ca aparam pi[^297-8] kāraṇaṃ, imasmiṃ mate anāthaṃ nippaccayaṃ maṃ vaḍḍhitakāyaṃ[^297-9] disvā sabbo jano imassa kakkaṭakassa sāduñ ca thullañ[^297-10] ca muduñ ca maṃsan ti[^297-11] maṃ[^297-12] māretuṃ iccheyya, na kevalaṃ ca[^297-13] jano[^297-14] tiracchānabhūtā[^297-15] kākāpi maṃ disvā viheṭhayeyyuṃ[^297-16] viheseyyuṃ[^297-17] māreyyuṃ. Taṃ sutvā sappo[^297-18] cintesi: "eken'; upāyena imaṃ vañcetvā kākañ ca attānañ ca mocessāmīti[^297-19]". Atha naṃ vañcetuṃ[^297-20] chaṭṭhaṃ gātham āha:
 
-Ja_VI,2.4(=389).6: Sac'; etassa hetu 'mha[^297-21] ubho gahītā uṭṭhātu poso visam ācamāmi[^297-22], mamañ ca kākañ ca pamuñca khippaṃ, pure visaṃ gāḷham upeti maccan ti. || Ja_VI:101 ||
+Ja_VI,2.4(=389).6: Sac'; etassa hetu 'mha[^297-21] ubho gahītā uṭṭhātu poso visam ācamāmi[^297-22], mamañ ca kākañ ca pamuñca khippaṃ, pure visaṃ gāḷham upeti maccan ti. ||  
+Ja_VI:101 ||  
 
 Tattha sacetassa hetū 'ti[^297-23] sace etassa kāraṇā, uṭṭhātū 'ti nibbiso hotu, visamācamāmīti[^297-24] aham assa visaṃ ākaḍḍhāmi nibbisaṃ naṃ[^297-25] karomi[^297-26], pure visaṃ gāḷhamupeti maccan ti imaṃ hi maccaṃ mayā anācāmiyamānaṃ[^297-27] visaṃ gāḷhaṃ balavaṃ hutvā upagaccheyya, taṃ[^297-28] yāva na[^297-29] upagacchati tāvad eva amhe dve pi jane[^297-30] muñcā 'ti. Taṃ sutvā kakkaṭako cintesi: "ayaṃ eken'; upāyena maṃ[^297-12] dve pi jane vissajjāpetvā palāyitukāmo, mayhaṃ upāyakosallaṃ na jānāti, ahaṃ dāni yathā sappo sañcarituṃ sakkoti evaṃ aḷaṃ[^297-31] sithilaṃ karissāmi, kākaṃ pana n'; eva vissajjessāmīti" evaṃ cintetvā sattamaṃ gātham āha:
 
@@ -3844,11 +4272,13 @@ Tattha sacetassa hetū 'ti[^297-23] sace etassa kāraṇā, uṭṭhātū 'ti ni
 
 ##### *[PTS Page 298]*
 
-Ja_VI,2.4(=389).7: Sappaṃ pamokkhāmi na tāva kākaṃ, paṭibaddhako hohiti[^298-1] tāva kāko, purisañ ca[^298-2] disvāna sukhiṃ arogaṃ[^298-3] kākaṃ pamokkhāmi yath'; eva sappan ti. || Ja_VI:102 ||
+Ja_VI,2.4(=389).7: Sappaṃ pamokkhāmi na tāva kākaṃ, paṭibaddhako hohiti[^298-1] tāva kāko, purisañ ca[^298-2] disvāna sukhiṃ arogaṃ[^298-3] kākaṃ pamokkhāmi yath'; eva sappan ti. ||  
+Ja_VI:102 ||  
 
 Tattha paṭibaddhako ti pāṭibhogo[^298-4], yatheva sappan ti yathā bhavantaṃ[^298-5] sappaṃ muñcāmi tathā kākam pi pamokkhāmi, kevalaṃ tvaṃ imassa brāhmaṇassa sarīrato sīghaṃ visaṃ ācamāhīti[^298-6]. Evañ ca pana vatvā tassa sukhacaraṇatthaṃ[^298-7] aḷaṃ[^298-8] sithilam akāsi. Sappo visaṃ ācamitvā[^298-9] Mahāsattasa sarīraṃ nibbisaṃ akāsi. So niddukkho uṭṭhāya pakativaṇṇen'; eva aṭṭhāsi. Kakkaṭako "sace ime dve pi[^298-10] arogā bhavissanti mayhaṃ sahāyassa vaḍḍhi nāma na bhavissati, vināsessāmi ne" ti cintetvā kattariyā[^298-11] uppalamakulaṃ[^298-12] viya aḷehi[^298-13] ubhinnam pi sīsaṃ kappetvā jīvitakkhayaṃ pāpesi. Kākī pi tamhā ṭhānā palāyi. Bodhisatto sappassa sarīraṃ daṇḍakena[^298-14] vedhetvā[^298-15] gumbapiṭṭhe[^298-16] khipi, suvaṇṇakakkaṭakaṃ sobbhe vissajjetvā nahātvā Sālindiyagāmam eva gato. Tato paṭṭhāya c'; assa[^298-17] kakkaṭakena saddhiṃ adhikataro vissāso ahosi. Satthā imaṃ desanaṃ[^298-18] āharitvā saccāni pakāsetvā jātakaṃ samodhānento osānagātham āha:
 
-Ja_VI,2.4(=389).8: Kāko tadā Devadatto ahosi, Māro pana kaṇhasappo ahosi, Ānando bhaddo kakkaṭako ahosi, ahaṃ tadā brāhmaṇo homi tatthā[^298-19] 'ti. || Ja_VI:103 ||
+Ja_VI,2.4(=389).8: Kāko tadā Devadatto ahosi, Māro pana kaṇhasappo ahosi, Ānando bhaddo kakkaṭako ahosi, ahaṃ tadā brāhmaṇo homi tatthā[^298-19] 'ti. ||  
+Ja_VI:103 ||  
 
 Saccapariyosāne bahū[^298-20] sotāpannādayo ahesuṃ. Kākī pana gāthāya[^298-21] na vuttā, sā Ciñcamāṇavikā ahosīti. Suvaṇṇakakkaṭakajātakaṃ[^298-22].
 
@@ -3876,7 +4306,8 @@ purisaṃ āṇāpesi "gaccha imaṃ[^300-1] amhākaṃ gharaṃ netvā[^300-2] 
 
 vibhavaṃ kaniṭṭhassa niyyādetvā "appamatto dānaṃ pavattehīti" ovādaṃ datvā isipabbajjaṃ pabbajitvā abhiññā ca samāpattiyo ca nibbattetvā Himavantapadese vihāsi. Kaniṭṭho pi 'ssa ekaṃ puttaṃ paṭilabhi. So taṃ vaḍḍhantaṃ disvā cintesi: "mama bhātu putte jīvante kuṭumbaṃ bhijjitvā[^301-1] dvedhā[^301-2] bhavissati[^301-3], bhātu puttaṃ māressāmīti". Atha naṃ ekadivasaṃ nadiyaṃ opilāpetvā māresi. Tam eva[^301-4] nahātvā āgataṃ bhātu jāyā "kahaṃ[^301-5] mama putto" ti pucchi. "Nadiyaṃ udakakīḷikaṃ[^301-6] kīḷi, atha naṃ[^301-7] vicinanto nāddasan" ti. Sā[^301-8] roditvā tuṇhī ahosi. Bodhisatto taṃ pavattiṃ ñatvā "idaṃ kiccaṃ pākaṭaṃ karissāmīti" ākāsenāgantvā[^301-9] Bārāṇasiyaṃ otaritvā sunivattho supāruto tassa gharadvāre ṭhatvā dānasālaṃ adisvā "sālāpi[^301-10] iminā asappurisena nāsitā" ti cintesi. Kaniṭṭho[^301-11] tassa āgatabhāvaṃ sutvā[^301-12] āgantvā Mahāsattaṃ vanditvā pāsādaṃ āropetvā subhojanaṃ bhojesi. So bhattakiccāvasāne sukhakathāya nisinno "dārako na paññāyati[^301-13], kahaṃ nu kho so" ti pucchi. "Mato bhante" ti. "Kena kāraṇenā" ti. "Udakakīḷanaṭṭhāne[^301-14], asukakāraṇenā 'ti na[^301-15] jānāmīti". "Kiṃ tvaṃ asappurisa na[^301-15] jānissasi, tayā katakiccaṃ mayhaṃ[^301-16] pākaṭaṃ, nanu tvaṃ iminā kāraṇena taṃ māresi, kin nu[^301-17] tvaṃ rājādīnaṃ vasena nassamānaṃ[^301-18] dhanaṃ rakkhitum[^301-19] sakkuṇeyyāsi, Mayhasakuṇassa ca tuyhañ ca kiṃ nānākāraṇan" ti. Ath'; assa Mahāsatto Buddhaliḷhāya dhammaṃ desento imā gāthā abhāsi:
 
-Ja_VI,2.5(=390).1: Sakuṇo Mayhako nāma girīsānudarīcaro[^301-20] pakkaṃ pipphalam[^301-21] āruyha mayha mayhan[^301-22] 'ti kandati. || Ja_VI:104 ||
+Ja_VI,2.5(=390).1: Sakuṇo Mayhako nāma girīsānudarīcaro[^301-20] pakkaṃ pipphalam[^301-21] āruyha mayha mayhan[^301-22] 'ti kandati. ||  
+Ja_VI:104 ||  
 
 
 <!-- PTS Page 302 -->
@@ -3884,15 +4315,20 @@ Ja_VI,2.5(=390).1: Sakuṇo Mayhako nāma girīsānudarīcaro[^301-20] pakkaṃ
 
 ##### *[PTS Page 302]*
 
-Ja_VI,2.5(=390).2: Tass'; eva[^302-1] vilapantassa dijasaṃghā samāgatā, bhutvāna pipphaliṃ[^302-2] yanti, vilapi tv-eva[^302-3] so dijo. || Ja_VI:105 ||
+Ja_VI,2.5(=390).2: Tass'; eva[^302-1] vilapantassa dijasaṃghā samāgatā, bhutvāna pipphaliṃ[^302-2] yanti, vilapi tv-eva[^302-3] so dijo. ||  
+Ja_VI:105 ||  
 
-Ja_VI,2.5(=390).3: Evam eva idh'; ekacco saṃgharitvā[^302-4] bahuṃ dhanaṃ n'; ev'; attano na ñātīnaṃ[^302-5] yathodhiṃ paṭipajjati. || Ja_VI:106 ||
+Ja_VI,2.5(=390).3: Evam eva idh'; ekacco saṃgharitvā[^302-4] bahuṃ dhanaṃ n'; ev'; attano na ñātīnaṃ[^302-5] yathodhiṃ paṭipajjati. ||  
+Ja_VI:106 ||  
 
-Ja_VI,2.5(=390).4: Na so acchādanaṃ bhattaṃ na mālaṃ na vilepanaṃ anubhoti sakiṃ[^302-6] kiñci na saṃgaṇhāti ñātake. || Ja_VI:107 ||
+Ja_VI,2.5(=390).4: Na so acchādanaṃ bhattaṃ na mālaṃ na vilepanaṃ anubhoti sakiṃ[^302-6] kiñci na saṃgaṇhāti ñātake. ||  
+Ja_VI:107 ||  
 
-Ja_VI,2.5(=390).5: Tass'; eva[^302-1] vilapantassa mayha mayhan[^302-7] ti rakkhato rājāno atha vā corā dāyādā yeva appiyā dhanam ādāya gacchanti, vilapi tv-eva so naro. || Ja_VI:108 ||
+Ja_VI,2.5(=390).5: Tass'; eva[^302-1] vilapantassa mayha mayhan[^302-7] ti rakkhato rājāno atha vā corā dāyādā yeva appiyā dhanam ādāya gacchanti, vilapi tv-eva so naro. ||  
+Ja_VI:108 ||  
 
-Ja_VI,2.5(=390).6: Dhīro[^302-8] bhoge[^302-9] adhigamma saṃgaṇhāti ca ñātake, tena so kittiṃ pappoti pecca[^302-10] sagge ca[^302-11] modatīti. || Ja_VI:109 ||
+Ja_VI,2.5(=390).6: Dhīro[^302-8] bhoge[^302-9] adhigamma saṃgaṇhāti ca ñātake, tena so kittiṃ pappoti pecca[^302-10] sagge ca[^302-11] modatīti. ||  
+Ja_VI:109 ||  
 
 Tattha mayhako ti mayhaṃ mayhan ti vicaraṇavasena[^302-12] evaṃ laddhanāmo, girisānudarīsu caratīti girisānudarīcaro[^302-13], pakkaṃ pipphalan ti Himavantapadese ekaṃ phalabharitaṃ pipphalīrukkhaṃ, kandatīti dijagaṇe[^302-14] taṃ[^302-15] rukkhaṃ {parivāretvā} pakkāni khādante[^302-16] vāreruṃ mayhaṃ mayhan ti paridevanto vicarati[^302-17], tassevaṃ[^302-18] vilapantassā 'ti tassa vilapantass'; eva, bhutvāna pipphaliṃ[^302-19] yantīti taṃ pipphalīrukkhaṃ paribhuñjitvā[^302-20] aññaṃ phalasampannaṃ[^302-21] rukkhaṃ gacchanti[^302-22], vilapi tvevā[^302-23] 'ti so pana dvijo[^302-24] vilapi yeva, yathodhin ti yathākoṭṭhāsaṃ, mātāpitibhātubhaginiputtadhītādīnaṃ[^302-25] upabhogaparibhogavasena yo koṭṭhāso dātabbo[^302-26] taṃ na detīti attho, sakin ti[^302-27] ekavāram pi nānubhoti, attano santakam pīti attho, saṃgaṇhātīti bhattacchādanabhījanaṅgalādidānavasena[^302-28] saṃgaṇhāti, vilapi tveva[^302-28] so naro ti etesu rājādisu dhanaṃ gahetvā gacchantesu kevalaṃ so puriso vilapati yeva, dhīro ti paṇḍito, saṃgaṇhātīti attano santikaṃ āgate[^302-30] dubbalañātake bhattacchādanabījanaṅgalādidānena[^302-31] saṃgaṇhāti, tenā 'ti[^302-32] so sappuriso[^302-33] tena ñātisaṃgahena[^302-34] catuparisamajjhe kittiñ ca attano vaṇṇañ ca[^302-35] pāpuṇāti pecca[^302-36] sagge devanagare modatīti[^302-37].
 
@@ -3922,11 +4358,13 @@ jānantīti[^304-1]" vijjaṃ parivattetvā ākāse[^304-2] uppatitvā gato. Rā
 
 dvāre ākāse ṭhito" ti. Rājā āsanā uṭṭhāya[^305-1] sīhapañjare ṭhatvā "māṇavaka kasmā tvaṃ abhirūpo samāno etassa virūpasamaṇassa[^305-2] pattacīvaraṃ gahetvā namassamāno ṭhito" ti tena saddhiṃ sallapanto paṭhamaṃ gātham āha:
 
-Ja_VI,2.6(=391).1: Dubbaṇṇarūpaṃ tvam[^305-3] ariyavaṇṇī purakkhatvā pañjaliko namassasi, seyyo nu te so udavā sarikkho, nāmaṃ parass'; attano cāpi[^305-4] brūhīti. || Ja_VI:110 ||
+Ja_VI,2.6(=391).1: Dubbaṇṇarūpaṃ tvam[^305-3] ariyavaṇṇī purakkhatvā pañjaliko namassasi, seyyo nu te so udavā sarikkho, nāmaṃ parass'; attano cāpi[^305-4] brūhīti. ||  
+Ja_VI:110 ||  
 
 Tattha ariyavaṇṇīti sundararūpo, seyyo nu te so ti eso virūpapabbajito[^305-5] kin nu tayā uttaritaro udāhu sarikkho ti, parassattano cā 'ti etassa parassa ca attano ca nāmaṃ brūhīti pucchati. Atha naṃ Sakko "mahārāja samaṇā[^305-6] nāma garuṭṭhāniyā[^305-7], tena me nāmaṃ lapituṃ na labbhati[^305-8], mayhaṃ[^305-9] pana te nāmaṃ[^305-10] kathessāmīti" vatvā dutiyaṃ gātham āha:
 
-Ja_VI,2.6(=391).2: Na nāmagottaṃ gaṇhanti rāja sammaggatān'; ujjugatāna[^305-11] devā, (cfr. Saṃyutta p. 204-205) ahañ ca te nāmadheyyaṃ vadāmi: Sakko 'ham asmī tidasānam indo ti. || Ja_VI:111 ||
+Ja_VI,2.6(=391).2: Na nāmagottaṃ gaṇhanti rāja sammaggatān'; ujjugatāna[^305-11] devā, (cfr. Saṃyutta p. 204-205) ahañ ca te nāmadheyyaṃ vadāmi: Sakko 'ham asmī tidasānam indo ti. ||  
+Ja_VI:111 ||  
 
 Tattha sammaggatānujjugatāna[^305-11] devā ti mahārāja sabbasaṃkhāre yathāvasarasavasena[^305-12] sammasitvā aggaphalaṃ arahattaṃ pattattā sammaggatānaṃ[^305-11] ujunā va[^305-13] aṭṭhaṅgikena maggena nibbānaṃ gatattā ujugatānaṃ mahākhīṇāsavānaṃ uppattidevehi[^305-14] uttaritarānaṃ visuddhidevānaṃ uppattidevā[^305-15] nāmagottaṃ na gaṇhanti, ahañca te nāmadheyyan ti api ca ahaṃ attano nāmadheyyaṃ tuyhaṃ kathemi[^305-15]. Taṃ sutvā rājā tatiyagāthāya bhikkhunamassane[^305-16] ānisaṃsaṃ pucchi:
 
@@ -3938,19 +4376,23 @@ Ja_VI,2.6(=391).3: Yo disvā bhikkhuṃ caraṇūpapannaṃ purakkhatvā añjal
 
 ##### *[PTS Page 306]*
 
-pucchāmi taṃ devarāj'; etam[^306-1] atthaṃ ito cuto kiṃ labhate sukhaṃ so ti. || Ja_VI:112 ||
+pucchāmi taṃ devarāj'; etam[^306-1] atthaṃ ito cuto kiṃ labhate sukhaṃ so ti. ||  
+Ja_VI:112 ||  
 
 Sakko catutthagāthāya[^306-2] kathesi:
 
-Ja_VI,2.6(=391).4: Yo disvā bhikkhuṃ caraṇūpapannaṃ purakkhatvā pañjaliko namassati diṭṭhe va dhamme labhate pasaṃsaṃ saggañ ca so yāti sarīrabhedā ti. || Ja_VI:113 ||
+Ja_VI,2.6(=391).4: Yo disvā bhikkhuṃ caraṇūpapannaṃ purakkhatvā pañjaliko namassati diṭṭhe va dhamme labhate pasaṃsaṃ saggañ ca so yāti sarīrabhedā ti. ||  
+Ja_VI:113 ||  
 
 Tattha bhikkhun ti bhinnakilesaparisuddhapuggalaṃ, caraṇūpapannan ti sīlacaraṇena upetaṃ[^306-4], diṭṭhe va dhamme ti na kevalaṃ ito cuto yeva imasmiṃ pana attabhāve so pasaṃsaṃ labhati pasaṃsāsukhaṃ[^306-5] vindati[^306-6]. Rājā Sakkassa kathaṃ sutvā attano micchāgahaṇaṃ bhinditvā tuṭṭhamānaso pañcamaṃ gātham āha:
 
-Ja_VI,2.6(=391).5: Lakkhī vatā[^306-7] me udapādi ajja yaṃ Vāsavaṃ bhūtapat'; addasāma[^306-8], bhikkhuñ ca disvāna tav'; ajja[^306-9] Sakka kāhāmi puññāni anappakānīti. || Ja_VI:114 ||
+Ja_VI,2.6(=391).5: Lakkhī vatā[^306-7] me udapādi ajja yaṃ Vāsavaṃ bhūtapat'; addasāma[^306-8], bhikkhuñ ca disvāna tav'; ajja[^306-9] Sakka kāhāmi puññāni anappakānīti. ||  
+Ja_VI:114 ||  
 
 Tattha lakkhīti sirī[^306-10], paññā ti pi vadanti, idaṃ vuttaṃ hoti: ajja tava[^306-11] vacanaṃ suṇantass'; eva kusalākusalavipākajānanapaññā[^306-12] uppannā, yan ti nipātamattaṃ, bhūtapataddasāmā[^306-13] 'ti bhūtapatiṃ addasāma. Taṃ sutvā Sakko paṇḍitassa thutiṃ karonto chaṭṭhaṃ gātham āha:
 
-Ja_VI,2.6(=391).6: Addhā[^306-14] have[^306-15] sevitabbā sapaññā bahussutā ye[^306-16] bahuṭṭhānacintino[^306-17], bhikkhuñ ca disvāna mamañ ca[^306-18] rāja[^306-19] karohi[^306-20] puññani anappakānīti. || Ja_VI:115 ||
+Ja_VI,2.6(=391).6: Addhā[^306-14] have[^306-15] sevitabbā sapaññā bahussutā ye[^306-16] bahuṭṭhānacintino[^306-17], bhikkhuñ ca disvāna mamañ ca[^306-18] rāja[^306-19] karohi[^306-20] puññani anappakānīti. ||  
+Ja_VI:115 ||  
 
 Tattha bahuṭṭhānacintino[^306-17] ti bahūni kāraṇāni cintanasamatthā.
 
@@ -3962,7 +4404,8 @@ Tattha bahuṭṭhānacintino[^306-17] ti bahūni kāraṇāni cintanasamatthā.
 
 {Taṃ} sutvā rājā osānagātham āha:
 
-Ja_VI,2.6(=391).7: Akkodhano niccapasannacitto[^307-1] sabbātithīyācayogo[^307-2] bhavitvā nihacca mānaṃ abhivādayissaṃ[^307-3] sutvāna devinda subhāsitānīti. || Ja_VI:116 ||
+Ja_VI,2.6(=391).7: Akkodhano niccapasannacitto[^307-1] sabbātithīyācayogo[^307-2] bhavitvā nihacca mānaṃ abhivādayissaṃ[^307-3] sutvāna devinda subhāsitānīti. ||  
+Ja_VI:116 ||  
 
 Tattha sabbātithīyācayogo[^307-4] bhavitvā ti sabbesaṃ atithinaṃ āgatāgatānaṃ āgantukānaṃ yaṃ yaṃ te yācanti tassa tassa[^307-5] yutto anucchaviko bhavitvā[^307-6], sabbaṃ tehi yācitayācitaṃ[^307-7] dadamāno[^307-8] ti attho, sutvāna devinda subhāsitānīti tava subhāsitāni sutvā ahaṃ evarūpo bhavissāmīti vadati. Evañ ca pana vatvā pāsādā oruyha paccekabuddhaṃ vanditvā ekamantaṃ aṭṭhāsi. Paccekabuddho ākāse pallaṃkena nisīditvā "mahārāja, vijjādharo na[^307-9] samaṇo, tvaṃ ito paṭṭhāya ‘atuccho loko, atthi dhammikasamaṇabrāhmaṇā'; ti ñatvā dānaṃ dehi[^307-10] sīlaṃ rakkha[^307-11] uposathakammaṃ karohīti[^307-12]" rājānaṃ ovadi[^307-13]. Sakko pi Sakkānubhāvena ākāse ṭhatvā "ito paṭṭhāya appamattā hothā" 'ti nāgarānaṃ ovādaṃ datvā "palātā samaṇabrāhmaṇā āgacchantū" 'ti bheriñ carāpesi. Atha te ubho pi sakaṭṭhānam eva agamaṃsu[^307-14]. Rājā[^307-15] ovāde ṭhatvā[^307-16] puññāni akāsi[^307-17]. Satthā imaṃ desanaṃ[^307-18] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: "Tadā paccekabuddho parinibbuto, rājā Ānando ahosi, Sakko[^307-19] aham evā" 'ti. Dhajaviheṭhajātakaṃ[^307-20].
 
@@ -3976,11 +4419,13 @@ Tattha sabbātithīyācayogo[^307-4] bhavitvā ti sabbesaṃ atithinaṃ āgatā
 
 masaraṃ otaritvā pupphitapadumaṃ[^308-1] disvā adhovāte ṭhatvā upasiṃghi. Atha naṃ tasmiṃ vanasaṇḍe[^308-2] adhivatthā devatā "mārisa, tvaṃ[^308-3] gandhatheno nāma[^308-4], idan te[^308-5] ekaṃ theyyaṅgan[^308-6]" ti saṃvejesi. So tāya saṃvejito puna[^308-7] Jetavanaṃ āgantvā Satthāraṃ vanditvā nisinno "kahaṃ bhikkhu nivuttho sīti" puṭṭho "asukavanasaṇḍe[^308-8] nāma, tattha ca maṃ devatā[^308-9] evaṃ[^308-10] nāma saṃvejesīti" āha. Atha naṃ Satthā "na kho bhikkhu pupphaṃ upasiṃghanto tvam eva devatāya saṃvejito, porāṇakapaṇḍitāpi saṃvejitapubbā" ti vatvā tena yācito atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto ekasmiṃ Kāsinigame[^308-11] brāhmaṇakule nibbattitvā vayappatto Takkasilāyaṃ uggaṇhitasippo[^308-12] aparabhāge isipabbajjaṃ pabbajitvā ekaṃ padumasaraṃ nissāya upavasanto[^308-13] ekadivasam saraṃ[^308-14] otaritvā supupphitapadumaṃ upasiṃghamāno[^308-15] aṭṭhāsi. Atha naṃ ekā devadhītā rukkhakkhandhavivare ṭhatvā saṃvejayamānā[^308-16] paṭhamaṃ gātham āha:
 
-Ja_VI,2.7(=392).1: Yam ekaṃ vārijaṃ pupphaṃ adinnaṃ[^308-17] upasiṃghasi ekaṅgam etaṃ theyyānaṃ, gandhatheno si mārisā 'ti. || Ja_VI:117 ||
+Ja_VI,2.7(=392).1: Yam ekaṃ vārijaṃ pupphaṃ adinnaṃ[^308-17] upasiṃghasi ekaṅgam etaṃ theyyānaṃ, gandhatheno si mārisā 'ti. ||  
+Ja_VI:117 ||  
 
 Tattha ekaṅgametan ti eko koṭṭhāso esa. Tato Bodhisatto dutiyaṃ gātham āha:
 
-Ja_VI,2.7(=392).2: Na harāmi, na bhañjāmi[^308-18], ārā siṃghāmi vārijaṃ, atha kena nu vaṇṇena gandhattheno ti vuccatīti. || Ja_VI:118 ||
+Ja_VI,2.7(=392).2: Na harāmi, na bhañjāmi[^308-18], ārā siṃghāmi vārijaṃ, atha kena nu vaṇṇena gandhattheno ti vuccatīti. ||  
+Ja_VI:118 ||  
 
 Tattha ārā siṃghāmīti dūre ṭhito ghāyāmi[^308-19], vaṇṇenā 'ti kāraṇena. Tasmiṃ pana[^308-20] khaṇe eko puriso tasmiṃ sare bhisāni c' eva khaṇati puṇḍarīkāni ca bhañjati[^308-21]. Bodhisatto taṃ disvā "ārā ṭhatvā[^308-22] upasiṃghantaṃ ‘coro'; ti[^308-23] vadasi[^308-24], etaṃ puri-
 
@@ -3992,21 +4437,26 @@ Tattha ārā siṃghāmīti dūre ṭhito ghāyāmi[^308-19], vaṇṇenā 'ti k
 
 saṃ kasmā na bhaṇasīti" tāya saddhiṃ sallapanto tatiyaṃ gātham āha:
 
-Ja_VI,2.7(=392).3: Yo 'yaṃ bhisāni khaṇati puṇḍarīkāni bhañjati evaṃ ākiṇṇakammanto kasmā eso na vuccatīti. || Ja_VI:119 ||
+Ja_VI,2.7(=392).3: Yo 'yaṃ bhisāni khaṇati puṇḍarīkāni bhañjati evaṃ ākiṇṇakammanto kasmā eso na vuccatīti. ||  
+Ja_VI:119 ||  
 
 Tattha ākiṇṇakammanto ti kakkhalakammanto dāruṇakammanto. Ath'; assāvacanakāraṇaṃ[^309-1] ācikkhantī devatā catutthapañcamagāthā abhāsi:
 
-Ja_VI,2.7(=392).4: Ākiṇṇaluddo puriso dhāticelaṃ va makkhito, tasmiṃ me vacanaṃ n'; atthi, tañ ca arahāmi vattave[^309-2]. || Ja_VI:120 ||
+Ja_VI,2.7(=392).4: Ākiṇṇaluddo puriso dhāticelaṃ va makkhito, tasmiṃ me vacanaṃ n'; atthi, tañ ca arahāmi vattave[^309-2]. ||  
+Ja_VI:120 ||  
 
-Ja_VI,2.7(=392).5: Anaṅgaṇassa posassa niccaṃ sucigavesino vālaggamattaṃ pāpassa abbhāmattaṃ[^309-3] va khāyatīti. || Ja_VI:121 ||
+Ja_VI,2.7(=392).5: Anaṅgaṇassa posassa niccaṃ sucigavesino vālaggamattaṃ pāpassa abbhāmattaṃ[^309-3] va khāyatīti. ||  
+Ja_VI:121 ||  
 
 Tattha dhāticelaṃ vā 'ti khelasiṃghāṇikamuttagūthamakkhitaṃ dhātidāsiyā nivatthacelaṃ viya ayaṃ pāpamakkhito yeva, tena kāraṇena tasmiṃ mama[^309-4] vacanaṃ n'; atthi, tañca arahāmīti samaṇā pana ovādakāmā honti piyasīlā, tasmā appamattakam pi ayuttaṃ karontaṃ vattuṃ arahāmi samaṇā 'ti, anaṅgaṇassā 'ti niddosassa tumhādisassa, abbhāmattaṃ va khāyatīti[^309-5] mahāmeghapamāṇaṃ hutvā upaṭṭhāti, idāni kasmā evarūpaṃ dosaṃ abbohārikaṃ[^309-6] karosīti. Tāya pana saṃvejito Bodhisatto saṃvegappatto chaṭṭhaṃ[^309-7] gātham āha:
 
-Ja_VI,2.7(=392).6: Addhā maṃ yakkha jānāsi atho maṃ anukampasi, puna pi yakkha vajjāsi[^309-8] yadā passasi edisan ti. || Ja_VI:122 ||
+Ja_VI,2.7(=392).6: Addhā maṃ yakkha jānāsi atho maṃ anukampasi, puna pi yakkha vajjāsi[^309-8] yadā passasi edisan ti. ||  
+Ja_VI:122 ||  
 
 Tattha yakkhā 'ti devataṃ ālapati, vajjāsīti[^309-9] vadeyyāsi, yadā passasi edisan ti yadā mama evarūpaṃ dosaṃ passasi tadā evam evaṃ[^309-10] vāreyyāsīti[^309-11] vadati. Ath'; assa devatā[^309-12] sattamaṃ gātham āha:
 
-Ja_VI,2.7(=392).7: N'; eva taṃ[^309-13] upajīvāmi na pi te bhatak'; amhase[^309-14], tvam eva bhikkhu jāneyya yena gaccheyya suggatin ti. || Ja_VI:123 ||
+Ja_VI,2.7(=392).7: N'; eva taṃ[^309-13] upajīvāmi na pi te bhatak'; amhase[^309-14], tvam eva bhikkhu jāneyya yena gaccheyya suggatin ti. ||  
+Ja_VI:123 ||  
 
 
 <!-- PTS Page 310 -->
@@ -4024,23 +4474,28 @@ Tattha bhatakamhase[^310-1] ti tava[^310-2] bhatihatā[^310-3] kammakarāpi te[^
 
 ##### *[PTS Page 311]*
 
-Ja_VI,2.8(=393).1: Susukhaṃ vata jīvanti ye janā vighāsādino, diṭṭhe va dhamme pāsaṃsā, samparāye ca suggatīti. || Ja_VI:124 ||
+Ja_VI,2.8(=393).1: Susukhaṃ vata jīvanti ye janā vighāsādino, diṭṭhe va dhamme pāsaṃsā, samparāye ca suggatīti. ||  
+Ja_VI:124 ||  
 
 Tattha vighāsādino ti bhuttātirekaṃ bhuñjante sandhāyāha, diṭṭhe va dhamme ti ye evarūpā te diṭṭhe va dhamme pāsaṃsā, samparāye ca tesaṃ sugati hoti, sagge uppajjantīti[^311-1] adhippāyena vadati. Atha tesu eko tassa vacanaṃ sutvā avasese āmantetvā dutiyaṃ gātham āha:
 
-Ja_VI,2.8(=393).2: Suvassa bhāsamānassa na nisāmetha paṇḍitā, idaṃ suṇotha[^311-2] sodariyā: amhe vāyaṃ pasaṃsatīti. || Ja_VI:125 ||
+Ja_VI,2.8(=393).2: Suvassa bhāsamānassa na nisāmetha paṇḍitā, idaṃ suṇotha[^311-2] sodariyā: amhe vāyaṃ pasaṃsatīti. ||  
+Ja_VI:125 ||  
 
 Tattha bhāsamānassā 'ti mānusiyā vācāya[^311-3] bhaṇantassa, na nisāmethā 'ti na suṇotha[^311-2], idaṃ suṇothā[^311-2] 'ti idaṃ assa[^311-4] vacanaṃ suṇotha[^311-2], sodariyā ti samāne[^311-5] udare vutthabhāvena[^311-6] te ālapanto āha. Atha ne[^311-7] paṭikkhipanto suko tatiyaṃ gātham āha:
 
-Ja_VI,2.8(=393).3: Nāhaṃ tumhe pasaṃsāmi, kuṇapādā[^311-8] suṇotha[^311-2] me: ucchiṭṭhabhojino[^311-9] tumhe, na tumhe vighāsādino ti. || Ja_VI:126 ||
+Ja_VI,2.8(=393).3: Nāhaṃ tumhe pasaṃsāmi, kuṇapādā[^311-8] suṇotha[^311-2] me: ucchiṭṭhabhojino[^311-9] tumhe, na tumhe vighāsādino ti. ||  
+Ja_VI:126 ||  
 
 Tattha kuṇapādā[^311-8] ti kuṇapakhādakā[^311-10] ti te ālapati. Te tassa vacanaṃ sutvā sabbe pi catutthaṃ gātham āhaṃsu:
 
-Ja_VI,2.8(=393).4: Sattavassā pabbajitvā Mejjhāraññe sikhaṇḍino vighāsen'; eva yāpentā mayañ ce bhoto gārayhā ke nu bhoto pasaṃsiyā[^311-11] ti. || Ja_VI:127 ||
+Ja_VI,2.8(=393).4: Sattavassā pabbajitvā Mejjhāraññe sikhaṇḍino vighāsen'; eva yāpentā mayañ ce bhoto gārayhā ke nu bhoto pasaṃsiyā[^311-11] ti. ||  
+Ja_VI:127 ||  
 
 Tattha sikhaṇḍino ti cūḷāya samannāgatā, vighāsenevā[^311-12] 'ti ettakaṃ kālaṃ sattavassāni sīhavyaggavighāsen'; eva yāpentā yadi bhoto gārayhā atha ke nu te[^311-13] pasaṃsiyā ti. Te lajjāpento Mahāsatto pañcamaṃ gātham āha:
 
-Ja_VI,2.8(=393).5: Tumhe sīhānaṃ vyagghānaṃ vāḷānañ cāvasiṭṭhakaṃ ucchiṭṭhen'; eva[^311-14] yāpentā maññivho vighāsādino ti. || Ja_VI:128 ||
+Ja_VI,2.8(=393).5: Tumhe sīhānaṃ vyagghānaṃ vāḷānañ cāvasiṭṭhakaṃ ucchiṭṭhen'; eva[^311-14] yāpentā maññivho vighāsādino ti. ||  
+Ja_VI:128 ||  
 
 Tattha vālānañcāvasiṭṭhakan[^311-15] ti sesavālamigānañ[^311-16] ca avasiṭṭhakaṃ ucchiṭṭhabhojanaṃ[^311-9].
 
@@ -4052,7 +4507,8 @@ Tattha vālānañcāvasiṭṭhakan[^311-15] ti sesavālamigānañ[^311-16] ca a
 
 Taṃ sutvā tāpasā "sace[^312-1] mayaṃ na vighāsādā atha ke carahi te vighāsādā[^312-2]" 'ti. Atha tesaṃ so tam atthaṃ ācikkhanto chaṭṭhaṃ[^312-3] gātham āha:
 
-Ja_VI,2.8(=393).6: Ye brāhmaṇassa samaṇassa aññass'; eva[^312-4] vanibbino datvāna sesaṃ bhuñjanti te janā vighāsādino ti. || Ja_VI:129 ||
+Ja_VI,2.8(=393).6: Ye brāhmaṇassa samaṇassa aññass'; eva[^312-4] vanibbino datvāna sesaṃ bhuñjanti te janā vighāsādino ti. ||  
+Ja_VI:129 ||  
 
 Tattha vanibbino ti tam taṃ bhaṇḍaṃ yācanakassa[^312-5]. Evam te lajjāpetvā Mahāsatto sakaṭṭhānam eva gato. Satthā imaṃ desanaṃ[^312-6] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: "Tadā te[^312-7] satta bhātaro ime keḷisīlakā bhikkhū ahesuṃ. Sakko[^312-8] aham evā" 'ti. Vighāsajātakaṃ[^312-9].
 
@@ -4066,21 +4522,27 @@ Tattha vanibbino ti tam taṃ bhaṇḍaṃ yācanakassa[^312-5]. Evam te lajjā
 
 tena apucchito va[^313-1] tena saddhiṃ paṭisanthāraṃ karonto paṭhamaṃ gātham āha:
 
-Ja_VI,2.9(=394).1: Paṇītaṃ bhuñjase bhattaṃ sappitelañ ca mātula, atha kena nu vaṇṇena kiso tvam asi vāyasā 'ti. || Ja_VI:130 ||
+Ja_VI,2.9(=394).1: Paṇītaṃ bhuñjase bhattaṃ sappitelañ ca mātula, atha kena nu vaṇṇena kiso tvam asi vāyasā 'ti. ||  
+Ja_VI:130 ||  
 
 Tattha bhattan ti manussānaṃ bhojananiyāmena paṭiyāditabhattaṃ, mātulā 'ti taṃ piyasamudācārenālapati, kiso ti appamaṃsalohito. Tassa vacanaṃ sutvā kāko tisso gāthā abhāsi:
 
-Ja_VI,2.9(=394).2: Amittamajjhe vasato tesu āmisam esato[^313-2] niccaṃ ubbiggahadayassa kuto kākassa[^313-3] daḷhiyaṃ. || Ja_VI:131 ||
+Ja_VI,2.9(=394).2: Amittamajjhe vasato tesu āmisam esato[^313-2] niccaṃ ubbiggahadayassa kuto kākassa[^313-3] daḷhiyaṃ. ||  
+Ja_VI:131 ||  
 
-Ja_VI,2.9(=394).3: Niccaṃ ubbegino[^313-4] kākā vaṃkā pāpena kammunā, laddho piṇḍo na pīṇeti[^313-5], kiso ten'; asmi vaṭṭaka. || Ja_VI:132 ||
+Ja_VI,2.9(=394).3: Niccaṃ ubbegino[^313-4] kākā vaṃkā pāpena kammunā, laddho piṇḍo na pīṇeti[^313-5], kiso ten'; asmi vaṭṭaka. ||  
+Ja_VI:132 ||  
 
-Ja_VI,2.9(=394).4: Lūkhāni tiṇabījāni appasinehāni bhuñjasi, atha kena nu vaṇṇena thūlo tvam asi vaṭṭakā 'ti. || Ja_VI:133 ||
+Ja_VI,2.9(=394).4: Lūkhāni tiṇabījāni appasinehāni bhuñjasi, atha kena nu vaṇṇena thūlo tvam asi vaṭṭakā 'ti. ||  
+Ja_VI:133 ||  
 
 Tattha daḷhiyan ti evarūpassa mayhaṃ kākassa kuto daḷhabhāvo[^313-6], kuto thūlan ti attho, ubbegino[^313-7] ti ubbegavanto[^313-8], vaṃkā ti kākānam eva nāmaṃ, laddho ti te kāke manussasantakavilumpanapāpena kammena laddho piṇḍo[^313-9] na pīṇetīti[^313-10] na tappeti, tenasmīti tena kāraṇenāhaṃ kiso asmi, appasinehānīti mandojāni[^313-11], idaṃ kāko Bodhisattaṃ paṇītabhojanaṃ[^313-12] khādatīti saññī hutvāpi vaṭṭakānaṃ pakatigocaraṃ[^313-13] kathento[^313-14] āha. Taṃ sutvā Bodhisatto attano thūlabhāvakāraṇaṃ kathento:
 
-Ja_VI,2.9(=394).5: Appicchā appacintāya avidūragamanena ca laddhāladdhena yāpento thūlo ten'; asmi vāyasa. || Ja_VI:134 ||
+Ja_VI,2.9(=394).5: Appicchā appacintāya avidūragamanena ca laddhāladdhena yāpento thūlo ten'; asmi vāyasa. ||  
+Ja_VI:134 ||  
 
-Ja_VI,2.9(=394).6: Appicchassa hi posassa appacintisukhassa ca susaṃgahitapamāṇassa[^313-15] vuttī susamudānayā ti || Ja_VI:135 ||
+Ja_VI,2.9(=394).6: Appicchassa hi posassa appacintisukhassa ca susaṃgahitapamāṇassa[^313-15] vuttī susamudānayā ti ||  
+Ja_VI:135 ||  
 
 imā gāthā[^313-16] āha. Tattha appicchā ti āhāre[^313-17] appicchatāya nittaṇhatāya, kevalaṃ sarīrayāpanavasena[^313-19] āhārāharaṇatāyā[^313-20] 'ti attho, appacintāyā 'ti[^313-21] ajja kahaṃ
 
@@ -4094,7 +4556,8 @@ imā gāthā[^313-16] āha. Tattha appicchā ti āhāre[^313-17] appicchatāya n
 
 10. Kākajātaka. Cirassaṃ vata passāmā 'ti. Idaṃ Satthā Jetavane viharanto lolabhikkhuṃ yeva[^314-13] ārabbha kathesi. Paccuppannavatthuṃ heṭṭhāvuttanayam eva. Atīte pana[^314-14] Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto pārāpato[^314-15] hutvā Bārāṇasisetthino mahānase nīḷapacchiyaṃ vasati. Kāko pi tena saddhiṃ vissāsaṃ katvā tatth'; eva vasatīti vitthāretabbaṃ. Bhattakārako kākassa pattāni luñcitvā piṭṭhena taṃ makkhetvā[^314-16] ekaṃ varāṭakaṃ[^314-17] vijjhitvā kaṇṭhe[^314-18] pilandhitvā pacchiyaṃ pakkhipi. Bodhisatto araññato āgantvā taṃ disvā parihāsaṃ karonto paṭhamaṃ gātham āha:
 
-Ja_VI,2.10(=395).1: Cirassaṃ vata passāma sahāyaṃ maṇidhārinaṃ[^314-19], sukatāya massukuttiyā sobhate vata me sakhā ti. || Ja_VI:136 ||
+Ja_VI,2.10(=395).1: Cirassaṃ vata passāma sahāyaṃ maṇidhārinaṃ[^314-19], sukatāya massukuttiyā sobhate vata me sakhā ti. ||  
+Ja_VI:136 ||  
 
 Tattha massukuttiyā ti massukiriyāya.
 
@@ -4106,21 +4569,26 @@ Tattha massukuttiyā ti massukiriyāya.
 
 Taṃ sutvā kāko dutiyaṃ gātham āha:
 
-Ja_VI,2.10(=395).2: Parūḷhakacchanakhalomo ahaṃ kamme suvyāvaṭo cirassaṃ[^315-1] nahāpitaṃ laddhā lomantam apahārayin[^315-2] ti. || Ja_VI:137 ||
+Ja_VI,2.10(=395).2: Parūḷhakacchanakhalomo ahaṃ kamme suvyāvaṭo cirassaṃ[^315-1] nahāpitaṃ laddhā lomantam apahārayin[^315-2] ti. ||  
+Ja_VI:137 ||  
 
 Tattha ahaṃ kamme suvyāvaṭo ti[^315-3] ahaṃ tasmiṃ rājakamme suvyāvaṭo[^315-4] okāsaṃ alabhamāno parūḷhakacchanakhalomo āsin[^315-5] ti vadati, apahārayin[^315-6] ti ajja hāresiṃ[^315-7]. Tato Bodhisatto tatiyaṃ gātham āha:
 
-Ja_VI,2.10(=395).3: Yan nu lomaṃ ahāresi dullabhaṃ laddhu[^315-8] kappakaṃ atha kiñ carahi te samma kaṇṭhe kiṇakiṇāyatīti[^315-9]. || Ja_VI:138 ||
+Ja_VI,2.10(=395).3: Yan nu lomaṃ ahāresi dullabhaṃ laddhu[^315-8] kappakaṃ atha kiñ carahi te samma kaṇṭhe kiṇakiṇāyatīti[^315-9]. ||  
+Ja_VI:138 ||  
 
 Tass'; attho: yaṃ tāva dullabhaṃ[^315-10] kappakaṃ labhitvā lomaṃ harāpesi[^315-11] taṃ harāpaya, atha kiñ carahi te vayassa[^315-12] idaṃ kaṇṭhe[^315-13] kiṇikiṇāyatīti[^315-14]. Tato kāko dve gāthā abhāsi:
 
-Ja_VI,2.10(=395).4: Manussasukhumālānaṃ maṇi kaṇṭhesu lambati, tes'; āhaṃ anusikkhāmi, mā tvaṃ maññi davā kataṃ. || Ja_VI:139 ||
+Ja_VI,2.10(=395).4: Manussasukhumālānaṃ maṇi kaṇṭhesu lambati, tes'; āhaṃ anusikkhāmi, mā tvaṃ maññi davā kataṃ. ||  
+Ja_VI:139 ||  
 
-Ja_VI,2.10(=395).5: Sace p'; imaṃ pihayasi[^315-15] massukuttiṃ sukāritaṃ[^315-16] kārayissāmi te samma maṇiñ cāpi dadāmi te ti. || Ja_VI:140 ||
+Ja_VI,2.10(=395).5: Sace p'; imaṃ pihayasi[^315-15] massukuttiṃ sukāritaṃ[^315-16] kārayissāmi te samma maṇiñ cāpi dadāmi te ti. ||  
+Ja_VI:140 ||  
 
 Tattha maṇīti evarūpānaṃ manussānaṃ ekaṃ maṇiratanaṃ kaṇṭhesu lambati, tesāhan ti tesaṃ ahaṃ, mā tvaṃ maññīti tvaṃ pana etaṃ[^315-17] mayā davā katan ti mā maññi[^315-18], pihayasīti[^315-19] sace imaṃ mama kataṃ massukuttiṃ tvaṃ icchasi. Taṃ sutvā Bodhisatto chaṭṭhaṃ[^315-20] gātham āha:
 
-Ja_VI,2.10(=395).6: Tvañ ñeva maṇino[^315-21] channo[^315-22] sukatāya ca massuyā, āmanta kho taṃ gacchāmi, piyaṃ[^315-23] me tav'; adassanan ti. || Ja_VI:141 ||
+Ja_VI,2.10(=395).6: Tvañ ñeva maṇino[^315-21] channo[^315-22] sukatāya ca massuyā, āmanta kho taṃ gacchāmi, piyaṃ[^315-23] me tav'; adassanan ti. ||  
+Ja_VI:141 ||  
 
 Tattha maṇino[^315-24] ti maṇinā[^315-25], ayam eva vā pāṭho, idaṃ vuttaṃ hoti: samma vāyasa tvañ ñeva imassa maṇino anucchaviko imissā ca[^315-26] sukatāya mas-
 
@@ -4150,13 +4618,16 @@ VII. SATTANIPĀTA.
 
 ##### *[PTS Page 318]*
 
-Ja_VII,1.1(=396).1: Diyaḍḍhakukku udayena kaṇṇikā, vidatthiyo[^318-1] aṭṭha parikkhipanti naṃ sasiṃsapā[^318-2] sāramayā apheggukā[^318-3] kuhiṃ ṭhitā uparito[^318-4] na dhaṃsatīti. || Ja_VII:1 ||
+Ja_VII,1.1(=396).1: Diyaḍḍhakukku udayena kaṇṇikā, vidatthiyo[^318-1] aṭṭha parikkhipanti naṃ sasiṃsapā[^318-2] sāramayā apheggukā[^318-3] kuhiṃ ṭhitā uparito[^318-4] na dhaṃsatīti. ||  
+Ja_VII:1 ||  
 
 Tattha diyaḍḍhakukkū 'ti diyaḍḍharatanā, udayenā 'ti uccattena[^318-5], parikkhipanti nan ti taṃ pan'; etaṃ aṭṭha vidatthiyo parikkhipanti, parikkhepato aṭṭhavidatthippamāṇā[^318-6] ti vuttaṃ hoti, kuhiṃ ṭhitā ti kattha patiṭṭhitā hutvā na dhaṃsati na patati[^318-7]. Taṃ sutvā Bodhisatto "laddhā dāni me rañño ovadatthāya[^318-8] upamā" ti cintetvā[^318-9]
 
-Ja_VII,1.1(=396).2: Yā tiṃsati sāramayā anujjukā[^318-10] parikiriya[^318-11] gopānasiyo samaṃ ṭhitā[^318-12] tāhi saṃgahītā[^318-13] balasā papīḷitā samaṃ ṭhitā[^318-14] uparito na dhaṃsati. || Ja_VII:2 ||
+Ja_VII,1.1(=396).2: Yā tiṃsati sāramayā anujjukā[^318-10] parikiriya[^318-11] gopānasiyo samaṃ ṭhitā[^318-12] tāhi saṃgahītā[^318-13] balasā papīḷitā samaṃ ṭhitā[^318-14] uparito na dhaṃsati. ||  
+Ja_VII:2 ||  
 
-Ja_VII,1.1(=396).3: Evam pi[^318-15] mittehi daḷhehi[^318-16] paṇḍito abhejjarūpehi sucīhi mantihi[^318-17] susaṃgahīto[^318-18] siriyā na dhaṃsati gopānasībhāravahā va kaṇṇikā ti. || Ja_VII:3 ||
+Ja_VII,1.1(=396).3: Evam pi[^318-15] mittehi daḷhehi[^318-16] paṇḍito abhejjarūpehi sucīhi mantihi[^318-17] susaṃgahīto[^318-18] siriyā na dhaṃsati gopānasībhāravahā va kaṇṇikā ti. ||  
+Ja_VII:3 ||  
 
 imā gāthā āha. Tattha yā tiṃsati sāramayā ti yā etā[^318-19] sārarukkhamayā tiṃsati gopānasiyo, parikiriyā 'ti parivāretvā[^318-20], samaṃ ṭhitā[^318-21] ti samabhāgaṭhitā[^318-22], balasā papīḷitā ti gopānasihi balena pīḷetvā suṭṭhu saṃgahitā ekābaddhā hutvā, paṇḍito ti ñāṇasampanno rājā, sucīhīti sucisamācārehi kalyāṇamittehi, mantihīti[^318-23] mantakusalehi[^318-24], gopānasībhāravahā va kaṇṇikā ti yathā gopānasīnaṃ bhāraṃ[^318-25] vahamānā kaṇṇikā na dhaṃsati evaṃ rājā[^318-26] vuttappakārehi mantīhi[^318-27] abhijjahadayehi[^318-28] susaṃgahito sirito na dhaṃsati na patati na[^318-29] parihāyati.
 
@@ -4168,9 +4639,11 @@ imā gāthā āha. Tattha yā tiṃsati sāramayā ti yā etā[^318-19] sāraruk
 
 Rājā Bodhisatte kathente[^319-1] yeva attano kiriyaṃ sallakkhetvā "kaṇṇikāya asati gopānasiyo na patiṭṭhanti[^319-2], gopānasīhi asaṃgahitā kaṇṇikā na tiṭṭhati, gopānasīsu bhijjantīsu[^319-3] kaṇṇikā patati, evam evaṃ adhammiko rājā attano mittāmacce ca balakāye ca brāhmaṇagahapatike ca asaṃgaṇhanto tesu bhijjantesu tehi asaṃgahito issariyā dhaṃsati, raññā nāma dhammikena bhavitabban" ti. Ath'; assa tasmiṃ khaṇe paṇṇākāratthāya mātuluṅgaṃ āhariṃsu. Rājā "sahāya imaṃ mātuluṅgaṃ khādā" 'ti Bodhisattaṃ āha. Bodhisatto[^319-4] gahetvā "mahārāja, idaṃ[^319-5] khādituṃ ajānantā tittakaṃ vā karonti ambilaṃ vā, jānantā pana paṇḍitā tittakaṃ hāretvā ambilaṃ anīharitvā mātuluṅgarasaṃ anāsetvā va khādantīti[^319-6]" rañño imāya upamāya dhanasaṃgharaṇūpāyaṃ dassento dve gāthā āha:
 
-Ja_VII,1.1(=396).4: Kharattacaṃ mellaṃ[^319-7] yathāpi satthavā[^319-8] anāmasanto[^319-9] pi karoti tittakaṃ samāharaṃ[^319-10] sādukaroti patthiva[^319-11] asādukayirā tanuvaṭṭam uddharaṃ.[^319-12] || Ja_VII:4 ||
+Ja_VII,1.1(=396).4: Kharattacaṃ mellaṃ[^319-7] yathāpi satthavā[^319-8] anāmasanto[^319-9] pi karoti tittakaṃ samāharaṃ[^319-10] sādukaroti patthiva[^319-11] asādukayirā tanuvaṭṭam uddharaṃ.[^319-12] ||  
+Ja_VII:4 ||  
 
-Ja_VII,1.1(=396).5: Evam pi gāmanigamesu paṇḍito asāhasaṃ rājadhanāni saṃgharaṃ dhammānuvattī[^319-13] paṭipajjamāno[^319-14] sa phātiṃ[^319-15] kayirā aviheṭhayaṃ paran ti. || Ja_VII:5 ||
+Ja_VII,1.1(=396).5: Evam pi gāmanigamesu paṇḍito asāhasaṃ rājadhanāni saṃgharaṃ dhammānuvattī[^319-13] paṭipajjamāno[^319-14] sa phātiṃ[^319-15] kayirā aviheṭhayaṃ paran ti. ||  
+Ja_VII:5 ||  
 
 Tattha kharattacan ti thaddhatacaṃ, mellan[^319-16] ti mātuluṅgaṃ, bellan[^319-17] ti vā[^319-18] pāṭho, ayam ev'; attho, satthavā ti satthakahattho, anāmasanto ti bahitacaṃ tanukam pi atacchento[^319-19] idaṃ phalaṃ tittakaṃ karoti, samāharan tī samāharanto[^319-20] bahitacaṃ tacchento[^319-17] anto[^319-21] ca[^319-22] ambilaṃ anīharanto[^319-23] taṃ sādum karoti, patthitvā 'ti rājānaṃ ālapati, tanuvaṭṭamuddharan[^319-24]
 
@@ -4182,9 +4655,11 @@ Tattha kharattacan ti thaddhatacaṃ, mellan[^319-16] ti mātuluṅgaṃ, bellan
 
 ti tanukaṃ pana vaṭṭaṃ[^320-1] uddharanto sabbaso[^320-2] tittakassa anapanītattā[^320-3] taṃ asādum eva kayirā, evan ti evaṃ paṇḍito rājāpi asāhasaṃ sāhasiyataṇhāya[^320-4] vasaṃ agacchanto agatigamanaṃ pahāya raṭṭhaṃ apīḷetvā upacikānaṃ vammikavaddhananiyāmena[^320-5] madhukarānaṃ reṇuṃ gahetvā madhukaraniyāmena[^320-6] ca[^320-7] dhanaṃ saṃgharanto[^320-8] Dānaṃ sīlaṃ pariccāgaṃ ajjavaṃ maddavaṃ tapaṃ (supra p.274) akkodham avihiṃsā ca khantī ca avirodhanan ti[^320-9] imesaṃ dasannaṃ rājadhammānaṃ anuvattanena dhammānuvattī hutvā paṭipajjamāno so attano ca paresañ ca phātiṃ[^320-10] vaḍḍhiṃ[^320-11] kareyya paraṃ aviheṭhento[^320-12] yevā 'ti. Rājā Bodhisattena saddhiṃ mantento va[^320-13] pokkharaṇītīraṃ gantvā[^320-14] supupphitaṃ bālasuriyavaṇṇaṃ udakena anupalittaṃ padumaṃ disvā āha: "sahāya idaṃ[^320-15] padumaṃ udake jātam[^320-16] eva udakena alippamānaṃ[^320-17] ṭhitan" ti. Atha naṃ Bodhisatto "mahārāja raññāpi[^320-18] evarūpen'; eva[^320-19] bhavitabban" ti ovadanto[^320-20]
 
-Ja_VII,1.1(=396).6: Odātamūlaṃ[^320-21] sucivārisambhavaṃ jātaṃ yathā pokkharaṇīsu[^320-22] ambujaṃ padumaṃ yathā agginikāsiphālimaṃ na kadamo na rajo na vāri limpati. || Ja_VII:6 ||
+Ja_VII,1.1(=396).6: Odātamūlaṃ[^320-21] sucivārisambhavaṃ jātaṃ yathā pokkharaṇīsu[^320-22] ambujaṃ padumaṃ yathā agginikāsiphālimaṃ na kadamo na rajo na vāri limpati. ||  
+Ja_VII:6 ||  
 
-Ja_VII,1.1(=396).7: Evam pi vohārasuciṃ asāhasaṃ visuddhakammantam apetapāpakaṃ na limpati kammakilesa, tādiso jātaṃ yathā pokkharaṇīsu ambujan ti || Ja_VII:7 ||
+Ja_VII,1.1(=396).7: Evam pi vohārasuciṃ asāhasaṃ visuddhakammantam apetapāpakaṃ na limpati kammakilesa, tādiso jātaṃ yathā pokkharaṇīsu ambujan ti ||  
+Ja_VII:7 ||  
 
 imā gāthā āha. Tattha odātamūlan[^320-23] ti paṇḍaramūlaṃ, ambujan ti padumass'; eva vevacanaṃ, agginikāsiphāliman ti agginikāsinā suriyena phālitaṃ vikasitan ti attho, na kaddemo na rajo na vāri limpatīti n'; eva kaddamo na rajo na udakaṃ limpati makkhetīti attho, lepaticc-eva pāṭho, bhummatthe vā etāni paccattāni, etesu kaddamādisu na limpati na allīyatīti attho, vohārasucin
 
@@ -4214,17 +4689,22 @@ So ekadivasaṃ gocarabhūmiyaṃ Giriyaṃ[^322-1] nāma sigālaṃ palāyitu�
 
 Sīho "viddho 'smīti" hi[^323-1] viravi. Dhanuggaho taṃ vijjhitvā asani viya jiyaṃ poṭhesi[^323-2]. Sigālo sīhassa ca jiyāya[^323-3] ca saddaṃ sutvā "sahāyo me[^323-4] vijjhitvā mārito bhavissatīti, matakena[^323-5] hi saddhiṃ vissāso nāma n'; atthi, idāni mama pakativasanavanam eva[^323-6] gamissāmīti" attanā va saddhiṃ sallapanto dve gāthā abhāsi:
 
-Ja_VII,1.2(=397).1: Yathā cāpo ninnamati jiyā cāpi[^323-7] nikūjati[^323-8] haññate nūna Manojo migarājā sakhā mama. || Ja_VII:8 ||
+Ja_VII,1.2(=397).1: Yathā cāpo ninnamati jiyā cāpi[^323-7] nikūjati[^323-8] haññate nūna Manojo migarājā sakhā mama. ||  
+Ja_VII:8 ||  
 
-Ja_VII,1.2(=397).2: Handa dāni[^323-9] vanantāni pakkamāmi yathāsukhaṃ, n'; etādisā sakhā honti, labbhā me jīvato sakhā ti. || Ja_VII:9 ||
+Ja_VII,1.2(=397).2: Handa dāni[^323-9] vanantāni pakkamāmi yathāsukhaṃ, n'; etādisā sakhā honti, labbhā me jīvato sakhā ti. ||  
+Ja_VII:9 ||  
 
 Tattha yathā ti yenākāren'; esa[^323-10] cāpo ninnamati, haññate nūnā 'ti nūna haññati, netādisā ti evarūpā matakā sahāyā nāma na honti, labbhā me ti jīvato[^323-11] mama sahāyo nāma sakkā laddhuṃ. Sīho pi ekavegen'; eva[^323-12] gantvā assaṃ guhādvāre pātetvā sayam pi maritvā va[^323-13] pati. Ath'; assa ñātakā nikkhamitvā taṃ lohitamakkhitaṃ pahāramukhehi paggharitalohitaṃ pāpajanasevitāya jīvitakkhayaṃ pattaṃ addasaṃsu, disvā c'; assa pitā mātā bhaginī pajāpatīti paṭipāṭiyā catasso gāthā bhāsiṃsu[^323-14]:
 
-Ja_VII,1.2(=397).3: Na pāpajanasaṃsevī accantasukham edhati, Manojaṃ passa semānaṃ, Giriyassānusāsanī[^323-15]. || Ja_VII:10 ||
+Ja_VII,1.2(=397).3: Na pāpajanasaṃsevī accantasukham edhati, Manojaṃ passa semānaṃ, Giriyassānusāsanī[^323-15]. ||  
+Ja_VII:10 ||  
 
-Ja_VII,1.2(=397).4: Na pāpasampavaṃkena mātā puttena nandati, Manojaṃ passa semānaṃ acchannaṃ samhi lohite. || Ja_VII:11 ||
+Ja_VII,1.2(=397).4: Na pāpasampavaṃkena mātā puttena nandati, Manojaṃ passa semānaṃ acchannaṃ samhi lohite. ||  
+Ja_VII:11 ||  
 
-Ja_VII,1.2(=397).5: Evam āpajjatī[^323-16] poso pāpiyo ca nigacchati yo ve hitānaṃ vacanaṃ na karoti atthadassinaṃ[^323-17]. || Ja_VII:12 ||
+Ja_VII,1.2(=397).5: Evam āpajjatī[^323-16] poso pāpiyo ca nigacchati yo ve hitānaṃ vacanaṃ na karoti atthadassinaṃ[^323-17]. ||  
+Ja_VII:12 ||  
 
 Ja_VII,1.2(=397).6: Evañ ca so hoti[^323-18] tato va pāpiyo yo uttamo adhamajanūpasevī[^323-19],
 
@@ -4234,11 +4714,13 @@ Ja_VII,1.2(=397).6: Evañ ca so hoti[^323-18] tato va pāpiyo yo uttamo adhamaj
 
 ##### *[PTS Page 324]*
 
-pass'; uttamaṃ adhamajanūpasevitaṃ[^324-1] migādhipaṃ saravaravedhanibbutan[^324-2] ti. || Ja_VII:13 ||
+pass'; uttamaṃ adhamajanūpasevitaṃ[^324-1] migādhipaṃ saravaravedhanibbutan[^324-2] ti. ||  
+Ja_VII:13 ||  
 
 Tattha accantasukhamedhatīti na ciraṃ sukhaṃ labhati[^324-3], Giriyassānusāsanīti[^324-4] ayaṃ evarūpā Giriyassānusāsanīti[^324-4] garahanto āha, pāpasampavaṃkenā 'ti pāpesu sampavaṃkena pāpasahāyena, acchannan ti nimuggaṃ, pāpiyo[^324-5] ca nigacchatīti pāpakañ ca vindati, hitānan ti atthakāmānaṃ, atthadassinan ti anāgataṃ atthaṃ passantānaṃ, pāpiyo ti pāpataro, adhamajanūpasevīti adhamajanaṃ[^324-6] upasevati, uttaman ti sarīrabalena jeṭṭhakaṃ. Pacchimā abhisambuddhagāthā:
 
-Ja_VII,1.2(=397).7: {Nihīyati} puriso nihīnasevī, na ca hāyetha kadāci tulyasevī, seṭṭham upanamaṃ[^324-7] udeti khippaṃ, tasmā attano uttariṃ[^324-8] bhajethā 'ti. || Ja_VII:14 ||
+Ja_VII,1.2(=397).7: {Nihīyati} puriso nihīnasevī, na ca hāyetha kadāci tulyasevī, seṭṭham upanamaṃ[^324-7] udeti khippaṃ, tasmā attano uttariṃ[^324-8] bhajethā 'ti. ||  
+Ja_VII:14 ||  
 
 Tattha nihīyatīti bhikkhave hīnasevī[^324-9] nāma Manojasīho[^324-10] viya nihīyati parihāyati vināsaṃ pāpuṇāti, tulyasevīti sīlādīhi attanā sadisaṃ sevamāno na hāyati[^324-11], seṭṭhamupanaman[^324-12] ti sīlādīhi uttaritaraṃ yeva upagacchanto, udeti khippan ti sīgham eva sīlādīhi guṇehi upeti upagacchati[^324-13]. Satthā imaṃ desanaṃ[^324-14] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne vipakkhasevako[^324-15] sotāpattiphale patiṭṭhahi) "Tadā sigālo Devadatto ahosi, Manojo vipakkhasevako, bhaginī Uppalavaṇṇā, bhariyā Khemā bhikkhunī, mātā Rāhulamātā, pitā[^324-16] aham evā" 'ti. Manojajātakaṃ[^324-17].
 
@@ -4268,7 +4750,8 @@ taṃ ñeva khādissāmīti". "Ahaṃ[^326-1] Bārāṇasirājā, mayhaṃ avijj
 
 hākaṃ suvaṇṇapādukā devā" 'ti āha. "Kiṃkāraṇā" ti. "Deva so yakkho rukkhamūle bhūmiyaṃ ṭhitake khādituṃ labhati, ahaṃ etassa santakabhūmiyaṃ aṭhatvā[^327-1] pādukāsu ṭhassāmīti". "Aññaṃ kiṃ laddhuṃ vaṭṭatīti". "Tumhākaṃ chattaṃ devā" 'ti. "Idaṃ kimatthāyā" 'ti. "Deva yakkho attano rukkhacchāyāya ṭhitake khādituṃ labhati, ahaṃ tassa rukkhacchāyāya[^327-2] aṭhatvā chattacchāyāya ṭhassāmīti". "Aññaṃ kiṃ laddhuṃ vaṭṭatīti". "Tumhākaṃ khaggaṃ devā" 'ti. "Iminā ko attho" ti. "Deva amanussāpi[^327-3] āvudhahatthānaṃ bhāyanti yevā[^327-4]" 'ti. "Aññaṃ kiṃ laddhuṃ vaṭṭatīti". "Tumhākaṃ suvaṇṇapātiṃ pūretvā[^327-5] tumhākaṃ bhuñjanakabhattaṃ[^327-6] devā" 'ti. "Kiṃkāraṇā tātā" 'ti. "Deva mādisassa nāma paṇḍitapurisassa[^327-7] mattikapātiyā lūkhabhojanaṃ[^327-8] harituṃ na[^327-9] anucchavikan" ti. "Sādhu tātā" 'ti rājā sabbaṃ dāpetvā tass'; eva[^327-10] veyyāvaccakare paṭipādesi[^327-11]. Bodhisatto "mahārāja, mā bhāyi[^327-12], ajjāhaṃ yakkhaṃ dametvā tumhākaṃ sotthiṃ katvā āgamissāmīti" rājānaṃ vanditvā upakaraṇāni[^327-13] gāhāpetvā tattha gantvā rukkhassāvidūre manusse[^327-14] ṭhapetvā suvaṇṇapādukā āruyha khaggaṃ sannayhitvā setacchattaṃ matthake katvā kañcanapātiyā bhattaṃ gahetvā yakkhassa santikaṃ pāyāsi. Yakkho maggaṃ olokento taṃ disvā "ayaṃ puriso na aññesu divasesu āgamananiyāmena eti, kin nu kho kāraṇan" ti cintesi. Bodhisatto pi rukkhasamīpaṃ gantvā va[^327-15] asituṇḍena bhattapātiṃ antochāyāya karitvā chāyāsanne[^327-16] ṭhito paṭhamaṃ gātham āha:
 
-Ja_VII,1.3(=398).1: Rājā te bhattaṃ pāhesi suciṃ maṃsūpasecanaṃ, makhādevasmiṃ[^327-17] adhivatthe ehi nikkhama[^327-18] bhuñjassū 'ti. || Ja_VII:15 ||
+Ja_VII,1.3(=398).1: Rājā te bhattaṃ pāhesi suciṃ maṃsūpasecanaṃ, makhādevasmiṃ[^327-17] adhivatthe ehi nikkhama[^327-18] bhuñjassū 'ti. ||  
+Ja_VII:15 ||  
 
 
 <!-- PTS Page 328 -->
@@ -4278,13 +4761,16 @@ Ja_VII,1.3(=398).1: Rājā te bhattaṃ pāhesi suciṃ maṃsūpasecanaṃ, ma
 
 Tattha pāhesīti pahiṇi, makhādevasmiṃ[^328-1] adhivatthe ti makhādevo[^328-1] ti vaṭarukkho[^328-2] vuccati, tasmiṃ adhivatthe ti devataṃ ālapati. Taṃ sutvā yakkho "imaṃ purisaṃ vañcetvā antochāyaṃ paviṭṭhaṃ khādissāmīti" cintetvā dutiyaṃ gātham āha:
 
-Ja_VII,1.3(=398).2: Ehi māṇava orena bhikkham ādāya sūpinaṃ, tvañ ca māṇava bhikkhā ca[^328-3] ubho bhakkhā bhavissathā[^328-4] 'ti. || Ja_VII:16 ||
+Ja_VII,1.3(=398).2: Ehi māṇava orena bhikkham ādāya sūpinaṃ, tvañ ca māṇava bhikkhā ca[^328-3] ubho bhakkhā bhavissathā[^328-4] 'ti. ||  
+Ja_VII:16 ||  
 
 Tattha bhikkhan ti mama nibaddhabhikkhaṃ, sūpinan ti sūpasampannaṃ. Tato Bodhisatto dve gāthā abhāsi:
 
-Ja_VII,1.3(=398).3: Appakena tuvaṃ yakkha thullam atthaṃ jahissasi, bhikkhaṃ te nāharissanti janā maraṇasaññino. || Ja_VII:17 ||
+Ja_VII,1.3(=398).3: Appakena tuvaṃ yakkha thullam atthaṃ jahissasi, bhikkhaṃ te nāharissanti janā maraṇasaññino. ||  
+Ja_VII:17 ||  
 
-Ja_VII,1.3(=398).4: Laddhāyaṃ yakkha tava niccabhikkhaṃ[^328-5] suciṃ paṇītaṃ rasasā[^328-6] upetaṃ, bhikkhañ ca te āhariyo naro idha sudullabho hohiti khādite mayīti. || Ja_VII:18 ||
+Ja_VII,1.3(=398).4: Laddhāyaṃ yakkha tava niccabhikkhaṃ[^328-5] suciṃ paṇītaṃ rasasā[^328-6] upetaṃ, bhikkhañ ca te āhariyo naro idha sudullabho hohiti khādite mayīti. ||  
+Ja_VII:18 ||  
 
 Tattha thullamatthan ti appakena kāraṇena mahantam atthaṃ jahissasīti dasseti, nāharissantīti ito paṭṭhāya maraṇasaññino hutvā na āharissanti[^328-7] atha tvaṃ milātasākho viya rukkho nirāhāro dubbalo bhavissasīti, laddhāyan ti laddhaṃ[^328-8] ayaṃ laddhaṃ[^328-9] gamanaṃ, idaṃ vuttaṃ hoti: samma yakkha, yam ahaṃ ajja āhariṃ idaṃ tava niccabhikkhaṃ[^328-5] suciṃ paṇītaṃ uttamarasena upetaṃ laddhāgamanaṃ devasikaṃ te āgacchissati[^328-10], āhariyo ti āharaṇako[^328-11], idaṃ vuttaṃ hoti: sace tvaṃ idaṃ bhikkhaṃ gahetvā āgataṃ maṃ bhakkhasi[^328-12] ath'; eva[^328-13] mayi bhakkhite āharaṇako añño naro idha sudullabho bhavissati, kiṃkāranā: mādiso hi Bārāṇasiyaṃ añño paṇḍitamanusso n' atthi, mayi pana khādite Sutano pi nāma yakkhena khādito aññassa kassa[^328-14] so[^328-15] lajjissatīti bhattāaharaṇakaṃ[^328-16] na labhissasi, atha te ito paṭṭhāya bhojanaṃ dullabhaṃ bhavissati, amhākam pi rājānaṃ gaṇhituṃ na labhissasi, kasmā[^328-17]: rukkhato bahibhāvena, sace pan'; idaṃ bhattaṃ bhuñjitvā maṃ pahiṇissasi ahaṃ te[^328-18] rañño kathetvā nibaddhaṃ bhattaṃ pesessāmi, attānam pi ca
 
@@ -4296,13 +4782,16 @@ Tattha thullamatthan ti appakena kāraṇena mahantam atthaṃ jahissasīti dass
 
 te khādituṃ na dassāmi, ahaṃ hi tava santake[^329-1] ṭhāṇe[^329-2] na ṭhassāmi[^329-3] pādukāsu ṭhassāmi, rukkhacchāyāya[^329-4] pi te na ṭhassāmi attano chattacchāyāyam eva ṭhassāmi, sace pana[^329-5] mayā saddhiṃ virajjhissasi[^329-6] khaggena taṃ[^329-7] dvidhā chindissāmi, ahaṃ hi[^329-8] ajja etadattham eva sajjo hutvā āgato ti. Evaṃ kira naṃ Mahāsatto tajjesi. Yakkho "yuttaṃ[^329-9] māṇavo vadatīti" sallakkhetvā pasannacitto dve gāthā abhāsi:
 
-Ja_VII,1.3(=398).5: Mam'; esa[^329-10] Sutano attho yathā bhāsasi māṇava, mayā tvaṃ samanuññāto sotthiṃ passāhi[^329-11] mātaraṃ. || Ja_VII:19 ||ḥ
+Ja_VII,1.3(=398).5: Mam'; esa[^329-10] Sutano attho yathā bhāsasi māṇava, mayā tvaṃ samanuññāto sotthiṃ passāhi[^329-11] mātaraṃ. ||  
+Ja_VII:19 ||ḥ
 
-Ja_VII,1.3(=398).6: Khaggaṃ chattañ ca pātiñ ca gacch'; evādāya māṇava, sotthiṃ passatu te mātā tvañ ca passāhi mātaran ti. || Ja_VII:20 ||
+Ja_VII,1.3(=398).6: Khaggaṃ chattañ ca pātiñ ca gacch'; evādāya māṇava, sotthiṃ passatu te mātā tvañ ca passāhi mātaran ti. ||  
+Ja_VII:20 ||  
 
 Tattha Sutano ti Bodhisattaṃ ālapati, yathā bhāsasīti yathā tvaṃ bhāsasi tathā[^329-12] yo esa tayā bhāsito attho eso mam'; ev'; attho mayhaṃ ñeva[^329-13] vaḍḍhati. Yakkhassa kathaṃ sutvā Bodhisatto "mama kammaṃ nipphannaṃ, damito me yakkho, bahuṃ dhanaṃ laddhaṃ, rañño vacanaṃ katan" ti tuṭṭhacitto yakkhassa anumodanaṃ karonto osānagātham āha:
 
-Ja_VII,1.3(=398).7: Evaṃ yakkha sukhī hohi saha sabbehi ñātibhi, dhanañ ca me adhigataṃ, rañño ca[^329-14] vacanaṃ katan ti. || Ja_VII:21 ||
+Ja_VII,1.3(=398).7: Evaṃ yakkha sukhī hohi saha sabbehi ñātibhi, dhanañ ca me adhigataṃ, rañño ca[^329-14] vacanaṃ katan ti. ||  
+Ja_VII:21 ||  
 
 vatvā ca pana yakkhaṃ āmantetvā "samma, tvaṃ pubbe akusalakammaṃ katvā kakkhaḷo pharuso paresaṃ lohitamaṃsabhakkho yakkho hutvā nibbatto, ito paṭṭhāya pāṇātipātādīni mā karīti" sīle ānisaṃsaṃ dussīlye[^329-15] cādīnavaṃ[^329-16] kathetvā yakkhaṃ[^329-17] pañcasu sīlesu patiṭṭhāpetvā "kiṃ te araññavāsena, ehi nagaradvāre taṃ nisīdāpetvā aggabhattalābhiṃ karomīti" yakkhena saddhiṃ nikkhamitvā khaggādīni yakkham eva[^329-18] gāhāpetvā Bārāṇasiṃ agamāsi. "Sutano māṇavo yakkhaṃ gahetvā etīti[^329-19]" rañño ārocesuṃ. Rājā amaccaparivuto Bo-
 
@@ -4316,7 +4805,8 @@ dhisattassa paccuggamanaṃ katvā yakkhaṃ nagaradvāre nisīdāpetvā aggabha
 
 4. Gijjhajātaka. Te kathannu karissantīti. Idaṃ Satthā Jetavane viharanto ekaṃ mātiposakabhikkhuṃ[^330-5] ārabbha kathesi[^330-6]. Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto gijjhayoniyaṃ nibbattitvā[^330-7] vayappatto vuddhe[^330-8] parihīnacakkhuke mātāpitaro gijjhaguhāya[^330-9] ṭhapetvā gomaṃsādīni āharitvā posesi. Tasmiṃ kāle Bārāṇasi-susāne eko nesādo aniyametvā gijjhānaṃ pāse[^330-10] oḍḍesi. Ath'; ekadivasaṃ Bodhisatto gomaṃsam[^330-11] pariyesanto susānaṃ paviṭṭho pādena[^330-12] pāse[^330-13] bajjhitvā attano na cintesi[^330-14], vuddhe pana[^330-15] mātāpitaro anussaritvā "kathan nu kho me mātāpitaro yāpessanti[^330-16], mama baddhabhāvam[^330-17] pi ajānantā anāthā nippaccayā pabbataguhāyam eva sussitvā marissanti maññe" ti vilapanto paṭhamaṃ gātham āha:
 
-Ja_VII,1.4(=399).1: Te kathan nu karissanti vaddhā[^330-18] giridarīsayā, ahaṃ baddho 'smi pāsena Nilīyassa vasaṃ gato ti. || Ja_VII:22 ||
+Ja_VII,1.4(=399).1: Te kathan nu karissanti vaddhā[^330-18] giridarīsayā, ahaṃ baddho 'smi pāsena Nilīyassa vasaṃ gato ti. ||  
+Ja_VII:22 ||  
 
 Tattha Nilīyassā[^330-19] 'ti evaṃnāmakassa nesādaputtassa.
 
@@ -4328,17 +4818,23 @@ Tattha Nilīyassā[^330-19] 'ti evaṃnāmakassa nesādaputtassa.
 
 Tassa paridevato sutvā[^331-1]
 
-Ja_VII,1.4(=399).2: Kiṃ gijjha paridevasi, kā nu te paridevanā, na me suto vā diṭṭho vā bhāsanto mānusiṃ dijo[^331-2]. || Ja_VII:23 ||
+Ja_VII,1.4(=399).2: Kiṃ gijjha paridevasi, kā nu te paridevanā, na me suto vā diṭṭho vā bhāsanto mānusiṃ dijo[^331-2]. ||  
+Ja_VII:23 ||  
 
-Ja_VII,1.4(=399).3: Bharāmi mātāpitaro vaddhe[^331-3] giridarīsaye, te kathan nu karissanti, ahaṃ vasaṃ gato tava[^331-4]. || Ja_VII:24 ||
+Ja_VII,1.4(=399).3: Bharāmi mātāpitaro vaddhe[^331-3] giridarīsaye, te kathan nu karissanti, ahaṃ vasaṃ gato tava[^331-4]. ||  
+Ja_VII:24 ||  
 
-Ja_VII,1.4(=399).4: Yan nu gijjho yojanasataṃ[^331-5] kuṇapāni avekkhati (cfr. II 51|25 52|6) kasmā jālañ ca pāsañ ca āsajjāpi na bujjhasi[^331-6]. || Ja_VII:25 ||
+Ja_VII,1.4(=399).4: Yan nu gijjho yojanasataṃ[^331-5] kuṇapāni avekkhati (cfr. II 51|25 52|6) kasmā jālañ ca pāsañ ca āsajjāpi na bujjhasi[^331-6]. ||  
+Ja_VII:25 ||  
 
-Ja_VII,1.4(=399).5: Yadā parābhavo hoti poso jīvitasaṃkhaye atha jālañ ca pāsañ ca āsajjāpi na bujjhati[^331-7]. || Ja_VII:26 ||
+Ja_VII,1.4(=399).5: Yadā parābhavo hoti poso jīvitasaṃkhaye atha jālañ ca pāsañ ca āsajjāpi na bujjhati[^331-7]. ||  
+Ja_VII:26 ||  
 
-Ja_VII,1.4(=399).6: Bharassu mātāpitaro vaddhe[^331-3] giridarīsaye, mayā tvaṃ samanuññāto sotthiṃ passāhi ñātake[^331-8]. || Ja_VII:27 ||
+Ja_VII,1.4(=399).6: Bharassu mātāpitaro vaddhe[^331-3] giridarīsaye, mayā tvaṃ samanuññāto sotthiṃ passāhi ñātake[^331-8]. ||  
+Ja_VII:27 ||  
 
-Ja_VII,1.4(=399).7: Evaṃ luddaka[^331-9] nandassu saha sabbehi ñātibhi, bharissaṃ mātāpitaro vaddhe[^331-3] giridarīsaye ti[^331-10] || Ja_VII:28 ||
+Ja_VII,1.4(=399).7: Evaṃ luddaka[^331-9] nandassu saha sabbehi ñātibhi, bharissaṃ mātāpitaro vaddhe[^331-3] giridarīsaye ti[^331-10] ||  
+Ja_VII:28 ||  
 
 nesādaputtena dutiyā gijjhena tatiyā ti imā gāthā paṭipāṭiyā vuttā. Tattha yannū 'ti yaṃ nu etaṃ loke kathīyati[^331-11], gijjho yojanasataṃ[^331-5] kuṇapāni avekkhatīti[^331-12] yojanasataṃ atikkamma ṭhitāni pi kuṇapāni passati, taṃ yadi tathā[^331-13] atha kasmā tvaṃ imaṃ jālañ ca {pāsañ} ca āsajjāpi na bujjhasi[^331-14] santikaṃ āgantvāpi na jānāsīti[^331-14], parābhavo ti vināso, bharassū 'ti idaṃ so Bodhisattassa dhammakathaṃ sutvā paṇḍito gijjharājā paridevanto na attano paridevati mātāpitunnaṃ[^331-15] paridevati nāyaṃ māretuṃ yutto ti[^331-16] tussitvā āha vatvā ca pana piyacittena muducittena pāsaṃ mocesi. Ath'; assa Bodhisatto[^331-17] maraṇadukkhā mutto sukhito anumodanaṃ karonto osānagāthaṃ vatvā mukhapūraṃ[^331-18] maṃsaṃ ādāya gantvā[^331-19] mātāpitunnaṃ[^331-15] adāsi. Satthā imaṃ desanaṃ[^331-20] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne mātiposakabhikkhu[^331-21] sotāpattiphale pa-
 
@@ -4360,7 +4856,8 @@ tiṭṭhahi) "Tadā nesādaputto Channo ahosi, mātāpitaro[^332-1] mahārājak
 
 Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannissinnā" ti pucchitvā "imāya nāmā" 'ti vutte "na bhikkhave Upanandena paṭipadāya anucchavikaṃ kataṃ, parassa paṭipadaṃ kathentena nāma bhikkhunā paṭhamaṃ attano anucchavikaṃ katvā pacchā paro ovaditabbo", Attānaṃ eva paṭhamaṃ patirūpe nivesaye, (= Dhp. v.158; cfr. J. II p.441.) ath'; aññaṃ anusāseyya, na kilisseyya paṇḍito ti imāya Dhammapade gāthāya dhammaṃ desetvā "na bhikkhave Upanando idān'; eva pubbe p'; esa[^333-1] mahālobho va[^333-2], na ca idān'; eva[^333-3] imesaṃ santakaṃ vilumpati pubbe pi[^333-4] vilumpi yevā" 'ti vatvā atītam āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto nadītīre rukkhadevatā ahosi. Tadā eko sigālo Māyāvī nāma bhariyaṃ gahetvā nadītīre ekasmiṃ ṭhāne vasi. Ath'; ekadivasaṃ sigālaṃ sigālī evam āha[^333-5]: "dohaḷo me sāmi uppanno, allarohitamacchaṃ khādituṃ icchāmīti". Sigālo "appossukkā[^333-6] hohi, āharissāmi te" ti nadītīre caranto valliyā pāde palibuddhitvā[^333-7] anutīram eva agamāsi. Tasmiṃ khaṇe Gambhīracārī ca Anutīracārī cā 'ti dve uddā macche pariyesantā tīre aṭṭhaṃsu. Tesu Gambhīracārī mahantaṃ rohitamacchaṃ disvā vegena udakaṃ pavisitvā taṃ naṅguṭṭhe gaṇhi. Balavā maccho parikaḍḍhanto pāyāsi[^333-8]. So "mahāmaccho ubhinnam pi no pahossati, ehi me sahāyo hohīti" itarena saddhiṃ sallapanto[^333-9] paṭhamaṃ gātham āha:
 
-Ja_VII,1.5(=400).1: Anutīracāri bhaddan te, sahāya-m-anudhāva maṃ, mahā me gahito[^333-10] maccho, so maṃ harati vegasā ti. || Ja_VII:29 ||
+Ja_VII,1.5(=400).1: Anutīracāri bhaddan te, sahāya-m-anudhāva maṃ, mahā me gahito[^333-10] maccho, so maṃ harati vegasā ti. ||  
+Ja_VII:29 ||  
 
 Tatthā sahāyamanudhāva man[^333-11] ti sahāya anudhāva maṃ, sandhivasena makāro vutto, idaṃ vuttaṃ hoti: yathāhaṃ iminā macchena na saṃhīrāmi[^333-12] evaṃ maṃ naṅguṭṭhakhaṇḍe[^333-13] gahetvā tvaṃ[^333-14] anudhāvā[^333-15] 'ti.
 
@@ -4372,19 +4869,23 @@ Tatthā sahāyamanudhāva man[^333-11] ti sahāya anudhāva maṃ, sandhivasena 
 
 Taṃ sutvā itaro dutiyaṃ gātham āha:
 
-Ja_VII,1.5(=400).2: Gambhīracāri bhaddan te, daḷhaṃ gaṇhāhi thāmasā, ahan taṃ uddharissāmi supaṇṇo uragam-m-ivā[^334-1] 'ti. || Ja_VII:30 ||
+Ja_VII,1.5(=400).2: Gambhīracāri bhaddan te, daḷhaṃ gaṇhāhi thāmasā, ahan taṃ uddharissāmi supaṇṇo uragam-m-ivā[^334-1] 'ti. ||  
+Ja_VII:30 ||  
 
 Tattha thāmasā ti thāmena, uddharissāmīti nīharissāmi, supaṇṇo uragammivā[^334-2] ti garuḷo[^334-3] sappaṃ viya. Atha dve pi te ekato hutvā rohitamacchaṃ nīharitvā thale[^334-4] ṭhapetvā māretvā[^334-5] "bhājehīti" kalahaṃ katvā bhājetuṃ asakkontā[^334-6] ṭhapetvā nisīdiṃsu. Tasmiṃ khaṇe sigālo taṃ ṭhānaṃ anuppatto. Te taṃ disvā ubho pi paccuggamanaṃ katvā "ayaṃ samma dabbhapuppha maccho[^334-7] amhehi ekato hutvā gahito, taṃ no bhājetuṃ asakkontānaṃ vivādo uppanno, samabhāgaṃ no bhājetvā dehīti" tatiyaṃ gātham āhaṃsu:
 
-Ja_VII,1.5(=400).3: Vivādo no samuppanno, dabbhapuppha[^334-7] suṇohi me, samehi medhakaṃ samma, vivādo vūpasammatan ti. || Ja_VII:31 ||
+Ja_VII,1.5(=400).3: Vivādo no samuppanno, dabbhapuppha[^334-7] suṇohi me, samehi medhakaṃ samma, vivādo vūpasammatan ti. ||  
+Ja_VII:31 ||  
 
 Tattha dabbhapapphā[^334-8] 'ti dabbhapupphasamānavaṇṇatāya[^334-7] taṃ ālapati, medhakan ti kalahaṃ. Tesaṃ vacanaṃ[^334-9] sutvā sigālo attano balaṃ dīpento
 
-Ja_VII,1.5(=400).4: Dhammaṭṭho 'haṃ pure āsiṃ, bahu atthaṃ me tīritaṃ, samemi medhakaṃ[^334-10] sammā[^334-11], vivādo vūpasammatan ti || Ja_VII:32 ||
+Ja_VII,1.5(=400).4: Dhammaṭṭho 'haṃ pure āsiṃ, bahu atthaṃ me tīritaṃ, samemi medhakaṃ[^334-10] sammā[^334-11], vivādo vūpasammatan ti ||  
+Ja_VII:32 ||  
 
 imaṃ gāthaṃ vatvā bhājento
 
-Ja_VII,1.5(=400).5: Anutīrācārī[^334-12] naṅguṭṭhaṃ, sīsaṃ Gambhīracārino, athāyaṃ majjhimo khaṇḍo dhammaṭṭhassa[^334-13] bhavissatīti || Ja_VII:33 ||
+Ja_VII,1.5(=400).5: Anutīrācārī[^334-12] naṅguṭṭhaṃ, sīsaṃ Gambhīracārino, athāyaṃ majjhimo khaṇḍo dhammaṭṭhassa[^334-13] bhavissatīti ||  
+Ja_VII:33 ||  
 
 imaṃ gātham āha. Tattha paṭhamagāthāya ayam attho: ahaṃ pubbe rājūnaṃ vinicchayāmacco āsiṃ, tena mayā vinicchaye nisīditvā bahum atthaṃ[^334-13] tīritaṃ, tesaṃ tesaṃ[^334-15] brāhmaṇagahapatikānaṃ[^334-16] bahū atthā tīritā[^334-17], vinicchinitvā[^334-18] sv-āhaṃ tumhādisānaṃ samajātikānaṃ catuppadānaṃ atthaṃ tīretuṃ kiṃ na sakkhissāmi, ahaṃ[^334-19] vo samemi medhakaṃ, sammā maṃ nissāya tumhākaṃ vivādo vūpasammatū[^334-20]
 
@@ -4396,19 +4897,23 @@ imaṃ gātham āha. Tattha paṭhamagāthāya ayam attho: ahaṃ pubbe rājūna
 
 ti, evañ ca pana vatvā macchaṃ tayo koṭṭhāse katvā: Anutīracāri tvaṃ naṅguṭṭhaṃ gaṇha, sīsaṃ Gambhīracārino hotu, athāyaṃ[^335-1] majjhimo khaṇḍo ti api ca ayaṃ majjhimo koṭṭhāso, athavā: accā ti[^335-2] aticca, ime dve koṭṭhāse atikkamitvā ṭhito ayaṃ majjhimo khaṇḍo dhammaṭṭhassa[^335-3] vinicchayasāmikassa mayhaṃ bhavissatīti. Evaṃ taṃ macchaṃ vibhajitvā "tumhe kalahaṃ akatvā naṅguṭṭhañ ca sīsañ ca khādathā" 'ti vatvā majjhimakhaṇḍaṃ mukhena[^335-4] ḍasitvā tesaṃ passantānaṃ ñeva[^335-5] pāyāsi[^335-6]. Te sahassaṃ[^335-7] parājitā viya dummukhā nisīditvā chaṭṭhaṃ gātham āhaṃsu:
 
-Ja_VII,1.5(=400).6: Ciram pi bhakkho abhavissa sace na vivademase, asīsakaṃ[^335-8] anaṅguṭṭhaṃ sigālo harati rohitan ti. || Ja_VII:34 ||
+Ja_VII,1.5(=400).6: Ciram pi bhakkho abhavissa sace na vivademase, asīsakaṃ[^335-8] anaṅguṭṭhaṃ sigālo harati rohitan ti. ||  
+Ja_VII:34 ||  
 
 Tattha cirampīti dve vā[^335-9] tayo vā[^335-9] divase sandhāya vuttaṃ. Sigālo pi "ajja bhariyaṃ rohitamacchaṃ khādāpessāmīti" tuṭṭhacitto tassā santikaṃ agamāsi. Sā taṃ āgacchantaṃ disvā abhinandamānā
 
-Ja_VII,1.5(=400).7: Yathāpi rājā nandeyya rajjaṃ laddhāna khattiyo ev'; āham ajja nandāmi disvā puṇṇamukhaṃ patin ti || Ja_VII:35 ||
+Ja_VII,1.5(=400).7: Yathāpi rājā nandeyya rajjaṃ laddhāna khattiyo ev'; āham ajja nandāmi disvā puṇṇamukhaṃ patin ti ||  
+Ja_VII:35 ||  
 
 imaṃ gāthaṃ vatvā adhigamūpāyaṃ pucchantī
 
-Ja_VII,1.5(=400).8: Kathan nu thalajo santo udake macchaṃ parāmasi, puṭṭho me samma akkhāhi kathaṃ adhigataṃ tayā ti || Ja_VII:36 ||
+Ja_VII,1.5(=400).8: Kathan nu thalajo santo udake macchaṃ parāmasi, puṭṭho me samma akkhāhi kathaṃ adhigataṃ tayā ti ||  
+Ja_VII:36 ||  
 
 imaṃ gātham āha. Tattha kathannū 'ti[^335-10] khāda bhadde ti macchakhaṇḍe purato ṭhapite kathan nu tvaṃ thalajo samāno[^335-11] udake macchaṃ gaṇhīti pucchati[^335-12]. Sigālo tassā adhigamūpāyaṃ ācikkhanto anantaraṃ[^335-12] gātham āha:
 
-Ja_VII,1.5(=400).9: Vivādena kisā honti, vivādena dhanakkhayā, jīnā[^335-14] uddā vivādena, bhuñja Māyāvi rohitan ti. || Ja_VII:37 ||
+Ja_VII,1.5(=400).9: Vivādena kisā honti, vivādena dhanakkhayā, jīnā[^335-14] uddā vivādena, bhuñja Māyāvi rohitan ti. ||  
+Ja_VII:37 ||  
 
 
 <!-- PTS Page 336 -->
@@ -4418,7 +4923,8 @@ Ja_VII,1.5(=400).9: Vivādena kisā honti, vivādena dhanakkhayā, jīnā[^335-
 
 Tattha vivādena kisā hontīti bhadde ime sattā vivādaṃ karontā vivādaṃ nissāya kisā appamaṃsalohitā honti, vivādena dhanakkhayā ti hiraññasuvaṇṇādīnaṃ dhanānaṃ khayāpi[^336-1] vivāden'; eva honti, dvīsu vivadantesu[^336-2] eko[^336-3] parājito parājitattā dhanakkhayaṃ pāpuṇāti itaro jayabhāgadānena, jīnā[^336-4] uddā ti dve[^336-5] pi vivāden'; eva imaṃ macchaṃ jīnā[^336-6], tasmā tvaṃ mayā ābhatassa[^336-7] uppattiṃ mā sodhesi[^336-8], kevalaṃ[^336-9] imaṃ bhuñja Māyāvi rohitan ti. Itarā[^336-10] abhisambuddhagāthā:
 
-Ja_VII,1.5(=400).10: Evam evaṃ manussesu vivādo yattha jāyati dhammaṭṭhaṃ paṭi dhāvanti, so hi nesaṃ vināyako, dhanāpi tattha jīyanti[^336-11] rājakoso ca[^336-12] vaḍḍhatīti. || Ja_VII:38 ||
+Ja_VII,1.5(=400).10: Evam evaṃ manussesu vivādo yattha jāyati dhammaṭṭhaṃ paṭi dhāvanti, so hi nesaṃ vināyako, dhanāpi tattha jīyanti[^336-11] rājakoso ca[^336-12] vaḍḍhatīti. ||  
+Ja_VII:38 ||  
 
 Ettha[^336-13] evamevan ti bhikkhave yathā ete uddā jīnā evam evaṃ manussesu pi yasmiṃ ṭhāne vivādo jāyati tattha te manussā dhammaṭṭhaṃ paṭidhāvanti vinicchayasāmikaṃ upasaṃkamanti, kiṃkāraṇā: so hi nesaṃ vināyako[^336-14], tesaṃ vivādāpannānaṃ vivādavūpasamako ti attho, dhanāpi tatthā 'ti tattha te vivādāpannā dhanato pi jīyanti attano santakā parihāyanti daṇḍena c'; eva jayabhāgagahaṇena ca rājakoso ca[^336-15] vaḍḍhatīti. Satthā imaṃ desanaṃ[^336-16] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: "Tadā sigālo Upanando ahosi, uddā dve mahallakā, tassa kāraṇassa paccakkhakārikā rukkhadevatā[^336-17] aham evā" 'ti. Dabbhapupphajātakaṃ[^336-18].
 
@@ -4440,7 +4946,8 @@ Atīte Bārāṇasiyaṃ Maddavamahārāje[^337-1] rajjaṃ kārente Bodhisatto 
 
 gaṇe samajjaṃ kāretvā asiṃ gilituṃ jānantena[^338-1] asiṃ gilāpema[^338-2], rājānaṃ sīhapañjare katvā samajjaṃ olokāpessāma[^338-3], rājā asiṃ gilantaṃ disvā ‘atthi nu kho ito aññaṃ dukkarataran' ti pañhaṃ pucchissati, taṃ[^338-4] samma Āyura tvaṃ ‘asukaṃ nāma dadāmīti vacanaṃ ito dukkarataran'; ti vyākareyyāsi, tato samma Pukkusa taṃ pucchissati, ath'; assa tvaṃ ‘mahārāja, dadāmīti vatvā adadato sā vācā aphalā hotīti, tathārūpiṃ vācaṃ na keci upajīvanti[^338-5], na khādanti na pivanti, ye pana tassa vacanassānucchavikaṃ[^338-6] karonti yathāpaṭiññātam atthaṃ denti yeva idaṃ tato dukkarataran'; ti evaṃ vyākareyyāsi, itoparaṃ kattabbaṃ ahaṃ jānissāmīti" vatvā samajjaṃ kāresi. Atha te tayo[^338-7] paṇḍitā rañño santikaṃ gantvā "mahārāja, rājaṅgaṇe samajjo vattati, taṃ olokentānaṃ[^338-8] dukkham pi na dukkhaṃ hoti, ehi gacchāmā[^338-9]" 'ti rājānaṃ netvā sīhapañjaraṃ vivaritvā samajjaṃ olokāpesuṃ. Bahū[^338-10] janā attano attano[^338-11] jānanakasippaṃ dassesuṃ. Eko pana puriso tettiṃsaṅgulaṃ tikhiṇadhāraṃ asiratanaṃ gilati. Rājā taṃ disvā "ayaṃ puriso etaṃ asiṃ gilati, ‘atthi nu kho ito aññaṃ dukkarataran'; ti ime paṇḍite pucchissāmīti" cintetvā Āyuraṃ pucchanto paṭhamaṃ gātham āha:
 
-Ja_VII,1.6(=401).1: Dasaṇṇakaṃ[^338-12] tikhiṇadhāraṃ asiṃ sampanna pāyinaṃ parisāyaṃ puriso gilati kiṃ dukkarataraṃ tato, yad aññaṃ dukkaraṃ ṭhānaṃ tam[^338-13] me akkhāhi pucchito ti. || Ja_VII:39 ||
+Ja_VII,1.6(=401).1: Dasaṇṇakaṃ[^338-12] tikhiṇadhāraṃ asiṃ sampanna pāyinaṃ parisāyaṃ puriso gilati kiṃ dukkarataraṃ tato, yad aññaṃ dukkaraṃ ṭhānaṃ tam[^338-13] me akkhāhi pucchito ti. ||  
+Ja_VII:39 ||  
 
 Tattha dasaṇṇakan[^338-12] ti Dasaṇṇakaraṭṭhe[^338-12] uppannaṃ, sampannapāyinan[^338-14] ti sampannaṃ[^338-15] paralohitapānapāyiṃ[^338-16], parisāyan ti parisamajjhe dhanalobhena ayaṃ puriso gilati, yadaññan ti[^338-17] ito asigilanato yaṃ aññaṃ dukkaraṃ taṃ[^338-18] kāraṇaṃ tvaṃ[^338-19] mayā pucchito kathehīti.
 
@@ -4452,15 +4959,18 @@ Tattha dasaṇṇakan[^338-12] ti Dasaṇṇakaraṭṭhe[^338-12] uppannaṃ, s
 
 Atha[^339-1] so kathento dutiyaṃ gātham āha:
 
-Ja_VII,1.6(=401).2: Gileyya puriso lobhā asiṃ sampanna pāyinaṃ, yo[^339-2] ca vajjā dadāmīti taṃ dukkarataram tato, sabb'; aññaṃ sukaraṃ ṭhānaṃ, evaṃ jānāhi Māgadhā[^339-3] 'ti. || Ja_VII:40 ||
+Ja_VII,1.6(=401).2: Gileyya puriso lobhā asiṃ sampanna pāyinaṃ, yo[^339-2] ca vajjā dadāmīti taṃ dukkarataram tato, sabb'; aññaṃ sukaraṃ ṭhānaṃ, evaṃ jānāhi Māgadhā[^339-3] 'ti. ||  
+Ja_VII:40 ||  
 
 Tattha vajjā ti vadeyya, taṃ dukkarataran ti taṃ dadāmīti vacanaṃ tato asigilanato dukkarataraṃ, sabbaññan[^339-4] ti asukaṃ nāma tava dassāmīti vacanaṃ ṭhapetvā aññaṃ sabbam[^339-5] pi kāraṇaṃ[^339-6] sukaraṃ, Māgadhā[^339-3] 'ti rājānam gottenālapati[^339-7] Rañño Āyurapaṇḍitassa vacanaṃ sutvā "asigilanato kira ‘idaṃ nāma dammīti'; vacanaṃ dukkaraṃ, ahañ ca ‘purohitaputtassa deviṃ dammīti'; avacaṃ, atidukkaraṃ vata me katan" ti vīmaṃsantass'; eva hadaye soko thokaṃ tanuttaṃ[^339-8] gato. Tato "parassa idaṃ[^339-9] nāma[^339-10] demīti vacanato pan'; aññaṃ[^339-11] dukkarataraṃ atthi nu kho" ti cintetvā Pukkusapaṇḍitena[^339-12] saddhiṃ sallapanto tatiyaṃ gātham āha:
 
-Ja_VII,1.6(=401).3: Vyākāsi Āyuro pañhaṃ atthadhammassa[^339-13] kovido, Pukkusaṃ dāni pucchāmi: kiṃ dukkarataraṃ tato, yad aññaṃ dukkaraṃ ṭhānaṃ tam[^339-14] me akkhāhi pucchito ti. || Ja_VII:41 ||
+Ja_VII,1.6(=401).3: Vyākāsi Āyuro pañhaṃ atthadhammassa[^339-13] kovido, Pukkusaṃ dāni pucchāmi: kiṃ dukkarataraṃ tato, yad aññaṃ dukkaraṃ ṭhānaṃ tam[^339-14] me akkhāhi pucchito ti. ||  
+Ja_VII:41 ||  
 
 Tattha pañhaṃ atthan[^339-15] ti pañhassa atthaṃ vyākarīti vuttaṃ hoti, dhammassa kovido ti tadatthajotake ganthe[^339-16] kusalo, tato ti tato vacanato kiṃ dukkarataraṃ. Ath'; assa vyākaronto Pukkusapaṇḍito catutthaṃ gātham āha:
 
-Ja_VII,1.6(=401).4: Na vācam[^339-17] upajīvanti aphalaṃ giram[^339-18] udīritaṃ, yo ca datvā avākayirā taṃ dukkarataraṃ tato, sabb'; aññaṃ sukaraṃ ṭhānaṃ, evaṃ jānāhi Māgadhā[^339-3] 'ti. || Ja_VII:42 ||
+Ja_VII,1.6(=401).4: Na vācam[^339-17] upajīvanti aphalaṃ giram[^339-18] udīritaṃ, yo ca datvā avākayirā taṃ dukkarataraṃ tato, sabb'; aññaṃ sukaraṃ ṭhānaṃ, evaṃ jānāhi Māgadhā[^339-3] 'ti. ||  
+Ja_VII:42 ||  
 
 Tattha datvā ti asukaṃ nāma demīti paṭiññaṃ datvā, avākayirā ti taṃ paṭiññātam[^339-19] atthaṃ dadanto tasmiṃ lobhaṃ avākareyya chindeyya[^339-20], taṃ
 
@@ -4472,11 +4982,13 @@ Tattha datvā ti asukaṃ nāma demīti paṭiññaṃ datvā, avākayirā ti ta
 
 bhaṇḍaṃ dadeyyā[^340-1] 'ti vuttaṃ[^340-2] hoti, tato ti asigilanato[^340-3] ca[^340-4] asukaṃ nāma te demīti[^340-5] vacanato ca tad eva dukkarataraṃ. Rañño tam pi[^340-6] vacanaṃ sutvā "ahaṃ ‘purohitaputtassa deviṃ demīti[^340-5]'; paṭhamaṃ vatvā vācāanucchavikaṃ[^340-7] katvā[^340-8] adāsiṃ, dukkaraṃ vata me katan" ti parivitakkentassa soko tanukataro[^340-9] jāto. Ath'; assa etad ahosi: "Senakapaṇḍitato añño paṇḍitataro nāma n'; atthi, imaṃ pañhaṃ etaṃ pucchissāmīti" tato taṃ pucchanto pañcamaṃ gātham āha:
 
-Ja_VII,1.6(=401).5: Vyākāsi Pukkuso pañhaṃ atthadhammassa[^340-10] kovido, Senakaṃ dāni pucchāmi: kiṃ dukkarataraṃ tato, yad aññaṃ dukkaraṃ ṭhānam tam[^340-11] me akkhāhi pucchito ti[^340-12]. || Ja_VII:43 ||
+Ja_VII,1.6(=401).5: Vyākāsi Pukkuso pañhaṃ atthadhammassa[^340-10] kovido, Senakaṃ dāni pucchāmi: kiṃ dukkarataraṃ tato, yad aññaṃ dukkaraṃ ṭhānam tam[^340-11] me akkhāhi pucchito ti[^340-12]. ||  
+Ja_VII:43 ||  
 
 Ath'; assa vyākaronto Senako chaṭṭhaṃ gāthamā ha:
 
-Ja_VII,1.6(=401).6: Dadeyya puriso dānaṃ appaṃ vā yadivā bahuṃ, yo ca datvā nānutape[^340-13] taṃ dukkarataraṃ tato, sabb'; aññam sukaraṃ ṭhānaṃ, evaṃ jānāhi Māgadhā[^340-14] 'ti. || Ja_VII:44 ||
+Ja_VII,1.6(=401).6: Dadeyya puriso dānaṃ appaṃ vā yadivā bahuṃ, yo ca datvā nānutape[^340-13] taṃ dukkarataraṃ tato, sabb'; aññam sukaraṃ ṭhānaṃ, evaṃ jānāhi Māgadhā[^340-14] 'ti. ||  
+Ja_VII:44 ||  
 
 Tattha nānutape[^340-13] ti attano atikkantaṃ[^340-15] atimanāpaṃ piyabhaṇḍaṃ parassa datvā kimatthaṃ mayā idaṃ dinnan ti evaṃ taṃ piyabhaṇḍaṃ ārabbha yo[^340-16] pacchā[^340-17] nānutappati na socati taṃ asigilanato ca asukaṃ nāma demīti[^340-18] vacanato ca tassa dānato ca dukkarataraṃ. Iti Mahāsatto rājānaṃ saññapento[^340-19] kathesi. Dānaṃ hi datvā aparacetanā[^340-20] va dussandhāriyā[^340-21], tassā sandhāraṇadukkaratā[^340-22] Vessantarajātakena dīpitā ti, vuttaṃ h'; etaṃ[^340-23]: Ādu[^340-24] cāpaṃ gahetvāna khaggaṃ bandhitva[^340-25] vāmato ānayāmi sake putte, puttānaṃ hi vadho dukho[^340-26]. Addhā hi me taṃ dukkharūpaṃ yaṃ kumārā vihaññare, satañ ca dhammam aññāya ko datvā anutapissatiti[^340-27]. Rājā[^340-28] Bodhisattassa vacanaṃ sutvā sallakkhesi: "ahaṃ attano manen'; eva purohitaputtassa deviṃ datvā sakamanaṃ
 
@@ -4488,7 +5000,8 @@ Tattha nānutape[^340-13] ti attano atikkantaṃ[^340-15] atimanāpaṃ piyabha�
 
 sandhāretuṃ na sakkomi, socāmi kilamāmi, na me idaṃ anucchavikaṃ, sace[^341-1] mayi sasnehā bhaveyya idaṃ[^341-2] issariyaṃ chaḍḍetvā na palāyeyya, mayi[^341-3] pana sinehaṃ[^341-4] akatvā palātāya kiṃ tāya mayhan" ti. Tass'; evaṃ cintentassa padumapatte udabindu[^341-5] viya sabbo[^341-6] soko vivaṭṭitvā[^341-7] gato. Taṃ khaṇaṃ ñev'; assa[^341-8] kucchi parisaṇṭhāsi. Nīrogo[^341-9] sukhito hutvā Bodhisattassa thutiṃ karonto osānagātham āha:
 
-Ja_VII,1.6(=401).7: Vyākāsi Āyuro pañhaṃ atha Pukkusa-poriso, sabbe pañhe atihoti yathā bhāsati Senako ti. || Ja_VII:45 ||
+Ja_VII,1.6(=401).7: Vyākāsi Āyuro pañhaṃ atha Pukkusa-poriso, sabbe pañhe atihoti yathā bhāsati Senako ti. ||  
+Ja_VII:45 ||  
 
 Tattha yathā bhāsatīti yathā paṇḍito bhāsati tath'; ev'; etaṃ[^341-10]: dānaṃ nāma datvā n'; eva anutapitabban[^341-11] ti. Imaṃ pan'; assa thutiṃ katvā tuṭṭho bahuṃ[^341-12] dhanam adāsi. Satthā imaṃ desanaṃ[^341-13] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne ukkaṇṭhitabhikkhu sotāpattiphale patiṭṭhahi) "Tadā rājamahesī purāṇadūtiyikā ahosi, rājā ukkaṇṭhitabhikkhu, Āyura-paṇḍito Moggallāno, Pukkusa-paṇḍito Sāriputto, Senakapaṇḍito[^341-14] aham evā" 'ti. Dasaṇṇakajātakaṃ[^341-15].
 
@@ -4518,7 +5031,8 @@ atittā[^343-1] taṃ brāhmaṇaṃ nīharitvā vissatthā[^343-2] pāpakamma�
 
 mahantam pi sokaṃ harituṃ sakkonti, mayāpi tattha gantvā dhammaṃ sotuṃ vaṭṭatīti" so tehi saddhiṃ tattha gantvā Mahāsattaṃ parivāretvā nisinnāya sarājikāya parisāya pariyante sattupasibbakena khandhagatena dhammāsanato avidūre maraṇabhayabhīto[^344-1] aṭṭhāsi. Mahāsatto Ākāsagaṅgaṃ otārento viya amatavassaṃ vassanto viya[^344-2] dhammaṃ desesi. Mahājano sañjātasomanasso sādhukāraṃ datvā dhammaṃ assosi. Paṇḍitā ca nāma disācakkhukā honti[^344-3]. Tasmiṃ khaṇe Mahāsatto pasannapañcappasādāni[^344-4] akkhīni ummīletvā samantato parisaṃ olokento taṃ brāhmaṇaṃ disvā cintesi: "ayaṃ[^344-5] ettikā parisā somanassajātā sādhukāraṃ datvā dhammaṃ suṇāti, ayaṃ pan' eko brāhmaṇo domanassappatto rodati, etass'; abbhantare[^344-6] assujananasamatthena sokena bhavitabbaṃ, tam assa ambilena paharitvā tambamalaṃ[^344-7] viya padumapalāsato udabindu[^344-8] viya vinivaṭṭetvā etth'; eva naṃ nissokaṃ tuṭṭhamānasaṃ katvā dhammaṃ desessāmīti" so taṃ āmantetvā "brāhmaṇa, Senakapaṇḍito nāmāhaṃ, idān'; eva taṃ nissokaṃ karissāmi, vissattho kathehīti" tena saddhiṃ sallapanto paṭhamaṃ gātham āha:
 
-Ja_VII,1.7(=402).1: Vibbhantacitto kupitindriyo si, nettehi te vārigaṇā savanti, kin te naṭṭhaṃ kiṃ pana patthayāno idhāgamā brahme tad iṃgha[^344-9] brūhīti. || Ja_VII:46 ||
+Ja_VII,1.7(=402).1: Vibbhantacitto kupitindriyo si, nettehi te vārigaṇā savanti, kin te naṭṭhaṃ kiṃ pana patthayāno idhāgamā brahme tad iṃgha[^344-9] brūhīti. ||  
+Ja_VII:46 ||  
 
 Tattha kupitindriyo sīti cakkhundriyam eva sandhāya ghaṭṭitindriyo[^344-10] sīti āha, vārigaṇā ti assubindūni, iṃghā 'ti codanatthe nipāto, taṃ hi Mahāsatto codento evamāha: brāhmaṇa, sattā nāma dvīhi kāraṇehi socanti paridevanti sattasaṃkhāresu kismicid[^344-11] eva piyajātike naṭṭhe vā kiñcid eva piyajātikaṃ patthetvā alabhantā vā, tattha kiṃ te naṭṭhaṃ kiṃ vā pana patthayanto tvaṃ idhāgato[^344-12], idaṃ me khippaṃ brūhīti.
 
@@ -4530,7 +5044,8 @@ Tattha kupitindriyo sīti cakkhundriyam eva sandhāya ghaṭṭitindriyo[^344-10
 
 Ath'; assa attano sokakāraṇaṃ kathento brāhmaṇo dutiyaṃ gātham āha:
 
-Ja_VII,1.7(=402).2: Mīyetha bhariyā[^345-1] vajato mam'; ajja, agacchato maraṇaṃ āha[^345-2] yakkho, etena dukkhena pavedhito 'smi, akkhāhi me Senaka etam atthan ti. || Ja_VII:47 ||
+Ja_VII,1.7(=402).2: Mīyetha bhariyā[^345-1] vajato mam'; ajja, agacchato maraṇaṃ āha[^345-2] yakkho, etena dukkhena pavedhito 'smi, akkhāhi me Senaka etam atthan ti. ||  
+Ja_VII:47 ||  
 
 Tattha[^345-3] vajato ti gehaṃ gacchantassa, agacchato ti agacchantassa, yakkho ti antarāmagge ekā rukkhadevatā, evaṃ āhā 'ti vadati, sā kira devatā pasibbake te[^345-4] brāhmaṇa kaṇhasappo ti anācikkhantī Bodhisattassa ñāṇānubhāvappakāsanatthaṃ nācikkhi, etena dukkhenā 'ti gacchato bhariyāya maraṇadukkhena[^345-5] agacchato attano maraṇadukkhena[^345-6], ten'; asmi pavedhito ghaṭṭito kampito, etamatthan ti etaṃ kāranaṃ, yena me kāraṇena gacchato bhariyāya maraṇaṃ agacchato attano maraṇaṃ hoti[^345-7] etaṃ me kāraṇaṃ ācikkhāhīti attho. Mahāsatto brāhmaṇassa vacanaṃ sutvā samuddamatthake jālaṃ khipanto viya ñāṇajālaṃ pattharitvā "imesaṃ sattānaṃ bahūni maraṇakāraṇāni: samudde nimuggāpi maranti, tattha vāḷamacchehi gahitāpi, Gaṅgāya patitāpi[^345-8] suṃsumārehi gahitāpi, rukkhato patitāpi kaṇṭakena viddhāpi, nānappakārehi āvudhehi pāhaṭāpi, visaṃ khāditvāpi ubbandhitvāpi[^345-9] papāte patitvāpi[^345-10] atisītādīhi[^345-11] vā nānappakārehi vā rogehi upaddutāpi maranti yeva, evaṃ bahūsu maraṇakāraṇesu katarena nu kho kāraṇena ajj'; esa[^345-12] brāhmaṇo antarāmagge vasanto sayaṃ marissati geham assa vajato bhariyā marissatīti" cintesi, cintento eva ca[^345-13] brāhmaṇassa khandhe pasibbakaṃ disvā "imasmiṃ pasibbake ekena sappena paviṭṭhena bhavitabbaṃ, pavisanto ca pana so[^345-14] imasmiṃ brāhmaṇe pātarāsasamaye sattuṃ khāditvā pasibbakamukhaṃ abandhitvā va[^345-15] pānīyaṃ pātuṃ gate sattugandhena[^345-16] paviṭṭho bhavissati, brāhmaṇo pi pānīyaṃ pivitvā āgato sappassa paviṭṭhabhāvaṃ ajānitvā va pasibbakaṃ bandhitvā ādāya
 
@@ -4542,7 +5057,8 @@ Tattha[^345-3] vajato ti gehaṃ gacchantassa, agacchato ti agacchantassa, yakkh
 
 pakkanto bhavissati, sv-āyaṃ antarāmagge vasanto sāyaṃ[^346-1] vasanaṭṭhāne ‘sattuṃ khādissāmīti'; pasibbakaṃ muñcitvā hatthaṃ pavesessati, atha naṃ sappo hatthe ḍasitvā jīvitakkhayaṃ pāpessati[^346-2], idam assa antarāmagge vasantassa maraṇakāraṇaṃ, sace pana gehaṃ gaccheyya pasibbako bhariyāya hatthagato bhavissati, sā ‘antobhaṇḍaṃ olokessāmīti'; pasibbakaṃ muñcitvā hatthaṃ pavesessati, atha naṃ sappo ḍasitvā jīvitakkhayaṃ pāpessati, idam assa ajja gehaṃ gatassa[^346-3] bhariyāya maraṇakāraṇan" ti upāyakosallañāṇen'; eva aññāsi. Ath' assa etad ahosi: "iminā sappena[^346-4] kaṇhasappena sūrena nibbhayena bhavitabbaṃ, ayaṃ hi[^346-5] brāhmaṇassa mahāphāsukaṃ paharante pi[^346-6] pasibbake attano calanaṃ vā phandanaṃ[^346-7] vā na dasseti, evarūpāya parisāya majjhe pi attano[^346-8] atthibhāvaṃ na dasseti, tasmā iminā kaṇhasappena sūrena nibbhayena bhavitabban" ti idam pi so upāyakosallañaṇen'; eva[^346-9] dibbacakkhunā passanto viya aññāsi. Evaṃ sarājikāya parisāya majjhe sappaṃ pasibbakaṃ pavisantaṃ disvā ṭhitapuriso viya Mahāsatto upāyakosallañāṇen'; eva paricchinditvā[^346-10] brāhmaṇassa pañhaṃ kathento tatiyaṃ gātham āha:
 
-Ja_VII,1.7(=402).3: Bahūni ṭhānāni vicintayitvā yam ettha vakkhāmi tad eva saccaṃ, maññāmi te brāhmaṇa sattubhastaṃ[^346-11] ajānato kaṇhasappo paviṭṭho ti. || Ja_VII:48 ||
+Ja_VII,1.7(=402).3: Bahūni ṭhānāni vicintayitvā yam ettha vakkhāmi tad eva saccaṃ, maññāmi te brāhmaṇa sattubhastaṃ[^346-11] ajānato kaṇhasappo paviṭṭho ti. ||  
+Ja_VII:48 ||  
 
 Tattha bahūni ṭhānānīti bahūni kāraṇani, vicintayitvā ti paṭivijjhitvā cintāvasena pavattapaṭivedho viya[^346-12] hutvā, yamettha vakkhāmīti yaṃ te ahaṃ etesu kāraṇesu ekaṃ kāraṇam vakkhāmi, tadeva saccan ti tad ev' atthaṃ[^346-13] dibbacakkhunā disvā kathitasadisaṃ bhavissatīti dīpeti, maññāmīti sallakkhemi, sattubhastan[^346-11] ti sattupasibbakaṃ, ajānato ti ajānantass'; eva eko kaṇhasappo paviṭṭho ti maññāmīti.
 
@@ -4554,7 +5070,8 @@ Tattha bahūni ṭhānānīti bahūni kāraṇani, vicintayitvā ti paṭivijjhi
 
 Evañ ca pana vatvā "atthi te brāhmaṇa etasmiṃ pasibbake sattū" 'ti pucchi. "Atthi paṇḍitā" 'ti. "Ajja pātarāsavelāya sattuṃ khādīti[^347-1]". "Āma paṇḍitā" 'ti., Kattha nisīditvā" 'ti. "Araññe rukkhamūlasmin" ti[^347-2]. "Sattuṃ khāditvā pānīyaṃ pātuṃ gacchanto pasibbakamukhaṃ bandhi na bandhīti[^347-3]". "Na bandhiṃ[^347-4] paṇḍitā" 'ti. "Pānīyaṃ pivitvā āgato pasibbakaṃ oloketvā bandhīti[^347-5]". "Anoloketvā bandhiṃ[^347-6] paṇḍitā" 'ti. "Brāhmaṇa tava pānīyaṃ pātuṃ gatakāle ajānantass'; eva te sattugandhena pasibbakaṃ sappo paviṭṭho ti maññāmi, etam etth'; atthaṃ[^347-7], tasmā pasibbakaṃ otāretvā parisamajjhe ṭhapetvā mukhaṃ[^347-8] mocetvā paṭikkamma ṭhito ekaṃ daṇḍaṃ[^347-9] gahetvā pasibbakaṃ tāva pahara, tato patthaṭaphaṇaṃ[^347-10] susū ti katvā nikkhamantaṃ kaṇhasappaṃ disvā nikkaṃkho bhavissasīti[^347-11]" catutthaṃ gātham āha:
 
-Ja_VII,1.7(=402).4: Ādāya daṇḍaṃ parisumbha[^347-12] bhastaṃ[^347-13], pass'; eḷamūgaṃ uragaṃ dijivhaṃ, chind'; ajja kaṃkhaṃ vicikicchitāni, bhujaṅgamaṃ passa, pamuñca bhastan[^347-14] ti. || Ja_VII:49 ||
+Ja_VII,1.7(=402).4: Ādāya daṇḍaṃ parisumbha[^347-12] bhastaṃ[^347-13], pass'; eḷamūgaṃ uragaṃ dijivhaṃ, chind'; ajja kaṃkhaṃ vicikicchitāni, bhujaṅgamaṃ passa, pamuñca bhastan[^347-14] ti. ||  
+Ja_VII:49 ||  
 
 Tattha parisumbhā[^347-15] 'ti pahara, passeḷamūgan ti eḷapaggharantena mukhena eḷamūgaṃ[^347-16] pasibbakato nikkhamantaṃ dijivhaṃ uragaṃ passa, chindajja kaṃkhaṃ vicikicchitānīti atthi nu kho me pasibbake sappo udāhu n'; atthīti kaṃkham eva punappana uppajjamānāni vicikicchitāni ca ajja chinda, mayhaṃ saddaha, avitathaṃ hi me veyyākaraṇaṃ, idān'; eva nikkhamantaṃ bhujaṅgamaṃ passa, pamuñca bhastan[^347-13] ti. Brāhmaṇo Mahāsattassa kathaṃ sutvā saṃviggo bhayappatto tathā akāsi. Sappo pi bhoge[^347-17] daṇḍena pahaṭe[^347-18] pasibbakamukhā nikkhamitvā mahājanaṃ olokento aṭṭhāsi.
 
@@ -4566,11 +5083,13 @@ Tattha parisumbhā[^347-15] 'ti pahara, passeḷamūgan ti eḷapaggharantena mu
 
 Tam atthaṃ pakāsento Satthā pañcamaṃ gātham āha:
 
-Ja_VII,1.7(=402).5: Saṃviggarūpo parisāya majjhe so brāhmaṇo sattubhastaṃ[^348-1] pamuñci, atha nikkhami urago uggatejo āsīviso sappo phaṇaṃ karitvā ti. || Ja_VII:50 ||
+Ja_VII,1.7(=402).5: Saṃviggarūpo parisāya majjhe so brāhmaṇo sattubhastaṃ[^348-1] pamuñci, atha nikkhami urago uggatejo āsīviso sappo phaṇaṃ karitvā ti. ||  
+Ja_VII:50 ||  
 
 Sappassa phaṇaṃ katvā nikkhamanakāle Mahāsattassa sabbaññuBuddhasseva vyākaraṇaṃ ahosi[^348-2]. Mahājano celukkhepasahassāni pavattesi, aṅgulipoṭhasahassāni[^348-3] paribbhamiṃsu, ghanameghavassaṃ[^348-4] viya sattaratanavassaṃ vassi, sādhukārasatasahassāni[^348-5] pavattiṃsu, mahāpaṭhavibhijjanasaddo[^348-6] viya ahosi. Idaṃ pana Buddhalīḷhāya evarūpassa pañhassa[^348-7] kathanaṃ nāma n'; eva jātiyā balaṃ[^348-8] na gottakulapadesayasadhanānaṃ[^348-9] balaṃ, kassa pan'; etaṃ balan ti, paññāya[^348-10], paññavā hi puriso vipassanaṃ vaḍḍhetvā ariyamaggadvāraṃ vivaritvā amatamahānibbānaṃ pavisati, sāvakapāramim pi paccekabodhim pi sammāsambodhim pi paṭivijjhati, amatamahānibbānasampāpakesu hi dhammesu paññā va seṭṭhā, avasesā tassā[^348-11] parivārā[^348-12] honti, ten' etaṃ[^348-13] vuttaṃ: Paññā hi seṭṭhā kusalā vadanti nakkhattarājā-r-iva tārakānaṃ, sīlaṃ siriñ cāpi satañ ca dhammaṃ[^348-14] anvāyikā paññavato bhavantīti[^348-15]. Evaṃ kathite ca pana Mahāsattena pañhe eko ahiguṇḍiko sappassa mukhabandhanaṃ[^348-16] katvā sappaṃ gahetvā araññe vissajjesi. Brāhmaṇo rājānaṃ upasaṃkamitvā jayāpetvā añjaliṃ paggayha rañño thutiṃ karonto upaḍḍhaṃ gātham āha:
 
-Ja_VII,1.7(=402).6: Suladdhalābhā[^348-17] Janakassa rañño yo passatī Senakaṃ sādhupaññan ti. || Ja_VII:51 ||
+Ja_VII,1.7(=402).6: Suladdhalābhā[^348-17] Janakassa rañño yo passatī Senakaṃ sādhupaññan ti. ||  
+Ja_VII:51 ||  
 
 Tass attho: sādhupaññan ti uttamapaññaṃ Senaka-paṇḍitaṃ, akkhīni ummīletvā icchiticchitakkhaṇe viya[^348-18] cakkhūhi passituṃ labbati, tassa rañño Janakassa ete[^348-19] icchiticchitakkhaṇe dassanalābhā suladdhalābhā vata etena, laddhesu[^348-20] sabbalābhesu ete va lābhā suladdhā nāmā 'ti.
 
@@ -4582,11 +5101,13 @@ Tass attho: sādhupaññan ti uttamapaññaṃ Senaka-paṇḍitaṃ, akkhīni u
 
 Rañño[^349-1] thutiṃ katvā pana pasibbakato sattakahāpaṇasatāni gahetvā Mahāsattassa thutiṃ katvā tuṭṭhidāyaṃ dātukāmo diyaḍḍhagātham āha: Vivattacchaddā[^349-2] nu si sabbadassī, ñāṇaṃ[^349-3] nu te brāhmaṇa bhiṃsarūpaṃ,
 
-Ja_VII,1.7(=402).7: imāni me sattasatāni atthi, gaṇhāhi sabbāni dadāmi tuyhaṃ. Tayā hi me jīvitaṃ ajja laddhaṃ, atho pi bhariyāya-m-akāsi sotthin ti. || Ja_VII:52 ||
+Ja_VII,1.7(=402).7: imāni me sattasatāni atthi, gaṇhāhi sabbāni dadāmi tuyhaṃ. Tayā hi me jīvitaṃ ajja laddhaṃ, atho pi bhariyāya-m-akāsi sotthin ti. ||  
+Ja_VII:52 ||  
 
 Tattha vivattacchaddā nu[^349-4] si sabbadassīti kiṃ nu kho tvaṃ sabbesu dhammākāresu vivattacchadano vivaṭaneyyadhammo[^349-5] sabbaññū Buddho ti thutivasena pucchati, ñāṇaṃ[^349-3] nu te brāhmaṇa bhiṃsarūpan ti udāhu asabbaññussāpi sace[^349-6] tava ñāṇaṃ[^349-7] bhiṃsarūpaṃ sabbaññutañāṇaṃ viya balavan ti, tayā hi me ti tayā hi dinnattā ajja mayā jīvitaṃ laddhaṃ, atho pi bhariyāyamakāsi sotthin ti atho pi me bhariyāya tvam eva sotthiṃ akāsi; iti so vatvā sace pi satasahassaṃ bhaveyya dadeyyam evāhaṃ ettakam eva dhanaṃ imāni[^349-8] sattasatāni gaṇhā 'ti punappuna Bodhisattaṃ yāci. Taṃ sutvā Bodhisatto aṭṭhamaṃ[^349-9] gātham āha:
 
-Ja_VII,1.7(=402).8: Na paṇḍitā vedanam[^349-10] ādiyanti citrāhi gāthāhi[^349-11] subhāsitāhi, ito pi te brahme[^349-12] dadantu vittaṃ, ādāya tvaṃ[^349-13] gaccha sakaṃ niketan ti. || Ja_VII:53 ||
+Ja_VII,1.7(=402).8: Na paṇḍitā vedanam[^349-10] ādiyanti citrāhi gāthāhi[^349-11] subhāsitāhi, ito pi te brahme[^349-12] dadantu vittaṃ, ādāya tvaṃ[^349-13] gaccha sakaṃ niketan ti. ||  
+Ja_VII:53 ||  
 
 Tattha vedanan[^349-14] ti vetanaṃ[^349-15], ayam eva vā pāṭho, ito pi te brahme ti brāhmaṇa mama pādamūlato pi tuyhaṃ dhanaṃ dadantu, ādāya tvaṃ gacchā[^349-16] 'ti ito aññāni tīṇi satāni gahetvā sahassabhaṇḍikaṃ ādāya sakanivesanaṃ gaccha. Evañ ca pana vatvā Mahasātto brāhmaṇassa sahassaṃ pūrāpento kahāpaṇe[^349-17] dāpetvā "brāhmaṇa kena tvaṃ dhanabhikkhāya pesito" ti pucchi. "Bhariyāya[^349-18] paṇḍitā" 'ti.
 
@@ -4616,7 +5137,8 @@ hīti" āha. Brāhmaṇo tathā katvā "sallakkhito me paṇḍita nibaddhaṃ[^
 
 anuppanne Buddhe bāhirapabbajjāya pabbajitā rājūhi parivāritāpi[^352-1] ‘yācanā nāma paresaṃ appiyā amanāpā'; ti na yāciṃsu" 'ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto ekasmiṃ nigame brāhmaṇakule nibbatti, Aṭṭhisenakumāro[^352-2] ti 'ssa nāmaṃ kariṃsu. So vayappatto Takkasilāya[^352-3] sabbasippāni uggaṇhitvā aparabhāge kāmesu ādīnavaṃ disvā[^352-4] isipabbajjaṃ pabbajitvā abhiññā ca samāpattiyo ca nibbattetvā Himavantapadese ciraṃ vasitvā loṇambilasevanatthāya manussapathaṃ otaritvā[^352-5] Bārāṇasiṃ patvā uyyāne[^352-6] vasitvā punadivase bhikkhāya caranto rājaṅgaṇaṃ agamāsi. Rājā tassācāravihāre pasīditvā taṃ pakkosāpetvā[^352-7] pāsādatale pallaṃke nisīdāpetvā subhojanaṃ bhojetvā bhojanāvasāne anumodanaṃ sutvā pasanno paṭiññaṃ gahetvā Mahāsattaṃ rājuyyāne vāsesi[^352-8] divasassa[^352-9] ca[^352-10] dve tayo vāre upaṭṭhānaṃ agamāsi. So ekadivasaṃ dhammakathāya[^352-11] pasanno "rajjaṃ ādiṃ katvā yena vo[^352-12] attho taṃ vadeyyāthā" 'ti pavāresi. Bodhisatto "idaṃ nāma me dehīti" na vadati. Aññe yācakā "idaṃ dehīti" icchiticchitaṃ yācanti, rājā asajjamāno deti yeva. So ekadivasaṃ cintesi: "aññe yācanakavanibbakā[^352-13] ‘idañ c'; idañ c'; amhākaṃ[^352-14] dehīti'; maṃ yācanti, ayyo pana Aṭṭhiseno pavāritakālato paṭṭhāya na kiñci yācati, paññavā kho pan'; esa upāyakusalo, pucchissāmi nan" ti so ekadivasaṃ bhuttapātarāso gantvā[^352-15] ekamantaṃ nisinno aññesaṃ[^352-16] yācanakāranaṃ tassa cāyācanakāraṇaṃ[^352-17] pucchanto paṭhamaṃ gātham āha:
 
-Ja_VII,1.8(=403).1: Ye 'me[^352-18] ahaṃ na jānāmi Aṭṭhisena vanibbake te maṃ saṃgamma yācanti, kasmā[^352-19] maṃ tvaṃ na yācasīti. || Ja_VII:54 ||
+Ja_VII,1.8(=403).1: Ye 'me[^352-18] ahaṃ na jānāmi Aṭṭhisena vanibbake te maṃ saṃgamma yācanti, kasmā[^352-19] maṃ tvaṃ na yācasīti. ||  
+Ja_VII:54 ||  
 
 
 <!-- PTS Page 353 -->
@@ -4626,15 +5148,19 @@ Ja_VII,1.8(=403).1: Ye 'me[^352-18] ahaṃ na jānāmi Aṭṭhisena vanibbake 
 
 Tattha vanibbake ti yācanake, saṃgammā 'ti samāgantvā, idaṃ vuttaṃ hoti: ayya Aṭṭhisena ye 'me vanibbake ahaṃ nāmagottajātikulapadesena ime nāma ete ti pi na jānāmi ete maṃ samāgantvā icchiticchitaṃ yācanti tvaṃ pana kasmā maṃ kiñci na yācasīti. Taṃ sutvā Bodhisatto dutiyaṃ gātham āha:
 
-Ja_VII,1.8(=403).2: Yācako appiyo hoti, yācaṃ adadam appiyo, tasmāhaṃ taṃ na yācāmi, mā me viddesanā[^353-1] ahū ti. || Ja_VII:55 ||
+Ja_VII,1.8(=403).2: Yācako appiyo hoti, yācaṃ adadam appiyo, tasmāhaṃ taṃ na yācāmi, mā me viddesanā[^353-1] ahū ti. ||  
+Ja_VII:55 ||  
 
 Tattha yācako appiyo[^353-2] hotīti yo hi mahārāja puggalo idaṃ me dehīti yācako[^353-3] so mātāpitunnam pi mittāmaccādīnam pi appiyo hoti amanāpo, tassa appiyabhāvo Maṇikaṇṭhajātakena dīpetabbo, yācan ti yācitaṃ bhaṇḍaṃ[^353-4], adadan ti adadamāno, idaṃ vuttaṃ hoti: yo pi yācitaṃ[^353-5] na deti so mātāpitaro ādiṃ katvā adadamāno puggalo yācakassa[^353-6] appiyo hoti, tasmā ti yasmā yācako pi dāyakassa yācitaṃ bhaṇḍaṃ adadanto pi yācakassa appiyo hoti tasmā ahaṃ taṃ na yācāmi, mā me viddesanā[^353-7] ti sace hi[^353-8] ahaṃ yāceyyam eva[^353-9] tava viddeso[^353-10] bhaveyya, sā me tava[^353-11] santikā uppannā viddesanā, sace pana tvaṃ na dadeyyāsi[^353-12] mama viddeso[^353-13] bhaveyyāsi, sā[^353-14] vā[^353-15] mama tayi viddesanā, evaṃ sabbathāpi mā me viddesanā[^353-16] ahū ti, mā no ubhinnam pi mettā[^353-17] bhijjīti[^353-18], etam atthaṃ sampassanto ahaṃ taṃ na[^353-19] yācāmīti. Ath'; assa vacanaṃ sutvā rājā tisso gāthā abhāsi:
 
-Ja_VII,1.8(=403).3: Yo ca yācanajīvāno[^353-20] kāle yācaṃ[^353-21] na yācati parañ ca puññā dhaṃseti attanāpi na jīvati. || Ja_VII:56 ||
+Ja_VII,1.8(=403).3: Yo ca yācanajīvāno[^353-20] kāle yācaṃ[^353-21] na yācati parañ ca puññā dhaṃseti attanāpi na jīvati. ||  
+Ja_VII:56 ||  
 
-Ja_VII,1.8(=403).4: Yo ca yācanajīvāno[^353-20] kāle yācāni[^353-22] yācati parañ ca puññaṃ labbheti attanāpi ca jīvati. || Ja_VII:57 ||
+Ja_VII,1.8(=403).4: Yo ca yācanajīvāno[^353-20] kāle yācāni[^353-22] yācati parañ ca puññaṃ labbheti attanāpi ca jīvati. ||  
+Ja_VII:57 ||  
 
-Ja_VII,1.8(=403).5: Na ve dissanti[^353-23] sappaññā disvā yācakamāgate, brahmacāri piyo me si, vara tvaṃ[^353-24] bhaññam[^353-25] icchasīti. || Ja_VII:58 ||
+Ja_VII,1.8(=403).5: Na ve dissanti[^353-23] sappaññā disvā yācakamāgate, brahmacāri piyo me si, vara tvaṃ[^353-24] bhaññam[^353-25] icchasīti. ||  
+Ja_VII:58 ||  
 
 Tattha yācanajīvāno[^353-26] ti yācanajīvino[^353-27], ayam eva vā pāṭho, idaṃ vuttaṃ hoti: Ayya Aṭṭhisena yo yācanena jīvamāno dhammiko samaṇo vā brāhmaṇo vā yācitabbassa yuttakāle[^353-28] yācaṃ[^353-29] na yācati[^353-30] so parañ ca dāyakaṃ puññā[^353-31] dhaṃseti[^353-32] parihāpeti attanāpi ca sukhaṃ na jīvatīti, puññaṃ lab-
 
@@ -4646,7 +5172,8 @@ Tattha yācanajīvāno[^353-26] ti yācanajīvino[^353-27], ayam eva vā pāṭh
 
 bhetīti kāle pana yācitabbaṃ yācanto parañ ca puññaṃ adhigameti attanāpi ca sukhaṃ jīvati, na ve dissantīti[^354-1] yaṃ tvaṃ vadesi mā me viddesanā ahū ti taṃ kasmā[^354-2] vadasi, sappaññā hi dānañ ca dānaphalañ ca jānantā paṇḍitā yācake āgate disvā na dissanti[^354-3] na kujjhanti aññadatthu pana[^354-4] muditā va hontīti dīpeti, yācakamāgate ti makāro vyañjanasandhivasena vutto[^354-5], yācake āgate ti attho, brahmacāri piyo me sīti ayya Aṭṭhisena parisuddhacāri[^354-6] mahāpañña, tvaṃ mayhaṃ ativiya piyo, tasmā varaṃ[^354-7] tvaṃ maṃ vadehi[^354-8] yācāhi[^354-9] yeva[^354-10], bhaññamicchasīti[^354-11] yaṃ kiñci vattabbaṃ icchasi sabbaṃ vada[^354-12], rajjam pi te dassāmi yevā 'ti. Evaṃ Bodhisatto[^354-13] rajjenāpi pavārito n'; eva kiñci yāci. Rañño[^354-14] pana evaṃ attano[^354-15] ajjhāsaye kathite[^354-16] Mahāsatto pi[^354-17] pabbajitapaṭipadaṃ dassetuṃ "mahārāja, yācanā hi nām' esā kāmabhogīnaṃ gihīnaṃ āciṇṇā[^354-18] na pabbajitānaṃ, pabbajitena pana[^354-19] pabbajitakālato paṭṭhāya gihiasamena[^354-20] parisuddhājīvena bhavitabban" ti pabbajitapaṭipadaṃ dassento chaṭṭhaṃ gātham āha:
 
-Ja_VII,1.8(=403).6: Na ve yācanti sappaññā, dhīro ca viditum[^354-21] arahati, uddissa ariyā tiṭṭhanti, esā ariyānaṃ yācanā ti. || Ja_VII:59 ||
+Ja_VII,1.8(=403).6: Na ve yācanti sappaññā, dhīro ca viditum[^354-21] arahati, uddissa ariyā tiṭṭhanti, esā ariyānaṃ yācanā ti. ||  
+Ja_VII:59 ||  
 
 (Cfr. Milindap. p.230.) Tattha sappaññā ti Buddhā ca Buddha-sāvakā ca bodhiyā paṭipannā[^354-22] isipabbajjaṃ pabbajitvā[^354-23] Bodhisattā[^354-22] ca sabbe pi sappaññā supaññavā susīlavā, ete evarūpā sappaññā amhākaṃ idañ c'; idañ ca dethā 'ti na[^354-25] yācanti, dhīro ca viditumarahatīti[^354-26] upaṭṭhāko pana dhīro paṇḍito gilānakāle ca agilānakāle ca yena[^354-27] yen'; attho taṃ sabbaṃ sayam eva vedituṃ jānitum arahati, uddissa ariyā tiṭṭhantīti ariyā pana vācaṃ abhinditvā[^354-28] yen'; atthikā honti uddissa kevalaṃ bhikkhācāravattena[^354-29] tiṭṭhanti, n'; eva kāyaṅgaṃ vācaṅgaṃ vā[^354-30] kopenti, kāyavikāraṃ dassetvā nimittaṃ karonto hi kāyaṅgaṃ kopeti nāma, vacībhedaṃ karonto vācaṅgaṃ kopeti nāma, tadubhayaṃ akatvā Buddhādayo ariyā tiṭṭhanti, esā ariyānaṃ yācanā ti esā[^354-31] kāyaṅgaṃ vācaṅgaṃ akopetvā bhikkhāya tiṭṭhanā[^354-32] ariyānaṃ yācanā nāma.
 
@@ -4658,7 +5185,8 @@ Ja_VII,1.8(=403).6: Na ve yācanti sappaññā, dhīro ca viditum[^354-21] arah
 
 Rājā Bodhisattassa vacanaṃ sutvā "bhante yadi sapañño upaṭṭhāko attanā va ñatvā kulūpakassa dātabbaṃ deti aham pi tumhākaṃ idañ c'; idañ ca dammīti[^355-4]" sattamaṃ gātham āha:
 
-Ja_VII,1.8(=403).7: Dadāmi te brāhmaṇa rohiṇīnaṃ (Cfr. supra p.81.) gavaṃ sahassaṃ saha puṅgavena, ariyo hi ariyassa kathaṃ na dajjā sutvāna gāthā tava dhammayuttā ti. || Ja_VII:60 ||
+Ja_VII,1.8(=403).7: Dadāmi te brāhmaṇa rohiṇīnaṃ (Cfr. supra p.81.) gavaṃ sahassaṃ saha puṅgavena, ariyo hi ariyassa kathaṃ na dajjā sutvāna gāthā tava dhammayuttā ti. ||  
+Ja_VII:60 ||  
 
 Tattha rohiṇīnan ti rattavaṇṇānaṃ, gavaṃ ahassan ti khīradadhiādimadhurarasaparibhogatthāya evarūpānaṃ gunnaṃ[^355-2] sahassaṃ tuyhaṃ dammi[^355-3], taṃ me patigaṇha[^355-4], ariyo ti ācārāriyo, ariyassā 'ti ācārāriyassa, kathaṃ na dajjā ti kena kāraṇena na[^355-5] dadeyya. Evaṃ vutte Bodhisatto "ahaṃ mahārāja akiñcano pabbajito, na me gāvīhi attho" ti paṭikkhipi. Rājā tass'; ovāde ṭhatvā dānādīni puññāni katvā saggaparāyano ahosi, so pi aparihīnajjhāno Brahmaloke uppajji[^355-6]. Satthā imaṃ desanaṃ[^355-7] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi: (Saccapariyosāne bahū sotāpattiphalādīsu patiṭṭhitā) "Tadā rājā Ānando ahosi, Aṭṭhiseno[^355-8] aham evā" 'ti. Aṭṭhisenajātakaṃ[^355-9].
 
@@ -4680,19 +5208,26 @@ rājuyyāne vasati[^356-1]. Devadatto pi kopiyoniyaṃ nibbattitvā pañcasataka
 
 titvā Bodhisattassa vasanaṭṭhānaṃ patvā pati. Vānarā "amhākaṃ vasanaṭṭhānaṃ patvā mato" ti tassa pahāraṃ laddhā[^357-1] matabhāvaṃ Bodhisattassa ārocesuṃ. So āgantvā[^357-1] kapigaṇamajjhe nisinno "paṇḍitānaṃ ovādaṃ katvā veriṭṭhāne vasantā[^357-3] evaṃ vinassantīti" kapigaṇassa ovādavasena imā gāthā abhāsi:
 
-Ja_VII,1.9(=404).1: Yattha verī nivasati[^357-4] na vase tattha paṇḍito, (Jāt.I. p.413.) ekarattaṃ dirattaṃ vā dukkhaṃ vasati verisu. || Ja_VII:61 ||
+Ja_VII,1.9(=404).1: Yattha verī nivasati[^357-4] na vase tattha paṇḍito, (Jāt.I. p.413.) ekarattaṃ dirattaṃ vā dukkhaṃ vasati verisu. ||  
+Ja_VII:61 ||  
 
-Ja_VII,1.9(=404).2: Diso ve[^357-5] lahucitt'; assa posassa anuvidhiyyato ekassa kapino hetu[^357-6] yūthassa anayo kato. || Ja_VII:62 ||
+Ja_VII,1.9(=404).2: Diso ve[^357-5] lahucitt'; assa posassa anuvidhiyyato ekassa kapino hetu[^357-6] yūthassa anayo kato. ||  
+Ja_VII:62 ||  
 
-Ja_VII,1.9(=404).3: Bālo ca[^357-7] paṇḍitamānī yūthassa parihārako sacittassa vasaṃ gantvā sayethāyaṃ[^357-8] yathā kapi. || Ja_VII:63 ||
+Ja_VII,1.9(=404).3: Bālo ca[^357-7] paṇḍitamānī yūthassa parihārako sacittassa vasaṃ gantvā sayethāyaṃ[^357-8] yathā kapi. ||  
+Ja_VII:63 ||  
 
-Ja_VII,1.9(=404).4: Na sādhu balavā bālo yūthassa parihārako, ahito bhavati ñātīnaṃ sakuṇānaṃ va cetako. || Ja_VII:64 ||
+Ja_VII,1.9(=404).4: Na sādhu balavā bālo yūthassa parihārako, ahito bhavati ñātīnaṃ sakuṇānaṃ va cetako. ||  
+Ja_VII:64 ||  
 
-Ja_VII,1.9(=404).5: Dhīro ca balavā sādhu yūthassa parihārako hito bhavati ñātīnaṃ Tidasānaṃ va Vāsavo. || Ja_VII:65 ||
+Ja_VII,1.9(=404).5: Dhīro ca balavā sādhu yūthassa parihārako hito bhavati ñātīnaṃ Tidasānaṃ va Vāsavo. ||  
+Ja_VII:65 ||  
 
-Ja_VII,1.9(=404).6: Yo ca sīlañ ca paññañ ca sutañ c'; attani[^357-9] passati ubhinnam atthaṃ[^357-10] carati attano ca parassa ca. || Ja_VII:66 ||
+Ja_VII,1.9(=404).6: Yo ca sīlañ ca paññañ ca sutañ c'; attani[^357-9] passati ubhinnam atthaṃ[^357-10] carati attano ca parassa ca. ||  
+Ja_VII:66 ||  
 
-Ja_VII,1.9(=404).7: Tasmā tuleyya-m-attānaṃ sīlapaññāsutām[^357-11] iva gaṇaṃ vā[^357-12] parihare dhīro eko vāpi paribbaje ti. || Ja_VII:67 ||
+Ja_VII,1.9(=404).7: Tasmā tuleyya-m-attānaṃ sīlapaññāsutām[^357-11] iva gaṇaṃ vā[^357-12] parihare dhīro eko vāpi paribbaje ti. ||  
+Ja_VII:67 ||  
 
 Tattha lahucittassā 'ti lahucitto assa, idaṃ vuttaṃ hoti: yo poso lahucittassa mittassa vā ñātino vā anuvidhiyyati anuvattati tassa posassa anuvidhiyyato so lahucitto diso hoti verikiccaṃ[^357-13] karoti, ekassa kapino ti passa ekassa[^357-14] lahucittassa andhabālassa kapino hetu ayaṃ sakalassa yūthassa anayo avaḍḍhi[^357-15] mahāvināso kato ti, paṇḍitamānīti[^357-16] yo sayaṃ bālo hutvā ahaṃ paṇḍito ti attānaṃ maññamāno paṇḍitānaṃ ovādaṃ akatvā sakassa[^357-17] cittassa vasaṃ gacchati so sacittassa vasaṃ[^357-18] gantvā yathā ayaṃ[^357-19] dubbacakapi matasayanaṃ sayito evaṃ sayethā[^357-20] 'ti attho, na sādhū 'ti bālo nāma balasampanno yūthassa parihārako[^357-21] na sādhu na laṭṭhako[^357-22], kiṃ kāraṇā: so hi ahito hoti ñātīnaṃ, vināsam evāvahati, sakuṇānaṃ va cetako ti[^357-23] yathā[^357-24]
 
@@ -4714,7 +5249,8 @@ tittirasakuṇānaṃ dīpakatittiro[^358-1] divasam pi vassanto aññe sakuṇe
 
 thāpi nāma balavā puriso sammiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ sammiñjeyya evam evaṃ[^359-1] Jetavane antarahito tasmiṃ Brahmaloke pāturahosi. Brahmā Bhagavantaṃ disvā "ehi kho mārisa, svāgataṃ mārisa, cirassaṃ[^359-2] kho mārisa imaṃ pariyāyam akāsi yadidaṃ idhāgamanāya[^359-3], idaṃ hi mārisa niccaṃ idaṃ dhuvaṃ idaṃ sassataṃ idaṃ[^359-4] kevalaṃ idaṃ[^359-5] acavanadhammaṃ, idaṃ hi na jāyati na jīyati na mīyati[^359-6] na cavati na uppajjati, ito pi[^359-7] pan'; aññaṃ uttariṃ nissaraṇaṃ n'; atthīti" āha. Evaṃ vutte Bhagavā Bakabrahmānaṃ etad avoca: "avijjāgato vata bho Bako Brahmā, avijjāgato vata bho Bako Brahmā, yatra hi nāma aniccaṃ ñeva samānaṃ niccan[^359-8] ti vakkhati -- pe[^359-9] -- santañ ca pan'; aññaṃ uttariṃ nissaraṇaṃ n'; atth' aññaṃ uttariṃ nissaraṇan[^359-10] ti vakkhatīti" āha. Taṃ sutvā Brahmā "tvaṃ evaṃ kathesi[^359-11], tvaṃ evaṃ kathesīti, iti maṃ esa anuvijjanto anubandhatīti" cintetvā yathā nāma dubbalacoro[^359-12] katipaye pahāre labhitvā va "kiṃ aham eva coro, asuko pi coro, asuko pi coro[^359-13]" ti sabbe[^359-14] sahāye[^359-15] ācikkhati tath'; eva Bhagavato anuyogabhayabhīto[^359-16] aññe pi attano sahāye[^359-17] ācikkhanto paṭhamaṃ gātham āha:
 
-Ja_VII,1.10(=405).1: Dvāsattati Gotama puññakammā Vasavattino jātijaraṃ atītā, ayam antimā vedagū Brahmapatti[^359-18], asmābhijappanti janā anekā ti. || Ja_VII:68 ||
+Ja_VII,1.10(=405).1: Dvāsattati Gotama puññakammā Vasavattino jātijaraṃ atītā, ayam antimā vedagū Brahmapatti[^359-18], asmābhijappanti janā anekā ti. ||  
+Ja_VII:68 ||  
 
 Tattha dvāsattatīti na kevalaṃ bho Gotama aham eva atha kho imasmiṃ Brahmaloke mayaṃ dvāsattati janā puññakammā[^359-19] aññesaṃ upari attano vasaṃ vattanena[^359-20] Vasavattino jātiñ ca jarañ ca atītā, ayaṃ no vedehi gatattā vedagū ayaṃ[^359-21] Gotama antima-Brahmapatti[^359-22] pacchimakoṭippatti[^359-23] seṭṭhabhāvappatti, asmābhijappanti janā anekā ti amhe aññe bahū janā pañjalikā hutvā ayaṃ kho bhavaṃ Brahmā Mahābrahmā ti ādīni vadantā namassanti patthenti pihenti[^359-24], aho vata[^359-25] mayam pi evarūpā bhaveyyāmā 'ti icchantīti attho. Tassa kathaṃ sutvā Satthā dutiyaṃ gātham āha:
 
@@ -4724,15 +5260,18 @@ Tattha dvāsattatīti na kevalaṃ bho Gotama aham eva atha kho imasmiṃ Brahma
 
 ##### *[PTS Page 360]*
 
-Ja_VII,1.10(=405).2: Appaṃ hi etaṃ na hi dīgham āyu yan tvaṃ Baka maññasi dīgham āyu, sataṃ sahassānaṃ nirabbudānaṃ āyuṃ pajānāmi tavāhaṃ Brahme ti. || Ja_VII:69 ||
+Ja_VII,1.10(=405).2: Appaṃ hi etaṃ na hi dīgham āyu yan tvaṃ Baka maññasi dīgham āyu, sataṃ sahassānaṃ nirabbudānaṃ āyuṃ pajānāmi tavāhaṃ Brahme ti. ||  
+Ja_VII:69 ||  
 
 Tattha sataṃ sahassānaṃ nirabbudānan ti nirabbudasaṃkhātānaṃ gaṇanānaṃ satasahassaṃ[^360-1], vassānaṃ hi dasadasakaṃ[^360-2] sataṃ, dasasatāni[^360-3] sahassaṃ, sataṃ sahassānaṃ[^360-4] satasahassaṃ, sataṃ satasahassānaṃ[^360-5] koṭi nāma, sataṃ koṭisatasahassānaṃ pakoṭi nāma, sataṃ pakoṭisatasahassānaṃ[^360-6] koṭippakoṭi nāma, sataṃ koṭippakoṭisatasahassānaṃ ekaṃ nahutaṃ nāma, sataṃ nahutasatasahassānaṃ ekaṃ ninnahutaṃ nāma, cheko gaṇako ettakaṃ gaṇetuṃ sakkoti, tatoparaṃ gaṇanā nāma Buddhānam eva visayo, tattha sataṃ ninnahutasatasahassānaṃ ekaṃ abbudaṃ, vīsati abbudāni[^360-7] ekaṃ nirabbudaṃ, tesaṃ nirabuddānaṃ[^360-8] satasahassānaṃ ekaṃ ahahaṃ nāma[^360-9], ettakaṃ Bakassa Brahmuno[^360-10] tasmiṃ[^360-11] bhave avasiṭṭhaṃ[^360-12] āyuṃ[^360-13] sandhāya Bhagavā evam āha. Taṃ[^360-14] sutvā Bako tatiyaṃ gātham āha:
 
-Ja_VII,1.10(=405).3: Anantadassī Bhagavāham asmi jātijaraṃ sokam upātivatto, kiṃ[^360-15] me purāṇaṃ vatasīlavantaṃ, ācikkha me taṃ yam ahaṃ vijaññan ti. || Ja_VII:70 ||
+Ja_VII,1.10(=405).3: Anantadassī Bhagavāham asmi jātijaraṃ sokam upātivatto, kiṃ[^360-15] me purāṇaṃ vatasīlavantaṃ, ācikkha me taṃ yam ahaṃ vijaññan ti. ||  
+Ja_VII:70 ||  
 
 Tattha Bhagavā ti Bhagava tumhe āyuṃ pajānāmi tavāhan ti vadantā[^360-16] ahaṃ anantadassī jātijarañ ca sokam upātivatto smīti vadatha, vatasīlavantan ti vatasamādānañ ca sīlavatañ ca, idaṃ vuttaṃ hoti: yadi tumhe sabbaññuBuddhā evaṃ sante kiṃ mayhaṃ purāṇaṃ vatañ ca sīlacaraṇañ ca, ācikkha me taṃ yam ahaṃ tayā ācikkhitaṃ yathāvasarasato vijāneyyan ti. Ath'; assa Bhagavā atītāni vatthūni āharitvā ācikkhanto catasso gāthā abhāsi:
 
-Ja_VII,1.10(=405).4: Yaṃ tvaṃ apāyesi bahū manusse pipāsite ghammani samparete taṃ te[^360-17] purāṇaṃ vatasīlavantaṃ suttappabuddho va anussarāmi. || Ja_VII:71 ||
+Ja_VII,1.10(=405).4: Yaṃ tvaṃ apāyesi bahū manusse pipāsite ghammani samparete taṃ te[^360-17] purāṇaṃ vatasīlavantaṃ suttappabuddho va anussarāmi. ||  
+Ja_VII:71 ||  
 
 
 <!-- PTS Page 361 -->
@@ -4740,11 +5279,14 @@ Ja_VII,1.10(=405).4: Yaṃ tvaṃ apāyesi bahū manusse pipāsite ghammani sam
 
 ##### *[PTS Page 361]*
 
-Ja_VII,1.10(=405).5: Yaṃ Eṇikūlasmiṃ janaṃ gahītaṃ amocayī gayhaka niyyamānaṃ taṃ te purāṇaṃ vatasīlavantaṃ suttappabuddho va anussarāmi. || Ja_VII:72 ||
+Ja_VII,1.10(=405).5: Yaṃ Eṇikūlasmiṃ janaṃ gahītaṃ amocayī gayhaka niyyamānaṃ taṃ te purāṇaṃ vatasīlavantaṃ suttappabuddho va anussarāmi. ||  
+Ja_VII:72 ||  
 
-Ja_VII,1.10(=405).6: Gaṅgāya sotasmiṃ gahītanāvaṃ luddhena nāgena manussakamyā[^361-1] amocayittha balasā pasayha, taṃ te purāṇaṃ vatasīlavantaṃ suttappabuddho va anussarāmi. || Ja_VII:73 ||
+Ja_VII,1.10(=405).6: Gaṅgāya sotasmiṃ gahītanāvaṃ luddhena nāgena manussakamyā[^361-1] amocayittha balasā pasayha, taṃ te purāṇaṃ vatasīlavantaṃ suttappabuddho va anussarāmi. ||  
+Ja_VII:73 ||  
 
-Ja_VII,1.10(=405).7: Kappo ca te baddhacaro ahosiṃ, sambuddhivantaṃ vatinam[^361-2] amaññaṃ, taṃ te purāṇaṃ vatasīlavantaṃ suttappabuddho va anussarāmīti. || Ja_VII:74 ||
+Ja_VII,1.10(=405).7: Kappo ca te baddhacaro ahosiṃ, sambuddhivantaṃ vatinam[^361-2] amaññaṃ, taṃ te purāṇaṃ vatasīlavantaṃ suttappabuddho va anussarāmīti. ||  
+Ja_VII:74 ||  
 
 Tattha apāyesīti pāyesi, ghammani samparete ti ghammena samparete ativiya phuṭṭhe ghammakilante, suttappabuddho vā 'ti paccūsakāle supanato[^361-3] supinaṃ passitvā taṃ supinakaṃ viya anussarāmi. So kira Brahmā ekasmiṃ kappe tāpaso hutvā marukantāre[^361-4] vasanto bahunnaṃ kantārapaṭipannānaṃ pānīyaṃ āharitvā adāsi. Ath'; ekadivasaṃ eko satthavāho pañcahi sakaṭasatehi marukantāraṃ[^361-4] paṭipajji[^361-5]. manussā disā[^361-6] vavatthapetuṃ asakkontā sattadivasāni āhiṇḍitvā khīṇadārūdakā[^361-7] nirāhārā taṇhābhibhūtā[^361-8] idāni no jīvitaṃ n'; atthīti sakaṭe[^361-9] parivattetvā goṇe mocetvā heṭṭhāsakaṭesu nipajjiṃsu. Tadā tāpaso āvajjanto te disvā mā mayi passante[^361-10] nassiṃsū 'ti attano iddhānubhāvena[^361-11] Gaṅgāsotaṃ ubbattetvā satthābhimukhaṃ[^361-12] akāsi, avidūre c'; ekaṃ vanasaṇḍaṃ māpesi. Manussā pānīyaṃ pivitvā nahātvā goṇe santappetvā vanasaṇḍato tiṇaṃ lāyitvā dārūni gahetvā disaṃ sallakkhetvā arogā kantāraṃ atikkamiṃsu, taṃ sandhāy'; etaṃ vuttaṃ. Eṇikūlasmin ti Eṇiyā nāma nadiyā kūle, gayhakaniyyamānan ti karamaragāhaṃ gahetvā niyyamānaṃ. So[^361-13] kira tāpaso aparasmiṃ kāle ekaṃ paccantagāmaṃ nissāya nadītīre vanasaṇḍe vihāsi. Ath'; ekasmiṃ divase pabbatato corā otaritvā taṃ gāmaṃ paharitvā mahājanaṃ gahetvā pabbataṃ āropetvā antarāmagge cariyamanusse[^361-14] ṭhapetvā pabbatabilaṃ[^361-15] pavisitvā āhāraṃ pacāpentā[^361-16] nisīdiṃsu. Tāpaso gomahisādīnañ c'; eva dārakādīnañ[^361-17] ca mahantaṃ[^361-18] aṭṭasaraṃ[^361-19] sutvā mayi passante mā nassiṃsū 'ti iddhānubhāvena attabhāvaṃ vijahitvā[^361-20] caturaṅginiyā senāya parivuto rājā hutvā yuddhabheriṃ ākoṭāpento[^361-21] taṃ ṭhānaṃ agāmāsi. Cariya-
 
@@ -4764,7 +5306,8 @@ manussā[^362-1] disvā corānaṃ ārocesum. Corā[^362-2] raññā saddhiṃ v
 
 So Satthu vacanena attanā katakammaṃ saritvā[^363-1] thutiṃ karonto osānagātham āha:
 
-Ja_VII,1.10(=405).8: Addhā pajānāsi mam'; etam āyuṃ, aññam pi jānāsi, tathā hi Buddho, tathā hi t'; āyaṃ jalitānubhāvo obhāsayaṃ tiṭṭhati Brahmalokan ti. || Ja_VII:75 ||
+Ja_VII,1.10(=405).8: Addhā pajānāsi mam'; etam āyuṃ, aññam pi jānāsi, tathā hi Buddho, tathā hi t'; āyaṃ jalitānubhāvo obhāsayaṃ tiṭṭhati Brahmalokan ti. ||  
+Ja_VII:75 ||  
 
 Tattha tathā hi Buddho ti tathā hi tvaṃ Buddho, Buddhānaṃ hi aññātaṃ nāma n'; atthi, sabbadhammānaṃ buddhattā yeva hi te[^363-2] Buddhā[^363-3] nāmā 'ti taṃ dasseti[^363-4], tathā hi tāyan ti buddhattā yeva[^363-5] pana ayaṃ jalito sarīrappabhāvo[^363-6], obhāsayaṃ tiṭṭhatīti imaṃ sakalam pi Brahmalokaṃ obhāsento tiṭṭhati. Evaṃ Satthā attano Buddhaguṇaṃ jānāpento dhammaṃ desetvā saccāni[^363-7] pakāsesi. Saccapariyosāne dasamattānaṃ[^363-8] Brahmasahassānaṃ[^363-9] anupādāya āsavehi cittā[^363-10] vimucciṃsu[^363-11]. Iti Bhagavā bahunnaṃ[^363-12] Brahmānaṃ avassayo hutvā Brahmalokā Jetavanaṃ āgantvā tattha kathitaniyāmen'; eva taṃ dhammadesanaṃ kathetvā jātakaṃ samodhānesi: "Tadā Kesavatāpaso Baka-Brahmā ahosi, Kappamāṇavo aham evā" 'ti. Bakabrahmajātakaṃ[^363-13]. Kukkuvaggo paṭhamo.
 
@@ -4802,15 +5345,18 @@ ti. "Āma ahan" ti. "Ācariya, ahaṃ Videharaṭṭhe Mithilanagare Videharāj�
 
 ##### *[PTS Page 367]*
 
-Ja_VII,1.1(=406).1: Hitvā gāmasahassāni paripuṇṇāni soḷasa koṭṭhāgārāni phītāni sannidhiṃ dāni kubbasīti. || Ja_VII:76 ||
+Ja_VII,1.1(=406).1: Hitvā gāmasahassāni paripuṇṇāni soḷasa koṭṭhāgārāni phītāni sannidhiṃ dāni kubbasīti. ||  
+Ja_VII:76 ||  
 
 Tattha koṭṭhāgārānīti suvaṇṇarajatamaṇimuttādiratanakoṭṭhāgārāni[^367-1] c' eva dussakoṭṭhāgāradhaññakoṭṭhāgārāni ca, phītānīti {pūrāni}, sannidhiṃ dāni kubbasīti idāni sve bhavissati tatiyadivase bhavissatīti loṇamattaṃ sannidhiṃ karosīti. Videho evaṃ garahiyamāno garahaṃ asahanto paṭipakkho hutvā "ācariya, tumhe attano dosaṃ adisvā mayham eva dosaṃ passatha, nanu tumhe ‘kim me parena ovaditena, attānam eva ovadissāmīti'; rajjaṃ chaḍḍetvā pabbajitā, te[^367-2] idāni maṃ kasmā ovadathā" 'ti dutiyaṃ gātham āha:
 
-Ja_VII,1.1(=406).2: Hitvā Gandhāravisayaṃ pahūtadhanadhāniyaṃ[^367-3] pasāsanāto[^367-4] nikkhanto idha dāni pasāsasīti. || Ja_VII:77 ||
+Ja_VII,1.1(=406).2: Hitvā Gandhāravisayaṃ pahūtadhanadhāniyaṃ[^367-3] pasāsanāto[^367-4] nikkhanto idha dāni pasāsasīti. ||  
+Ja_VII:77 ||  
 
 Tattha pasāsanāto[^367-4] ti ovādānusāsanidānato, idha dānīti idāni idha araññe kasmā maṃ ovadathā 'ti. Taṃ sutvā Bodhisatto tatiyaṃ gātham āha:
 
-Ja_VII,1.1(=406).3: Dhammaṃ bhaṇāmi Vedeha[^367-5], adhammo me na ruccati, dhammaṃ me bhaṇamānassa na pāpam upalippatīti[^367-6]. || Ja_VII:78 ||
+Ja_VII,1.1(=406).3: Dhammaṃ bhaṇāmi Vedeha[^367-5], adhammo me na ruccati, dhammaṃ me bhaṇamānassa na pāpam upalippatīti[^367-6]. ||  
+Ja_VII:78 ||  
 
 Tattha dhamman ti sabhāvaṃ, Buddhādīhi vaṇṇitaṃ pasatthaṃ kāraṇam eva, na ruccatīti adhammo nāma assabhāvo[^367-7] mayhaṃ kadāci na ruccati, na pāpamupalippatīti[^367-6] mama sabhāvam eva kāraṇam eva[^367-8] bhaṇantassa pāpaṃ nāma hadaye na allīyati[^367-9], ovādadānaṃ nām'; etaṃ Buddhapaccekabuddhasāvakabodhisattānaṃ paveṇi, tehi dinnovādaṃ bālā na gaṇhanti, ovādadāyakassa pana pāpaṃ nāma n'; atthi: Nidhīnaṃ va pavattāraṃ yaṃ passe vajjadassinaṃ niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje, tādisaṃ bhajamānassa seyyo hoti na pāpiyo. Ovadeyy'; anusāseyya asabbhā ca nivāraye, sataṃ hi so piyo hoti, asataṃ hoti appiyo ti. (Dhp. v. 76-77.) Vedehatāpaso[^367-10] Bodhisattassa kathaṃ sutvā "ācariya atthanissitaṃ kathentenāpi paraṃ ghaṭṭetvā[^367-11] rosetvā kathetuṃ
 
@@ -4822,17 +5368,21 @@ Tattha dhamman ti sabhāvaṃ, Buddhādīhi vaṇṇitaṃ pasatthaṃ kāraṇa
 
 na vaṭṭati, tvaṃ maṃ kuṇṭhasatthena[^368-1] muṇḍanto[^368-2] viya atipharusaṃ kathesīti" vatvā catutthaṃ gātham āha:
 
-Ja_VII,1.1(=406).4: Yena kenaci vaṇṇena paro labhati ruppanaṃ mahatthiyampi[^368-3] ce vācaṃ na taṃ bhāseyya paṇḍito ti. || Ja_VII:79 ||
+Ja_VII,1.1(=406).4: Yena kenaci vaṇṇena paro labhati ruppanaṃ mahatthiyampi[^368-3] ce vācaṃ na taṃ bhāseyya paṇḍito ti. ||  
+Ja_VII:79 ||  
 
 Tattha yena kenacīti dhammayuttenāpi kāraṇena, labhati ruppanan ti ghaṭṭanaṃ[^368-4] dūsanaṃ[^368-5] kuppanaṃ labhati yeva, na taṃ bhāseyyā 'ti tasmā taṃ parapuggalaṃ yāya so vācāya ruppati[^368-6] taṃ mahatthiyaṃ[^368-7] mahantaṃ attha nissitam pi[^368-8] vācaṃ na bhāseyyā 'ti attho. Ath'; assa Bodhisatto pañcamaṃ gātham āha:
 
-Ja_VII,1.1(=406).5: Kāmaṃ ruppatu vā mā vā bhusaṃ vā vikiriyyatu, dhammaṃ me bhaṇamāssa na pāpam upalippatīti[^368-9]. || Ja_VII:80 ||
+Ja_VII,1.1(=406).5: Kāmaṃ ruppatu vā mā vā bhusaṃ vā vikiriyyatu, dhammaṃ me bhaṇamāssa na pāpam upalippatīti[^368-9]. ||  
+Ja_VII:80 ||  
 
 Tattha kāman ti ekaṃsena, idaṃ vuttaṃ hoti: ayuttakāroko puggalo ayuttaṃ te katan ti ovadiyamāno ekaṃsen'; eva kujjhatu[^368-10] vā mā vā kujjhatu[^368-11] athavā bhusamuṭṭhi viya vikiriyyatu, mayhaṃ pana dhammaṃ[^368-12] bhaṇantassa pāpaṃ nāma n'; atthīti. Evañ ca pana vatvā "na vo[^368-13] ahaṃ Ānanda tathā parakkamissāmi yathā kumbhakāro āmake āmakamatte[^368-14], niggayha niggayhāhaṃ Ānanda vakkhāmi, yo sāro so ṭhassatīti" imassa Sugatovādassa anurūpāya paṭipattiyaṃ[^368-15] ṭhatvā yathā kumbhakāro bhājanesu punappuna ākoṭetvā āmakaṃ agahetvā pakkam eva bhājanaṃ gaṇhāti[^368-16] evaṃ punappun'; ovaditvā niggaṇhitvā pakkabhājanasadiso[^368-17] puggalo gahetabbo ti dassetuṃ puna taṃ ovadanto
 
-Ja_VII,2.1(=406).6: Noce assa sakā buddhi vinayo vā susikkhito vane andhamahiso va careyya bahuko jano. || Ja_VII:81 ||
+Ja_VII,2.1(=406).6: Noce assa sakā buddhi vinayo vā susikkhito vane andhamahiso va careyya bahuko jano. ||  
+Ja_VII:81 ||  
 
-Ja_VII,2.1(=406).7: Yasmā ca pan'; idh'; ekacce ācāramhi[^368-18] susikkhitā tasmā vinītavinayā caranti susamāhitā ti || Ja_VII:82 ||
+Ja_VII,2.1(=406).7: Yasmā ca pan'; idh'; ekacce ācāramhi[^368-18] susikkhitā tasmā vinītavinayā caranti susamāhitā ti ||  
+Ja_VII:82 ||  
 
 idaṃ gāthadvayam āha.
 
@@ -4876,21 +5426,28 @@ ditvā ekaṃ vettalataṃ mūle chinditvā sodhetvā "ettakaṃ[^372-1] rukkhe 
 
 ##### *[PTS Page 373]*
 
-Ja_VII,2.2(=407).1: Attānaṃ saṃkamaṃ[^373-1] katvā yo sotthiṃ samatārayi kiṃ tvaṃ tesaṃ kimo[^373-2] tuyhaṃ honti ete mahākapīti. || Ja_VII:83 ||
+Ja_VII,2.2(=407).1: Attānaṃ saṃkamaṃ[^373-1] katvā yo sotthiṃ samatārayi kiṃ tvaṃ tesaṃ kimo[^373-2] tuyhaṃ honti ete mahākapīti. ||  
+Ja_VII:83 ||  
 
 Tass'; attho[^373-3]: ambho mahākapi yo tvaṃ attānaṃ saṃkamaṃ[^373-4] katvā tulaṃ[^373-5] āropetvā jīvitaṃ pariccajitvā ime vānare sotthiṃ samatārayī[^373-6] khemena santāresi[^373-7] kiṃ tvaṃ tesaṃ hosi kimo[^373-8] tuyhaṃ vā kiṃsu[^373-9] ete[^373-10] hontīti. Taṃ sutvā Bodhisatto rājānaṃ ovadanto sesā[^373-11] gāthā abhāsi:
 
-Ja_VII,2.2(=407).2: Rājāhaṃ issaro tesaṃ yūthassa parihārako tesaṃ sokaparetānaṃ bhītānaṃ[^373-12] te arindama. || Ja_VII:84 ||
+Ja_VII,2.2(=407).2: Rājāhaṃ issaro tesaṃ yūthassa parihārako tesaṃ sokaparetānaṃ bhītānaṃ[^373-12] te arindama. ||  
+Ja_VII:84 ||  
 
-Ja_VII,2.2(=407).3: Sa[^373-13] laṃghayitvā attānaṃ vissaṭṭhadhanuno sataṃ tato aparapādesu daḷhaṃ baddhalatāguṇaṃ[^373-14] || Ja_VII:85 ||
+Ja_VII,2.2(=407).3: Sa[^373-13] laṃghayitvā attānaṃ vissaṭṭhadhanuno sataṃ tato aparapādesu daḷhaṃ baddhalatāguṇaṃ[^373-14] ||  
+Ja_VII:85 ||  
 
-Ja_VII,2.2(=407).4: Chinnabbham iva vātena nuṇṇo[^373-15] rukkhaṃ upāgamiṃ, so 'haṃ appabhavaṃ tattha sākhaṃ hatthehi aggahi. || Ja_VII:86 ||
+Ja_VII,2.2(=407).4: Chinnabbham iva vātena nuṇṇo[^373-15] rukkhaṃ upāgamiṃ, so 'haṃ appabhavaṃ tattha sākhaṃ hatthehi aggahi. ||  
+Ja_VII:86 ||  
 
-Ja_VII,2.2(=407).5: Taṃ maṃ viyāyataṃ santaṃ sākhāya ca latāya ca samanukkamantā pādehi sotthiṃ sākhāmigā gatā. || Ja_VII:87 ||
+Ja_VII,2.2(=407).5: Taṃ maṃ viyāyataṃ santaṃ sākhāya ca latāya ca samanukkamantā pādehi sotthiṃ sākhāmigā gatā. ||  
+Ja_VII:87 ||  
 
-Ja_VII,2.2(=407).6: Taṃ maṃ na tapate bandho[^373-16], vadho[^373-17] me na tapessati, sukham āharitaṃ tesaṃ yesaṃ rajjam akārayiṃ. || Ja_VII:88 ||
+Ja_VII,2.2(=407).6: Taṃ maṃ na tapate bandho[^373-16], vadho[^373-17] me na tapessati, sukham āharitaṃ tesaṃ yesaṃ rajjam akārayiṃ. ||  
+Ja_VII:88 ||  
 
-Ja_VII,2.2(=407).7: Esā te upamā rāja atthasandassanī[^373-18] katā[^373-19], raññā[^373-20] raṭṭhassa yoggassa balassa nigamassa ca sabbesaṃ sukham eṭṭhabbaṃ[^373-21] khattiyena pajānatā ti. || Ja_VII:89 ||
+Ja_VII,2.2(=407).7: Esā te upamā rāja atthasandassanī[^373-18] katā[^373-19], raññā[^373-20] raṭṭhassa yoggassa balassa nigamassa ca sabbesaṃ sukham eṭṭhabbaṃ[^373-21] khattiyena pajānatā ti. ||  
+Ja_VII:89 ||  
 
 Tattha tesan ti tesaṃ asītisahassānaṃ vānarānaṃ, bhītānan te ti tava vijjhanatthāya āṇāpetvā ṭhitassa bhītānaṃ, arindamā 'ti rājānaṃ ālapati, rājā hi corādīnaṃ[^373-22] arīnaṃ damanato[^373-23] arindamo ti vuccati, vissaṭṭhadhanuno satan ti anāropitadhanusatappamāṇaṃ ṭhānaṃ attānaṃ ākāse ullaṃghayitvā vissajjetvā tato imamhā rukkhā laṃghitvā gataṭṭhānato aparapādesu[^373-24] idaṃ kaṭibhāgaṃ sandhāya vuttaṃ, Bodhisatto hi kaṭibhāge taṃ latāguṇaṃ daḷhaṃ bandhitvā pacchimapādehi[^373-25] bhūmiyaṃ[^373-26] akkamitvā vissajjetvā vātavegena ākāsaṃ pakkhandi, nuṇṇo[^373-27] rukkhaṃ upāgamin ti vātacchinnaṃ abbham iva
 
@@ -4952,13 +5509,17 @@ yathāṭhito va tīṇi lakkhaṇāni sallakkhetvā vipassanaṃ vaḍḍhetvā
 
 disvā tumhe imaṃ bhikkhācariyaṃ pabbajjaṃ upagatā" ti pucchi, yathā ca saṃghattheraṃ evaṃ[^380-1] sese pi upasaṃkamitvā pucchi. Ath'; assa te cattāro pi janā "ahaṃ asukaraṭṭhe asukanagare asukarājā nāma hutvā" ti ādinā nayena attano attano abhinikkhamanavatthūni kathetvā paṭipāṭiyā ekekaṃ gātham āhaṃsu:
 
-Ja_VII,2.3(=408).1: Amb'; āham addaṃ vanamantarasmiṃ nīlobhāsaṃ phalinaṃ[^380-2] saṃvirūḷhaṃ, tam addasaṃ phalahetū[^380-3] vibhaggaṃ, taṃ disvā bhikkhācariyaṃ carāmi. || Ja_VII:90 ||
+Ja_VII,2.3(=408).1: Amb'; āham addaṃ vanamantarasmiṃ nīlobhāsaṃ phalinaṃ[^380-2] saṃvirūḷhaṃ, tam addasaṃ phalahetū[^380-3] vibhaggaṃ, taṃ disvā bhikkhācariyaṃ carāmi. ||  
+Ja_VII:90 ||  
 
-Ja_VII,2.3(=408).2: Selaṃ sumaṭṭaṃ[^380-4] naravīraniṭṭhitaṃ[^380-5] nārī[^380-6] yugaṃ dhārayi appasaddaṃ, dutiyañ ca āgamma ahosi saddo, taṃ disvā bhikkhācariyaṃ carāmi. || Ja_VII:91 ||
+Ja_VII,2.3(=408).2: Selaṃ sumaṭṭaṃ[^380-4] naravīraniṭṭhitaṃ[^380-5] nārī[^380-6] yugaṃ dhārayi appasaddaṃ, dutiyañ ca āgamma ahosi saddo, taṃ disvā bhikkhācariyaṃ carāmi. ||  
+Ja_VII:91 ||  
 
-Ja_VII,2.3(=408).3: Dijā dijaṃ kuṇapam āharantaṃ[^380-7] ekaṃ samānaṃ bahukā samecca āhārahetū[^380-3] paripātayiṃsu, taṃ disvā bhikkhācariyaṃ carāmi. || Ja_VII:92 ||
+Ja_VII,2.3(=408).3: Dijā dijaṃ kuṇapam āharantaṃ[^380-7] ekaṃ samānaṃ bahukā samecca āhārahetū[^380-3] paripātayiṃsu, taṃ disvā bhikkhācariyaṃ carāmi. ||  
+Ja_VII:92 ||  
 
-Ja_VII,2.3(=408).4: Usabh'; āham addaṃ yūthassa majjhe calakkakuṃ vaṇṇabalūpapannaṃ, tam addasaṃ kāmahetū[^380-3] vitunnaṃ, taṃ disvā bhikkhācariyaṃ carāmīti. || Ja_VII:93 ||
+Ja_VII,2.3(=408).4: Usabh'; āham addaṃ yūthassa majjhe calakkakuṃ vaṇṇabalūpapannaṃ, tam addasaṃ kāmahetū[^380-3] vitunnaṃ, taṃ disvā bhikkhācariyaṃ carāmīti. ||  
+Ja_VII:93 ||  
 
 Tattha ambāhamaddan ti ambarukkhaṃ ahaṃ addasaṃ, vanamantarasmin ti vanāntare[^380-8] ambavanamajjhe ti attho, saṃvirūḷhan ti suvaḍḍhitaṃ, tamaddasan ti taṃ uyyānato nikkhamanto[^380-9] phalahetu vibhaggaṃ puna addasaṃ, taṃ disvā ti taṃ phalahetu bhaggaṃ[^380-10] disvā paṭiladdhasaṃvego paccekabodhiñāṇaṃ nibbattetvā imaṃ bhikkhācariyaṃ pabbajjaṃ upagato 'smi, tasmā bhikkhācariyaṃ carāmīti idaṃ so phalahetu vibhaggaṃ ambarukkhaṃ[^380-11] dassanato paṭṭhāya sabbaṃ cittācāraṃ kathetvā va kathesi[^380-12], sesānaṃ vissajjanesu pi es'; eva nayo, ayaṃ pan'; ettha anuttānapadadīpanā[^380-13], selan ti maṇivalayaṃ, naravīraniṭṭhitan[^380-14] ti vīranaraniṭṭhitaṃ[^380-15] paṇḍita-
 
@@ -4970,9 +5531,11 @@ Tattha ambāhamaddan ti ambarukkhaṃ ahaṃ addasaṃ, vanamantarasmin ti vanā
 
 purisena[^381-1] katan ti attho, yugan ti ekekasmiṃ ekekaṃ katvā ekaṃ valayayugaṃ[^381-2], dijā dijan ti gahitamaṃsapiṇḍaṃ dijaṃ avasesadijā, kuṇapamāharantan[^381-3] ti taṃ[^381-4] maṃsapiṇḍaṃ ādāya harantaṃ, samecca ti samāgantvā sannipatitvā, paripātayiṃsū 'ti koṭṭhentā[^381-5] anubandhiṃsu, usabhāhamaddan ti usabhaṃ ahaṃ addasaṃ, calakkakun ti calakakudhaṃ[^381-6]. Bodhisatto ekekaṃ gāthaṃ sutvā "sādhu bhante tumhākam ev'; etaṃ ārammaṇaṃ anurūpan" ti ekekassa paccekabuddhassa thutiṃ akāsi, tañ ca pana catuhi janehi desitaṃ dhammakathaṃ sutvā gharāvāse anapekkho hutvā pakkantesu paccekabuddhesu bhuttapātarāso sukhaṃ[^381-7] nisinno bhariyaṃ āmantetvā "bhadde ete cattāro paccekabuddhā rajjaṃ pahāya pabbajitā akiñcanā apalibodhā pabbajjāsukhena[^381-8] vītināmenti, ahaṃ pana bhatiyā jīvikaṃ kappemi, kim me gharāvāsena, tvaṃ puttake saṃgaṇhantī[^381-9] gehe vasā[^381-10]" 'ti vatvā dve gāthā āha[^381-11]:
 
-Ja_VII,2.3(=408).5: Karaṇḍu[^381-12] nāma Kaliṅgānaṃ[^381-13] Gandhārānañ ca Naggaji Nimirājā Videhānaṃ Pañcālānañ ca Dummukho[^381-14], ete raṭṭhāni hitvāna pabbajiṃsu akiñcanā. || Ja_VII:94 ||
+Ja_VII,2.3(=408).5: Karaṇḍu[^381-12] nāma Kaliṅgānaṃ[^381-13] Gandhārānañ ca Naggaji Nimirājā Videhānaṃ Pañcālānañ ca Dummukho[^381-14], ete raṭṭhāni hitvāna pabbajiṃsu akiñcanā. ||  
+Ja_VII:94 ||  
 
-Ja_VII,2.3(=408).6: Sabb'; ev'; ime[^381-15] devasamā samāgatā[^381-16] aggī[^381-17] yathā pajjalito tath'; ev'; ime[^381-18], aham pi eko carissāmi[^381-19] Bhaggavi[^381-20] hitvāna kāmāni yathodhikānīti[^381-21]. || Ja_VII:95 ||
+Ja_VII,2.3(=408).6: Sabb'; ev'; ime[^381-15] devasamā samāgatā[^381-16] aggī[^381-17] yathā pajjalito tath'; ev'; ime[^381-18], aham pi eko carissāmi[^381-19] Bhaggavi[^381-20] hitvāna kāmāni yathodhikānīti[^381-21]. ||  
+Ja_VII:95 ||  
 
 Tāsaṃ attho[^381-22]: bhadde esa saṃghattherapaccekabuddho[^381-23] Dantapure nāma nagare Karaṇḍu[^381-24] nāma Kaliṅgānaṃ janapadassa rājā, dutiyo Takkasilānagare[^381-25] Naggaji nāma Gandhārānaṃ janapadassa rājā, tatiyo Mithilanagare Nimi nāma Videhānaṃ janapadassa rājā, catuttho Kampillanagare Dummukho[^381-14] nāma Uttarapañcālānaṃ janapadassa rājā, te evarūpāni raṭṭhāni hitvā akiñcanā hutvā pabbajiṃsu[^381-26], ime pana sabbe pi visuddhidevehi purimapaccekabuddhehi samānā ekato samāgatā, yathā hi aggi pajjalito obhāsati tath'; eva me ti[^381-27] ime pi
 
@@ -4984,7 +5547,8 @@ Tāsaṃ attho[^381-22]: bhadde esa saṃghattherapaccekabuddho[^381-23] Dantapu
 
 tath'; eva[^382-1] sīlādīhi pañcahi guṇehi obhāsanti, yathā ete tathā aham pi[^382-2] eko carissāmīti attho, bhaggavīti pana[^382-3] bhariyaṃ ālapati, hitvāna kāmānīti rūpādayo vatthukāme hitvā, yathodhikānīti[^382-4] attano odhivasena[^382-5] ṭhitāni, idaṃ vuttaṃ hoti: rūpādiodhivasena[^382-6] yathodhi[^382-7] te vatthukāme pahāya aham pi pabbajitvā eko carissāmīti, yatodhikānīti[^382-8] pi pāṭho, tass'; attho: yato uparato[^382-9] odhi etesan ti yatodhikāni uparatakoṭṭhāsāni[^382-10], pabbajissāmīti cintitakālato paṭṭhāya hi kilesakāmānaṃ eko koṭṭhāso uparato nāma hoti niruddho tassa vatthubhūto kāmakoṭṭhāso pi uparato va[^382-11] hotīti. Sā tassa kathaṃ sutvā "mayham pi kho sāmi paccekabuddhānaṃ dhammakathaṃ sutakālato paṭṭhāya ghare[^382-12] cittaṃ na saṇṭhātīti" vatvā:
 
-Ja_VII,2.3(=408).7: Ayam eva kālo[^382-13], na hi añño atthi, anusāsitā me na[^382-14] bhaveyya pacchā, aham pi ekā[^382-15] carissāmi bhaggava sakuṇī va muttā purisassa hatthā ti || Ja_VII:96 ||
+Ja_VII,2.3(=408).7: Ayam eva kālo[^382-13], na hi añño atthi, anusāsitā me na[^382-14] bhaveyya pacchā, aham pi ekā[^382-15] carissāmi bhaggava sakuṇī va muttā purisassa hatthā ti ||  
+Ja_VII:96 ||  
 
 imaṃ gātham āha. Tattha nnusāsitā me na[^382-14] bhaveyya pacchā ti anusāsako[^382-16] ovādako na bhaveyya dullabhattā ovādakānaṃ, tasmā ayam eva pabbajituṃ[^382-17] kālo na hi añño atthīti dasseti, sakuṇī va muttā ti yathā sakuṇikena gahetvā sakuṇapacchiyaṃ khittāsu sakuṇīsu tassa hatthato muttā ekā sakuṇī anilapathaṃ laṃghayitvā yathārucitaṃ ṭhānam gantvā ekikā[^382-18] careyya tathāham[^382-19] pi tava hatthato muttā ekā[^382-20] va carissāmīti sayam pi pabbajitukāmā hutvā evam āha. Bodhisatto tassā kathaṃ sutvā tuṇhī[^382-21] ahosi. Sā pana Bodhisattaṃ vañcetvā puretaraṃ pabbajitukāmā "sāmi pānīyatitthaṃ gamissāmi dārake olokehīti" ghaṭaṃ ādāya gacchantī[^382-22] viya palāyitvā nagarasāmante tāpasānaṃ santikaṃ[^382-23] gantvā pabbaji. Bodhisatto tassā anāgamanaṃ ñatvā sayaṃ dārake posesi. Aparabhāge tesu thokaṃ vaḍḍhitvā attano ayanāya[^382-24] jānanasamatthataṃ[^382-25] pattesu[^382-26] tesaṃ vīmaṃsanatthaṃ ekadi-
 
@@ -4996,7 +5560,8 @@ imaṃ gātham āha. Tattha nnusāsitā me na[^382-14] bhaveyya pacchā ti anus�
 
 vasaṃ bhattaṃ pacanto thokaṃ uttaṇḍulaṃ paci ekadivasaṃ thokaṃ kilinnaṃ ekadivasaṃ supakkaṃ ekadivasaṃ atikilinnaṃ ekadivasaṃ aloṇaṃ[^383-1] ekadivasaṃ atiloṇaṃ[^383-1]. Dārakā "tāta ajja bhattaṃ uttaṇḍulaṃ ajja atikilinnaṃ[^383-2] ajja supakkaṃ[^383-3] ajja aloṇakaṃ[^383-4] ajja atiloṇan[^383-5]" ti kathesuṃ. Bodhisatto[^383-6] "āma tātā" ti vatvā cintesi: "ime dārakā idāni āmapakkaloṇikāloṇikāni[^383-7] jānanti, attano dhammatāya jīvituṃ sakkhissanti, mayā pabbajituṃ vaṭṭatīti." Atha te dārake ñātakakulānaṃ[^383-8] dassetvā[^383-9] isipabbajjaṃ pabbajitvā nagarasāmante yeva vasi. Atha naṃ ekadivasaṃ Bārāṇasiyaṃ bhikkhāya carantī[^383-10] paribbājikā disvā vanditvā "ayya dārakā te nāsitā maññe" ti āha. Mahāsatto "nāhaṃ dārake nāsemi, tesaṃ attano ayanāya jānanakāle[^383-12] pabbajito 'mhi, tvaṃ tesaṃ acintetvā pabbajjāya abhiramā" 'ti vatvā osānagātham āha:
 
-Ja_VII,2.3(=408).8: Āmaṃ pakkañ ca jānanti atho loṇaṃ aloṇikaṃ[^383-12], tam ahaṃ disvā pabbajiṃ, car'; eva[^383-13] tvaṃ carām'; ahan ti. || Ja_VII:97 ||
+Ja_VII,2.3(=408).8: Āmaṃ pakkañ ca jānanti atho loṇaṃ aloṇikaṃ[^383-12], tam ahaṃ disvā pabbajiṃ, car'; eva[^383-13] tvaṃ carām'; ahan ti. ||  
+Ja_VII:97 ||  
 
 Tattha tamahan ti taṃ ahaṃ dārakānaṃ kiriyaṃ disvā pabbajito, careva[^383-14] tvaṃ carāmahan ti tvam pi bhikkhācariyam eva cara, aham Pi bhikkhācariyaṃ eva carissāmīti. Iti so paribbājikaṃ ovaditvā uyyojesi. Sāpi ovādaṃ gahetvā Mahāsattaṃ vanditvā yathārucitaṃ ṭhānaṃ gatā[^383-15]. Ṭhapetvā kira taṃ divasaṃ na te puna aññamaññaṃ addasaṃsu. Bodhisatto[^383-16] jhānābhiññaṃ nibbattetvā brahmalokūpago ahosi. Satthā imaṃ desanaṃ[^383-17] āharitvā[^383-18] jātakaṃ samodhānesi: (saccapariyosāne pañcasatā bhikkhū arahatte patiṭṭhahiṃsu) "Tadā dhītā Uppalavaṇṇā ahosi, putto Rāhulakumāro, paribbājikā Rāhulamātā, paribbājako[^383-19] aham evā" 'ti. Kumbhakārajātakaṃ[^383-20].
 
@@ -5024,11 +5589,14 @@ karohīti" vatvā pakkāmi. Rājā tathā akāsi. "Tathāgatena kira. Bhaddavati
 
 datvā idāni mahallakakāle sabbaṃ acchinditvā[^386-1] mayi cittam pi na karoti, ahaṃ[^386-2] anāthā araññe tiṇapaṇṇāni khādantī[^386-3] jīvāmi, evaṃ dukkhappattaṃ[^386-4] idāni yānake[^386-5] yojetuṃ kumbhakārassa adāsi, ṭhapetvā tumhe aññaṃ[^386-6] mayhaṃ paṭisaraṇaṃ n'; atthi, mayā rañño katūpakāraṃ tumhe jānātha[^386-7], sādhu dāni[^386-8] me naṭṭhaṃ yasaṃ paṭipākatikaṃ karothā" 'ti vatvā tisso gāthā abhāsi:
 
-Ja_VII,2.4(=409).1: Ahañ ce[^386-9] Daḷhadhammāya[^386-10] vahantī[^386-3] nābhirādhayiṃ nudantī[^386-11] urasiṃ[^386-12] sallaṃ yuddhe vikkantacārinī[^386-13]. || Ja_VII:98 ||
+Ja_VII,2.4(=409).1: Ahañ ce[^386-9] Daḷhadhammāya[^386-10] vahantī[^386-3] nābhirādhayiṃ nudantī[^386-11] urasiṃ[^386-12] sallaṃ yuddhe vikkantacārinī[^386-13]. ||  
+Ja_VII:98 ||  
 
-Ja_VII,2.4(=409).2: Na ha nūna[^386-14] rājā jānāti mama vikkamaporisaṃ saṃgāme sukatantāni dūtavippahitāni[^386-15] ca. || Ja_VII:99 ||
+Ja_VII,2.4(=409).2: Na ha nūna[^386-14] rājā jānāti mama vikkamaporisaṃ saṃgāme sukatantāni dūtavippahitāni[^386-15] ca. ||  
+Ja_VII:99 ||  
 
-Ja_VII,2.4(=409).3: Sā[^386-16] nūnāhaṃ marissāmi abandhu aparāyinī[^386-17], tathā[^386-18] hi kumbhakārassa dinnā chakaṇahārikā ti. || Ja_VII:100 ||
+Ja_VII,2.4(=409).3: Sā[^386-16] nūnāhaṃ marissāmi abandhu aparāyinī[^386-17], tathā[^386-18] hi kumbhakārassa dinnā chakaṇahārikā ti. ||  
+Ja_VII:100 ||  
 
 Tattha vahantīti dūteyyaharaṇaṃ[^386-119] saṃgāme balakoṭṭhabhedan ti[^386-20] taṃ taṃ kiccaṃ[^386-21] vahantī[^386-22] nittharantī[^386-23], nudantī[^386-24] urasiṃ[^386-12] sallan ti urasmiṃ baddhaṃ[^386-25] khaṇḍaṃ[^386-26] asiṃ vā sattiṃ vā[^386-27] yuddhakāle sattūnaṃ upari abhiharantī[^386-28], vikkantacārinīti vikkamaṃ[^386-29] katvā parabalavijayena[^386-30] yuddhe[^386-31] vikkantagāminī, idaṃ vuttaṃ boti: sace sāmi ahaṃ imāni kiccāni karontī[^386-32] rañño Daḷhadhammassa cittaṃ nārādhayiṃ na paritosesiṃ ko dāni añño tassa cittaṃ ārādhessatīti[^386-33], mama vikkamaporisan ti mayā kataṃ purisaparakkamaṃ, sukatantānīti sukatāni yathā[^386-34] kammān'; eva kammantāni vanān' eva vanantāni[^386-35] evam idha sukatantānīti[^386-36] vuttāni, dūtavippahitāni[^386-37] cā 'ti gale paṇṇaṃ bandhitvā asukarañño nāma dehīti pahitāya mayā ekadivasen' eva yojanasataṃ gantvā katāni[^386-38] dūtapesanāni ca, na ha nūna rājā jānātīti[^386-39] nūna[^386-40] tumhākaṃ rājā etāni mayā katāni kiccāni na jānāti, aparāyinīti
 
@@ -5040,13 +5608,17 @@ Tattha vahantīti dūteyyaharaṇaṃ[^386-119] saṃgāme balakoṭṭhabhedan 
 
 appatiṭṭhā appaṭisaraṇā, tathā hīti tadā hi[^387-1], ayam eva vā pāṭho, dinnā ti ahaṃ raññā chakaṇahārikaṃ[^387-2] katvā kumbhakārassa dinnā ti. Bodhisatto tassā kathaṃ sutvā "tvaṃ mā soci, ahaṃ rañño kathetvā tava yasaṃ paṭipākatikaṃ karissāmīti" taṃ samassāsetvā nagaraṃ pavisitvā bhuttapātarāso rañño santikaṃ gantvā kathaṃ samuṭṭhāpetvā "mahārāja, nanu tumhākaṃ asukā nāma oṭṭhivyādhi[^387-3] asukaṭṭhāne ca asukaṭṭhāne ca ure sallaṃ bandhitvā saṃgāmaṃ nitthari, asukadivasaṃ nāma gīvāya paṇṇaṃ bandhitvā pesitā[^387-4] yojanasataṃ agamāsi, tumhe pi 'ssā mahantaṃ yasaṃ adattha[^387-5], sā idāni kuhin[^387-6]" ti. "Tam ahaṃ kumbhakārassa gomayāharaṇatthāya[^387-7] adāsin" ti. Atha naṃ Bodhisatto "yuttaṃ nu kho[^387-8] mahārāja tumhākaṃ taṃ[^387-9] kumbhakārassa yānake yojanatthāya dātun" ti vatvā[^387-10] ovādavasena catasso gāthā abhāsi:
 
-Ja_VII,2.4(=409).4: Yāvatāsiṃsatī[^387-11] poso tāvad eva pavīṇati, atthāpāye jahantī[^387-11] naṃ oṭṭhivyādhiṃ va[^387-12] khattiyo. || Ja_VII:101 ||
+Ja_VII,2.4(=409).4: Yāvatāsiṃsatī[^387-11] poso tāvad eva pavīṇati, atthāpāye jahantī[^387-11] naṃ oṭṭhivyādhiṃ va[^387-12] khattiyo. ||  
+Ja_VII:101 ||  
 
-Ja_VII,2.4(=409).5: Yo pubbe katakalyāṇo katattho nāvabujjhati atthā tassa palujjanti ye honti abhipatthitā[^387-13]. || Ja_VII:102 ||
+Ja_VII,2.4(=409).5: Yo pubbe katakalyāṇo katattho nāvabujjhati atthā tassa palujjanti ye honti abhipatthitā[^387-13]. ||  
+Ja_VII:102 ||  
 
-Ja_VII,2.4(=409).6: Yo pubbe katakalyāṇo katattho-m-anubujjhati[^387-14] atthā tassa pavaḍḍhanti ye honti abhipatthitā[^387-15]. || Ja_VII:103 ||
+Ja_VII,2.4(=409).6: Yo pubbe katakalyāṇo katattho-m-anubujjhati[^387-14] atthā tassa pavaḍḍhanti ye honti abhipatthitā[^387-15]. ||  
+Ja_VII:103 ||  
 
-Ja_VII,2.4(=409).7: Taṃ vo vadāmi bhaddaṃ vo[^387-16] yāvant'; ettha samāgatā: sabbe kataññuno hotha, ciraṃ saggamhi ṭhassathā[^387-17] 'ti. || Ja_VII:104 ||
+Ja_VII,2.4(=409).7: Taṃ vo vadāmi bhaddaṃ vo[^387-16] yāvant'; ettha samāgatā: sabbe kataññuno hotha, ciraṃ saggamhi ṭhassathā[^387-17] 'ti. ||  
+Ja_VII:104 ||  
 
 Tattha paṭhamagāthāya tāva attho: idh'; ekacco aññāṇajātiko poso yāvatāsiṃsati[^387-18] yāva idaṃ nāma me ayaṃ kātuṃ sakkhissatīti paccāsiṃsati tāvad eva taṃ purisaṃ pavīṇati[^387-19] bhajati sevati, tassa pana atthāpāye vaḍḍhiyā apagamane parihīnakāle taṃ[^387-20] nānākiccesu patthitaṃ posaṃ ekacce bālā imaṃ otthivyādhiṃ ayaṃ khattiyo viya jahanti, katakalyāṇo ti parena attano katakalyāṇakammo[^387-21], katattho ti nipphāditakicco, nāvabujjhatīti pacchā taṃ
 
@@ -5068,11 +5640,13 @@ parena kataṃ upakāraṃ tassa[^388-1] jarājiṇṇakāle na sarati attanā[^
 
 pabbajjaṃ pabbajitvā uñchācariyāya vanamūlaphalehi[^389-1] yāpento[^389-2] ekadivasaṃ phalāphalatthāya gato ekaṃ hatthicchāpaṃ disvā attano assamaṃ ānetvā puttaṭṭhāne ṭhapetvā Somadatto ti 'ssa nāmaṃ katvā tiṇapaṇṇāni khādāpento paṭijaggi. So vayappatto mahāsārīro hutvā ekadivasaṃ bahuṃ gocaraṃ[^389-3] gahetvā ajīrakena dubbalo ahosi. Tāpaso taṃ assamapade[^389-4] katvā phalāphalatthāya gato. Tasmiṃ anāgate yeva hatthipotako kālam akāsi. Tāpaso phalāphalaṃ gahetvā āgacchanto "aññesu me divasesu[^389-5] putto paccuggamanaṃ karoti, ajja na dissati, kahan nu kho gato" ti paridevanto paṭhamaṃ gātham āha:
 
-Ja_VII,2.5(=410).1: Yo maṃ pure paccudeti araññe dūram āyato so na dissati mātaṅgo, Somadatto kuhiṃ gato ti. || Ja_VII:105 ||
+Ja_VII,2.5(=410).1: Yo maṃ pure paccudeti araññe dūram āyato so na dissati mātaṅgo, Somadatto kuhiṃ gato ti. ||  
+Ja_VII:105 ||  
 
 Tattha pure ti ito pure, paccudeti paccuggacchati, araññe dūran ti imasmiṃ nimmanusse araññe maṃ dūraṃ paccudeti, āyato ti āyāmasampanno. Evaṃ paridevamāno āgantvā taṃ caṃkamanakoṭiyaṃ patitaṃ disvā gale gahetvā[^389-6] paridevanavasen'; eva[^389-7] dutiyaṃ gātham āha:
 
-Ja_VII,2.5(=410).2: Ayaṃ va[^389-8] so mato seti allapiṃkaṃ va chijjito[^389-9], bhumyā[^389-10] nipatito seti, amarā[^389-11] vata kuñjaro ti. || Ja_VII:106 ||
+Ja_VII,2.5(=410).2: Ayaṃ va[^389-8] so mato seti allapiṃkaṃ va chijjito[^389-9], bhumyā[^389-10] nipatito seti, amarā[^389-11] vata kuñjaro ti. ||  
+Ja_VII:106 ||  
 
 Tattha ayaṃ vā 'ti[^389-12] vibhāvanatthe[^389-13] vasaddo[^389-14], ayaṃ eva so añño ti taṃ vibhāvento evaṃ āha, allapiṃkan[^389-15] ti māluvalatāyaṃ aggapavālaṃ[^389-16], chijjito[^389-17] ti chinno, gimhakāle majjhantikasamaye[^389-18] vālikapuline[^389-19] nakhena chinditvā patito māluvalatāya aggaṃkuro[^389-20] viyā 'ti vuttaṃ hoti, bhumyā[^389-20] ti bhūmiyaṃ, amarā[^389-22] vatā 'ti mato[^389-23] vata, amarīti pi pāṭho. Tasmiṃ khaṇe Sakko lokaṃ olokento[^389-24] "ayaṃ tāpaso puttadāraṃ pahāya pabbajito, idāni hatthipotake puttasaññaṃ katvā paridevati, saṃvejetvā[^389-25] naṃ satiṃ paṭilābhessāmīti[^389-26]" tassa assamapadaṃ āgantvā ākāse ṭhito tatiyaṃ gātham āha:
 
@@ -5082,23 +5656,29 @@ Tattha ayaṃ vā 'ti[^389-12] vibhāvanatthe[^389-13] vasaddo[^389-14], ayaṃ 
 
 ##### *[PTS Page 390]*
 
-Ja_VII,2.5(=410).3: Anāgāriyupetassa vippamuttassa cetaso (Cfr. supra p.214.) samaṇassa na taṃ sādhu yaṃ petam anusocasīti. || Ja_VII:107 ||
+Ja_VII,2.5(=410).3: Anāgāriyupetassa vippamuttassa cetaso (Cfr. supra p.214.) samaṇassa na taṃ sādhu yaṃ petam anusocasīti. ||  
+Ja_VII:107 ||  
 
 Tassa vacanaṃ sutvā[^390-1] catutthaṃ gātham āha:
 
-Ja_VII,2.5(=410).4: Saṃvāsena have Sakka manussassa migassa vā hadaye jāyatī[^390-2] pemaṃ, taṃ[^390-3] na sakkā asocitun ti. || Ja_VII:108 ||
+Ja_VII,2.5(=410).4: Saṃvāsena have Sakka manussassa migassa vā hadaye jāyatī[^390-2] pemaṃ, taṃ[^390-3] na sakkā asocitun ti. ||  
+Ja_VII:108 ||  
 
 Tattha migassa vā ti imasmiṃ ṭhāne sabbe pi tiracchānā migā ti vuttā, tan ti piyāyitaṃ[^390-4] sattaṃ. Atha naṃ ovadanto[^390-5] Sakko dve gāthā abhāsi:
 
-Ja_VII,2.5(=410).5: Mataṃ marissaṃ rodanti ye rudanti lapanti ca, isi mā rudi[^390-6], roditaṃ mogham āhu santo.. [^390-7]. || Ja_VII:109 ||
+Ja_VII,2.5(=410).5: Mataṃ marissaṃ rodanti ye rudanti lapanti ca, isi mā rudi[^390-6], roditaṃ mogham āhu santo.. [^390-7]. ||  
+Ja_VII:109 ||  
 
-Ja_VII,2.5(=410).6: Kanditena have[^390-8] brahme mato peto samuṭṭhahe, sabbe saṃgamma rodāma aññamaññassa ñātake ti. || Ja_VII:110 ||
+Ja_VII,2.5(=410).6: Kanditena have[^390-8] brahme mato peto samuṭṭhahe, sabbe saṃgamma rodāma aññamaññassa ñātake ti. ||  
+Ja_VII:110 ||  
 
 Tattha ye rudanti[^390-9] lapanti cā 'ti brāhmaṇa[^390-10] ye sattā rodanti ca paridevanti ca sabbe te mataṃ yo ca marissati taṃ rodanti, tesaṃ yeva rodantānaṃ assusukkhanakālo n'; atthi, tasmā tvaṃ isi mā rodi[^390-11], kiṃkāraṇā: roditaṃ moghamāhu santo paṇḍitā hi[^390-12] roditaṃ nipphalan[^390-13] ti vadanti, mato peto ti yadi esa peto ti saṃkhaṃ gato mato roditena samuṭṭhaheyya evaṃ sante sabbe pi mayaṃ samāgantvā aññamaññassa ñātake rodāma kiṃ nikkammaṃ[^390-14] acchāmā 'ti. Tāpaso Sakkassa vacanaṃ sutvā satiṃ paṭilabhitvā vītasoko[^390-15] assūni majjitvā[^390-16] Sakkassa thutivasena sesagāthā[^390-17] āha:
 
-Ja_VII,2.5(=410).7: Ādittaṃ vata maṃ santaṃ ghatasittaṃ[^390-18] va pāvakaṃ vārinā viya osiñcaṃ[^390-19] sabbaṃ nibbāpaye daraṃ[^390-20]. || Ja_VII:111 ||
+Ja_VII,2.5(=410).7: Ādittaṃ vata maṃ santaṃ ghatasittaṃ[^390-18] va pāvakaṃ vārinā viya osiñcaṃ[^390-19] sabbaṃ nibbāpaye daraṃ[^390-20]. ||  
+Ja_VII:111 ||  
 
-Ja_VII,2.5(=410).8: Abbahī[^390-21] vata me sallaṃ yam āsi[^390-22] hadayanissitaṃ yo me sokaparetassa puttasokaṃ apānudi. || Ja_VII:112 ||
+Ja_VII,2.5(=410).8: Abbahī[^390-21] vata me sallaṃ yam āsi[^390-22] hadayanissitaṃ yo me sokaparetassa puttasokaṃ apānudi. ||  
+Ja_VII:112 ||  
 
 
 <!-- PTS Page 391 -->
@@ -5106,7 +5686,8 @@ Ja_VII,2.5(=410).8: Abbahī[^390-21] vata me sallaṃ yam āsi[^390-22] hadayan
 
 ##### *[PTS Page 391]*
 
-Ja_VII,2.5(=410).9: So 'haṃ abbūḷhasallo 'smi vītasoko anāvilo, na socāmi na rodāmi tava sutvāna Vāsavā[^391-1] 'ti. || Ja_VII:113 ||
+Ja_VII,2.5(=410).9: So 'haṃ abbūḷhasallo 'smi vītasoko anāvilo, na socāmi na rodāmi tava sutvāna Vāsavā[^391-1] 'ti. ||  
+Ja_VII:113 ||  
 
 Tā heṭṭhā vuttā[^391-2] yeva. Evaṃ Sakko tāpasaṃ ovaditvā[^391-3] sakaṭṭhānam eva gato. Satthā imaṃ desanaṃ[^391-4] āharitvā jātakaṃ samodhānesi: "Tadā hatthipotako sāmaṇero ahosi, tāpaso mahallako, Sakko[^391-5] aham evā" 'ti. Somadattajātakaṃ[^391-6].
 
@@ -5128,7 +5709,8 @@ Takkasilāya[^392-1] sabbasippāni uggaṇhitvā paccāgamiṃsu. Rājaputto upa
 
 khittakukkuṭo viya ca ahosi. Ath'; assa aggamahesī "ayaṃ rājā mayā saddhiṃ nābhiramati, ekako va tiṭṭhati nisīdati seyyaṃ kappeti, ayaṃ kho pana daharo taruṇo ahaṃ mahallikā, sīse me palitāni paññāyanti, yan nūnāhaṃ ‘sīse deva ekapalitaṃ paññāyatīti'; musāvādaṃ katvā eken'; upāyena rājānaṃ paṭijānāpetvā mayā saddhiṃ abhiramāpeyan" ti cintetvā ekadivasaṃ rañño sīse ūkā vicinantī viya hutvā "deva mahallako si jāto, sīse te ekaṃ palitaṃ paññāyatīti" āha. "Tena hi bhadde ekaṃ palitaṃ luñcitvā mayhaṃ yeva hatthe ṭhapehīti". Sā tassa sīsato ekaṃ kesaṃ luñcitvā taṃ chaḍḍetvā attano sīse[^393-1] palitaṃ gahetvā "idan te deva palitan" ti tassa hatthe ṭhapesi. Bodhisattassa taṃ disvā va bhītatasitassa kañcanapaṭṭasadise nalāṭe[^393-2] sedā mucciṃsu[^393-3]. So attānaṃ ovadanto "Susīma, tvaṃ daharo hutvā mahallako jāto, ettakaṃ[^393-4] kālaṃ gūthakalale nimuggagāmasūkaro viya kāmakalale nimujjitvā taṃ kalalaṃ jahituṃ na sakkosi, nanu kāme pahāya Himavantaṃ pavisitvā pabbajitvā brahmacariyavāsassa te kālo" ti cintetvā paṭhamaṃ gātham āha:
 
-Ja_VII,2.6(=411).1: Kāḷāni kesāni pure ahesuṃ jātāni sīsamhi yathāpadese, tān'; ajja setāni Susīma disvā dhammaṃ carā[^393-5], brahmacariyassa kālo ti. || Ja_VII:114 ||
+Ja_VII,2.6(=411).1: Kāḷāni kesāni pure ahesuṃ jātāni sīsamhi yathāpadese, tān'; ajja setāni Susīma disvā dhammaṃ carā[^393-5], brahmacariyassa kālo ti. ||  
+Ja_VII:114 ||  
 
 Tattha yathāpadese ti tava sīse tasmiṃ tasmiṃ[^393-6] kesānaṃ[^393-7] anurūpe padese ito pubbe kāḷakāni[^393-8] bhamarañjanavaṇṇāni[^393-9] kesāni[^393-10] jātāni ahesun ti vadati, dhammaṃ carā ti dasakusalakammapathadhammaṃ carā 'ti attānam eva āṇāpeti[^393-11], brahmacariyassā 'ti methunaviratiyā te kālo ti attho. Evaṃ Bodhisattena brahmacariyavāsassa guṇe vaṇṇite itarā "ahaṃ imassa ‘lobhaṃ[^393-12] karissāmīti'; vissajjanam eva karin" ti[^393-13] bhītatasitā "idāni 'ssa apabbajanatthāya sarīravaṇṇaṃ vaṇṇessāmīti[^393-14]" dve gāthā abhāsi:
 
@@ -5138,9 +5720,11 @@ Tattha yathāpadese ti tava sīse tasmiṃ tasmiṃ[^393-6] kesānaṃ[^393-7] a
 
 ##### *[PTS Page 394]*
 
-Ja_VII,2.6(=411).2: Mam'; eva deva palitaṃ[^394-1] na tuyhaṃ, mam'; eva sīsaṃ mama uttamaṅgaṃ, atthaṃ karissan ti musā abhāṇiṃ[^394-2], ekāparādhaṃ khama rājaseṭṭha[^394-3]. || Ja_VII:115 ||
+Ja_VII,2.6(=411).2: Mam'; eva deva palitaṃ[^394-1] na tuyhaṃ, mam'; eva sīsaṃ mama uttamaṅgaṃ, atthaṃ karissan ti musā abhāṇiṃ[^394-2], ekāparādhaṃ khama rājaseṭṭha[^394-3]. ||  
+Ja_VII:115 ||  
 
-Ja_VII,2.6(=411).3: Daharo tuvaṃ[^394-4] dassanīyo si rāja, paṭhamuggato hosi[^394-5] yathā kaḷīro, rajjañ ca kārehi mamañ ca passa, mā kālikaṃ anudhāvi janindā 'ti. || Ja_VII:116 ||
+Ja_VII,2.6(=411).3: Daharo tuvaṃ[^394-4] dassanīyo si rāja, paṭhamuggato hosi[^394-5] yathā kaḷīro, rajjañ ca kārehi mamañ ca passa, mā kālikaṃ anudhāvi janindā 'ti. ||  
+Ja_VII:116 ||  
 
 Tattha mameva sīsan ti mam'; eva sīsaṃ jātapalitan[^394-6] ti dīpeti, itaraṃ tass'; eva vevacanaṃ, atthan ti attano vaḍḍhiṃ karissāmīti musā kathesim, ekāparādhan ti imaṃ[^394-7] mayhaṃ ekaṃ aparādhaṃ, paṭhamuggato ti paṭhamavayena uggato, hohīti hosi[^394-8], paṭhamavaye patiṭṭhito sīti attho, hosīti yeva vā pāṭho, yathā kaḷīro ti yathā siniddhachavitaruṇakaḷīro[^394-9] mandavāterito ativiya sobhati[^394-10] evarūpo si tvan ti dasseti, paṭhamuggato hosīti pi[^394-11] pāṭho, tass' attho: yathā paṭhamuggato taruṇakaḷīro dassanīyo hoti evaṃ tvaṃ pi dassanīyo, mamañca passā 'ti mamañ ca olokehi mā maṃ anāthaṃ vidhavaṃ[^394-12] karīti[^394-13] attho, kālikan ti brahmacariyacaranaṃ[^394-14] nāma dutiye vā tatiye vā attabhāve vipākajananato kālikaṃ nāma, rajjaṃ pana imasmiṃ yeva attabhāve kāmaguṇasukhappadānato akālikaṃ, so[^394-15] imaṃ akālikaṃ[^394-16] pahāya mā kālikaṃ anudhāvīti vadati Bodhisatto tassā vacanaṃ sutvā "bhadde tvaṃ bhavitabbam ev'; etaṃ[^394-17] kathesi, pariṇamante[^394-18] hi vaye[^394-19] imehi kāḷakesehi parivattitvā saṇhakasadisehi[^394-20] paṇḍarehi bhavitabbaṃ, ahaṃ hi nīluppalādikusumadāmasukumārānaṃ[^394-21] kañcanarūpakapaṭibhāgānaṃ[^394-22] uttamayobbanavilāsamattānaṃ[^394-23] khattiyakaññādīnaṃ vaye pariṇamante jarappattānaṃ[^394-24] vevaṇṇiyañ c'; eva sarīrabhaṅgañ[^394-25] ca passāmi, evaṃ vipattipariyosāno h'; esa[^394-26] bhadde jīvaloko" ti vatvā upari Buddhalīḷhāya dhammaṃ desento:
 
@@ -5150,9 +5734,11 @@ Tattha mameva sīsan ti mam'; eva sīsaṃ jātapalitan[^394-6] ti dīpeti, itar
 
 ##### *[PTS Page 395]*
 
-Ja_VII,2.6(=411).4: Passāmi vo 'haṃ dahariṃ kumāriṃ sāmaṭṭhapassaṃ[^395-1] sutanuṃ sumajjhaṃ, kāḷāpavāḷā[^395-2] va pavellamānā sā[^395-3] lobhayantī[^395-4] va naresu gacchati[^395-5]. || Ja_VII:117 ||
+Ja_VII,2.6(=411).4: Passāmi vo 'haṃ dahariṃ kumāriṃ sāmaṭṭhapassaṃ[^395-1] sutanuṃ sumajjhaṃ, kāḷāpavāḷā[^395-2] va pavellamānā sā[^395-3] lobhayantī[^395-4] va naresu gacchati[^395-5]. ||  
+Ja_VII:117 ||  
 
-Ja_VII,2.6(=411).5: Tam ena[^395-6] passāmi parena nāriṃ āsītikaṃ[^395-7] nāvutikaṃ va[^395-8] jaccā daṇḍaṃ gahetvā va[^395-9] pavedhamānaṃ gopānasībhoggasamaṃ carantin ti || Ja_VII:118 ||
+Ja_VII,2.6(=411).5: Tam ena[^395-6] passāmi parena nāriṃ āsītikaṃ[^395-7] nāvutikaṃ va[^395-8] jaccā daṇḍaṃ gahetvā va[^395-9] pavedhamānaṃ gopānasībhoggasamaṃ carantin ti ||  
+Ja_VII:118 ||  
 
 gāthadvayam āha. Tattha vo ti nipātamattaṃ, sāmaṭṭhapassan[^395-10] ti sammaṭṭhapassaṃ[^395-11], ayam eva vā pāṭho, sabbapasse[^395-12] maṭṭhacchavivaṇṇan[^395-13] ti attho, sutanun ti sundarasarīraṃ[^395-14], sumajjhan ti susaṇṭhitamajjhañ ca[^395-15], kāḷāpavāḷā[^395-16] va pavellamānā ti[^395-17] yathā nāma taruṇakāle susamuggatā[^395-18] kāḷavallipavāḷā va hutvā mandavāteritā ito c'; ito[^395-19] ca pavellati evaṃ pavellamānā itthivilāsaṃ dassayamānā kumārikā lobhayantī[^395-20] va naresu gacchati[^395-21], samīpaṭṭhe bhummavacanaṃ, purisānaṃ santike te purise kilesavasena palobhayantī[^395-22] viya gacchati, tamena[^395-23] passāmi parenā 'ti tam enaṃ nāriṃ aparena samayena jarāpattaṃ[^395-24] antarahitarūpasobhaṃ[^395-25] passāmi, Bodhisatto hi paṭhamagāthāya rūpe assādaṃ kathetvā idāni ādīnavaṃ dassento evam āha, asītikaṃ navutikaṃ va[^395-26] jaccā ti asītisaṃvaccharaṃ vā navutisaṃvaccharaṃ vā jātiyā, gopānasībhoggasaman[^395-27] ti gopānasīsamaṃ bhoggaṃ[^395-28] gopānasiākārena[^395-29] bhaggasarīraṃ oṇamitvā[^395-30] naṭṭhakākaṇiṃ[^395-31] pariyesantiṃ[^395-32] viya caramānan ti attho, kāmañ ca Bodhisattena daharakālena[^395-33] disvā puna nāvutikakāle[^395-34] diṭṭhapubbā nāma n'; atthi, ñāṇena diṭṭhabhāvaṃ sandhāya pan'; etaṃ vuttaṃ. Iti Mahāsatto imāya gāthāya rūpassa ādīnavaṃ dassetvā idāni agāramajjhe attano anabhiratiṃ[^395-35] pakāsento[^395-36]:
 
@@ -5162,9 +5748,11 @@ gāthadvayam āha. Tattha vo ti nipātamattaṃ, sāmaṭṭhapassan[^395-10] ti
 
 ##### *[PTS Page 396]*
 
-Ja_VII,2.6(=411).6: So 'haṃ tam evānuvicintayanto eko sayāmi sayanassa majjhe, aham pi evaṃ iti pekkhamāno na gahe[^396-1] rame, brahmacariyassa kālo. || Ja_VII:119 ||
+Ja_VII,2.6(=411).6: So 'haṃ tam evānuvicintayanto eko sayāmi sayanassa majjhe, aham pi evaṃ iti pekkhamāno na gahe[^396-1] rame, brahmacariyassa kālo. ||  
+Ja_VII:119 ||  
 
-Ja_VII,2.6(=411).7: Rajju vālambanī c'; esā[^396-2] yā gehe vasato rati etam pi chetvāna vajanti dhīrā anapekkhino kāmasukhaṃ pahāyā 'ti. || Ja_VII:120 ||
+Ja_VII,2.6(=411).7: Rajju vālambanī c'; esā[^396-2] yā gehe vasato rati etam pi chetvāna vajanti dhīrā anapekkhino kāmasukhaṃ pahāyā 'ti. ||  
+Ja_VII:120 ||  
 
 Tattha so han ti so ahaṃ, tamevānuvicintayanto ti tam eva rūpānaṃ assādañ ca ādīnavañ ca cintento[^396-2], evaṃ iti pekkhamāno ti yathā esā pariṇatā aham pi evaṃ[^396-4] jaraṃ patto bhoggasarīro[^396-5] bhavissāmīti pekkhamāno, na gahe[^396-1] rame ti gehe na ramāmi, brahmacariyassa kālo ti bhadde brahmacariyassa[^396-6] kālo, tasmā pabbajissāmīti dīpeti. rajju vālambanī cesā ti cakāro nipātamatto, ālambanarajju[^396-7] viya esā ti attho, katarā: yā[^396-8] gehe vasato rati, yā gehe vasantassa rūpādīsu ārammaṇesu kāmaratīti attho, iminā kāmānaṃ appassādataṃ[^396-9] dasseti, ayaṃ h'; ettha[^396-10] adhippāyo: yathā gilānassa manussassa attano balena parivattituṃ asakkontassa imaṃ ālambitvā parivatteyyāsīti ālambanarajjuṃ bandheyyuṃ tassa taṃ ālambitvā parivattantassa[^396-11] appakaṃ[^396-12] kāyikacetasikaṃ sukhaṃ bhaveyya evaṃ kilesāturānaṃ sattānaṃ vivekasukhavasena parivattituṃ asakkontānaṃ agāramajjhe ṭhapitāni kāmaratidāyakāni rūpādīni ārammaṇāni tesaṃ kilesapariḷāhakāle[^396-13] methunadhammapatisevanavasena tāni[^396-14] ārabbha parivattamānānaṃ kāyikacetasikasukhasaṃkhātā kāmarati nāma taṃ muhuttaṃ uppajjamānā appamattikā hoti, evaṃ appassādā kāmā ti, etam pi chetvānā 'ti yasmā pana bahudukkhā kāmā[^396-15] bahupāyāsā ādīnavo ettha bhiyyo tasmā taṃ ādīnavaṃ sampassamānā paṇḍitā etam pi rajjuṃ chetvā gūthakūpe nimuggapuriso taṃ pajahanto viya anapekkhino etaṃ appamattakaṃ bahudukkhaṃ kāmasukhaṃ pahāya vajanti[^396-16] nikkhamitvā manoramaṃ pabbajjaṃ pabbajantīti. Evaṃ Mahāsatto kāmesu[^396-17] assādañ ca adīnavañ ca pakāsetvā[^396-18] Buddhalīḷhāya dhammaṃ desetvā sahāyaṃ pakkositvā[^396-19] rajjaṃ paṭicchāpetvā ñātimittasuhajjānaṃ paridevantānaṃ[^396-20] paridevantānam eva sirivibhavaṃ chaḍḍetvā Himavantaṃ pavisitvā isipabbajjaṃ pabbajitvā jhānābhiññaṃ nibbattetvā Brahmaloka-parāyano ahosi.
 
@@ -5186,15 +5774,19 @@ Satthā imaṃ desanaṃ[^397-1] āharitvā saccāni pakāsesi[^397-2], bahū[^3
 
 phāletvā nāgamedaṃ khāditvā sesaṃ[^398-1] kalebaraṃ[^398-2] samudde vissajjesi. Tasmiṃ pana nigrodhe ekā sakuṇikā atthi, sā nigrodharukkhe vissaṭṭhe uppatitvā koṭisimbaliyā[^398-3] sākhantare nisīdi. Rukkhadevatā taṃ disvā "ayaṃ sakuṇikā mama rukkhakkhandhe vaccaṃ pātessati, tato nigrodhagaccho vā pilakkhagaccho[^398-4] vā uṭṭhahitvā sakalarukkhaṃ ottharitvā gacchissati[^398-5], atha me vimānaṃ nassissatīti" bhītatasitā pavedhi. Tassā[^398-6] pavedhantiyā koṭisimbalī[^398-3] pi[^398-7] yāva mūlā pavedhi. Supaṇṇarājā taṃ pavedhamānaṃ disvā kāraṇaṃ pucchanto dve gāthā āha[^398-8]:
 
-Ja_VII,2.7(=412).1: Ahaṃ dasasataṃvyāmaṃ uragam ādāya-m-āgato[^398-9], tañ ca mañ ca mahākāyaṃ dhārayaṃ na-ppavedhasi. || Ja_VII:121 ||
+Ja_VII,2.7(=412).1: Ahaṃ dasasataṃvyāmaṃ uragam ādāya-m-āgato[^398-9], tañ ca mañ ca mahākāyaṃ dhārayaṃ na-ppavedhasi. ||  
+Ja_VII:121 ||  
 
-Ja_VII,2.7(=412).2: Atha imaṃ khuddakaṃ pakkhiṃ appamaṃsataraṃ mayā dhārayaṃ[^398-10] vyadhase[^398-11] bhīto kam atthaṃ koṭisimbalīti[^398-12]. || Ja_VII:122 ||
+Ja_VII,2.7(=412).2: Atha imaṃ khuddakaṃ pakkhiṃ appamaṃsataraṃ mayā dhārayaṃ[^398-10] vyadhase[^398-11] bhīto kam atthaṃ koṭisimbalīti[^398-12]. ||  
+Ja_VII:122 ||  
 
 Tattha dasasataṃvyāman ti sahassavyāmāyāmaṃ, uragamādāyamāgato[^398-9] ti evaṃmahantaṃ uragaṃ ādāya idha āgato, tañ ca mañ cā 'ti tañ ca uragaṃ[^398-13] mañ ca, dhārayan ti[^398-14] dhārayamānā, vyadhasīti[^398-15] kampasi, kamatthan ti kimatthaṃ kena kāraṇenā 'ti pucchati, kaṃ vā atthaṃ sampassamānā ti pi attho[^398-16], koṭisimbalīti[^398-12] rukkhanāmena devataṃ[^398-17] ālapati, so hi simbalirukkho khandhasākhassa[^398-18] mahantatāya koṭisimbalīti[^398-12] nāmaṃ labhi[^398-19], tasmiṃ adhivatthadevaputtassa[^398-20] pi tad eva nāmaṃ. Ath'; assa kāraṇaṃ kathento devaputto catasso gāthā abhāsi:
 
-Ja_VII,2.7(=412).3: Maṃsabhakkho tuvaṃ[^398-21] rāja, phalabhakkho ayaṃ dijo, ayaṃ nigrodhabījāni pilakkhadumbarāni[^398-22] ca assatthāni ca bhakkhetvā khandhe me odahissati. || Ja_VII:123 ||
+Ja_VII,2.7(=412).3: Maṃsabhakkho tuvaṃ[^398-21] rāja, phalabhakkho ayaṃ dijo, ayaṃ nigrodhabījāni pilakkhadumbarāni[^398-22] ca assatthāni ca bhakkhetvā khandhe me odahissati. ||  
+Ja_VII:123 ||  
 
-Ja_VII,2.7(=412).4: Te rukkhā saṃvirūhanti[^398-23] mama passe nivātajā, te maṃ pariyonandhissanti, arukkham maṃ karissare. || Ja_VII:124 ||
+Ja_VII,2.7(=412).4: Te rukkhā saṃvirūhanti[^398-23] mama passe nivātajā, te maṃ pariyonandhissanti, arukkham maṃ karissare. ||  
+Ja_VII:124 ||  
 
 
 <!-- PTS Page 399 -->
@@ -5202,13 +5794,16 @@ Ja_VII,2.7(=412).4: Te rukkhā saṃvirūhanti[^398-23] mama passe nivātajā, 
 
 ##### *[PTS Page 399]*
 
-Ja_VII,2.7(=412).5: Santi aññe pi rukkhāse mūlino khandhino dumā iminā sakuṇajātena[^399-1] bījam āharitā hatā. || Ja_VII:125 ||
+Ja_VII,2.7(=412).5: Santi aññe pi rukkhāse mūlino khandhino dumā iminā sakuṇajātena[^399-1] bījam āharitā hatā. ||  
+Ja_VII:125 ||  
 
-Ja_VII,2.7(=412).6: Ajjhārūḷhābhivaḍḍhanti brahantam pi vanaspatiṃ, tasmā rāja pavedhāmi sampassaṃ nāgataṃ bhayan ti. || Ja_VII:126 ||
+Ja_VII,2.7(=412).6: Ajjhārūḷhābhivaḍḍhanti brahantam pi vanaspatiṃ, tasmā rāja pavedhāmi sampassaṃ nāgataṃ bhayan ti. ||  
+Ja_VII:126 ||  
 
 Tattha odahisatīti vaccaṃ pātessati, te rukkhā ti te[^399-2] tehi bījehi jātā nigrodhādayo rukkhā, saṃvirūhantīti[^399-3] saṃvirūhissanti[^399-3] vaḍḍhissanti, mama passe ti mama sākhantarādisu, nivātajā ti mama sākhāhi vātassa[^399-4] nivāritattā nivāte jātā, pariyonandhissantīti ete evaṃ vaḍḍhitā maṃ pariyonandhissanti, ayam etthādhippayo[^399-5], karissare ti ath'; evaṃ pariyonandhitvā maṃ arukkham eva karissanti sabbaso bhañjissanti, rukkhāse ti rukkhā, mūlino khandhino[^399-6] ti mūlasampannā c'; eva khandhasampannā ca, dumā ti rukkhavevacanam eva, bījamāharitā ti bījaṃ āharitvā, hatā ti aññe pi imasmiṃ[^399-7] vane rukhā vināsitā santi, ajjhārūḷhābhivaḍḍhantīti nigrodhādayo[^399-8] rukkhānam ajjhāruhā rukkhā mahantam pi aññaṃ vanaspatiṃ atikkamma vaḍḍhantīti dasseti, ettha pana vanaspati passati vanaspatīti tayo pi pāṭhā[^399-9] yeva, rājā 'ti supaṇṇaṃ ālapati. Rukkhadevatāya vacanaṃ sutvā supaṇṇo osānagātham āha:
 
-Ja_VII,2.7(=412).7: Saṃkeyya saṃkitabbāni rakkheyya[^399-10] nāgataṃ bhayaṃ, anāgatabhayā dhīro ubho loke avekkhatīti[^399-11]. || Ja_VII:127 ||
+Ja_VII,2.7(=412).7: Saṃkeyya saṃkitabbāni rakkheyya[^399-10] nāgataṃ bhayaṃ, anāgatabhayā dhīro ubho loke avekkhatīti[^399-11]. ||  
+Ja_VII:127 ||  
 
 Tattha anāgatabhayan ti pāṇātipātādīhi viramanto diṭṭhadhammikam pi samparāyikam pi anāgatabhayaṃ[^399-12] rakkhati nāma, pāpamitte veripuggale ca anupasaṃkamanto pi anāgatabhayaṃ rakkhati nāma, evaṃ anāgatabhayaṃ[^399-13] rakkheyya[^399-14], anāgatabhayā ti anāgatabhayakāraṇā[^399-15], taṃ bhayaṃ sampassanto dhīro idhalokaṃ[^399-16] paralokañ[^399-16] ca avekkhati[^399-17] oloketi nāma. Evañ ca pana vatvā supaṇṇo attano ānubhāvena taṃ pakkhiṃ tamhā rukkhā palāpesi[^399-18]. Satthā imaṃ desanaṃ[^399-19] āharitvā "āsaṃkitabbayuttakaṃ āsaṃkituṃ vaṭṭatīti[^399-20]" saccāni pakāsetvā jātakaṃ samodhānesi: (Sacca-
 
@@ -5230,15 +5825,19 @@ pariyosāne pañcasatā bhikkhū arahatte patiṭṭhahiṃsu) "Tadā supaṇṇ
 
 'mhīti" cintesi. So ekadivasaṃ "kin nu kho aham eva āgantukasaṃgahaṃ katvā parājito[^401-1] udāhu aññe pi rājāno parājitapubbā atthi, Vidhūrapaṇḍitaṃ pucchissāmīti" cintetvā taṃ rājupaṭṭhānaṃ āgantvā nisinnaṃ tam atthaṃ pucchi. Ath'; assa taṃ pucchanākāraṃ āvikaronto Satthā upaḍḍhagātham āha:
 
-Ja_VII,2.8(=413).1: Rājā apucchi Vidhūraṃ dhammakāmo Yudhiṭṭhilo ti Tattha dhammakāmo ti sucaritadhammappiyo. api brāhmaṇa jānāsi ko eko bahu socatīti[^401-2]. || Ja_VII:128 ||
+Ja_VII,2.8(=413).1: Rājā apucchi Vidhūraṃ dhammakāmo Yudhiṭṭhilo ti Tattha dhammakāmo ti sucaritadhammappiyo. api brāhmaṇa jānāsi ko eko bahu socatīti[^401-2]. ||  
+Ja_VII:128 ||  
 
 Sesaupaḍḍhagāthāya puna ayam attho: api nāma brāhmaṇa tvaṃ[^401-3] jānāsi ko imasmiṃ loke eko bahuṃ socati[^401-4] nānākāraṇena socatīti[^401-5]. Taṃ sutvā Bodhisatto "mahārāja, kiṃsoko nāma tumhākaṃ soko, pubbe Dhūmakārināmako[^401-6] ajapālabrāhmaṇo mahantaṃ ajayūthaṃ gahetvā araññe vajaṃ katvā tattha ajā[^401-7] ṭhapetvā aggiñ ca dhūmañ ca katvā ajayūthaṃ paṭijagganto khīrādīni paribhuñjanto vasi. So tattha āgate suvaṇṇavaṇṇasarabhe[^401-8] disvā tesu sinehaṃ katvā ajā[^401-7] agaṇetvā ajānaṃ sakkāraṃ sarabhānaṃ katvā saradakāle sarabhesu palāyitvā Himavantaṃ gatesu ajāsu vinaṭṭhāsu sarabhe apassanto sokena paṇḍurogī hutvā jīvitakkhayaṃ patto, ayaṃ āgantukasaṃgahaṃ katvā tumhehi sataguṇena[^401-9] sahassaguṇena socitvā kilamitvā vināsaṃ patto" ti idaṃ udāharaṇaṃ āharitvā[^401-10] dassento
 
-Ja_VII,2.8(=413).2: Brāhmaṇo ajayūthena bahutejo[^401-11] vane vasaṃ dhūmaṃ akāsi Vāseṭṭho rattiṃdivam atandito. || Ja_VII:129 ||
+Ja_VII,2.8(=413).2: Brāhmaṇo ajayūthena bahutejo[^401-11] vane vasaṃ dhūmaṃ akāsi Vāseṭṭho rattiṃdivam atandito. ||  
+Ja_VII:129 ||  
 
-Ja_VII,2.8(=413).3: Tassa taṃdhūmagandhena sarabhā makasaṭṭitā[^401-12] vassāvāsaṃ upagañchuṃ[^401-13] Dhūmakārissa santike. || Ja_VII:130 ||
+Ja_VII,2.8(=413).3: Tassa taṃdhūmagandhena sarabhā makasaṭṭitā[^401-12] vassāvāsaṃ upagañchuṃ[^401-13] Dhūmakārissa santike. ||  
+Ja_VII:130 ||  
 
-Ja_VII,2.8(=413).4: Sarabhesu manaṃ katvā ajā so[^401-14] nāvabujjhatha, āgacchanti vajanti[^401-15] vā, tassa tā vinasuṃ[^401-16] ajā. || Ja_VII:131 ||
+Ja_VII,2.8(=413).4: Sarabhesu manaṃ katvā ajā so[^401-14] nāvabujjhatha, āgacchanti vajanti[^401-15] vā, tassa tā vinasuṃ[^401-16] ajā. ||  
+Ja_VII:131 ||  
 
 
 <!-- PTS Page 402 -->
@@ -5246,9 +5845,12 @@ Ja_VII,2.8(=413).4: Sarabhesu manaṃ katvā ajā so[^401-14] nāvabujjhatha, �
 
 ##### *[PTS Page 402]*
 
-Ja_VII,2.8(=413).5: Sarabhā[^402-1] saradakāle pahīnamakase[^402-2] vane pāvisuṃ giriduggāni nadīnaṃ pabhavāni ca. || Ja_VII:132 || Ja_VII,2.8(=413).6: Sarabhe ca gate disvā ajā ca vibhavaṃ gatā kiso ca[^402-3] vivaṇṇo āsi paṇḍurogī ca brāhmaṇo. || Ja_VII:133 ||
+Ja_VII,2.8(=413).5: Sarabhā[^402-1] saradakāle pahīnamakase[^402-2] vane pāvisuṃ giriduggāni nadīnaṃ pabhavāni ca. || Ja_VII:132 ||  
+Ja_VII,2.8(=413).6: Sarabhe ca gate disvā ajā ca vibhavaṃ gatā kiso ca[^402-3] vivaṇṇo āsi paṇḍurogī ca brāhmaṇo. ||  
+Ja_VII:133 ||  
 
-Ja_VII,2.8(=413).7: Evaṃ yo[^402-4] saṃ niraṃkatvā āgantuṃ[^402-5] kurute piyaṃ so eko bahu socati Dhūmakārīva brāhmaṇo ti. || Ja_VII:134 ||
+Ja_VII,2.8(=413).7: Evaṃ yo[^402-4] saṃ niraṃkatvā āgantuṃ[^402-5] kurute piyaṃ so eko bahu socati Dhūmakārīva brāhmaṇo ti. ||  
+Ja_VII:134 ||  
 
 Tattha bahutejo[^402-6] ti bahutaindhano[^402-7], dhūmaṃ akāsīti makkhikaparipanthaharaṇatthāya[^402-8] aggiñ ca dhūmañ ca akāsi, Vāseṭṭho ti tassa gottaṃ, atandito ti analaso hutvā, taṃdhūmagandhenā 'ti[^402-9] tena dhūmagandhena, sarabhā ti sarabhamigā, makasaṭṭitā[^402-10] ti makasehi upaddutā pīḷitā ti[^402-11], sesamakkhikāpi makasagahaṇen'; eva gahitā, vassāvāsan ti vassārattavāsaṃ[^402-12], manaṃ katvā ti sinehaṃ uppādetvā, nāvabujjhathā 'ti araññato caritvā āgacchanti ca[^402-13] vajato[^402-14] araññaṃ gacchanti[^402-15] ca, ettikā āgatā ettikā gatā[^402-16] ti na jāni[^402-17], tassa tā vinasun[^402-18] ti tassa tā[^402-19] evaṃ apaccavekkhitā[^402-20] sīhaparipanthādito arakkhiyamānā ajā sīhaparipanthādīhi vinasuṃ[^402-21], sabbā va[^402-22] vinaṭṭhā, nadīnaṃ pabhavāni cā 'ti pabbateyyānaṃ nadīnaṃ pabhavaṭṭhānāni ca paviṭṭhā, vibhavan ti ajā ca[^402-23] vināsaṃ pattā disvā jānitvā, kiso vivaṇṇo ti khīrādidāyikā[^402-24] ajā pahāya[^402-25] sarabhe saṃgaṇhitvā te pi apassanto ubhato parihīno sokābhibhūto[^402-26] kiso c'; eva dubbaṇṇo ca ahosi, evaṃ yo[^402-27] saṃ niraṃkatvā ti evaṃ mahārāja yo sakaṃ porāṇaṃ ajjhattikaṃ janaṃ nīharitvā pahāya kismiñci agaṇetvā āgantukaṃ piyaṃ karoti so tumhādiso eko bahu socati[^402-28], ayaṃ te mayā dassito Dhūmakārī[^402-29] brāhmaṇo viya bahu socatīti. Evaṃ Mahāsatto rājānaṃ saññāpento kathesi. So pi saññattiṃ[^402-30] gantvā tassa pasīditvā[^402-31] bahuṃ dhanaṃ adāsi[^402-32]. Tato paṭṭhāya ca ajjhattikasaṃgaham eva karonto dānādīni puññāni katvā saggaparāyano ahosi. Satthā imaṃ desanaṃ[^402-33] āharitvā jātakaṃ samodhānesi: "Tadā Koravyarājā Ānando ahosi, Dhūmakārī Pasenadi Kosalo, Vidhūrapaṇḍito[^402-34] aham evā" 'ti. Dhūmakārijātakaṃ[^402-35].
 
@@ -5268,23 +5870,29 @@ Tattha bahutejo[^402-6] ti bahutaindhano[^402-7], dhūmaṃ akāsīti makkhikapa
 
 devatā[^404-1] tussitvā khandhavivare[^404-2] ṭhatvā pañhaṃ pucchantī[^404-3] paṭhamaṃ gātham āha:
 
-Ja_VII,2.9(=414).1: Ko 'dha jāgarataṃ sutto, ko 'dha suttesu jāgaro, ko mam'; etaṃ[^404-4] vijānāti, ko taṃ paṭibhaṇāti me ti. || Ja_VII:135 ||
+Ja_VII,2.9(=414).1: Ko 'dha jāgarataṃ sutto, ko 'dha suttesu jāgaro, ko mam'; etaṃ[^404-4] vijānāti, ko taṃ paṭibhaṇāti me ti. ||  
+Ja_VII:135 ||  
 
 Tattha kodhā ti ko idha, mametaṃ[^404-4] ti ko mama etaṃ pañhaṃ vijānāti, ko taṃ paṭibhaṇāti me ti taṃ evaṃ mayā[^404-5] puṭṭhapañhaṃ[^404-6] mayhaṃ ko paṭibhaṇāti ko vyākarituṃ sakkhissatīti pucchati. Bodhisatto[^404-7] tassā vacanaṃ sutvā
 
-Ja_VII,2.9(=414).2: Ahaṃ jāgarataṃ sutto, ahaṃ suttesu jāgaro, aham etaṃ vijānāmi, ahaṃ paṭibhaṇāmi te ti || Ja_VII:136 ||
+Ja_VII,2.9(=414).2: Ahaṃ jāgarataṃ sutto, ahaṃ suttesu jāgaro, aham etaṃ vijānāmi, ahaṃ paṭibhaṇāmi te ti ||  
+Ja_VII:136 ||  
 
 imaṃ gāthaṃ vatvā puna tāya
 
-Ja_VII,2.9(=414).3: Kathaṃ jāgarataṃ sutto, kathaṃ suttesu jāgaro, kathaṃ etaṃ vijānāsi, kathaṃ paṭibhaṇāsi me ti || Ja_VII:137 ||
+Ja_VII,2.9(=414).3: Kathaṃ jāgarataṃ sutto, kathaṃ suttesu jāgaro, kathaṃ etaṃ vijānāsi, kathaṃ paṭibhaṇāsi me ti ||  
+Ja_VII:137 ||  
 
 imaṃ gāthaṃ puṭṭho tam atthaṃ vyākaronto
 
-Ja_VII,2.9(=414).4: Ye dhammaṃ na-ppajānanti saññamo ti damo ti ca tesu suppamānesu[^404-8] ahaṃ jaggāmi devate. || Ja_VII:138 ||
+Ja_VII,2.9(=414).4: Ye dhammaṃ na-ppajānanti saññamo ti damo ti ca tesu suppamānesu[^404-8] ahaṃ jaggāmi devate. ||  
+Ja_VII:138 ||  
 
-Ja_VII,2.9(=414).5: Yesaṃ rāgo ca doso ca avijjā ca virājitā tesu jāgaramānesu ahaṃ sutto 'smi devate. || Ja_VII:139 ||
+Ja_VII,2.9(=414).5: Yesaṃ rāgo ca doso ca avijjā ca virājitā tesu jāgaramānesu ahaṃ sutto 'smi devate. ||  
+Ja_VII:139 ||  
 
-Ja_VII,2.9(=414).6: Evaṃ jāgarataṃ sutto evaṃ suttesu jāgaro, evam etaṃ vijānāmi, evaṃ paṭibhaṇāmi te ti. || Ja_VII:140 ||
+Ja_VII,2.9(=414).6: Evaṃ jāgarataṃ sutto evaṃ suttesu jāgaro, evam etaṃ vijānāmi, evaṃ paṭibhaṇāmi te ti. ||  
+Ja_VII:140 ||  
 
 Tattha kathaṃ jāgarataṃ sutto ti kathaṃ tvaṃ jāgarataṃ sattānaṃ antare sutto nāma hosi[^404-9], esa nayo sabbattha, ye dhamman ti ye sattā navavidhalokuttaradhammaṃ[^404-10] na jānanti, saññamo ti damo ti cā 'ti ayaṃ saññamo[^404-11] ayaṃ damo ti evañ ca ye maggena āgataṃ sīlañ c'; eva indriyasaṃvarañ ca na jānanti, indriyasaṃvaro hi manacchaṭṭhānam indriyānaṃ damanato damo ti vuccati, tesu suppamānesū[^404-12] 'ti tesu kilesaniddāvasena[^404-13] suppantesu[^404-14] sattesu[^404-15] ahaṃ appamādavasena jaggāmi, yesaṃ rāgo cā 'ti gāthāya yesaṃ mahākhīṇāsavānaṃ[^404-15] padasatena[^404-17] niddiṭṭhadīghataṇhālobhasaṃkhāto[^404-18] rāgo ca navāghātavatthusamuṭṭhāno[^404-19] doso ca dukkhādīsu aṭṭhasu
 
@@ -5296,7 +5904,8 @@ Tattha kathaṃ jāgarataṃ sutto ti kathaṃ tvaṃ jāgarataṃ sattānaṃ a
 
 vatthusu aññāṇabhūtā avijjā cā 'ti ime kilesā virājitā pahīnā tesu ariyesu sabbākārena jāgaramānesu te upādāya ahaṃ sutto nāma devate ti attho, evaṃ jāgaratan ti evaṃ devate ahaṃ iminā kāraṇena jāgarataṃ sutto nāmā 'ti, esa nayo sabbattha[^405-1] padesu. Evaṃ Mahāsattena pañhe kathite tuṭṭhā devatā tassa thutiṃ karontī osānagātham āha:
 
-Ja_VII,2.9(=414).7: Sādhu jāgarataṃ sutto, sādhu suttesu jāgaro, sādhu metaṃ vijānāsi, sādhu paṭibhaṇāsi me ti. || Ja_VII:141 ||
+Ja_VII,2.9(=414).7: Sādhu jāgarataṃ sutto, sādhu suttesu jāgaro, sādhu metaṃ vijānāsi, sādhu paṭibhaṇāsi me ti. ||  
+Ja_VII:141 ||  
 
 Tattha sādhū 'ti sādhu laṭṭhakaṃ[^405-2] katvā[^405-3] imaṃ pañhaṃ kathesi, mayaṃ pi naṃ evam eva kathemā 'ti. Evaṃ sā Bodhisattassa thutiṃ katvā attano vimānam eva pāvisi. Satthā imaṃ desanaṃ[^405-4] āharitvā jātakaṃ samodhānesi: "Tadā devatā[^405-5] Uppalavaṇṇā ahosi, tāpaso[^405-6] aham evā" 'ti. Jāgarajātakaṃ[^405-7].
 
@@ -5326,9 +5935,11 @@ gacchanti, mayhañ c'; ime[^407-1] cattāro kummāsapiṇḍā atthi, yan nūnā
 
 pāsādaṃ abhirūhitvā mahātalamajjhe samussāpitasetacchattaṃ[^408-1] pallaṃkaṃ āruyha[^408-2] nisinno parivāretvā ṭhite ekato amacce ekato brāhmaṇagahapatiādayo nānāvidhavesavilāsasamujjale[^408-3] ekato nānāvidhapaṇṇākārahatthe[^408-4] nagaramanusse[^408-5] ekato alaṃkatadevaccharāsaṃghā[^408-6] viya soḷasasahassasaṃkhā nāṭakigaṇā[^408-7] ti imaṃ[^408-8] atimanoramaṃ sirivibhavaṃ olokento attano pubbakammaṃ anussaritvā "idaṃ suvaṇṇapiṇḍikaṃ kañcanamālasetacchattaṃ[^408-9] imāni ca[^408-10] anekasahassāni hatthivāhanarathavāhanāni[^408-11] maṇimuttādipūritā sāragabbhā nānāvidhadhaññapūritā mahāpaṭhavī devaccharapaṭibhāgā nāriyo cā 'ti sabbo p'; esa mayhaṃ sirivibhavo na aññassa santoko catunnaṃ pacceka-Buddhānaṃ dinnassa[^408-12] catukummāsapiṇḍadānass'; eva santako, te nissāya mayā{[^408-13]} esa[^408-14] laddho" ti paccekaBuddhānaṃ guṇaṃ anussaritvā attano kammaṃ pākaṭaṃ akāsi. Tassa taṃ sarantassa[^408-15] sakalasarīraṃ pītiyā pūri. So pītiyā temitahadayo mahājanamajjhe[^408-16] udānagītaṃ gāyanto dve gāthā abhāsi:
 
-Ja_VII,2.10(=415).1: Na kir'; atthi anomadassisu[^408-17] pāricariyā[^408-18] Buddhesu appikā[^408-19], (= vol.I.228|14) sukkhāya aloṇikāya ca passa phalaṃ kummāsapiṇḍiyā. || Ja_VII:142 ||
+Ja_VII,2.10(=415).1: Na kir'; atthi anomadassisu[^408-17] pāricariyā[^408-18] Buddhesu appikā[^408-19], (= vol.I.228|14) sukkhāya aloṇikāya ca passa phalaṃ kummāsapiṇḍiyā. ||  
+Ja_VII:142 ||  
 
-Ja_VII,2.10(=415).2: Hatthī gavāssā ca[^408-20] me bahū dhanadhaññaṃ[^408-21] paṭhavī ca kevalā nāriyo c'; imā accharūpamā, passa phalaṃ kummāsapiṇḍiyā ti. || Ja_VII:143 ||
+Ja_VII,2.10(=415).2: Hatthī gavāssā ca[^408-20] me bahū dhanadhaññaṃ[^408-21] paṭhavī ca kevalā nāriyo c'; imā accharūpamā, passa phalaṃ kummāsapiṇḍiyā ti. ||  
+Ja_VII:143 ||  
 
 Tattha anomadassisū 'ti anomassa[^408-22] alāmakassa[^408-23] paccekabodhiñāṇassa diṭṭhattā pacceka-Buddhā anomadassino nāma, pāricariyā[^408-24] ti abhivādanapaccuṭṭhānāñjalikammādibhedā[^408-25] sāmīcikiriyāpi[^408-26], sampatte disvā attano santakaṃ appaṃ vā bahuṃ vā lūkhaṃ vā paṇītaṃ vā deyyadhammaṃ cittaṃ pasādetvā guṇaṃ sallakkhetvā tisso cetanā visodhetvā phalaṃ saddahitvā
 
@@ -5348,7 +5959,8 @@ pariccajanakiriyāpi[^409-1], Buddhesū 'ti pacceka-Buddhesu, appikā[^409-2] ti
 
 eva gītaṃ gāyanti. Evaṃ addhāne gate aggamahesī tassa gītassa atthaṃ jānitukāmā ahosi, Mahāsattaṃ pana pucchituṃ na visahati. Ath'; assā ekasmiṃ guṇe pasīditvā ekadivasaṃ rājā "bhadde varan te dassāmi, varaṃ gaṇhā[^410-1]" 'ti āha. Sā[^410-2] "sādhu deva gaṇhāmīti". "Hatthiassādisu te kiṃ dammīti". "Deva tumhe nissāya mayhaṃ na kiñci n'; atthi, na me etehi attho, sace pana dātukām'; attha tumhākaṃ gītassa atthaṃ kathetvā dethā" 'ti. "Bhadde ko te iminā varena attho, aññaṃ gaṇhāhīti". "Deva aññena me attho n'; atthi, etad eva gaṇhāmīti". "Sādhu bhadde kathessāmi, tuyhaṃ pana ekikāya raho na kathessāmi[^410-3], dvādasayojanikāya Bārāṇasiyā bheriñ carāpetvā rājadvāre[^410-4] ratanamaṇḍapaṃ kāretvā ratanapallaṃkaṃ paññāpetvā[^410-5] amaccabrāhmaṇādīhi[^410-6] nāgarehi c'; eva soḷasahi[^410-7] itthisahassehi ca[^410-8] parivuto tesaṃ majjhe[^410-9] ratanapallaṃke nisīditvā kathessāmīti". Sā "sādhu devā" 'ti sampaṭicchi. Rājā tathā kāretvā amaragaṇaparivuto[^410-10] Sakko devarājā viya mahājanakāyaparivuto ratanapallaṃke nisīdi. Devī pi sabbālaṃkārapatimaṇḍitā kañcanabhaddapīṭhaṃ attharitvā ekamante akkhikoṭiyā oloketvā tathārūpe[^410-11] ṭhāne nisīditvā "deva tumhākaṃ tussitvā gāyanamaṅgalagītassa tāva me atthaṃ gaganatale[^410-12] candaṃ[^410-13] uṭṭhāpento[^410-14] viya pākaṭaṃ katvā kathethā" 'ti vatvā tatiyaṃ gātham āha:
 
-Ja_VII,2.10(=415).3: Abhikkhaṇaṃ rājakuñjara[^410-15] gāthā bhāsasi kosalādhipa, pucchāmi taṃ raṭṭhavaddhana[^410-16] bāḷhaṃ[^410-17] pītimano pabhāsasīti. || Ja_VII:144 ||
+Ja_VII,2.10(=415).3: Abhikkhaṇaṃ rājakuñjara[^410-15] gāthā bhāsasi kosalādhipa, pucchāmi taṃ raṭṭhavaddhana[^410-16] bāḷhaṃ[^410-17] pītimano pabhāsasīti. ||  
+Ja_VII:144 ||  
 
 Tattha kosalādhipā 'ti na so Kosalaraṭṭhādhipo, kusale pana dhamme adhipatiṃ katvā[^410-18] viharati, tena taṃ[^410-19] ālapantī evam āha, kusalākhipa kusa-
 
@@ -5360,13 +5972,17 @@ Tattha kosalādhipā 'ti na so Kosalaraṭṭhādhipo, kusale pana dhamme adhipa
 
 lajjhāsayā 'ti attho, bāḷhaṃ[^411-1] pītimano ti ativiya pīticitto[^411-2] hutvā bhāsasi, tasmā kathetha tāva me etāsaṃ gāthānaṃ atthan ti. Ath'; assā gāthāy atthaṃ[^411-3] āvikaronto Mahāsatto catasso gāthā abhāsi:
 
-Ja_VII,2.10(=415).4: Imasmiṃ yeva nagare kule aññatare ahuṃ[^411-4], parakammakaro āsiṃ[^411-5] bhatako sīlasaṃvuto. || Ja_VII:145 ||
+Ja_VII,2.10(=415).4: Imasmiṃ yeva nagare kule aññatare ahuṃ[^411-4], parakammakaro āsiṃ[^411-5] bhatako sīlasaṃvuto. ||  
+Ja_VII:145 ||  
 
-Ja_VII,2.10(=415).5: kammāya nikkhamant'; āhaṃ caturo samaṇe addasaṃ ācārasīlasampanne sītibhūte anāsave. || Ja_VII:146 ||
+Ja_VII,2.10(=415).5: kammāya nikkhamant'; āhaṃ caturo samaṇe addasaṃ ācārasīlasampanne sītibhūte anāsave. ||  
+Ja_VII:146 ||  
 
-Ja_VII,2.10(=415).6: Tesu cittaṃ pasādetvā[^411-6] nisīditvā paṇṇasanthate adaṃ[^411-7] Buddhānaṃ kummāsaṃ pasanno sakehi pāṇihi[^411-8]. || Ja_VII:147 ||
+Ja_VII,2.10(=415).6: Tesu cittaṃ pasādetvā[^411-6] nisīditvā paṇṇasanthate adaṃ[^411-7] Buddhānaṃ kummāsaṃ pasanno sakehi pāṇihi[^411-8]. ||  
+Ja_VII:147 ||  
 
-Ja_VII,2.10(=415).7: Tassa kammassa kusalassa idaṃ me edisaṃ[^411-9] phalaṃ. anubhomi idaṃ rajjaṃ phītaṃ[^411-10] dharaṇim uttaman ti. || Ja_VII:148 ||
+Ja_VII,2.10(=415).7: Tassa kammassa kusalassa idaṃ me edisaṃ[^411-9] phalaṃ. anubhomi idaṃ rajjaṃ phītaṃ[^411-10] dharaṇim uttaman ti. ||  
+Ja_VII:148 ||  
 
 Tattha kule aññatare ti nāmena vā gottena vā apākaṭe ekasmiṃ[^411-11] vessakule, ahun[^411-12] ti nibbattiṃ, parakammakaro āsin[^411-13] ti tasmiṃ kule jāto vāhaṃ[^411-14] daḷiddatāya[^411-15] parassa kammaṃ katvā jīvikaṃ[^411-16] kappento parakammakaro āsiṃ, bhatako ti paravetanabhato[^411-17], sīlasaṃvuto ti pañcasīlasaṃvare ṭhito, bhatiyā jīvanto pi dussilyaṃ pahāya sīlassapanno va ahosin ti dīpeti, kammāya nikkhamantāhan ti taṃ divasaṃ kattabbassa kiccassa karaṇatthāya nikkhanto ahaṃ, caturo samaṇe addasan ti bhadde ahaṃ nagarā nikkhamma mahāmaggaṃ āruyha attano kammabhūmiṃ gacchanto bhikkhatthāya[^411-18] Bārāṇasinagaraṃ pavisante samitapāpe cattāro pabbajite addasaṃ, ācārasīlasampanne ti ekavīsatiyā anesanehi[^411-19] jīvikakappanaṃ[^411-20] anācāro nāma, tassa paṭipakkhena ācārena c'; eva maggaphalehi āgatena sīlena ca samannāgate, sītibhūte ti rāgādipariḷāhavūpasamena c'; eva ekādasāgginibbānena[^411-21] ca sītibhāvappatte[^411-22], anāsave ti kāmāsavādirahite, nisīditvā ti vālikāsanānaṃ upari santhate paṇṇasanthare nisīdāpetvā, santharo[^411-23] hi[^411-24] idha santhato ti[^411-25] vutto, adan[^411-26] ti tesaṃ[^411-27] udakaṃ datvā sakkaccaṃ sakehi hatthehi kummāsaṃ adāsiṃ, kusalassā 'ti ārogyānavajjaṭṭhena[^411-28] kusalassa, phalan ti nissandaphalaṃ, phītan[^411-29] ti sabbasampattiphullitaṃ[^411-30].
 
@@ -5378,11 +5994,13 @@ Tattha kule aññatare ti nāmena vā gottena vā apākaṭe ekasmiṃ[^411-11] 
 
 Evaṃ[^412-1] Mahāsattassa attano kammaphalaṃ vitthāretvā kathentassa sutvā pasannā[^412-2] devī "sace mahārāja evaṃ paccakkhato dānaphalaṃ jānātha ito dāni paṭṭhāya ekam pi[^412-3] bhattapiṇḍaṃ labhitvā dhammikasamaṇabrāhmaṇādīnaṃ datvā va paribhuñjeyyāthā" 'ti Bodhisattassa thutiṃ karontī
 
-Ja_VII,2.10(=415).8: Dada[^412-4] bhuñja ca mā ca pamādo[^412-5] cakkaṃ vattaya kosalādhipa, mā rāja adhammiko ahū, dhammaṃ[^412-6] pālaya kosalādhipā 'ti || Ja_VII:149 ||
+Ja_VII,2.10(=415).8: Dada[^412-4] bhuñja ca mā ca pamādo[^412-5] cakkaṃ vattaya kosalādhipa, mā rāja adhammiko ahū, dhammaṃ[^412-6] pālaya kosalādhipā 'ti ||  
+Ja_VII:149 ||  
 
 imaṃ gātham āha. Tattha dada bhuñja cā 'ti aññesaṃ datvā va attanā bhuñja, mā ca pamādo[^412-7] ti dānādisu puññesu[^412-8] mā pamajja[^412-9], cakkaṃ vattaya kosalādhipā 'ti kusalajjhāsaya mahārāja patirūpadesavāsādikaṃ catubbidhaṃ dhammacakkaṃ pavattehi, pakatiratho hi[^412-10] dvīhi cakkehi gacchati, ayaṃ pana kāyo imehi catūhi cakkehi devalokaṃ gacchati, tena dhammacakkavattisaṃkhaṃ gatānaṃ[^412-11] tvaṃ cakkaṃ vattehi[^412-12] pavattehi, mā adhammiko ti yathā aññe chandāgatiṃ gacchantā lokaṃ ucchuyante pīḷitvā viya dhanam eva saṃkaḍḍhantā adhammikā honti tathā tvaṃ mā adhammiko ahū, dhammaṃ pālayā 'ti Dānaṃ sīlaṃ pariccāgaṃ ajjavam maddavaṃ tapaṃ (supra p.320.) akkodhaṃ avihiṃsā ca khanti ca avirodhanan ti idaṃ pana dasavidhaṃ rājadhammam eva pālaya rakkha mā pariccaja[^412-13]. Mahāsatto tassā vacanaṃ sampaṭicchanto
 
-Ja_VII,2.10(=415).9: So 'haṃ tad eva punappunaṃ vaṭumaṃ ācarissāmi sobhane ariyācaritaṃ sukosale[^412-14], arahanto me manāpā va[^412-15] passitun ti || Ja_VII:150 ||
+Ja_VII,2.10(=415).9: So 'haṃ tad eva punappunaṃ vaṭumaṃ ācarissāmi sobhane ariyācaritaṃ sukosale[^412-14], arahanto me manāpā va[^412-15] passitun ti ||  
+Ja_VII:150 ||  
 
 gātham āha. Tattha vaṭuman ti maggaṃ, ariyācaritan ti ariyehi Buddhādīhi āciṇṇaṃ, sukosale[^412-14] ti sobhane, Kosalarañño sudhīte[^412-16] ti attho, arahanto ti kilesehi ārakattā arānañ ca arīnañ ca hatattā paccayānaṃ arahattā evaṃ laddhanāmā pacceka-Buddhā, idaṃ vuttam hoti: bhadde Kosalarājadhīte so ahaṃ
 
@@ -5394,13 +6012,16 @@ gātham āha. Tattha vaṭuman ti maggaṃ, ariyācaritan ti ariyehi Buddhādīh
 
 dānaṃ me dinnan ti tittiṃ akatvā punappunaṃ[^413-1] tad eva ariyācaritaṃ dānamaggaṃ ācarissāmi, mayhaṃ hi aggadakkhiṇeyyattā arahantā[^413-2] manāpadassanā, cīvarādīnaṃ[^413-3] dātukāmatāya te yeva passituṃ icchāmīti. Idañ[^413-4] ca pana vatvā[^413-5] deviyā sampattiṃ oloketvā "bhadde, mayā tava purimabhave attano kusalakammaṃ vitthāretvā kathitaṃ, imāsaṃ pana nārīnaṃ majjhe rūpena vā līlāvilāsena[^413-6] vā tayā sadisī ekāpi n'; atthi, sā tvaṃ kiṃ kammaṃ katvā imaṃ sampattiṃ paṭilabhīti" pucchanto puna gātham āha:
 
-Ja_VII,2.10(=415).10: Devī viya accharūpamā majjhe nārigaṇassa sobhasi, kiṃ kammam[^413-7] akāsi bhaddakaṃ, kenāsi[^413-8] vaṇṇavatī sukosale[^413-9] ti. || Ja_VII:151 ||
+Ja_VII,2.10(=415).10: Devī viya accharūpamā majjhe nārigaṇassa sobhasi, kiṃ kammam[^413-7] akāsi bhaddakaṃ, kenāsi[^413-8] vaṇṇavatī sukosale[^413-9] ti. ||  
+Ja_VII:151 ||  
 
 Tass'; attho bhadde[^413-10] kosale[^413-9] Kosalarañño sudhīte[^413-11] tvaṃ rūpasampattiyā accharūpamā Tidasapure Sakkassa devarañño aññatarā devī viya imassa nārigaṇassa majjhe sobhasi, pubbe kiṃ nāma bhaddakaṃ kalyāṇakammaṃ akāsi, kenāsi[^413-12] kāraṇena evaṃ vaṇṇavatī[^413-13] jātā ti. Ath'; assa sā purimabhave kalyāṇakammaṃ kathentī sesaṃ gāthadvayam āha:
 
-Ja_VII,2.10(=415).11: Ambaṭṭhakulassa khattiya[^413-14] dass-āhaṃ[^413-15] parapessiyā[^413-16] ahuṃ[^413-17] saññatā[^413-18] dhammajīvinī sīlavatī ca apāpadassanā. || Ja_VII:152 ||
+Ja_VII,2.10(=415).11: Ambaṭṭhakulassa khattiya[^413-14] dass-āhaṃ[^413-15] parapessiyā[^413-16] ahuṃ[^413-17] saññatā[^413-18] dhammajīvinī sīlavatī ca apāpadassanā. ||  
+Ja_VII:152 ||  
 
-Ja_VII,2.10(=415).12: Uddhaṭabhattaṃ ahaṃ tadā caramānassa adāsi[^413-19] bhikkhuno vittā sumanā sayaṃ ahaṃ, tassa kammassa phalaṃ mam'; edisan ti. || Ja_VII:153 ||
+Ja_VII,2.10(=415).12: Uddhaṭabhattaṃ ahaṃ tadā caramānassa adāsi[^413-19] bhikkhuno vittā sumanā sayaṃ ahaṃ, tassa kammassa phalaṃ mam'; edisan ti. ||  
+Ja_VII:153 ||  
 
 Sāpi kira jātissarañāṇena[^413-20] paricchinditvā va kathesi.
 
@@ -5446,7 +6067,8 @@ parivāretvā ṭhito, idāni mayhaṃ jīvitaṃ n'; atthi". So "jīvitaṃ rak
 
 khaṇḍikaṃ chinditvā āvāṭe nikhātabhāvaṃ ñatvā nahātvā attano vadhanabhayena[^418-1] andhavesaṃ gahetvā paṇṇasālaṃ agamāsi. Taṃ disvā Parantapo "brāhmaṇa kin te katan" ti' āha: So ajānanto viya "deva akkhīni me nāsetvā āgato 'mhi, ussannāsīvise araññe ekasmiṃ vammīkapasse aṭṭhāsiṃ, tatr' ekena āsīvisena nāsāvāto vissaṭṭho me[^418-2] bhavissatīti". Parantapo "na maṃ jānātīti[^418-3] devā 'ti vadati[^418-4], samassāsessāmi nan ti "brāhmaṇa, mā cintayi, ahaṃ[^418-5] taṃ paṭijaggissāmīti" assāsetvā phalāphalaṃ datvā santapesi. Tato paṭṭhāya Parantapadāso phalāphalaṃ āharati. Devī pi puttaṃ vijāyi. Sā putte vaḍḍhante ekadivasaṃ paccūsasamaye sukhanisinnā saṇikaṃ[^418-6] Parantapadāsaṃ etad[^418-7] avoca: "tvaṃ rājānaṃ mārento kenaci[^418-8] diṭṭho" ti. "Na maṃ koci addasa, sākhāvissaṭṭhasaddaṃ[^418-9] pana assosiṃ, tassā sākhāya manussena vā tiracchānena vā vissaṭṭhabhāvaṃ na jānāmi, yadā[^418-10] kadāci pana me bhayaṃ āgacchati yena[^418-11] sakhā vissaṭṭhā[^418-12] tato āgamissatīti tāya saddhiṃ sallapanto paṭhamaṃ gātham āha:
 
-Ja_VII,2.11(=416).1: {Āgamissati} me pāpaṃ, āgamissati me bhayaṃ, tadā hi calitā sākhā manussena migena[^418-13] vā ti. || Ja_VII:154 ||
+Ja_VII,2.11(=416).1: {Āgamissati} me pāpaṃ, āgamissati me bhayaṃ, tadā hi calitā sākhā manussena migena[^418-13] vā ti. ||  
+Ja_VII:154 ||  
 
 Tattha pāpan ti lāmakaṃ aniṭṭhaṃ akantaṃ, bhayan ti cittutrāsabhayaṃ pi me āgamissati, na sakkā nāgantuṃ[^418-14], kiṃkāraṇā: tadā hi calitā sākhā pana manussena vā migena vā ti na paññāyati, tasmā[^418-15] tato maṃ bhayaṃ āgamissat'; eva. Te "purohito niddāyatīti" maññiṃsu. So pana aniddāyanto va[^418-16] tesaṃ kathaṃ assosi. Ath'; ekadivasaṃ purohito Parantapadāse phalāphalatthāya gate attano brāhmaṇiṃ saritvā vippalapanto[^418-17] dutiyaṃ gātham āha:
 
@@ -5456,15 +6078,18 @@ Tattha pāpan ti lāmakaṃ aniṭṭhaṃ akantaṃ, bhayan ti cittutrāsabhaya
 
 ##### *[PTS Page 419]*
 
-Ja_VII,2.11(=416).2: Bhīruyā nūna me kāmo avidūre vasantiyā karissati kisaṃ paṇḍuṃ, sā va sākhā Parantapan ti. || Ja_VII:155 ||
+Ja_VII,2.11(=416).2: Bhīruyā nūna me kāmo avidūre vasantiyā karissati kisaṃ paṇḍuṃ, sā va sākhā Parantapan ti. ||  
+Ja_VII:155 ||  
 
 Tattha bhīruyā ti itthi nāma appamattaken'; eva[^419-1] bhāyati, tasmā bhīrū ti vuccati, avidūre ti nātidūre ito, katipayayojanamatthake vasantiyā bhīruyā mayhaṃ brāhmaṇiyā yo mama kāmo uppanno so nūna maṃ kisañ ca paṇḍuñ ca karissatīti dasseti, sā va sākhā ti iminā pana opammaṃ dasseti, yathā sākhā Parantapaṃ kisaṃ paṇḍuṃ karoti[^419-2] evan ti attho, iti brāhmaṇo gātham eva vadati, atthaṃ pana na[^419-3] katheti, tasmā imāya gāthāya kiccaṃ deviyā apākataṃ[^419-4]. Atha naṃ "kiṃ kathesi brāhmaṇā" 'ti āha. So pi "sallakkhitam me[^419-5]" ti vatvā puna ekadivasaṃ tatiyaṃ gātham āha:
 
-Ja_VII,2.11(=416).3: Socayissati maṃ kantā gāme vasam[^419-6] aninditā, karissati kisaṃ paṇḍuṃ, sā va sākhā Parantapan ti. || Ja_VII:156 ||
+Ja_VII,2.11(=416).3: Socayissati maṃ kantā gāme vasam[^419-6] aninditā, karissati kisaṃ paṇḍuṃ, sā va sākhā Parantapan ti. ||  
+Ja_VII:156 ||  
 
 Tattha socayissatīti sokuppādanena[^419-7] sukkhāpessati. kantā ti iṭṭhabhariyā, gāme vasan ti Bārāṇasiyā[^419-8] vasantīti adhippāyo, aninditā ti agarahitā uttamarūpadharā. Puna[^419-9] ekadivasaṃ catutthaṃ gātham āha:
 
-Ja_VII,2.11(=416).4: Tayā maṃ h'; asitāpaṅgi[^419-10] mihitāni[^419-11] bhaṇitāni[^419-12] ca kisaṃ paṇḍuṃ[^419-13] karissanti, sā va sākhā Parantapan ti. || Ja_VII:157 ||
+Ja_VII,2.11(=416).4: Tayā maṃ h'; asitāpaṅgi[^419-10] mihitāni[^419-11] bhaṇitāni[^419-12] ca kisaṃ paṇḍuṃ[^419-13] karissanti, sā va sākhā Parantapan ti. ||  
+Ja_VII:157 ||  
 
 Tattha tayā maṃ hasitāpaṅgīti tayā maṃ hi asitāpaṅgī[^419-14], idaṃ vuttaṃ hoti: bhadde akkhikoṭito[^419-15] añjanasalākāya[^419-16] nīharitvā abhisaṃkhitaasitāpaṅgi hi[^419-17] tayā[^419-18] ca[^419-19] pavattitāni mandahasitāni ca madhurabhaṇitāni ca mayā[^419-20] vissaṭṭhasākhā[^419-21] vicaramānā[^419-22] Parantapaṃ viya kisaṃ paṇḍuṃ karissatīti, pakāraṃ vakāraṃ[^419-23] katvā vaṅgīti[^419-24] pi pāṭho yeva. Aparabhāge kumāro vayappatto ahosi soḷasavassuddesiko. Atha naṃ brāhmaṇo yaṭṭhikoṭiṃ gāhāpetvā nahānatitthaṃ gantvā akkhīni ummīletvā olokesi[^419-26]. "Nanu tvaṃ brāhmaṇa
 
@@ -5476,13 +6101,16 @@ Tattha tayā maṃ hasitāpaṅgīti tayā maṃ hi asitāpaṅgī[^419-14], ida
 
 andho" ti āha. So "nāhaṃ andho, iminā pan'[^420-1] upāyena jīvitaṃ rakkhāmīti" vatvā "tava pitaraṃ jānāsīti" āha. "Āmā" 'ti[^420-2]. "Nāyaṃ tava pitā, pitā pana te Bārāṇasirājā[^420-3], ayaṃ tumhākaṃ dāso, so mātari te vippaṭipajjitvā imasmiṃ ṭhāne tava pitaraṃ māretvā nikhanīti[^420-4]" aṭṭhīni nīharitvā[^420-5] dassesi. Kumārassa balavakodho[^420-6] uppajji. Atha naṃ "idāni kiṃ karomīti" pucchi. "Yan tena[^420-7] imasmiṃ yeva titthe pitu te kataṃ taṃ karohīti[^420-8]" sabbaṃ pavattiṃ ācikkhitvā kumāraṃ katipāhaṃ tharugaṇhanaṃ[^420-9] sikkhāpesi. Ath'; ekadivasaṃ kumāro khaggañ ca nahānasāṭakañ ca gahetvā "nahāyituṃ gacchāma tātā" 'ti āha. Parantapo "sādhū" 'ti tena saddhiṃ gato. Ath'; assa nahāyituṃ otiṇṇakāle dakkhiṇahatthena asiṃ vāmahatthena cūḷaṃ gahetvā "tvaṃ kira imasmiṃ yeva titthe mama pitaraṃ cūḷāya[^420-10] gahetvā viravantaṃ māresi, aham pi taṃ tath'; eva karissāmīti" āha. So maraṇabhayabhīto paridevamāno dve gāthā abhāsi:
 
-Ja_VII,2.11(=416).5: Agamā[^420-11] nūna so saddo asaṃsi nūna so tava, akkhātaṃ nūna taṃ tena yo[^420-12] taṃ sākhaṃ akampayi. || Ja_VII:158 ||
+Ja_VII,2.11(=416).5: Agamā[^420-11] nūna so saddo asaṃsi nūna so tava, akkhātaṃ nūna taṃ tena yo[^420-12] taṃ sākhaṃ akampayi. ||  
+Ja_VII:158 ||  
 
-Ja_VII,2.11(=416).6: Idaṃ kho taṃ[^420-13] samāgama[^420-14] mama bālassa cintitaṃ: tadā hi calitā sākhā manussena migena vā ti. || Ja_VII:159 ||
+Ja_VII,2.11(=416).6: Idaṃ kho taṃ[^420-13] samāgama[^420-14] mama bālassa cintitaṃ: tadā hi calitā sākhā manussena migena vā ti. ||  
+Ja_VII:159 ||  
 
 Tattha agamā ti yo sākhāsaddo nūna taṃ āgato sampatto, asaṃsi nūna so tavā 'ti so saddo[^420-15] tava ārocesi maññe, akkhātaṃ nūna taṃ tenā 'ti yo satto tadā taṃ sākhaṃ akampayi tena evan[^420-16] te pitā mārito ti nūna taṃ kāraṇaṃ akkhātaṃ, samāgamā[^420-17] ti samāgamma, samāgatan ti attho, yaṃ mama bālassa: tadā[^420-18] calitā[^420-19] sākhā manussena migena vā tato[^420-20] me bhayaṃ uppajjissatīti cintitaṃ parivitakkitaṃ[^420-21] ahosi idaṃ tayā saddhiṃ samāgatan ti vuttaṃ hoti. Tato kumāro osānagātham āha:
 
-Ja_VII,2.11(=416).7: Tath'; eva tvaṃ avedi[^420-22] avañci pitaraṃ mama gantvā sākhāhi chādento āgamissati me[^420-23] bhayan ti. || Ja_VII:160 ||
+Ja_VII,2.11(=416).7: Tath'; eva tvaṃ avedi[^420-22] avañci pitaraṃ mama gantvā sākhāhi chādento āgamissati me[^420-23] bhayan ti. ||  
+Ja_VII:160 ||  
 
 
 <!-- PTS Page 421 -->
@@ -5528,11 +6156,13 @@ jaggissāmīti" sā tato paṭṭhāya purimasadisam eva taṃ paṭijaggi. Ath'
 
 dhammo mato na bhaveyya mātaraṃ poṭhetvā nikkaḍḍhantā[^425-1] puttaṃ na[^425-2] labheyyuṃ sukhaṃ na jīveyyuṃ, dhammassa matakabhattaṃ dassāmīti" sā ekadivasaṃ tilapiṭṭhañ ca taṇḍulañ ca pacanathālikañ ca[^425-3] dabbiñ cādāya[^425-4] āmakasusānaṃ gantvā tīhi manussasīsehi uddhanaṃ katvā aggiṃ jāletvā[^425-5] udakaṃ oruyha sasīsaṃ[^425-6] nahātvā[^425-7] sāṭakaṃ[^425-8] vikkhāletvā uddhanaṭṭhānaṃ āgantvā kese mocetvā taṇḍule dhovituṃ ārabhi. Tadā Bodhisatto Sakko devarājā ahosi, Bodhisattā ca nāma appamattā honti. So tasmiṃ khaṇe lokaṃ olokento taṃ dukkhappattaṃ "dhammo mato" ti saññāya dhammassa matakabbattaṃ dātukāmaṃ disvā "ajja mayhaṃ balaṃ dassessāmīti" brāhmaṇavesena mahāmaggaṃ paṭipanno viya hutvā taṃ disvā[^425-9] maggā okkamma tassā santike ṭhatvā "amma susāne āhāraṃ pacantā[^425-10] nāma n'; atthi, tvaṃ iminā idha[^425-11] pakkena tilodanena kiṃ karissasīti" kathaṃ samuṭṭhāpento paṭhamaṃ gātham āha:
 
-Ja_VIII,1.1(=417).1: Odātavatthā suci allakesā Kaccāni kiṃ kumbhim apassayitvā[^425-12] piṭṭhā tilā dhovasi[^425-13] taṇḍulāni, tilodano hohiti kissa hetū 'ti. || Ja_VIII:1 ||
+Ja_VIII,1.1(=417).1: Odātavatthā suci allakesā Kaccāni kiṃ kumbhim apassayitvā[^425-12] piṭṭhā tilā dhovasi[^425-13] taṇḍulāni, tilodano hohiti kissa hetū 'ti. ||  
+Ja_VIII:1 ||  
 
 Tattha Kaccānīti taṃ[^425-14] ālapati, kumbhimapassayitvā[^425-15] ti pacanathālikaṃ manussasīsuddhanaṃ[^425-16] āropetvā, hohitīti[^425-17] ayaṃ tilodano kissa hetu bhavissati, kiṃ attanā bhuñjissasi[^425-18] udāhu aññakāraṇam[^425-19] atthīti attho. Ath'; assa sā ācikkhantī dutiyaṃ gātham aha:
 
-Ja_VIII,1.1(=417).2: Na kho ayaṃ brāhmaṇa bhojanatthā[^425-20] tilodano hohiti sādhupakko[^425-21], dhammo mato, tassa bahūtamajjā[^425-22] ahaṃ karissāmi susānamajjhe ti. || Ja_VIII:2 ||
+Ja_VIII,1.1(=417).2: Na kho ayaṃ brāhmaṇa bhojanatthā[^425-20] tilodano hohiti sādhupakko[^425-21], dhammo mato, tassa bahūtamajjā[^425-22] ahaṃ karissāmi susānamajjhe ti. ||  
+Ja_VIII:2 ||  
 
 
 <!-- PTS Page 426 -->
@@ -5542,17 +6172,21 @@ Ja_VIII,1.1(=417).2: Na kho ayaṃ brāhmaṇa bhojanatthā[^425-20] tilodano h
 
 Tattha dhammo ti jeṭṭhāpacāyanadhammo c'; eva tividhasucaritadhammo ca, tassa bahūtamajjā[^426-1] ti tassāhaṃ dhammassa idaṃ matakabhattaṃ karissāmīti attho. Tato Sakko tatiyaṃ gātham āha:
 
-Ja_VIII,1.1(=417).3: Anuvicca Kaccāni karohi kiccaṃ, dhammo mato, ko nu tav'; et'; asaṃsi[^426-2], Sahassanetto atulānubhāvo[^426-3], na miyyati dhammavaro kadācīti[^426-4]. || Ja_VIII:3 ||
+Ja_VIII,1.1(=417).3: Anuvicca Kaccāni karohi kiccaṃ, dhammo mato, ko nu tav'; et'; asaṃsi[^426-2], Sahassanetto atulānubhāvo[^426-3], na miyyati dhammavaro kadācīti[^426-4]. ||  
+Ja_VIII:3 ||  
 
 Tattha anuviccā 'ti upaparikkhitvā jānitvā, ko nu tavetasaṃsīti[^426-2] ko nu tava etaṃ ācikkhi[^426-5], Sahassanetto ti attānaṃ dhammavaraṃ uttamadhammaṃ katvā dassento[^426-6] evam āha. Taṃ vacanaṃ sutvā itarā dve gāthā abhāsi:
 
-Ja_VIII,1.1(=417).4: Daḷhappamāṇaṃ mama ettha brahme, dhammo mato, n'; atthi mam'; ettha kaṃkhā, ye ye va dāni pāpā[^426-7] bhavanti te te va dāni sukhitā bhavanti. || Ja_VIII:4 ||
+Ja_VIII,1.1(=417).4: Daḷhappamāṇaṃ mama ettha brahme, dhammo mato, n'; atthi mam'; ettha kaṃkhā, ye ye va dāni pāpā[^426-7] bhavanti te te va dāni sukhitā bhavanti. ||  
+Ja_VIII:4 ||  
 
-Ja_VIII,1.1(=417).5: Suṇisā hi mayhaṃ vaṃjhā[^426-8] ahosi, sā maṃ vadhitvāna[^426-9] vijāyi puttaṃ, sā dāni sabbassa kulassa issarā, ahaṃ pan'; amhi apaviddhā ekikā ti. || Ja_VIII:5 ||
+Ja_VIII,1.1(=417).5: Suṇisā hi mayhaṃ vaṃjhā[^426-8] ahosi, sā maṃ vadhitvāna[^426-9] vijāyi puttaṃ, sā dāni sabbassa kulassa issarā, ahaṃ pan'; amhi apaviddhā ekikā ti. ||  
+Ja_VIII:5 ||  
 
 Tattha daḷhappamāṇan ti daḷhaṃ thiraṃ nissaṃsayaṃ brāhmaṇa ettha mama-ppamāṇan ti vadati, ye ye ti tassa matabhāve kāraṇaṃ dassentī evaṃ āha[^426-10], vadhitvānā[^426-11] 'ti poṭhetvā[^426-12] nikkaḍḍhitvā, apaviddhā ti chaḍḍhitā[^426-13] anāthā hutvā ekikā vasāmi. Tato Sakko chaṭṭhaṃ[^426-14] gātham āha:
 
-Ja_VIII,1.1(=417).6: Jīvāmi vo 'haṃ, nāhaṃ mato 'smi, tav'; eva atthāya idhāgato 'smi, yā taṃ vadhitvāna vijāyi puttaṃ sahā va[^426-15] puttena karomi bhasman ti. || Ja_VIII:6 ||
+Ja_VIII,1.1(=417).6: Jīvāmi vo 'haṃ, nāhaṃ mato 'smi, tav'; eva atthāya idhāgato 'smi, yā taṃ vadhitvāna vijāyi puttaṃ sahā va[^426-15] puttena karomi bhasman ti. ||  
+Ja_VIII:6 ||  
 
 Tattha vo ti nipātamattaṃ.
 
@@ -5564,15 +6198,18 @@ Tattha vo ti nipātamattaṃ.
 
 Itarā taṃ sutvā "dhi kiṃ kathesi, mama nattu amaraṇākāraṃ[^427-1] karissāmīti" sattamaṃ gātham āha:
 
-Ja_VIII,1.1(=417).7: Etañ[^427-2] ca te ruccati devarāja, mam'; eva atthāya idhāgato si, ahañ ca putto suṇisā ca nattā sammodamānā gharam āvasemā 'ti. || Ja_VIII:7 ||
+Ja_VIII,1.1(=417).7: Etañ[^427-2] ca te ruccati devarāja, mam'; eva atthāya idhāgato si, ahañ ca putto suṇisā ca nattā sammodamānā gharam āvasemā 'ti. ||  
+Ja_VIII:7 ||  
 
 Ath'; assā Sakko aṭṭhamaṃ gātham āha:
 
-Ja_VIII,1.1(=417).8: Etañ[^427-2] ca te ruccati Kātiyāni, hatāpi santā na jahāsi dhammaṃ, tvañ ca putto suṇisā ca nattā sammodamānā gharam āvasāthā[^427-3] 'ti. || Ja_VIII:8 ||
+Ja_VIII,1.1(=417).8: Etañ[^427-2] ca te ruccati Kātiyāni, hatāpi santā na jahāsi dhammaṃ, tvañ ca putto suṇisā ca nattā sammodamānā gharam āvasāthā[^427-3] 'ti. ||  
+Ja_VIII:8 ||  
 
 Tattha hatāpi santā ti yadi tvaṃ poṭhitāpi nikkaḍḍhitāpi samānā tava dārakesu mettadhammaṃ na jahāsi evaṃ sante yathā tvaṃ icchasi tathā hotu, ahan te imasmiṃ guṇe pasanno ti Evañ ca pana vatvā Sakko alaṃkatapaṭiyatto attano ānubhāvena ākāse ṭhatvā "Kaccāni tvaṃ mā bhāyi, putto ca te suṇisā ca mamānubhāvenāgantvā[^427-4] antarāmagge khamāpetvā taṃ[^427-5] ādāya gamissanti, appamattā vasā" 'ti vatvā attano ṭhānam eva gato. Te pi Sakkānubhāvena tassā guṇaṃ anussaritvā "kahan no mātā" ti antogāme manusse pucchitvā "susānābhimukhī[^427-7] gatā" ti sutvā "amma ammā" 'ti susānamaggaṃ paṭipajjitvā taṃ disvā va pādesu patitvā "amma amhākaṃ dosaṃ khamāhīti[^427-8]" khamāpesuṃ. Sāpi nattāraṃ gaṇhi. Iti sammodamānā gehaṃ gantvā tato paṭṭhāya samaggavāsaṃ vasiṃsu.
 
-Ja_VIII,1.1(=417).9: Sā Kātiyānī[^427-9] suṇisāya saddhiṃ sammodamānā gharam āvasittha[^427-10], putto ca nattā ca upaṭṭhahiṃsu devānam indena adhiggahītā ti || Ja_VIII:9 ||
+Ja_VIII,1.1(=417).9: Sā Kātiyānī[^427-9] suṇisāya saddhiṃ sammodamānā gharam āvasittha[^427-10], putto ca nattā ca upaṭṭhahiṃsu devānam indena adhiggahītā ti ||  
+Ja_VIII:9 ||  
 
 ayaṃ[^427-11] abhisambuddhagāthā.
 
@@ -5602,11 +6239,13 @@ tatiyaṃ rājagehe kaṇṇikāya nivutthaguṇapāṇako[^429-1] saddam akāsi
 
 rañño kasmā na kathethā" 'ti. "Māṇava, kiṃ sakkā ‘ahaṃ jānāmīti'; nalāṭe siṅgaṃ bandhitvā carituṃ, sace idhāgantvā pucchissati kathessāmi 'ssā" 'ti. Māṇavo vegena rājakulaṃ gantvā "kiṃ tātā" 'ti vutte "mahārāja tumhehi sutasaddānaṃ nipphattiṃ jānanako eko tāpaso tumhākaṃ uyyāne maṅgalasilāya[^430-1] nisinno ‘sace maṃ pucchati kathessāmīti'; vadati, gantvā[^430-2] pucchituṃ vaṭṭatīti". Rājā vegena tattha gantvā tāpasaṃ vanditvā katapaṭisanthāro nisīditvā "saccaṃ kira bhante tumhe mayā sutasaddānaṃ nipphattiṃ jānāthā[^430-3]" 'ti pucchi. "Āma mahārājā" 'ti. "Tena hi kathetha tāva me" 'ti[^430-4]. "Mahārāja, tesaṃ sutapaccayā tava koci antarāyo n'; atthi, purāṇuyyāne[^430-5] pana te eko bako atthi, so gocaraṃ alabhanto jigacchāpareto[^430-6] paṭhamaṃ saddam akāsīti" tassa kiriyaṃ attano ñāṇena paricchinditvā paṭhamaṃ gātham āha:
 
-Ja_VIII,1.2(=418).1: Idaṃ pure ninnam āhu bahumacchaṃ mahodikaṃ, āvāso bakarājassa pettikaṃ bhavanaṃ mama, ty-ajja bhekena[^430-7] yāpema, okaṃ na vijahāmase ti. || Ja_VIII:10 ||
+Ja_VIII,1.2(=418).1: Idaṃ pure ninnam āhu bahumacchaṃ mahodikaṃ, āvāso bakarājassa pettikaṃ bhavanaṃ mama, ty-ajja bhekena[^430-7] yāpema, okaṃ na vijahāmase ti. ||  
+Ja_VIII:10 ||  
 
 Tattha idan ti maṃgalapokkharaṇiṃ sandhāya vadati, sā hi pubbe[^430-8] udakatumbena udake pavisante bahūdikā[^430-9] bahumacchā, idāni pana udakassa paricchinnattā na bahodikā[^430-9] jātā, tyajja bhekenā[^430-7] 'ti te mayaṃ ajja macche alabhantā maṇḍūkamattena yāpema, okan ti evaṃ jigacchāpīḷitāpi[^430-10] vasanaṭṭhānaṃ na vijahāma. "Iti mahārāja so bako jighacchāpīḷito saddam akāsi, sace pi taṃ jighacchāto[^430-11] mocetukāmo taṃ uyyānaṃ sodhāpetvā pokkharaṇiṃ udakassa pūrehīti[^430-12]". Rājā tathā kāretuṃ ekaṃ amaccaṃ āṇāpesi. "Hatthisālatoraṇe[^430-13] pana te mahārāja ekā kākī vasamānā attano puttasokena dutiyasaddam akāsi, tato pi te[^430-14] bhayaṃ n'; atthīti" vatvā dutiyaṃ gātham āha:
 
-Ja_VIII,1.2(=418).2: Ko dutiyaṃ asīlassa Bandhurass'; akkhi bhejjati[^430-15], ko me putte kulāvañ ca mañ ca sotthiṃ karissatīti || Ja_VIII:11 ||
+Ja_VIII,1.2(=418).2: Ko dutiyaṃ asīlassa Bandhurass'; akkhi bhejjati[^430-15], ko me putte kulāvañ ca mañ ca sotthiṃ karissatīti ||  
+Ja_VIII:11 ||  
 
 
 <!-- PTS Page 431 -->
@@ -5616,7 +6255,8 @@ Ja_VIII,1.2(=418).2: Ko dutiyaṃ asīlassa Bandhurass'; akkhi bhejjati[^430-15
 
 vatvā ca pana "ko nāma te mahārāja hatthisālāya hathimeṇḍo" ti pucchi. "Bandhuro nāma bhante" ti. "Ekakkhikāṇo so mahārājā" 'ti. "Āma bhante" 'ti. "Mahārāja, hatthisālāya te dvāratoraṇe ekā kākī kulāvakaṃ katvā aṇḍakāni[^431-1] nikkhipi, tāni pariṇatāni[^431-2], kākapotakā nikkhantā[^431-3], hatthimeṇḍo hatthiṃ āruyha sālato nikkhamanto ca pavisanto ca aṃkusakena kākiṃ pi puttake pi 'ssā paharati kulāvakam pi viddhaṃseti, sā tena dukkhena pīḷitā tassākkhibhedaṃ[^431-4] āyācantī[^431-5] evam āha, sace te kākiyā mettacittaṃ atthi etaṃ Bandhuraṃ pakkosāpetvā kulāvakaviddhaṃsanato vārehīti". Rājā taṃ pakkosāpetvā paribhāsitvā[^431-6] hāretvā[^431-7] aññassa taṃ hatthiṃ adāsi. "Pāsādakaṇṇikāya pana te mahārāja eko guṇapāṇako vasati, so tattha[^431-8] phegguṃ khāditvā tasmiṃ khīṇe[^431-9] sāraṃ khādituṃ nāsakkhi, so bhakkhaṃ alabhitvā nikkhamitum pi asakkonto paridevamāno tatiyam pi saddam akāsi, tato pi te bhayaṃ n'; atthīti" vatvā tassa kiriyaṃ attano ñāṇena paricchinditvā tatiyaṃ gātham āha:
 
-Ja_VIII,1.2(=418).3: Sabbā parikkhatā[^431-10] pheggu yāva tassā[^431-11] gati ahu, khīṇabhakkho mahārāja sāre na ramatī guṇo ti. || Ja_VIII:12 ||
+Ja_VIII,1.2(=418).3: Sabbā parikkhatā[^431-10] pheggu yāva tassā[^431-11] gati ahu, khīṇabhakkho mahārāja sāre na ramatī guṇo ti. ||  
+Ja_VIII:12 ||  
 
 Tattha yāva tassā[^431-11] gati ahū 'ti yāva tassā[^431-12] phegguyā nipphatti ahosi sā[^431-13] sabbā khāditā, na ramatīti[^431-14] mahārāja so pāṇako tato nikkhamitvā gamanaṭṭhānam pi apassanto paridevati, nīharāpehi nan ti āha. Rājā ekaṃ purisaṃ āṇāpetvā upāyena nīharāpesi[^431-15]. "Nivesane[^431-16] te mahārāja ekā posāvanikā kokilā atthīti". "Atthi bhante" ti[^431-17]. "Mahārāja, sā attanā nivutthapubbaṃ vanasaṇḍaṃ saritvā ukkaṇṭhitvā ‘kadā nu kho imamhā pañjarā muñcitvā ramaṇīyaṃ vanasaṇḍaṃ gacchissāmīti'; catutthaṃ saddam akāsi, tato pi te bhayaṃ n'; atthīti" vatvā catutthaṃ gātham āha:
 
@@ -5626,15 +6266,18 @@ Tattha yāva tassā[^431-11] gati ahū 'ti yāva tassā[^431-12] phegguyā nipph
 
 ##### *[PTS Page 432]*
 
-Ja_VIII,1.2(=418).4: Sā nūnāhaṃ ito gantvā rañño muttā nivesanā attānaṃ ramayissāmi dumasākhāniketinīti[^432-1]. || Ja_VIII:13 ||
+Ja_VIII,1.2(=418).4: Sā nūnāhaṃ ito gantvā rañño muttā nivesanā attānaṃ ramayissāmi dumasākhāniketinīti[^432-1]. ||  
+Ja_VIII:13 ||  
 
 Tattha dumasākhāniketinīti supupphitāsu rukkhasākhāsu kataniketā hutvā. Evañ ca pana vatvā "ukkaṇṭhitā mahārājā sā kokilā, vissajjehi nan" ti āha. Rājā tathā kāresi. "Nivesane pana te mahārāja eko posāvaniyamigo atthīti". "Atthi bhante" ti. "Mahārāja, so eko yūthapati attano migiṃ anussaritvā kilesavasena ukkaṇṭhito pañcamaṃ saddaṃ akāsi, tato pi te bhayaṃ n'; atthīti" vatvā pañcamaṃ gātham āha:
 
-Ja_VIII,1.2(=418).5: So nūnāhaṃ ito gantvā rañño mutto nivesanā aggodakāni pissāmi[^432-2] yūthassa purato vajan ti. || Ja_VIII:14 ||
+Ja_VIII,1.2(=418).5: So nūnāhaṃ ito gantvā rañño mutto nivesanā aggodakāni pissāmi[^432-2] yūthassa purato vajan ti. ||  
+Ja_VIII:14 ||  
 
 Tattha aggodakānīti[^432-3] aññehi[^432-4] paṭhamataraṃ apītāni anucciṭṭhodakāni yūthassa purato gacchanto kadā nu kho pivissāmīti. Mahāsatto tam pi migaṃ vissajjāpetvā "nivesane[^432-5] te mahārāja posāvaniko makkaṭo atthīti" pucchi "āma bhante" ti vutte "so pi mahārāja Himavantapadese[^432-6] yūthapati makkaṭīhi saddhiṃ kāmagiddho hutvā vicaranto Bharatena[^432-7] nāma luddena idhānīto idāni ukkaṇṭhitvā tatth'; eva gantukāmo chaṭṭhaṃ saddam akāsi, ito pi te bhayaṃ n'; atthīti" vatvā chaṭṭhaṃ gātham āha:
 
-Ja_VIII,1.2(=418).6: Taṃ[^432-9] maṃ kāmehi sampannaṃ[^432-10] rattaṃ kāmesu mucchitaṃ[^432-11] ānayi Bharato[^432-12] luddo bāhiyo, bhaddam[^432-13] atthu te ti. || Ja_VIII:15 ||
+Ja_VIII,1.2(=418).6: Taṃ[^432-9] maṃ kāmehi sampannaṃ[^432-10] rattaṃ kāmesu mucchitaṃ[^432-11] ānayi Bharato[^432-12] luddo bāhiyo, bhaddam[^432-13] atthu te ti. ||  
+Ja_VIII:15 ||  
 
 Tattha bāhiko ti Bāhikaraṭṭhavāsī, bhaddamatthu[^432-14] te ti imaṃ atthaṃ so vānaro āha, tuyhaṃ pana bhaddam[^432-15] atthu, vissajjehi nan ti. Mahāsatto taṃ vānaraṃ vissajjāpetvā "nivesane pana te mahārāja posāvanikakinnaro atthīti" pucchitvā[^432-16] "atthīti" vutte "so mahārāja attano kinnariyā kataṃ[^432-17] guṇaṃ anussa-
 
@@ -5646,7 +6289,8 @@ Tattha bāhiko ti Bāhikaraṭṭhavāsī, bhaddamatthu[^432-14] te ti imaṃ at
 
 ritvā kilesāturo sattamaṃ saddam akāsi, so hi tāya saddhiṃ ekadivasaṃ tuṅgapabbatasikharaṃ āruhi, te tattha vaṇṇagandhasampannāni[^433-1] nānāpupphāni ocinantā pilandhantā suriyaṃ attham entaṃ[^433-2] na sallakkhesuṃ, atthaṃ gate suriye otarantānaṃ andhakāro ahosi, tattha[^433-3] naṃ kinnarī ‘sāmi andhakāro vattati, apakkhalanto appamādena otarā[^433-4]'; 'ti vatvā hatthe gahetvā otāresi, so tāya taṃ vacanaṃ anussaritvā saddam akāsi, tato pi te bhayaṃ n'; atthīti" taṃ kāraṇaṃ attano ñāṇeṇa paricchinditvā pākaṭaṃ karonto sattamaṃ gātham āha:
 
-Ja_VIII,1.2(=418).7: Andhakāratimissāya[^433-5] tuṅge upari pabbate sā maṃ saṇhena mudunā mā pādaṃ khaṇi-y-asmanīti[^433-6]. || Ja_VIII:16 ||
+Ja_VIII,1.2(=418).7: Andhakāratimissāya[^433-5] tuṅge upari pabbate sā maṃ saṇhena mudunā mā pādaṃ khaṇi-y-asmanīti[^433-6]. ||  
+Ja_VIII:16 ||  
 
 Tattha andhakāratimissāyā[^433-7] ti andhabhāvakārake[^433-8] tame, tuṅge ti tikhiṇe, saṇhena mudunā ti maṭṭena[^433-9] mudukena vacanena, mā pādaṃ khaṇiyasmanīti[^433-10] yakāro vyañjanasandhivasena gahito, idaṃ vuttaṃ hoti: sā maṃ kinnarī saṇhena mudunā vacanena sāmi appamatto hohi mā pādaṃ khaṇi yasmani[^433-11] yathā te upakkhalitvā pādo pāsāṇasmiṃ na khaññati[^433-12] tathā otarā 'ti vatvā hatthe gahetvā otāresīti. Iti Mahāsatto kinnarena katasaddakāraṇaṃ kathetvā taṃ vissajjāpetvā "mahārāja, aṭṭhamo udānasaddo ahosi, Nandamūlapabbhārasmiṃ hi[^433-13] eko paccekabuddho attano āyusaṃkhāraparikkhayaṃ[^433-14] ñatvā manussapathaṃ gantvā ‘Bārāṇasirañño uyyāne parinibbāyissāmi, tassa me manussā sarīranikkhepaṃ katvā[^433-15] sādhukīḷikam kīḷitvā[^433-16] dhātupūjaṃ katvā saggapathaṃ pūressantīti'; iddhānubhāvena āgacchanto[^433-17] tava pāsādamatthakaṃ[^433-18] pattakāle khandhabhāraṃ otāretvā Nibbānapurapavesanadīpanaṃ udānaṃ udanesīti" paccekabuddhena vuttaṃ[^433-19] gātham āha:
 
@@ -5656,7 +6300,8 @@ Tattha andhakāratimissāyā[^433-7] ti andhabhāvakārake[^433-8] tame, tuṅge
 
 ##### *[PTS Page 434]*
 
-Ja_VIII,1.2(=418).8: Asaṃsayaṃ jātikhayantadassī na gabbhaseyyaṃ punar āvajissaṃ, ayaṃ hi me antimā[^434-1] gabbhaseyyā, khīṇo me saṃsāro punabbhavāyā 'ti. || Ja_VIII:17 ||
+Ja_VIII,1.2(=418).8: Asaṃsayaṃ jātikhayantadassī na gabbhaseyyaṃ punar āvajissaṃ, ayaṃ hi me antimā[^434-1] gabbhaseyyā, khīṇo me saṃsāro punabbhavāyā 'ti. ||  
+Ja_VIII:17 ||  
 
 Tass'; attho: jātiyā khayantasaṃkhātassa nibbānassa[^434-2] diṭṭhattā jātikhayantadassī ahaṃ[^434-3] asaṃsayaṃ puna gabbhaseyyaṃ na āvajissaṃ, ayaṃ hi[^434-4] me antimā jāti pacchimagabbhaseyyā[^434-5], khīṇo me punabbhavāya[^434-6] khandhapaṭipātisaṃkhāto saṃsāro ti. "Idañ ca pana so udānaṃ vatvā imaṃ uyyānaṃ āgamma ekassa supupphitassa sālassa[^434-7] mūle parinibbuto, ehi mahārāja sarīrakiccam assa karohīti[^434-8]" Mahāsatto rājānaṃ gahetvā paccekabuddhassa parinibbutaṭṭhānaṃ gantvā[^434-9] sarīraṃ dassesi. Rājā tassa sarīraṃ disvā saddhiṃ balakāyena gandhamālādīhi pūjetvā Bodhisattassa vacanaṃ nissāya yaññaṃ hāretvā sabbasattānaṃ jīvitadānaṃ datvā nagare māghātabheriñ[^434-10] carāpetvā sattāhaṃ sādhukīḷaṃ kāretvā[^434-11] sabbagandhacitake mahantena sakkārena paccekabuddhassa sarīraṃ jhāpetvā catumahāpathe thūpaṃ kāresi. Bodhisatto pi rañño dhammaṃ desetvā "appamatto hohīti" ovaditvā Himavantam eva pavisitvā brahmavihāresu kammaṃ[^434-12] katvā aparihīnajjhāno Brahmaloka-parāyano ahosi. Sattha imaṃ desanaṃ[^434-13] āharitvā "mahārāja tassa saddassa kāraṇā[^434-14] tava koci antarāyo n'; atthīti, yaññaṃ harāpetvā[^434-15] mahājanassa jīvitaṃ dehīti" jīvitadānaṃ datvā[^434-16] nagare bheriñ carāpetvā jātakaṃ samodhānesi: "Tadā rājā Ānando ahosi, māṇavo Sāriputto, tāpaso[^434-17] aham evā" 'ti. Aṭṭhasaddajātakaṃ[^434-18].
 
@@ -5684,17 +6329,21 @@ nāma coro ahosi nāgabalo, rattibhāge issaragharāni pavisitvā yathāruciṃ 
 
 sataporisaṃ papātaṃ[^437-3] nissāya jātarukkhamūle baliṃ[^437-2] ṭhapāpetvā "bhadde, nāhaṃ balikammatthāya āgato, taṃ pana māretvā pilandhanaṃ te gahetvā gamissāmīti āgato 'mhi, tava pilandhanaṃ omuñcitvā uttarasāṭake[^437-3] bhaṇḍikaṃ karohīti" āha. "Sāmi maṃ kasmā māresīti". "Dhanakāraṇā" ti. "Sāmi mayā kataguṇaṃ anussara, ahaṃ taṃ bandhitvā nīyamānaṃ seṭṭhiputtena parivattetvā bahuṃ dhanaṃ datvā jīvitaṃ labhāpesiṃ, devasikaṃ sahassaṃ labhamānāpi aññaṃ purisaṃ na olokemi, evaṃ hi tava upakārikā, mā maṃ mārehi, bahuñ ca te dhanaṃ dassāmi[^437-4] dāsī ca bhavissāmīti" taṃ yācantī[^437-5] paṭhamaṃ gātham āha:
 
-Ja_VIII,1.3(=419).1: Idaṃ suvaṇṇakāyūraṃ muttā veḷuriyā bahū sabbaṃ harassu bhaddaṃ te mañ ca dāsīti sāvayā 'ti. || Ja_VIII:18 ||
+Ja_VIII,1.3(=419).1: Idaṃ suvaṇṇakāyūraṃ muttā veḷuriyā bahū sabbaṃ harassu bhaddaṃ te mañ ca dāsīti sāvayā 'ti. ||  
+Ja_VIII:18 ||  
 
 Tattha kāyūran ti gīvāya pilandhanapasādhanaṃ, na keyūraṃ, sāvayā 'ti mahājanamajjhe sāvetvā dāsiṃ katvā gaṇhā 'ti. Tato Sattukena
 
-Ja_VIII,1.3(=419).2: Oropayassu kalyāṇi, mā bahuṃ paridevasi[^437-6], na cāhaṃ abhijānāmi ahantvā dhanam ābhatan[^437-7] ti || Ja_VIII:19 ||
+Ja_VIII,1.3(=419).2: Oropayassu kalyāṇi, mā bahuṃ paridevasi[^437-6], na cāhaṃ abhijānāmi ahantvā dhanam ābhatan[^437-7] ti ||  
+Ja_VIII:19 ||  
 
 attano ajjhāsayānurūpaṃ dutiyagāthāya vuttāya Sulasā ṭhānuppattikāraṇaṃ paṭilabhitvā "ayaṃ coro mayhaṃ jīvitaṃ na dassati, upāyena naṃ[^437-8] paṭhamataraṃ[^437-9] papāte pātetvā jīvitakkhayaṃ pāpessāmīti" cintetvā gāthadvayam āha:
 
-Ja_VIII,1.3(=419).3: Yato sarāmi attānaṃ yato patto 'smi[^437-10] viññutaṃ na cāhaṃ[^437-10] abhijānāmi aññaṃ piyataraṃ tayā. || Ja_VIII:20 ||
+Ja_VIII,1.3(=419).3: Yato sarāmi attānaṃ yato patto 'smi[^437-10] viññutaṃ na cāhaṃ[^437-10] abhijānāmi aññaṃ piyataraṃ tayā. ||  
+Ja_VIII:20 ||  
 
-Ja_VIII,1.3(=419).4: Ehi taṃ upagūhissaṃ[^437-11] karissañ ca[^437-12] padakkhiṇaṃ, na hi dāni punā[^437-13] atthi mama tuyhañ[^437-14] ca saṃgamo ti. || Ja_VIII:21 ||
+Ja_VIII,1.3(=419).4: Ehi taṃ upagūhissaṃ[^437-11] karissañ ca[^437-12] padakkhiṇaṃ, na hi dāni punā[^437-13] atthi mama tuyhañ[^437-14] ca saṃgamo ti. ||  
+Ja_VIII:21 ||  
 
 Sattuko tassā adhippāyaṃ[^437-15] ajānanto "sādhu bhadde, ehi upagūhassu[^437-16] man" ti āha. Sulasā taṃ tikkhattuṃ padakkhiṇaṃ katvā upagūhitvā[^437-17] "idāni taṃ sāmi catūsu passesu van-
 
@@ -5706,15 +6355,20 @@ Sattuko tassā adhippāyaṃ[^437-15] ajānanto "sādhu bhadde, ehi upagūhassu[
 
 dissāmīti[^438-1]" vatvā pādapiṭṭhiyaṃ sīsaṃ ṭhapetvā bāhāpasse vanditvā pacchimapassaṃ gantvā vandamānā viya hutvā nāgabalā gaṇikā coraṃ dvīsu pacchābhāgesu[^438-2] gahetvā heṭṭhāsīsakaṃ[^438-3] {katvā} sataporise niraye[^438-4] khipi. So tatth'; eva cuṇṇavicuṇṇaṃ hutvā mari. Taṃ kiriyaṃ disvā pabbatamatthake nibattadevatā imā gāthā abhāsi:
 
-Ja_VIII,1.3(=419).5: Na hi sabbesu ṭhānesu puriso hoti paṇḍito, itthī[^438-5] pi paṇḍitā hoti[^438-6] tattha tattha vicakkhaṇā. || Ja_VIII:22 ||
+Ja_VIII,1.3(=419).5: Na hi sabbesu ṭhānesu puriso hoti paṇḍito, itthī[^438-5] pi paṇḍitā hoti[^438-6] tattha tattha vicakkhaṇā. ||  
+Ja_VIII:22 ||  
 
-Ja_VIII,1.3(=419).6: Na hi sabbesu ṭhānesu puriso hoti paṇḍito, itthī[^438-5] pi paṇḍitā hoti[^438-6] lahum atthavicintikā[^438-7]. || Ja_VIII:23 ||
+Ja_VIII,1.3(=419).6: Na hi sabbesu ṭhānesu puriso hoti paṇḍito, itthī[^438-5] pi paṇḍitā hoti[^438-6] lahum atthavicintikā[^438-7]. ||  
+Ja_VIII:23 ||  
 
-Ja_VIII,1.3(=419).7: Lahuñ ca vata khippañ ca nikaṭṭhe samacetayi, migaṃ puṇṇāyateneva[^438-8] Sulasā Sattukaṃ vadhi. || Ja_VIII:24 ||
+Ja_VIII,1.3(=419).7: Lahuñ ca vata khippañ ca nikaṭṭhe samacetayi, migaṃ puṇṇāyateneva[^438-8] Sulasā Sattukaṃ vadhi. ||  
+Ja_VIII:24 ||  
 
-Ja_VIII,1.3(=419).8: Yo 'dha uppatitaṃ atthaṃ na khippam anubujjhati (Cfr. p.266,24.) so haññati[^438-9] mandamati[^438-10] coro va girigabbhare. || Ja_VIII:25 ||
+Ja_VIII,1.3(=419).8: Yo 'dha uppatitaṃ atthaṃ na khippam anubujjhati (Cfr. p.266,24.) so haññati[^438-9] mandamati[^438-10] coro va girigabbhare. ||  
+Ja_VIII:25 ||  
 
-Ja_VIII,1.3(=419).9: Yo ca uppatitaṃ atthaṃ khippam eva nibodhati muccate sattusambādhā Sulasā[^438-11] Sattukā-m-ivā 'ti. || Ja_VIII:26 ||
+Ja_VIII,1.3(=419).9: Yo ca uppatitaṃ atthaṃ khippam eva nibodhati muccate sattusambādhā Sulasā[^438-11] Sattukā-m-ivā 'ti. ||  
+Ja_VIII:26 ||  
 
 Tattha paṇḍitā hotīti itthi[^438-12] pi[^438-13] paṇḍitā[^438-14] tatthā tattha vicakkhaṇā hoti, athavā itthī paṇḍitā c'; eva tattha tattha vicakkhaṇā ca[^438-15] hoti, lahuṃ atthavicintikā ti lahuṃ khippaṃ atthaṃ vicintikā, lahuñca vatā 'ti adandhañ ca vata, khippañ cā 'ti acirena ca[^438-16], nikaṭṭhe samacetayīti santike ṭhitā va tassa maraṇupāyaṃ cintesi, puṇṇāyatenevā 'ti pūritadhanusmiṃ, idaṃ vuttaṃ hoti: yathā[^438-17] cheko migaluddako ākiṇṇapuṇṇadhanusmiṃ[^438-18] khippaṃ migaṃ vadhati[^438-19] evaṃ Sulasā Sattukaṃ vadhīti, yo dhā 'ti yo imasmiṃ sattaloke, nibodhatīti jānāti, Sattukāmivā 'ti Sattukā iva, yathā Sulasā muttā evaṃ muccatīti[^438-20] attho. Iti Sulasā coraṃ vadhitvā pabbatā oruyha attano parijanassa santikaṃ gantvā "ayyaputto kahan" ti pucchitā[^438-21] "mā taṃ pucchathā" 'ti vatvā rathaṃ abhirūhitvā nagaram eva pāvisi.
 
@@ -5744,13 +6398,17 @@ naṃ paccāgami. Sumaṅgalo tassa āgatabhāvaṃ ajānanto attano gehaṃ aga
 
 dvāre ṭhapetvā tassa āgatabhāvaṃ[^441-1] rañño kathesi. Rājā taṃ pakkosāpetvā paṭisanthāraṃ katvā "Sumanāgala kasmā tayā mama puññakkhettaṃ[^441-2] paccekabuddho mārito" ti pucchi. So "nāhaṃ deva[^441-3] ‘paccekabuddhaṃ māremīti'; māresiṃ[^441-4], api ca kho iminā nāma[^441-5] kāraṇena idaṃ nāma akāsin" ti taṃ pavattiṃ ācikkhi. Atha naṃ rājā "tena hi mā bhāyīti" samassāsetvā puna uyyānapālam eva akāsi. Atha naṃ so amacco pucchi: "deva, kasmā tumhe dve vāre Sumaṅgalassa guṇaṃ[^441-6] sutvāpi kiñci na kathayittha, kasmā pana tatiyavāre sutvā va[^441-7] taṃ pakkositvā anukampitthā" 'ti. Rājā[^441-8] "tātā, raññā[^441-9] nāma kuddhena sahasā kiñci kātuṃ na vaṭṭati, tenāhaṃ pubbe tuṇhī hutvā tatiyavāre Sumaṅgale mama cittassa mudubhāvaṃ ñatvā taṃ pakkosāpesin" ti rājavattaṃ[^441-10] kathento:
 
-Ja_VIII,1.4(=420).1: Bhus'; amhi[^441-11] kuddho ti avekkhiyāna[^441-12] na tāva daṇḍaṃ panayeyya issaro, aṭṭhānaso appatirūpam attano parassa dukkhāni bhusaṃ udīraye. || Ja_VIII:27 ||
+Ja_VIII,1.4(=420).1: Bhus'; amhi[^441-11] kuddho ti avekkhiyāna[^441-12] na tāva daṇḍaṃ panayeyya issaro, aṭṭhānaso appatirūpam attano parassa dukkhāni bhusaṃ udīraye. ||  
+Ja_VIII:27 ||  
 
-Ja_VIII,1.4(=420).2: Yato ca jāneyya pasādam attano atthaṃ niyuñjeyya parassa dukkataṃ[^441-13], tadāyam attho ti sayaṃ avekkhiya ath'; assa daṇḍaṃ sadisaṃ nivesaye. || Ja_VIII:28 ||
+Ja_VIII,1.4(=420).2: Yato ca jāneyya pasādam attano atthaṃ niyuñjeyya parassa dukkataṃ[^441-13], tadāyam attho ti sayaṃ avekkhiya ath'; assa daṇḍaṃ sadisaṃ nivesaye. ||  
+Ja_VIII:28 ||  
 
-Ja_VIII,1.4(=420).3: Na cāpi jhāpeti paraṃ na attanaṃ[^441-14] amucchito yo nayate[^441-15] nayānayaṃ yo daṇḍadhāro[^441-16] bhavatīdha issaro sa vaṇṇagutto siriyā na dhaṃsati. || Ja_VIII:29 ||
+Ja_VIII,1.4(=420).3: Na cāpi jhāpeti paraṃ na attanaṃ[^441-14] amucchito yo nayate[^441-15] nayānayaṃ yo daṇḍadhāro[^441-16] bhavatīdha issaro sa vaṇṇagutto siriyā na dhaṃsati. ||  
+Ja_VIII:29 ||  
 
-Ja_VIII,1.4(=420).4: Ye khattiyāse anisammakārino paṇenti[^441-17] daṇḍaṃ sahasā pamucchitā avaṇṇasaṃyuttā[^441-18] jahanti jīvitaṃ, ito vimuttāpi ca yanti duggatiṃ. || Ja_VIII:30 ||
+Ja_VIII,1.4(=420).4: Ye khattiyāse anisammakārino paṇenti[^441-17] daṇḍaṃ sahasā pamucchitā avaṇṇasaṃyuttā[^441-18] jahanti jīvitaṃ, ito vimuttāpi ca yanti duggatiṃ. ||  
+Ja_VIII:30 ||  
 
 
 <!-- PTS Page 442 -->
@@ -5758,9 +6416,11 @@ Ja_VIII,1.4(=420).4: Ye khattiyāse anisammakārino paṇenti[^441-17] daṇḍ
 
 ##### *[PTS Page 442]*
 
-Ja_VIII,1.4(=420).5: Dhamme ca ye ariyapavedite ratā (Cfr. Dhp. v. 79. anuttarā te vacasā manasā[^442-1] kammanā[^442-2] ca, te santisoraccasamādhisaṇṭhitā vajanti lokaṃ dubhayaṃ[^442-3] tathāvidhā. || Ja_VIII:31 ||
+Ja_VIII,1.4(=420).5: Dhamme ca ye ariyapavedite ratā (Cfr. Dhp. v. 79. anuttarā te vacasā manasā[^442-1] kammanā[^442-2] ca, te santisoraccasamādhisaṇṭhitā vajanti lokaṃ dubhayaṃ[^442-3] tathāvidhā. ||  
+Ja_VIII:31 ||  
 
-Ja_VIII,1.4(=420).6: Rājāham asmi narapamadānam[^442-4] issaro, sace pi kujjhāmi ṭhapemi attanaṃ[^442-5], nisedhayanto janataṃ tathāvidhaṃ paṇemi[^442-6] daṇḍaṃ anukampa yoniso ti || Ja_VIII:32 ||
+Ja_VIII,1.4(=420).6: Rājāham asmi narapamadānam[^442-4] issaro, sace pi kujjhāmi ṭhapemi attanaṃ[^442-5], nisedhayanto janataṃ tathāvidhaṃ paṇemi[^442-6] daṇḍaṃ anukampa yoniso ti ||  
+Ja_VIII:32 ||  
 
 imā gāthā āha. Tattha avekkhiyānā[^442-7] 'ti avekkhitvā[^442-8], idaṃ vuttaṃ hoti: tāta paṭhavissaro rājā nāma ahaṃ bhusaṃ kuddho balavakodhābhibhūto ti ñatvā aṭṭhavatthukādibhedaṃ daṇḍaṃ parassa na paṇeyya[^442-9] na pavatteyya[^442-10], kiṃkāraṇā: kuddho hi aṭṭhavatthukaṃ soḷasavatthukaṃ katvā aṭṭhānena akāraṇena attano rājabhāvassa ananurūpaṃ[^442-11] imaṃ ettakaṃ nāma āharāpetha[^442-12] idaṃ vāssa[^442-13] karothā 'ti parassa bhusaṃ dukkhāni balavadukkhāni udīreyya[^442-14], yato ti yadā, idaṃ vuttaṃ hoti: yadā pana rājā[^442-15] parasmiṃ uppannaṃ attano pasādaṃ jāneyya atha parassa dukkataṃ atthaṃ niyuñjeyya upaparikkheyya tadā evaṃ niyuñjanto ayaṃ nām'; ettha attho ayam eva tassa[^442-16] doso ti sayaṃ attanā[^442-17] paccakkhaṃ katvā ath'; assa aparādhakārakassa aṭṭhavatthukahetu aṭṭh'; eva soḷasavatthukahetu soḷas'; eva kahāpaṇe gaṇhanto daṇḍaṃ[^442-18] sadisaṃ katadosānurūpaṃ[^442-19] nivesaye ṭhapeyya[^442-20] pavatteyyā[^442-21] 'ti, amucchito ti chandādīhi agatikilesehi[^442-22] amucchito[^442-23] anadhibhūto[^442-24] hutvā yo nayānayaṃ nayati upaparikkhati so n'; eva paraṃ jhāpeti na attānaṃ, chandādivasena[^442-25] hi ahetukaṃ daṇḍaṃ pavattento param pi tena daṇḍena jhāpeti dahati pīḷeti attānam pi[^442-26] tatonidānena pāpena, ayaṃ pana na paraṃ jhāpeti na attānan ti, yo daṇḍadhāro[^442-27] bhavatīdha issaro ti yo idha paṭhavissaro jāto[^442-28] idha sattaloke dosānucchavikaṃ daṇḍaṃ pavattento daṇḍadhāro[^442-29] hoti, savaṇṇagutto[^442-30] gunavaṇṇena c'; eva yasavaṇṇena ca gutto rakkhito siriyā na dhaṃsati na parihāyati, avaṇṇasaṃyuttā jahantīti adhammikā lolarājāno avaṇṇena yuttā hutvā jīvitaṃ jahanti, dhamme ca ye ariyapavedite ti ye rājāno ācārāriyehi dhammikarājūhi pavedite dasavidhe rājadhamme ratā, anuttarā te[^442-31] ti te[^442-31] vacasā manasā kammunā ca tīhi pi etehi
 
@@ -5772,11 +6432,14 @@ imā gāthā āha. Tattha avekkhiyānā[^442-7] 'ti avekkhitvā[^442-8], idaṃ 
 
 anuttarā jeṭṭhakā, te santisoraccasamādhisaṇṭhitā ti te agatipahānena kilesasantiyañ ca dussīlyasaṃkhāte soracce ca ekaggatāya samādhimhi ca saṇṭhitā patiṭṭhitā[^443-1] dhammikarājāno, vajanti lokaṃ dubhayan[^443-2] ti dhammena rajjaṃ kāretvā manussalokato devalokaṃ devalokato manussalokan ti ubhayalokaṃ eva vajanti, nirayādisu na nibbattanti, narapamadānan[^443-3] ti narānañ ca pamadānañ[^443-4] ca, ṭhapemi attānan[^443-5] ti kuddho pi kodhavasena agantvā[^443-6] attānaṃ porāṇakarājūhi ṭhapitanayasmiṃ ñeva dhamme ṭhapemi vinicchayadhammaṃ na bhindāmi[^443-7]. Evaṃ chahi gāthāhi raññā attano guṇe kathite sabbāpi rājaparisā tuṭṭhā "ayaṃ sīlācāraguṇasampatti tumhākaṃ ñeva anurūpā" ti rañño guṇaṃ[^443-8] kathesi. Sumaṅgalo pana parisāya kathitāvasāne uṭṭhāya rājānaṃ vanditvā añjalim[^443-9] paggayha rañño thutiṃ karonto tisso gāthā abhāsi:
 
-Ja_VIII,1.4(=420).7: Siriñ[^443-10] ca lakkhiñ[^443-10] ca tam eva khattiya janādhipa mā vijahi kudācanaṃ, akkodhano niccapasannacitto anīgho tuvaṃ vassasatāni pālaya. || Ja_VIII:33 ||
+Ja_VIII,1.4(=420).7: Siriñ[^443-10] ca lakkhiñ[^443-10] ca tam eva khattiya janādhipa mā vijahi kudācanaṃ, akkodhano niccapasannacitto anīgho tuvaṃ vassasatāni pālaya. ||  
+Ja_VIII:33 ||  
 
-Ja_VIII,1.4(=420).8: Guṇehi etehi upeta[^443-11] khattiya ṭhitamariyavattī[^443-12] suvaco akodhano sukhī anuppīḷa pasāsa[^443-13] mediniṃ[^443-14], ito vimutto pi ca yāhi suggatiṃ. || Ja_VIII:34 ||
+Ja_VIII,1.4(=420).8: Guṇehi etehi upeta[^443-11] khattiya ṭhitamariyavattī[^443-12] suvaco akodhano sukhī anuppīḷa pasāsa[^443-13] mediniṃ[^443-14], ito vimutto pi ca yāhi suggatiṃ. ||  
+Ja_VIII:34 ||  
 
-Ja_VIII,1.4(=420).9: Evaṃ suvinītena[^443-15] subhāsitena dhammena ñāyena upāyaso nayaṃ nibbāpaye saṃkhubhitaṃ mahājanaṃ mahā va megho salilena medinin ti. || Ja_VIII:35 ||
+Ja_VIII,1.4(=420).9: Evaṃ suvinītena[^443-15] subhāsitena dhammena ñāyena upāyaso nayaṃ nibbāpaye saṃkhubhitaṃ mahājanaṃ mahā va megho salilena medinin ti. ||  
+Ja_VIII:35 ||  
 
 Tattha siriñ[^443-16] ca lakkhiñ[^443-17] cā ti parivārasampattiñ[^443-18] ca paññañ[^443-19] ca, anīgho ti niddukkho hutvā, upeta[^443-20] khattiyā 'ti upeto khattiya ayam eva vā pāṭho, ṭhitamariyavattīti[^443-21] ṭhitāriyavatti, ariyavatti[^443-22] nāma dasarājadhammasaṃkhātaṃ porāṇakarājavattaṃ, tassa[^443-23] patiṭṭhitattā ṭhitarājadhammo hutvā ti attho, anuppīḷapasāsamedinin[^443-24] ti anuppīḷaṃ pasāsa[^443-25] medinin ti ayam
 
@@ -5814,13 +6477,16 @@ diyin" ti āha. Balavavedanā uppajji, aruṇuggamanavelāyaṃ[^446-1] satiṃ 
 
 aḍḍhamāsakaṃ āharā" 'ti. So "bhariyāya me santikā kathā[^447-1] laddhā" ti haṭṭhatuṭṭho "bhadde, mā cintayi, āharissāmi nan" ti vatvā pakkāmi. Nāgabalo bhatako[^447-2] cha yojanāni atikkamma majjhantikasamaye vītaccikaṅgārasanthatam[^447-3] iva uṇhaṃ[^447-4] vālikaṃ[^447-5] maddanto dhanalobhena haṭṭhatuṭṭho[^447-6] kāsāvanantakanivāsano[^447-7] kaṇṇe tālapaṇṇaṃ pilandhitvā[^447-8] etena[^447-9] āyogavattena[^447-10] gītaṃ gāyanto[^447-11] rājaṅgaṇena pāyāsi. Udayarājā[^447-12] sīhapañjaraṃ vivaritvā ṭhito taṃ tathā gacchantaṃ disvā "kin nu kho esa evarūpaṃ vātātapaṃ[^447-13] agaṇetvā haṭṭhatuṭṭho[^447-14] gāyanto gacchati, pucchissāmi nan" ti cintetvā pakkosanatthāya ekaṃ purisaṃ pahiṇi. Tena gantvā "rājā taṃ pakkosatīti" vutte "rājā mayhaṃ kiṃ hoti, nāhaṃ rājānaṃ jānāmīti" vatvā[^447-15] balakkārena nīto ekamantaṃ aṭṭhāsi. Atha naṃ rājā pucchanto dve gāthā abhāsi:
 
-Ja_VIII,1.5(=421).1: Aṅgārajātā paṭhavī, kukkuḷānugatā[^447-16] mahī, atha gāyasi vattāni, na taṃ tapati ātapo. || Ja_VIII:36 ||
+Ja_VIII,1.5(=421).1: Aṅgārajātā paṭhavī, kukkuḷānugatā[^447-16] mahī, atha gāyasi vattāni, na taṃ tapati ātapo. ||  
+Ja_VIII:36 ||  
 
-Ja_VIII,1.5(=421).2: Uddhaṃ tapati ādicco, adho tapati vālukā, atha gāyasi vattāni, na taṃ tapati ātapo ti. || Ja_VIII:37 ||
+Ja_VIII,1.5(=421).2: Uddhaṃ tapati ādicco, adho tapati vālukā, atha gāyasi vattāni, na taṃ tapati ātapo ti. ||  
+Ja_VIII:37 ||  
 
 Tattha aṅgārajātā ti bho purisa ayaṃ paṭhavī vītaccikaṅgāraṃ viya uṇhajātā[^447-17], kukkuḷānugatā[^447-18] ti ādittachārikasaṃkhātena[^447-19] kukkuḷena[^447-20] viya uṇhavālikāya[^447-21] anugatā, vattānīti ayogavattāni āropetvā gītaṃ gāyasi. So rañño kathaṃ sutvā tatiyaṃ gātham āha:
 
-Ja_VIII,1.5(=421).3: Na maṃ tapati ātapo[^447-22], ātappā[^447-23] tapayanti maṃ, atthā hi[^447-24] vividhā rāja, te[^447-25] tapanti, na ātapo ti. || Ja_VIII:38 ||
+Ja_VIII,1.5(=421).3: Na maṃ tapati ātapo[^447-22], ātappā[^447-23] tapayanti maṃ, atthā hi[^447-24] vividhā rāja, te[^447-25] tapanti, na ātapo ti. ||  
+Ja_VIII:38 ||  
 
 Tattha ātappā[^447-26] ti vatthukāmakilesakāmā, purisaṃ hi te ātapanti[^447-27], tasmā ātappā[^447-26] ti vuttā, atthā hi vividhā ti mahārāja mayhaṃ vatthukāmakilesakāme nissāya kattabbā nānākiccasaṃkhātā vividhā atthā atthi, te maṃ tapanti na ātapo ti.
 
@@ -5848,15 +6514,18 @@ rajjaṃ te dassāmi, nivattā[^449-1]" 'ti vutte sampaṭicchi. Rājā "gaccha[
 
 dāni[^450-1] naṃ ito paṭṭhāya saṃkappessāmīti udānaṃ[^450-2] udānento catutthaṃ gātham āha:
 
-Ja_VIII,1.5(=421).4: Addasaṃ kāma te mūlaṃ, saṃkappā kāma[^450-3] jāyasi, na taṃ saṃkappayissāmi, evaṃ kāma[^450-4] na hohisīti[^450-5]. || Ja_VIII:39 ||
+Ja_VIII,1.5(=421).4: Addasaṃ kāma te mūlaṃ, saṃkappā kāma[^450-3] jāyasi, na taṃ saṃkappayissāmi, evaṃ kāma[^450-4] na hohisīti[^450-5]. ||  
+Ja_VIII:39 ||  
 
 Tattha evan ti evaṃ mama antare, na hohisīti na uppajjissasīti. Evañ ca pana vatvā puna kāmesu anuyuttassa[^450-6] mahājanassa dhammaṃ desento pañcamaṃ gātham āha:
 
-Ja_VIII,1.5(=421).5: Appāpi kāmā na alaṃ[^450-7], bahūhi pi na tappati, ahahā[^450-8] bālalapanā[^450-9], paṭivijjhetha jaggato ti. || Ja_VIII:40 ||
+Ja_VIII,1.5(=421).5: Appāpi kāmā na alaṃ[^450-7], bahūhi pi na tappati, ahahā[^450-8] bālalapanā[^450-9], paṭivijjhetha jaggato ti. ||  
+Ja_VIII:40 ||  
 
 Tattha ahahā[^450-10] ti saṃvegadīpanaṃ, jaggato ti jagganto, idaṃ vuttaṃ hoti: mahārāja imassa mahājanassa appāpi[^450-11] vatthukāmakilesakāmā na alaṃ pariyattā[^450-12] va, bahūhi pi ca tehi na tappat'; eva[^450-13], aho ime mama rūpā mama saddā ti lapanato bālalapanā kāmā, ime vipassanaṃ vaḍḍhetvā bodhapakkhiyānaṃ[^450-14] dhammānaṃ bhāvanānuyogam anuyutto jagganto kulaputto paṭivijjhetha, pariññāpahānābhisamayehi abhisametvā pajaheyya[^450-15] Evaṃ so mahājanassa dhammaṃ desetvā Udayarājānaṃ rajjaṃ paṭicchāpetvā mahājanaṃ assumukhaṃ rudamānaṃ[^450-16] pahāya Himavantaṃ pavisitvā pabbajitvā jhānābhiññaṃ nibbattesi[^450-17]. Tassa pabbajitakāle Udayarājā taṃ udānaṃ sakalaṃ katvā udānento chaṭṭhaṃ[^450-18] gātham āha:
 
-Ja_VIII,1.5(=421).6: Appassa kammassa phalaṃ {mamā}-y-idaṃ, Udayo ajjhagamā mahattapattaṃ, suladdhalābhā vata māṇavassa yo pabbaji kāmarāgaṃ pahāyā 'ti. || Ja_VIII:41 ||
+Ja_VIII,1.5(=421).6: Appassa kammassa phalaṃ {mamā}-y-idaṃ, Udayo ajjhagamā mahattapattaṃ, suladdhalābhā vata māṇavassa yo pabbaji kāmarāgaṃ pahāyā 'ti. ||  
+Ja_VIII:41 ||  
 
 Tattha Udayo ti attānaṃ sandhāya vadati, mahattapattan ti mahantabhāvaṃ pattaṃ vipulaṃ issariyaṃ ajjhagamā, māṇavassā 'ti sattassa mayhaṃ sahāyassa suladdhalābhā[^450-19] yo[^450-20] kāmarāgaṃ pahāya pabbajito ti adhippāyen'; evam āha.
 
@@ -5876,7 +6545,8 @@ Imissā pana gāthāya na koci atthaṃ jānāti. Atha naṃ ekadivasaṃ aggama
 
 kāraṇena pacchāupaḍḍhagāthaṃ vadāmīti" udānassa atthaṃ[^452-1] kathesi. Taṃ sutvā kappako "upaḍḍhuposathakammena kira rañño ayaṃ sampatti laddhā, kusalaṃ nāma kātabbaṃ, yan nūnāhaṃ pabbajitvā attano patiṭṭhaṃ kāreyyan" ti cintetvā ñātibhogaparivaṭṭaṃ[^452-2] pahāya rājānaṃ pabbajjaṃ anujānāpetvā Himavantaṃ gantvā isipabbajjaṃ pabbajitvā tilakkhaṇaṃ āropetvā vipassanaṃ vaḍḍhetvā paccekabodhiṃ patvā iddhiyā nibbattapattacīvaradharo Gandhamādanapabbate pañce cha vassāni vasitvā "Bārāṇasīrājānaṃ[^452-3] olokessāmīti" ākāsenāgantvā uyyāne maṅgalasilāya[^452-4] nisīdi. Uyyānapālo sañjānitvā[^452-5] rañño ārocesi: "deva Gaṅgamālo paccekabuddho hutvā ākāsenāgantvā uyyāne nisinno" ti. Rājā sutvā "paccekabuddhaṃ vandissāmīti" vegena nikkhami. Rājamātāpi puttena saddhiṃ yeva nikkhami. Rājā uyyānaṃ pavisitvā taṃ vanditvā ekamantaṃ nisīdi saddhiṃ parisāya. So rañña[^452-6] saddhiṃ paṭisanthāraṃ karonto "kiṃ Brahmadatta appamatto si[^452-7], dhammena rajjaṃ kāresi, dānādīni puññāni karosīti" rājānaṃ kulanāmena ālapitvā paṭisanthāraṃ karoti. Taṃ sutvā rañño mātā "ayaṃ hīnajacco malamajjano[^452-8] nahāpitaputto attānaṃ na jānāti, mama puttaṃ paṭhavissaraṃ jātikhattiyaṃ[^452-9] Brahmadattā 'ti nāmenālapatīti" kujjhitvā sattamaṃ gātham āha:
 
-Ja_VIII,1.5(=421).7: Tapasā pajahanti[^452-10] pāpakammaṃ, tapasā nahāpitakumbhakārabhāvaṃ, tapasā abhibhuyya Gaṅgamāla nāmenālapas'; ajja Brahmadattā ti. || Ja_VIII:42 ||
+Ja_VIII,1.5(=421).7: Tapasā pajahanti[^452-10] pāpakammaṃ, tapasā nahāpitakumbhakārabhāvaṃ, tapasā abhibhuyya Gaṅgamāla nāmenālapas'; ajja Brahmadattā ti. ||  
+Ja_VIII:42 ||  
 
 Tass'; attho: ime tāva sattā tapasā attano[^452-11] katena tapoguṇena pāpakammaṃ jahanti, kiṃ pan'; evaṃ[^452-12] tapasā[^452-13] nahāpitakumbhakārabhāvam pi jahanti yaṃ tvaṃ Gaṅgamāla attano tapasā abhibhuyya mama puttaṃ Brahmadattaṃ nāmenālapasi[^452-14], patirūpan[^452-15] nu te etan ti.
 
@@ -5888,11 +6558,13 @@ Tass'; attho: ime tāva sattā tapasā attano[^452-11] katena tapoguṇena pāpa
 
 Rājā mātaraṃ vāretvā paccekabuddhassa guṇaṃ pakāsento aṭṭhamaṃ gātham āha:
 
-Ja_VIII,1.5(=421).8: Sandiṭṭhikam eva[^453-1] passatha khantisoracciyassa[^453-2] yo[^453-3] vipāko, yo[^453-4] sabbajanassa vanditā ahū[^453-5] taṃ vandāma sarājikā samaccā ti. || Ja_VIII:43 ||
+Ja_VIII,1.5(=421).8: Sandiṭṭhikam eva[^453-1] passatha khantisoracciyassa[^453-2] yo[^453-3] vipāko, yo[^453-4] sabbajanassa vanditā ahū[^453-5] taṃ vandāma sarājikā samaccā ti. ||  
+Ja_VIII:43 ||  
 
 Tattha khantisoracciyassā[^453-6] 'ti adhivāsanakhantiyā cā soraccassa ca, vandāmā 'ti taṃ idāni mayaṃ sarājikā samaccā sabbe vandāma, passatha amma khantisoraccānaṃ[^453-7] vipākan ti. Rañña mātari vāritāya sesamahājano uṭṭhahitvā "ayuttaṃ tāva[^453-8] evarūpassa hīnajaccassa tumhe nāmenālapitun" ti āha. Rājā mahājanaṃ[^453-9] paṭibāhitvā tassa guṇakathaṃ[^453-10] kathetuṃ osānagātham āha:
 
-Ja_VIII,1.5(=421).9: Mā kiñci avacuttha Gaṅgamālaṃ muninaṃ[^453-11] monapathesu sikkhamānam, eso hi atarī[^453-12] aṇṇavaṃ yaṃ taritvā vicaranti[^453-13] vītasokā ti. || Ja_VIII:44 ||
+Ja_VIII,1.5(=421).9: Mā kiñci avacuttha Gaṅgamālaṃ muninaṃ[^453-11] monapathesu sikkhamānam, eso hi atarī[^453-12] aṇṇavaṃ yaṃ taritvā vicaranti[^453-13] vītasokā ti. ||  
+Ja_VIII:44 ||  
 
 Tattha muninan[^453-14] ti agārikānagārikasekkhāsekkhapaccekamunīsu paccekamuniṃ, monapathesu sikkhamānan ti pubbabhāgapaṭipadābodhapakkhiyadhammasaṃkhātesu[^453-15] monapathesu sikkhamānaṃ, aṇṇavan ti saṃsārasamuddaṃ[^453-16]. Evaṃ[^453-17] vatvā rājā paccekabuddhaṃ vanditvā "bhante mayhaṃ mātu khamathā" 'ti āha. "Khamāma[^453-18] mahārājā" 'ti. Rājaparisāpi[^453-19] naṃ khamāpesi. Rājā attānaṃ nissāya vasanatthāya paṭiññaṃ yāci. Paccekabuddho pana adatvā sarājikāya parisāya passantiyā va ākāse ṭhatvā rañño ovādaṃ datvā Gandhamādanam eva gato.
 
@@ -5922,7 +6594,8 @@ tuyhaṃ purohitaṭṭhānaṃ dassāmīti" paṭijāni. So rajjaṃ patvāpi p
 
 "Ito sattame divase" ti. Sā kathā sakalanagare pākaṭā ahosi. "Rājā kira musāvādaṃ katvā mahallakaṃ[^456-1] khuddakaṃ karissati[^456-2], ṭhānantaraṃ khuddakassa dāpessati, kīdiso nu kho musāvādo nāma, kiṃ nīlako udāhu pītakādisu aññataro vaṇṇo" ti evaṃ mahājanassa parivitakko udapādi. Tadā kira lokassa saccavādikālo, musāvādo nāma[^456-3] evarūpo ti pi na jānanti. Purohitaputto pi taṃ kathaṃ sutvā pitu[^456-4] kathesi: "tāta rājā kira musāvādaṃ katvā tumhe khuddake katvā amhākam ṭhānantaraṃ mama petteyyassa[^456-5] dassatīti". "Tāta rājā musā vādaṃ katvāpi amhākaṃ ṭhānantaraṃ harituṃ na sakkhissati[^456-6], kataradivasaṃ pana karissatīti". "Ito kira sattame divase" ti. "Tena hi tadā mayhaṃ āroceyyāsīti". Sattame divase mahājano "musāvādaṃ passāmā" 'ti rājaṅgaṇe sannipatitvā mañcātimañce bandhi[^456-7]. Kumāro gantvā pitu ārocesi. Rājā alaṃkatapaṭiyatto nikkhamitvā mahājanamajjhe rājaṅgaṇe ākāse aṭṭhāsi. Tāpaso ākāsenāgantvā[^456-8] rañño purato nisīdanacammaṃ attharitvā ākāse pallaṃkena nisīditvā "saccaṃ kira tvaṃ mahārāja musāvādaṃ katvā khuddakaṃ mahallakaṃ katvā tassa ṭhānantaraṃ dātukāmo sīti[^456-9]". "Āma ācariya evaṃ me katan[^456-10]" ti. Atha naṃ so ovadanto "mahārāja musāvādo nāma bhāriyo guṇaparidhaṃsako, catusu apāyesu nibbattāpeti, rājā nāma musāvādaṃ[^456-11] karonto dhammaṃ hanti[^456-12], so dhammaṃ hanitvā sayam eva haññatīti[^456-13]" vatvā[^456-14] paṭhamaṃ gātham āha:
 
-Ja_VIII,1.6(=422).1: Dhammo have hato[^456-15] hanti, nāhato hanti kañcinaṃ, tasmā hi dhammaṃ na hane[^456-16] mā taṃ[^456-17] dhammo hato hanīti. || Ja_VIII:45 ||
+Ja_VIII,1.6(=422).1: Dhammo have hato[^456-15] hanti, nāhato hanti kañcinaṃ, tasmā hi dhammaṃ na hane[^456-16] mā taṃ[^456-17] dhammo hato hanīti. ||  
+Ja_VIII:45 ||  
 
 
 <!-- PTS Page 457 -->
@@ -5932,11 +6605,13 @@ Ja_VIII,1.6(=422).1: Dhammo have hato[^456-15] hanti, nāhato hanti kañcinaṃ
 
 Tattha dhammo ti jeṭṭhāpacāyanadhammo adhippeto[^457-1]. Atha naṃ uttarim pi ovadanto "sace mahārāja musāvādaṃ karissasi catasso[^457-2] iddhiyo antaradhāyissantīti" vatvā dutiyaṃ gātham āha:
 
-Ja_VIII,1.6(=422).2: Alikaṃ bhāsamānassa apakkamanti devatā, pūtikañ ca mukhaṃ vāti saggaṭṭhānā[^457-3] ca dhaṃsati yo jānaṃ[^457-4] pucchiro pañhaṃ aññathā naṃ viyākare ti. || Ja_VIII:46 ||
+Ja_VIII,1.6(=422).2: Alikaṃ bhāsamānassa apakkamanti devatā, pūtikañ ca mukhaṃ vāti saggaṭṭhānā[^457-3] ca dhaṃsati yo jānaṃ[^457-4] pucchiro pañhaṃ aññathā naṃ viyākare ti. ||  
+Ja_VIII:46 ||  
 
 Tattha apakkamanti devatā ti mahārāja sace alikaṃ bhaṇissasi cattāro devaputtā ārakkhaṃ chaḍḍetvā antaradhāyissantīti adhippāyena vadati, pūtikañca mukhan ti mukhañ ca te kāyo ca ubho pūtigandhaṃ vāyissantīti[^457-5] sandhāyāha, saggaṭṭhānā[^457-6] ca dhaṃsatīti ākāsato bhassitvā paṭhaviṃ pavisissatīti[^457-7] dīpento evam āha. Taṃ sutvā rājā bhīto Korakalambakaṃ olokesi. Atha naṃ so "mā bhāyi mahārāja, nanu mayā paṭhamam eva tumhākaṃ etaṃ kathitan" ti ādim āha. Rājā Kapilassa[^457-8] vacanaṃ sutvā[^457-9] attano katham[^457-10] eva purato karonto "tvaṃ si[^457-11] bhante kaniṭṭho, jeṭṭho Korakalambako[^457-12]" ti āha. Ath'; assa saha musāvādena cattāro devaputtā "tādisassa musāvādino ārakkhaṃ na gaṇhissāmā" 'ti khagge pādamūle chaḍḍetvā antaradhāyiṃsu, mukhaṃ[^457-13] bhinnakukkuṭaṇḍaṃ[^457-14] viya kāyo vivaṭavaccakuṭī viya duggandhaṃ vāyi, ākāsato[^457-15] bhassitvā paṭhaviyaṃ patiṭṭhahīti[^457-16] catasso iddhiyo parihāyiṃsu[^457-17]. Atha naṃ mahāpurohito "mā bhāyi mahārāja, sace saccaṃ bhaṇissasi sabbaṃ te paṭipākatikaṃ[^457-18] karissāmīti" vatvā tatiyaṃ gātham āha:
 
-Ja_VIII,1.6(=422).3: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce[^457-19] bhāsase rāja bhūmiyaṃ tiṭṭha[^457-20] Cetiyā 'ti. || Ja_VIII:47 ||
+Ja_VIII,1.6(=422).3: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce[^457-19] bhāsase rāja bhūmiyaṃ tiṭṭha[^457-20] Cetiyā 'ti. ||  
+Ja_VIII:47 ||  
 
 
 <!-- PTS Page 458 -->
@@ -5946,17 +6621,21 @@ Ja_VIII,1.6(=422).3: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā c
 
 Tattha bhūmiyaṃ tiṭṭhā[^458-1] 'ti bhūmiyaṃ yeva patiṭṭha, puna ākāsaṃ laṃghituṃ na[^458-2] sakkhissasīti attho. So "passa mahārāja, paṭhamaṃ musāvāden'; eva te catasso iddhiyo antarahitā, sallakkhehi[^458-3], idāni pi sakkā patipākatikaṃ[^458-4] kātun" ti vutte[^458-5] pi "evaṃ katvā[^458-6] tumhe maṃ vañcetukāmā" ti dutiyam pi musā[^458-7] bhaṇitvā yāva gopphakā[^458-8] paṭhaviṃ pāvisi. Atha naṃ puna pi brāhmaṇo "sallakkhehi mahārājā[^458-9]" 'ti vatvā[^458-10] catutthaṃ gātham āha:
 
-Ja_VIII,1.6(=422).4: Akāle vassatī[^458-11] tassa kāle tassa na vassati yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare ti. || Ja_VIII:48 ||
+Ja_VIII,1.6(=422).4: Akāle vassatī[^458-11] tassa kāle tassa na vassati yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare ti. ||  
+Ja_VIII:48 ||  
 
 Tattha tassā 'ti yo jānanto pucchitapañhaṃ[^458-12] musāvādaṃ katvā aññathā vyākaroti[^458-13] tassa rañño vijite devo yuttakāle avassitvā akāle vassatīti attho. Atha naṃ puna pi "musāvādaphalena[^458-14] yāva gopphakā[^458-8] pathaviṃ paviṭṭho sallakkhehi mahārājā" 'ti vatvā pañcamaṃ gātham āha:
 
-Ja_VIII,1.6(=422).5: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhūmiṃ[^458-15] pavisa Cetiyā 'ti. || Ja_VIII:49 ||
+Ja_VIII,1.6(=422).5: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhūmiṃ[^458-15] pavisa Cetiyā 'ti. ||  
+Ja_VIII:49 ||  
 
 So tatiyam pi "tvaṃ si bhante[^458-16] kaniṭṭho, jeṭṭho Korakalambako" ti musāvādam eva katvā yāva jaṇṇukā[^458-17] paṭhaviṃ pāvisi. Atha naṃ "puna pi sallakkhehi mahārājā" 'ti
 
-Ja_VIII,1.6(=422).6: Jivhā tassa dvidhā[^458-18] hoti uragasseva disampati yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. || Ja_VIII:50 ||
+Ja_VIII,1.6(=422).6: Jivhā tassa dvidhā[^458-18] hoti uragasseva disampati yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. ||  
+Ja_VIII:50 ||  
 
-Ja_VIII,1.6(=422).7: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhiyyo pavisa Cetiyā 'ti || Ja_VIII:51 ||
+Ja_VIII,1.6(=422).7: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhiyyo pavisa Cetiyā 'ti ||  
+Ja_VIII:51 ||  
 
 imā dve gāthā vatvā "idāni pi sakkā paṭipākatikaṃ[^458-19] kātun" ti āha. Rājā tassa vacanaṃ[^458-20] anādiyanto "tvaṃ si[^458-21] bhante kaniṭṭho, jeṭṭho Korakalambako" ti catuttham pi musāvādaṃ
 
@@ -5968,21 +6647,27 @@ imā dve gāthā vatvā "idāni pi sakkā paṭipākatikaṃ[^458-19] kātun" ti
 
 katvā yāva kaṭito paṭhaviṃ pāvisi. Atha naṃ brāhmaṇo "sallakkhehi mahārāja" 'ti vatvā puna dve gāthā abhāsi:
 
-Ja_VIII,1.6(=422).8: Jivhā tassa na bhavati macchasseva disampati yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. || Ja_VIII:52 ||
+Ja_VIII,1.6(=422).8: Jivhā tassa na bhavati macchasseva disampati yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. ||  
+Ja_VIII:52 ||  
 
-Ja_VIII,1.6(=422).9: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhiyyo pavisa Cetiyā 'ti. || Ja_VIII:53 ||
+Ja_VIII,1.6(=422).9: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhiyyo pavisa Cetiyā 'ti. ||  
+Ja_VIII:53 ||  
 
 Tattha macchassevā 'ti nibbattanibbattaṭṭhāne musāvādino macchassa viya kathanasamatthā jivhā na hoti, mūgo va hotīti attho[^459-1]. So pañcamam pi[^459-2] "tvaṃ si[^459-3] bhante kaniṭṭho, jeṭṭho Korakalambako[^459-4]" ti musāvādaṃ katvā yāva nābhito paṭhaviṃ pāvisi. Atha naṃ brāhmaṇo "puna pi sallakkhehi mahārājā" 'ti vatvā dve gāthā abhāsi:
 
-Ja_VIII,1.6(=422).10: Thiyo tassa pajāyanti na pumā jāyare kule yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. || Ja_VIII:54 ||
+Ja_VIII,1.6(=422).10: Thiyo tassa pajāyanti na pumā jāyare kule yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. ||  
+Ja_VIII:54 ||  
 
-Ja_VIII,1.6(=422).11: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhiyyo pavisa Cetiyā 'ti. || Ja_VIII:55 ||
+Ja_VIII,1.6(=422).11: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhiyyo pavisa Cetiyā 'ti. ||  
+Ja_VIII:55 ||  
 
 Tatthā thiyo ti nibbattanibbattaṭṭhāne musāvādissa dhītaro va[^459-5] jāyanti, puttā na jāyantīti attho. Rājā[^459-6] anādiyitvā chaṭṭham[^459-7] pi tath'; eva musā bhaṇitvā yāva thanā paṭhaviṃ pāvisi. Puna[^459-8] pi brāhmaṇo "sallakkhehi mahārājā" 'ti vatvā dve gāthā abhāsi:
 
-Ja_VIII,1.6(=422).12: Puttā tassa na bhavanti pakkamanti disodisaṃ yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. || Ja_VIII:56 ||
+Ja_VIII,1.6(=422).12: Puttā tassa na bhavanti pakkamanti disodisaṃ yo jānaṃ pucchito pañhaṃ aññathā naṃ viyākare. ||  
+Ja_VIII:56 ||  
 
-Ja_VIII,1.6(=422).13: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhiyyo pavisa Cetiyā 'ti. || Ja_VIII:57 ||
+Ja_VIII,1.6(=422).13: Sace hi saccaṃ bhaṇasi hohi rāja yathā pure, musā ce bhāsase rāja bhiyyo pavisa Cetiyā 'ti. ||  
+Ja_VIII:57 ||  
 
 Tattha pakkamantīti sace[^459-9] musāvādissa puttā honti mātāpitunnaṃ anupakārā hutvā palāyantīti attho. So pāpamittasaṃsaggadosena tassa vacanaṃ anādiyitvā sattamam pi tath'; eva[^459-10] akāsi, ath'; assa paṭhavī vivaraṃ adāsi, Avīcito jālā uṭṭhahitvā gaṇhi.
 
@@ -5992,9 +6677,11 @@ Tattha pakkamantīti sace[^459-9] musāvādissa puttā honti mātāpitunnaṃ an
 
 ##### *[PTS Page 460]*
 
-Ja_VIII,1.6(=422).14: Sa rājā isinā satto[^460-1] antalikkhecaro pure pāvekkhi paṭhaviṃ c'; eso[^460-2] hīnatto[^460-3] {patvā} pariyāyaṃ. || Ja_VIII:58 ||
+Ja_VIII,1.6(=422).14: Sa rājā isinā satto[^460-1] antalikkhecaro pure pāvekkhi paṭhaviṃ c'; eso[^460-2] hīnatto[^460-3] {patvā} pariyāyaṃ. ||  
+Ja_VIII:58 ||  
 
-Ja_VIII,1.6(=422).15: Tasmā hi chandāgamanaṃ na-ppasaṃsanti paṇḍitā, (= vol.II 172|20.) aduṭṭhacitto bhāseyya giraṃ saccūpasaṃhitan ti || Ja_VIII:59 ||
+Ja_VIII,1.6(=422).15: Tasmā hi chandāgamanaṃ na-ppasaṃsanti paṇḍitā, (= vol.II 172|20.) aduṭṭhacitto bhāseyya giraṃ saccūpasaṃhitan ti ||  
+Ja_VIII:59 ||  
 
 imā dve abhisambuddhagathā honti. Tattha sa rājā ti bhikkhave so rājā Cetiyo pubbe antalikkhe caro hutvā pacchā isinā abhisatto[^460-4] parihīnabhāvo hutvā {patvā} pariyāyaṃ[^460-5] attano kālapariyāyaṃ patvā paṭhaviṃ pāvisīti attho, tasmā ti yasmā Cetiyarājā chandāgamanena Avīci-parāyano jāto tasmā aduṭṭhacitto ti chandādīhi adūsitacitto hutvā saccam eva bhāseyyā 'ti Mahājano "Cetiyarājā isiṃ akkositvā musāvādaṃ katvā Avīciṃ paviṭṭho" ti bhayappatto ahosi. Rañño pañca puttā āgantvā[^460-6] "amhākaṃ avassayo hohīti" vadiṃsu. Brāhmaṇo "tāta, tumhākaṃ pitā dhammaṃ nāsetvā musāvādaṃ katvā isiṃ akkositvā Avīci-paṭipanno[^460-7], dhammo nām'; esa hato hanati[^460-8], tumhehi na sakkā idha vasitun" ti vatvā[^460-9] sabbajeṭṭhaṃ[^460-10] "ehi tvaṃ tāta, pācīnadvārena nikkhamitvā ujukaṃ gacchanto sabbasetaṃ sattappatiṭṭhitaṃ hatthiratanaṃ passissasi[^460-11], tāya saññāya tattha nagaraṃ māpetvā vasa, taṃ nagaraṃ Hatthipuraṃ nāma bhavissatīti" āha. Dutiyaṃ āmantetvā "tvaṃ tāta dakkhiṇadvārena nikkhamitvā ujukam eva[^460-12] gacchanto sabbasetaṃ assaratanaṃ passissasi, tāya saññāya tattha nagaraṃ māpetvā vasa, taṃ nagaram Assapuraṃ nāma bhavissatīti" āha. Tatiyaṃ āmantetvā "tvaṃ tāta pacchimadvārena nikkhamitvā ujukaṃ[^460-13] gacchanto kesarasīhaṃ passissasi, tāya saññāya tattha nagaraṃ māpetvā vasa, taṃ nagaraṃ Sīhapuraṃ nāma bhavissatīti" āha. Catutthaṃ āmantetvā "tvaṃ tāta uttaradvārena nikkhamitvā ujukaṃ yeva[^460-14] gacchanto sabbaratanamayaṃ cakkapañjaraṃ[^460-15] passissasi, tāya saññāya
 
@@ -6032,11 +6719,13 @@ Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto tassa purohita
 
 parisussanto kilesavasaṃ gantvā sattāhaṃ[^464-1] nipajji. Ath'; assa bhātā Kāḷadevalo āvajjanto[^464-2] taṃ kāraṇaṃ ñatvā ākāsenāgantvā leṇaṃ[^464-3] pāvisi. Nārado taṃ disvā "kasmā bhavaṃ āgato[^464-4]" 'ti. "Bhavaṃ akallako ti bhavantaṃ paṭijaggituṃ āgato 'mhīti". Atha naṃ so "avatthukaṃ[^464-5] bhavaṃ kathesi, alikaṃ tucchakaṃ[^464-6] kathesīti[^464-7]" musāvādena niggaṇhi. So "na taṃ pahātuṃ vaṭṭatīti" Sālissaraṃ ānesi Meṇḍissaraṃ ānesi Pabbatissaraṃ[^464-8] ānesi. Itaro pi te tayo musāvādena niggaṇhi. Kāḷadevalo "Sarabhaṅgasatthāraṃ ānessāmīti" ākāsena[^464-9] gantvā taṃ ānesi. So {āgantvā}[^464-10] taṃ disvā "indriyavasaṃ gato" ti ñatvā "kacci si[^464-11] Nārada indriyānaṃ vasaṃ gato" ti pucchitvā itarena kathaṃ[^464-12] sutvā va uṭṭhāya vanditvā "āma ācariyā" 'ti vutte "Nārada indriyavasaṃ gatā nāma imasmiṃ attabhāve sussantā[^464-13] dukkhaṃ anubhavitvā dutiyattabhāve[^464-14] niraye nibbattantīti" vatvā paṭhamaṃ gātham āha:
 
-Ja_VIII,1.7(=423).1: Yo indriyānaṃ kāmena vasaṃ Nārada gacchati so pariccajj'; ubho loke jīvar eva visussatīti[^464-15]. || Ja_VIII:60 ||
+Ja_VIII,1.7(=423).1: Yo indriyānaṃ kāmena vasaṃ Nārada gacchati so pariccajj'; ubho loke jīvar eva visussatīti[^464-15]. ||  
+Ja_VIII:60 ||  
 
 Tattha yo indriyānan ti Nārada yo puriso rūpādīsu subhākāraṃ gahetvā kilesakāmavasena channaṃ indriyānaṃ vasaṃ gacchati, pariccajjubho loke[^464-16] ti so puriso[^464-17] manussalokañ ca devalokañ cā 'ti ubho loke pariccajitvā nirayādīsu nibbattatīti, jīvareva visussatīti[^464-18] jīvanto yeva ca attanā icchitaṃ kilesavatthuṃ alabhanto sokena visussati mahādukkhaṃ pāpuṇātīti. Taṃ sutvā Nārado "ācariya kāmasevanaṃ nāma sukhaṃ, evarūpaṃ sukhaṃ[^464-19] kiṃ sandhāya[^464-20] dukkhan ti vadasīti" pucchi. Ath'; assa Sarabhaṅgo "tena hi suṇāhīti" dutiyaṃ gātham āha:
 
-Ja_VIII,1.7(=423).2: Sukhassānantaraṃ dukkhaṃ dukkhassānantaraṃ sukhaṃ, sopi patto[^464-21] sukhā dukkhaṃ[^464-22] paṭikaṃkha[^464-23] varaṃ sukhanti. || Ja_VIII:61 ||
+Ja_VIII,1.7(=423).2: Sukhassānantaraṃ dukkhaṃ dukkhassānantaraṃ sukhaṃ, sopi patto[^464-21] sukhā dukkhaṃ[^464-22] paṭikaṃkha[^464-23] varaṃ sukhanti. ||  
+Ja_VIII:61 ||  
 
 
 <!-- PTS Page 465 -->
@@ -6046,7 +6735,8 @@ Ja_VIII,1.7(=423).2: Sukhassānantaraṃ dukkhaṃ dukkhassānantaraṃ sukha�
 
 Tattha sukhassānantaran ti kāmasukhassa anantaraṃ nirayadukkhaṃ, dukkhassā 'ti sīlarakkhaṇadukkhassa anantaraṃ dibbamānusakaṃ[^465-1] sukhañ c' eva nibbānasukhañ ca, idaṃ vuttaṃ hoti: Nārada ime hi sattā kāmasevanasamaye kālaṃ katvā ekantadukkhe niraye nibbattanti, sīlaṃ rakkhantā vipassanāya kammaṃ karontā ca[^465-2] pana kilamanti[^465-3], te[^465-4] dukkhena sīlaṃ rakkhitvā sīlabalena vuttappakāraṃ sukhaṃ paṭilabhanti[^465-5], idaṃ[^465-6] sandhāyāhaṃ evaṃ[^465-7] vadāmīti, so pi patto[^465-8] ti[^465-9] tvaṃ Nārada idāni jhānasukhaṃ nāsetvā tato sukhā[^465-10] mahantaṃ kāmanissitaṃ cetasikadukkhaṃ patto, paṭikaṃkhā 'ti idaṃ kilesadukkhaṃ chaḍḍetvā puna tad eva varaṃ uttamaṃ jhānasukhaṃ iccha patthehi. Nārado "idaṃ ācariya dukkhaṃ dussahaṃ, na[^465-11] taṃ adhivāsetuṃ sakkomīti" āha. Atha naṃ Mahāsatto "Nārada dukkhaṃ nāma uppannaṃ adhivāsetabbam evā" 'ti vatvā tatiyaṃ gātham āha:
 
-Ja_VIII,1.7(=423).3: Kicchakāle[^465-12] kicchasaho yo kicchaṃ[^465-13] nātivattati[^465-14] sa kicchantaṃ sukhaṃ dhīro yogaṃ samadhigacchatīti. || Ja_VIII:62 ||
+Ja_VIII,1.7(=423).3: Kicchakāle[^465-12] kicchasaho yo kicchaṃ[^465-13] nātivattati[^465-14] sa kicchantaṃ sukhaṃ dhīro yogaṃ samadhigacchatīti. ||  
+Ja_VIII:62 ||  
 
 Tattha nātivattatīti na anuvattati[^465-15], ayam eva vā pāṭho, idaṃ {vuttaṃ} hoti: Nārada yo kāyikacetasikadukkhasaṃkhātassa kicchassa uppannakāle appamatto tassa kicchassa haraṇūpāyaṃ karonto kicchasaho hutvā taṃ kicchaṃ nānuvattati tassa vase[^465-16] avattitvā tehi tehi[^465-17] upāyehi taṃ kicchaṃ abhibhavati vināseti[^465-18] sa[^465-19] dhīro kicchassa[^465-20] antimasaṃkhātaṃ nirāmisaṃ sukhaṃ jhānasukhaṃ[^465-21] adhigacchati[^465-22] taṃ vā kicchantaṃ[^465-23] yogasukhaṃ adhigacchati[^465-24] akilamanto va[^465-25] pāpuṇātīti. So "ācariya kāmasukhaṃ nāma uttamasukhaṃ, na taṃ[^465-26] jahituṃ sakkomīti" āha. Atha naṃ Mahāsatto[^465-27] "dhammo nāma na kenaci kāraṇena nāsetabbo[^465-28]" 'ti vatvā catutthaṃ gātham āha:
 
@@ -6056,15 +6746,18 @@ Tattha nātivattatīti na anuvattati[^465-15], ayam eva vā pāṭho, idaṃ {vu
 
 ##### *[PTS Page 466]*
 
-Ja_VIII,1.7(=423).4: Na h'; eva kāmāna[^466-1] kāmā nānatthā n'; atthakāraṇā na katañ ca nikatvāna[^466-2] dhammā cavitum arahasīti. || Ja_VIII:63 ||
+Ja_VIII,1.7(=423).4: Na h'; eva kāmāna[^466-1] kāmā nānatthā n'; atthakāraṇā na katañ ca nikatvāna[^466-2] dhammā cavitum arahasīti. ||  
+Ja_VIII:63 ||  
 
 Tattha kāmāna[^466-1] kāmā ti kāmānaṃ kāmā[^466-3], vatthukāmapatthanāyā[^466-4] 'ti attho, nānatthā natthakāraṇā ti na anatthato na atthakāraṇā[^466-5], na katañca nikatvānā[^466-2] 'ti na katañca nipphāditaṃ[^466-6] nikatvāna[^466-7], idaṃ vuttaṃ hoti: Nārada na h'; eva[^466-8] vatthukāmapatthanāya[^466-9] dhammā[^466-10] cavitum arahasi, ekasmiṃ anatthe uppanne taṃ paṭihanitukāmo nānatthā[^466-11] na atthena[^466-12] pi kāraṇena[^466-13] bhūtena dhammā cavitum arahasi, asuko nāma me attho uppajjissatīti evaṃ[^466-14] atthakāraṇāpi na dhammā cavitum arahasi, kataṃ pana[^466-15] nipphāditaṃ[^466-16] jhānasukhaṃ niraṃkatvā vināsetvā n'; eva dhammā cavitum arahasīti. Evaṃ Sarabhāgena catūhi gāthāhi dhamme desite Kāḷadevalo attano kaniṭṭhaṃ ovadanto pañcamaṃ gātham āha:
 
-Ja_VIII,1.7(=423).5: Dukkhaṃ gahapataṃ[^466-17] sādhu, saṃvibhajjañ ca bhojanaṃ, ahāso atthalābhesu, atthavyāpatti[^466-18] avyatho ti. || Ja_VIII:64 ||
+Ja_VIII,1.7(=423).5: Dukkhaṃ gahapataṃ[^466-17] sādhu, saṃvibhajjañ ca bhojanaṃ, ahāso atthalābhesu, atthavyāpatti[^466-18] avyatho ti. ||  
+Ja_VIII:64 ||  
 
 Tattha dukkhaṃ gahapatan ti Nārada[^466-19] gharāvāsaṃ vasantānaṃ gahapatīnaṃ bhoguppādanatthāya anālasyachekakusalabhāvasaṃkhātaṃ dukkhaṃ nāma sādhu dakkhabhāvo laṭṭhako[^466-20], saṃvibhajjañca bhojanan ti dukkhena uppāditabhogānaṃ dhammikasamaṇabrāhmaṇehi[^466-21] saṃvibhajitvā paribhogakāraṇaṃ dutiyaṃ sādhu, ahāso ti atthalābhe mahante issariye uppanne pamādavasena ahāso anubbillāvitattaṃ[^466-22] tatiyaṃ sādhu, atthavyāpattīti[^466-23] yadā pana attano atthavyāpatti[^466-24] yasavināso hoti tadā avyatho akilamanaṃ catutthaṃ sādhu, tasmā tvaṃ Nārada jhānaṃ me antarahitan ti mā soci, sace indriyānaṃ vasaṃ na gamissasi naṭṭham pi te jhānaṃ puna pākatikam eva bhavissatīti. Taṃ pana[^466-25] Devalena[^466-26] Nāradassa ovaditabhāvaṃ ñatvā Satthā abhisambuddho hutvā chaṭṭhaṃ gātham āha:
 
-Ja_VIII,1.7(=423).6: Ettāvatā te paṇḍiccaṃ Asito[^466-27] Devalo bravī, na-y-ito[^466-28] kiñcana[^466-29] pāpiyo yo[^466-30] indriyānaṃ vasaṃ vaje ti. || Ja_VIII:65 ||
+Ja_VIII,1.7(=423).6: Ettāvatā te paṇḍiccaṃ Asito[^466-27] Devalo bravī, na-y-ito[^466-28] kiñcana[^466-29] pāpiyo yo[^466-30] indriyānaṃ vasaṃ vaje ti. ||  
+Ja_VIII:65 ||  
 
 
 <!-- PTS Page 467 -->
@@ -6082,11 +6775,14 @@ Tass'; attho: bhikkhave, ettakaṃ etaṃ paṇḍiccaṃ yaṃ Devalo abravi, y
 
 "Migamaṃsaṃ khādanatthāyā" 'ti. Ath'; assa so "aham pi mahārāja iminā va kāraṇenāgantvā[^468-1] manussapeto jāto" ti sabbaṃ vitthārena kathetvā attano dukkhitabhāvaṃ rañño ācikkhanto sesagāthā āha:
 
-Ja_VIII,1.7(=423).7: Amittānaṃ va hatthatthaṃ[^468-2] Siva[^468-3] pappoti mām iva[^468-4], kammaṃ vijjañ ca dakkheyyaṃ vivāhaṃ sīlamaddavaṃ ete ca yase hāpetvā nibbatto sehi kammehi. || Ja_VIII:66 ||
+Ja_VIII,1.7(=423).7: Amittānaṃ va hatthatthaṃ[^468-2] Siva[^468-3] pappoti mām iva[^468-4], kammaṃ vijjañ ca dakkheyyaṃ vivāhaṃ sīlamaddavaṃ ete ca yase hāpetvā nibbatto sehi kammehi. ||  
+Ja_VIII:66 ||  
 
-Ja_VIII,1.7(=423).8: So 'haṃ sahassajīno[^468-5] va abandhu aparāyano ariyadhammā apakkanto yathā peto tath'; ev'; ahaṃ[^468-6]. || Ja_VIII:67 ||
+Ja_VIII,1.7(=423).8: So 'haṃ sahassajīno[^468-5] va abandhu aparāyano ariyadhammā apakkanto yathā peto tath'; ev'; ahaṃ[^468-6]. ||  
+Ja_VIII:67 ||  
 
-Ja_VIII,1.7(=423).9: Sukhakāme dukkhāpetvā[^468-7] āpanno 'smi padaṃ imaṃ, so sukhaṃ nādhigacchāmi cito[^468-8] bhānumatā-m-ivā 'ti. || Ja_VIII:68 ||
+Ja_VIII,1.7(=423).9: Sukhakāme dukkhāpetvā[^468-7] āpanno 'smi padaṃ imaṃ, so sukhaṃ nādhigacchāmi cito[^468-8] bhānumatā-m-ivā 'ti. ||  
+Ja_VIII:68 ||  
 
 Tattha amittānaṃ va hatthatthan ti amittānaṃ hatthahatthaṃ[^468-9] vināsaṃ viya, Sivā[^468-10] 'ti rājānaṃ ālapati, pappoti māmivā[^468-11] 'ti mādiso pāpakamme[^468-12] pāpuṇāti, attano va[^468-13] kammena vināsaṃ pāpuṇātīti[^468-14] vuttaṃ hoti, kamman ti kasikammādibhedaṃ ājīvasādhakakiccaṃ[^468-15], vijjan ti nānappakārakaṃ[^468-16] hatthisippādikaṃ sippaṃ, dakkheyyan ti nānappakārena bhoguppādanakosallaṃ, vivāhan ti āvāhavivāhasampannaṃ[^468-17] bandhaṃ, sīlamaddavan ti pañcavidhasīlañ c'; eva muduvacanaṃ hitakāmaṃ pāpanivāraṇaṃ kalyāṇamittatañ[^468-18] ca, so hi idha maddavo ti adhippeto, ete ca yase hāpetvā ti ete ettake yasadāyakadhamme[^468-19] hāpetvā va[^468-13], nibbatto sehi kammehīti attano kammehi nibbatto[^468-20], idaṃ vuttaṃ hoti: ahaṃ mahārāja imasmiṃ loke[^468-21] issariyadāyakaṃ kattabbayuttakaṃ kammaṃ[^468-22] akatvā sippaṃ asikkhitvā upāyena bhoge anuppādetvā āvāhavivāhaṃ akatvā sīlaṃ arakkhitvā maṃ akiccaṃ karontaṃ[^468-23] nivāraṇasamatthe[^468-24] kalyāṇamitte abhajitvā ime ettake yasakārakattā[^468-25] yase ti saṃkhaṃ gate lokapavattidhamme avahāpetvā[^468-26] chaḍḍetvā imaṃ araññaṃ pavisitvā[^468-27] sayaṃkatehi pāpakammehi idāni manussapeto hutvā nibbatto 'smīti, sahassajīno vā 'ti[^468-28] sahassajitapuriso[^468-29] viyā 'ti attho, yv-āyaṃ[^468-30] sammā paṭipajjitvā bhoge uppādeyyaṃ[^468-31] tehi anekasahassehi bhogehi jīno[^468-32] ti pi attho, aparāyano ti asaraṇo nippatiṭṭho[^468-33], ariyadhammā ti sappurisadhammato,
 
@@ -6116,9 +6812,11 @@ va khettaṃ[^470-1] ñatvā Buddha-pamukhassa ariyasaṃghassa mahādānaṃ[^4
 
 madisaṃ namassi, tato pi nāgatā. Catutthadivase uttaradisaṃ namassi, namassitvā ca pana "Uttarahimavanta-padesavāsino paccekabuddhā[^471-1] amhākaṃ bhikkhaṃ gaṇhantū" 'ti sattapupphamuṭṭhiyo vissajjesi, pupphāni gantvā Nandamūlakapabbhāre[^471-2] pañcannaṃ paccekabuddhasatānaṃ[^471-3] upari patiṃsu, te āvajjamānā raññā attano nimantitabhāvam ñatvā punadivase satta[^471-4] paccekabuddhe āmantetvā "mārisā rājā vo[^471-5] nimanteti, tassa saṃgahaṃ karothā" 'ti vadiṃsu. Paccekabuddhā[^471-6] ākāsenāgantvā[^471-7] rājadvāre[^471-8] {otariṃsu}. Te disvā rājā somanassajāto vanditvā pāsādaṃ āropetvā mahantaṃ sakkāraṃ katvā dānaṃ datvā bhattakiccapariyosāne punadivasatthāya[^471-9] punadivasatthāyā ti evaṃ pañcamadivase[^471-10] nimantetvā chāhaṃ bhuttānaṃ[^471-11] sattamadivase sabbaparikkhāradānaṃ sajjetvā suvaṇṇakhacitāni[^471-12] mañcapīṭhāni paññāpetvā ticīvarādike sabbe[^471-13] samaṇaparibhoge sattannaṃ paccekabuddhānaṃ santike ṭhapetvā[^471-14] "ime parikkhāre[^471-15] tumhākaṃ demā" 'ti vanditvā[^471-16] tesaṃ bhattakiccapariyosāne rājā ca devī ca ubho pi vanditvā[^471-17] namassamānā aṭṭhaṃsu. Atha nesaṃ anumodanaṃ karonto saṃghatthero dve gāthā abhāsi:
 
-Ja_VIII,1.8(=424).1: Ādittasmiṃ agārasmiṃ yaṃ nīharati bhājanaṃ[^471-18] (cfr. Saṃyutta p.31) taṃ tassa hoti atthāya no ca yaṃ tattha ḍayhati. || Ja_VIII:69 ||
+Ja_VIII,1.8(=424).1: Ādittasmiṃ agārasmiṃ yaṃ nīharati bhājanaṃ[^471-18] (cfr. Saṃyutta p.31) taṃ tassa hoti atthāya no ca yaṃ tattha ḍayhati. ||  
+Ja_VIII:69 ||  
 
-Ja_VIII,1.8(=424).2: Evaṃ ādīpito[^471-19] loko[^471-20] jarāya maraṇena ca, nīhareth'; eva[^471-21] dānena, dinnaṃ hi[^471-22] hoti nībhatan[^471-23] ti. || Ja_VIII:70 ||
+Ja_VIII,1.8(=424).2: Evaṃ ādīpito[^471-19] loko[^471-20] jarāya maraṇena ca, nīhareth'; eva[^471-21] dānena, dinnaṃ hi[^471-22] hoti nībhatan[^471-23] ti. ||  
+Ja_VIII:70 ||  
 
 Tattha ādittasmin ti taṃkhaṇe pajjalite, bhājanan ti yaṃ kiñc'; ūpakaraṇaṃ, no ca yaṃ tatthā 'ti yaṃ pana tattha ḍayhati antamaso ratanasantharo[^471-24] pi sabbaṃ tassa anupakāram[^471-25] eva hoti, jarāya maraṇena cā 'ti desanāsīsam etaṃ, atthato pan'; esa ekādasahi aggīhi ādīpito nāma, nī-
 
@@ -6130,13 +6828,18 @@ Tattha ādittasmin ti taṃkhaṇe pajjalite, bhājanan ti yaṃ kiñc'; ūpakar
 
 harethevā[^472-1] 'ti tato ekādasahi aggīhi pajjalitā lokā[^472-2] dasavidhadānavatthubhedaṃ taṃ taṃ parikkhāraṃ[^472-3] dānacetanāya nikkaḍḍheth'; eva[^472-4], dinnaṃ hīti[^472-5] appaṃ vā hi[^472-6] bahuṃ vā yaṃ dinnaṃ tad eva nībhataṃ[^472-7] nāma hotīti[^472-8]. Evaṃ saṃghatthero anumodanaṃ katvā "appamatto hohi mahārājā" 'ti rañño ovādaṃ datvā ākāse uppatitvā pāsādakaṇṇikaṃ dvidhā katvā gantvā[^472-9] Nandāmūlakappabbhāre[^472-10] yeva otari[^472-11], tassa dinnaparikkhāro[^472-12] pi ten'; eva[^472-13] saddhiṃ uppatitvā pabbhāre[^472-14] yeva otari, rañño ca deviyā ca sakalasarīraṃ pītiyā puṇṇaṃ ahosi. Evaṃ tasmiṃ gate avasesāpi[^472-15]
 
-Ja_VIII,1.8(=424).3: Yo dhammaladdhassa dadāti dānaṃ (cfr. Saṃyutta p. 20-22) uṭṭhānaviriyādhigatassa jantu (no) atikkamma so Vetaraṇiṃ Yamassa dibbāni ṭhānāni upeti[^472-16] macco. || Ja_VIII:71 ||
+Ja_VIII,1.8(=424).3: Yo dhammaladdhassa dadāti dānaṃ (cfr. Saṃyutta p. 20-22) uṭṭhānaviriyādhigatassa jantu (no) atikkamma so Vetaraṇiṃ Yamassa dibbāni ṭhānāni upeti[^472-16] macco. ||  
+Ja_VIII:71 ||  
 
-Ja_VIII,1.8(=424).4: Dānañ ca yuddhañ ca samānam āhu: appāpi santā bahuke jinanti, appam pi ce saddahāno[^472-17] dadāti ten'; eva so hoti sukhī parattha. || Ja_VIII:72 || Ja_VIII,1.8(=424).5: Viceyya dānaṃ Sugata-ppasatthaṃ, ye dakkhiṇeyyā idha jīvaloke etesu dinnāni mahapphalāni bījāni vuttāni yathā sukhette. || Ja_VIII:73 ||
+Ja_VIII,1.8(=424).4: Dānañ ca yuddhañ ca samānam āhu: appāpi santā bahuke jinanti, appam pi ce saddahāno[^472-17] dadāti ten'; eva so hoti sukhī parattha. || Ja_VIII:72 ||  
+Ja_VIII,1.8(=424).5: Viceyya dānaṃ Sugata-ppasatthaṃ, ye dakkhiṇeyyā idha jīvaloke etesu dinnāni mahapphalāni bījāni vuttāni yathā sukhette. ||  
+Ja_VIII:73 ||  
 
-Ja_VIII,1.8(=424).6: Yo pāṇabhūtāni aheṭhayañ caraṃ parūpavādā na karoti pāpaṃ bhīruṃ[^472-18] pasaṃsanti, na hi[^472-19] tattha sūraṃ, bhayā hi santo na karoti pāpaṃ. || Ja_VIII:74 ||
+Ja_VIII,1.8(=424).6: Yo pāṇabhūtāni aheṭhayañ caraṃ parūpavādā na karoti pāpaṃ bhīruṃ[^472-18] pasaṃsanti, na hi[^472-19] tattha sūraṃ, bhayā hi santo na karoti pāpaṃ. ||  
+Ja_VIII:74 ||  
 
-Ja_VIII,1.8(=424).7: Hīnena brahmacariyena khattiye upapajjati majjhimena ca devattaṃ, uttamena visujjhati. || Ja_VIII:75 ||
+Ja_VIII,1.8(=424).7: Hīnena brahmacariyena khattiye upapajjati majjhimena ca devattaṃ, uttamena visujjhati. ||  
+Ja_VIII:75 ||  
 
 Ja_VIII,1.8(=424).8: Addhā hi dānaṃ bahudhā pasatthaṃ dānā ca kho dhammapadaṃ va seyyo,
 
@@ -6146,7 +6849,8 @@ Ja_VIII,1.8(=424).8: Addhā hi dānaṃ bahudhā pasatthaṃ dānā ca kho dham
 
 ##### *[PTS Page 473]*
 
-pubbe va hi pubbatar'; eva[^473-1] santo nibbānam ev'; ajjhagamū sapaññā ti || Ja_VIII:76 ||
+pubbe va hi pubbatar'; eva[^473-1] santo nibbānam ev'; ajjhagamū sapaññā ti ||  
+Ja_VIII:76 ||  
 
 evam ekekāya gāthāya anumodanam katvā tath'; eva agamaṃsu[^473-2] saddhiṃ parikkhārehi. Tattha dhammaladdhassā 'ti khīṇāsavaṃ ādiṃ katvā yāva vipassakayogāvacaro puggalo dhammassa laddhattā dhammaladdho nāma, sv-eva[^473-3] uṭṭhānaviriyena[^473-4] tassa dhammassa adhigatattā uṭṭhānaviriyādhigato[^473-5] nāma, tassa puggalassa yo jantu dadāti dānan ti attho, dhammena[^473-6] laddhassa uṭṭhānasaṃkhātena viriyenādhigatassa deyyadhammassa aggaṃ gahetvā yo jantu sīlavantesu dānaṃ dadātīti pi[^473-7] attho, upayogatthe vā sāmivacanaṃ katvāp'; ettha attho veditabbo, Veteraṇīti[^473-8] desanāsīsam etaṃ, aṭṭha mahāniraye soḷasa ca ussade atikkamitvā ti attho, dibbāni ṭhānāṇi upetīti devaloke uppajjati, samānamāhū 'ti sadisaṃ vadanti, khayabhīrukassa[^473-9] hi dānaṃ n'; atthi bhayabhīrukassa yuddhaṃ[^473-10] n'; atthi, jīvite ālayaṃ vijahitvā yujjhanto yujjhituṃ[^473-11] sakkoti, bhogesu ālayaṃ vijahitvā va dāyako dātuṃ sakkoti, ten'; eva taṃ ubhayaṃ samānan ti vadanti, appāpi santā ti thokāpi samānā pariccattajīvitā bahuke jinanti, evam evaṃ appāpi muñcanacetanā bahum pi maccheracittaṃ lobhādiṃ vā[^473-12] kilesagahanaṃ jināti[^473-13], appampi ce ti thokam pi ce deyyadhammaṃ kammañ ca phalañ ca saddahanto deti, teneva so ti tena parittadeyyadhammavatthukena parittakena pi cāgena parattha[^473-14] sukhī hoti mahārājā 'ti, viceyya dānan ti dakkhiṇañ ca[^473-15] dakkhiṇeyyañ ca[^473-16] vicinitvā[^473-17] dinnadānaṃ, tattha yaṃ vā taṃ vā adatvā aggaggaṃ[^473-18] paṇītaṃ deyyadhammaṃ vicinitvā dento[^473-19] dakkhiṇaṃ vicināti nāma, yesaṃ vā[^473-20] tesaṃ vā adatvā sīlādiguṇasampanne[^473-21] vicinitvā tesaṃ dadanto dakkhiṇeyye[^473-22] vicināti nāma, Sugatappasatthan ti evarūpaṃ dānaṃ Buddhehi[^473-23] pasatthaṃ, tattha dakkhiṇeyyavicinanaṃ[^473-24] dassetuṃ ye dakkhiṇeyyā ti ādi vuttaṃ, tattha dakkhiṇeyyā ti dakkhiṇāya[^473-25] anucchavikā Buddhādayo, pāṇabhūtānīti pāṇasaṃkhātāni bhūtāni aheṭhayanto[^473-26] kāruññena aviheṭhento caramāno, parūpavādā ti parūpavādabhayena pāpaṃ na karoti, bhīrun ti upavādā bhīrukaṃ[^473-27], na hi tattha sūran ti yo pana ayonisomanasikārena tasmiṃ upavāde sūro hoti taṃ paṇḍitā na-ppasaṃsanti, bhayā hīti upavādabhayena hi paṇḍitā pāpaṃ na karonti, hīnena brahmacariyenā 'ti bāhiratitthāyatane tāva methunavirati-
 
@@ -6184,23 +6888,31 @@ puna yāci. Nagarasobhanā[^476-1] dāsiyo āṇāpesi: "etassa idha ṭhatvā m
 
 gatakāle yeva yaṃ[^477-1] mama ghare dhanaṃ atthi sabbaṃ dassāmīti" āha. So tassā vacanaṃ sutvā "bhadde idāni tayā saddhiṃ gantuṃ na sakkā, yadā pana imasmiṃ loke yaṃ[^477-2] na bhavitabbaṃ taṃ bhavissati api nāma tadā gaccheyyan" ti vatvā paṭhamaṃ gātham āha:
 
-Ja_VIII,1.9(=425).1: Gaṅgā kumudinī santā[^477-3] saṃkhavāṇṇā ca[^477-4] kokilā jambu tālāphalaṃ dajjā[^477-5] atha nūna tadā siyā ti. || Ja_VIII:77 ||
+Ja_VIII,1.9(=425).1: Gaṅgā kumudinī santā[^477-3] saṃkhavāṇṇā ca[^477-4] kokilā jambu tālāphalaṃ dajjā[^477-5] atha nūna tadā siyā ti. ||  
+Ja_VIII:77 ||  
 
 Tass'; attho: bhadde yathā hi kumudasarā kumudehi sañchannā tiṭṭhanti tath'; eva sace sakalāpi mahā-Gaṅgā kumudinī sīghasotaṃ[^477-6] pahāya santā upasantā siyā sabbakokilā ca saṃkhavaṇṇā bhaveyyuṃ[^477-7] sabbo pi ca jamburukkho tālaphalaṃ dadeyya atha nūna tadā siyā ti atha tādise kāle amhākam pi samāgamo nūna siyā bhaveyya nāmā 'ti vuttaṃ hoti. Evaṃ vatvā puna pi tāya "ehi[^477-8], gacchām'; evā[^477-9]" 'ti vutte "gacchissām'; evā[^477-10]" 'ti vatvā "kasmiṃ[^477-11] kāle" ti "asukasmiñ cā" 'ti vatvā sesagāthā abhāsi:
 
-Ja_VIII,1.9(=425).2: Yadā kacchapalomānaṃ pavāro tividho siyā hemantikaṃ pāpuraṇaṃ atha nūna tadā siyā. || Ja_VIII:78 ||
+Ja_VIII,1.9(=425).2: Yadā kacchapalomānaṃ pavāro tividho siyā hemantikaṃ pāpuraṇaṃ atha nūna tadā siyā. ||  
+Ja_VIII:78 ||  
 
-Ja_VIII,1.9(=425).3: Yadā makasadāṭhānaṃ[^477-12] aṭṭālo[^477-13] sukato siyā daḷho ca appakampī ca atha nūna tadā siyā. || Ja_VIII:79 ||
+Ja_VIII,1.9(=425).3: Yadā makasadāṭhānaṃ[^477-12] aṭṭālo[^477-13] sukato siyā daḷho ca appakampī ca atha nūna tadā siyā. ||  
+Ja_VIII:79 ||  
 
-Ja_VIII,1.9(=425).4: Yadā sasavisāṇānaṃ nisseṇi sukatā siyā saggassārohaṇatthāya[^477-14] atha nūna tadā siyā. || Ja_VIII:80 ||
+Ja_VIII,1.9(=425).4: Yadā sasavisāṇānaṃ nisseṇi sukatā siyā saggassārohaṇatthāya[^477-14] atha nūna tadā siyā. ||  
+Ja_VIII:80 ||  
 
-Ja_VIII,1.9(=425).5: Yadā nisseṇim āruyha candaṃ khādeyyuṃ mūsikā Rāhuñ ca paripāteyyuṃ[^477-15] atha nūna tadā siyā. || Ja_VIII:81 ||
+Ja_VIII,1.9(=425).5: Yadā nisseṇim āruyha candaṃ khādeyyuṃ mūsikā Rāhuñ ca paripāteyyuṃ[^477-15] atha nūna tadā siyā. ||  
+Ja_VIII:81 ||  
 
-Ja_VIII,1.9(=425).6: Yadā surāghaṭaṃ pītvā makkhikā gaṇacārinī aṅgāre[^477-16] vāsaṃ kappeyyuṃ atha nūna tadā siyā. || Ja_VIII:82 ||
+Ja_VIII,1.9(=425).6: Yadā surāghaṭaṃ pītvā makkhikā gaṇacārinī aṅgāre[^477-16] vāsaṃ kappeyyuṃ atha nūna tadā siyā. ||  
+Ja_VIII:82 ||  
 
-Ja_VIII,1.9(=425).7: Yadā bimboṭṭhasampanno gadrabho sumukho siyā kusalo naccagītassa atha nūna tadā siyā. || Ja_VIII:83 ||
+Ja_VIII,1.9(=425).7: Yadā bimboṭṭhasampanno gadrabho sumukho siyā kusalo naccagītassa atha nūna tadā siyā. ||  
+Ja_VIII:83 ||  
 
-Ja_VIII,1.9(=425).8: Yadā kākā ulūkā ca mantayeyyuṃ rahogatā aññamaññaṃ pihayeyyuṃ[^477-17] athā nūna tadā siyā. || Ja_VIII:84 ||
+Ja_VIII,1.9(=425).8: Yadā kākā ulūkā ca mantayeyyuṃ rahogatā aññamaññaṃ pihayeyyuṃ[^477-17] athā nūna tadā siyā. ||  
+Ja_VIII:84 ||  
 
 
 <!-- PTS Page 478 -->
@@ -6208,11 +6920,14 @@ Ja_VIII,1.9(=425).8: Yadā kākā ulūkā ca mantayeyyuṃ rahogatā aññamañ
 
 ##### *[PTS Page 478]*
 
-Ja_VIII,1.9(=425).9: Yadā pulasapattānaṃ[^478-1] chattaṃ thirataraṃ siyā vassassa paṭighātāya atha nūna tadā siyā. || Ja_VIII:85 ||
+Ja_VIII,1.9(=425).9: Yadā pulasapattānaṃ[^478-1] chattaṃ thirataraṃ siyā vassassa paṭighātāya atha nūna tadā siyā. ||  
+Ja_VIII:85 ||  
 
-Ja_VIII,1.9(=425).10: Yadā kuluṃko[^478-2] sakuṇo pabbataṃ Gandhamādanaṃ tuṇḍenādāya gaccheyya atha nūna tadā siyā. || Ja_VIII:86 ||
+Ja_VIII,1.9(=425).10: Yadā kuluṃko[^478-2] sakuṇo pabbataṃ Gandhamādanaṃ tuṇḍenādāya gaccheyya atha nūna tadā siyā. ||  
+Ja_VIII:86 ||  
 
-Ja_VIII,1.9(=425).11: Yadā sāmuddikaṃ nāvaṃ sayantaṃ[^478-3] savaṭākaraṃ ceṭo[^478-4] ādāya gaccheyya atha nūna tadā siyā. || Ja_VIII:87 ||
+Ja_VIII,1.9(=425).11: Yadā sāmuddikaṃ nāvaṃ sayantaṃ[^478-3] savaṭākaraṃ ceṭo[^478-4] ādāya gaccheyya atha nūna tadā siyā. ||  
+Ja_VIII:87 ||  
 
 Tattha tividho ti eko kacchapalomamayena pupphena eko tūlena eko ubhayenā 'ti evaṃ tippakāro, hemantikaṃ pāpuraṇan ti himapātasamaye pāpuraṇāya bhavituṃ samattho, atha nūna tadā siyā ti atha tasmiṃ kāle mama tayā saddhiṃ ekaṃsen'; eva saṃsaggo siyā, evaṃ sabbattha pacchimapadaṃ[^478-5] yojetabbaṃ, aṭṭālo sukato[^478-6] ti abhirūhitvā yujjhantaṃ purisasataṃ dhāretuṃ yathā sakkoti evaṃ sukato, paripāteyyun[^478-7] ti palāpeyyuṃ, aṅgāre ti vītaccikaṅgārasanthare, vāsaṃ kappeyyun tī ekekaṃ surāghaṭam pivitvā mattā vaseyyuṃ, bimboṭṭhasampanno ti bimbaphalasadisehi oṭṭhehi samannāgato, sumukho ti suvaṇṇādāsasadisamukho[^478-8], pihayeyyun ti aññamaññassa sampattiṃ icchantā pihayeyyuṃ pattheyyuṃ, pulasapattānan[^478-9] ti saṇhānaṃ pulasagacchapaṇṇānaṃ[^478-10], kuluṃko ti eko khuddakasakuṇo, sāmuddikan ti samuddapakkhandanamahānāvaṃ[^478-11], sayantaṃ savaṭākaran[^478-12] ti yantena c'; eva[^478-13] vaṭākarena[^478-14] ca{[^478-15]} saddhiṃ sambhārayuttaṃ[^478-16], ceṭo[^478-17] ādāyā 'ti yadā evarūpaṃ nāvaṃ khuddako gāmadārako hatthena gahetvā gaccheyyā 'ti attho. Iti Mahāsatto imā aṭṭhānaparikappena ekādasa gāthā abhāsi. Tā[^478-18] sutvā nagarasobhanī[^478-19] Mahāsattaṃ khamāpetvā nagaraṃ gantvā rañño taṃ kāraṇaṃ ārocetvā attano jīvitaṃ yācitvā gaṇhi. Satthā imaṃ desanaṃ[^478-20] āharitvā "evaṃ bhikkhu mātugāmo nāma akataññū mittadūbhīti" vatvā saccāni pakāsetvā jātakaṃ samodhānesi (Saccapariyosāne ukkaṇṭhitabhikkhu sotāpattiphale patiṭṭhahi): "Tadā rājā Ānando ahosi, tāpaso[^478-21] aham evā" 'ti. Aṭṭhānajātakaṃ[^478-22].
 
@@ -6232,15 +6947,18 @@ Tattha tividho ti eko kacchapalomamayena pupphena eko tūlena eko ubhayenā 'ti 
 
 janetvā jīvitaṃ rakkhissāmīti[^480-1]" cintetvā dūrato[^480-2] va tena saddhiṃ paṭisanthāraṃ karontī āgacchamānā paṭhamaṃ gātham āha:
 
-Ja_VIII,1.10(=426).1: Khamanīyaṃ yāpanīyaṃ[^480-3] kacci[^480-4] mātula te sukhaṃ, sukhaṃ te ammā avaca, sukhakāmā hi te mayan ti. || Ja_VIII:88 ||
+Ja_VIII,1.10(=426).1: Khamanīyaṃ yāpanīyaṃ[^480-3] kacci[^480-4] mātula te sukhaṃ, sukhaṃ te ammā avaca, sukhakāmā hi te mayan ti. ||  
+Ja_VIII:88 ||  
 
 Tattha sukhaṃ te ammā 'ti mayhaṃ mātāpi tumhākaṃ sukhaṃ puccheyyāsīti[^480-5] ajja maṃ avacā 'ti attho, mayan ti mātula mayam pi tumhākaṃ sukham eva icchāmā 'ti. Taṃ sutvā dīpiko "ayaṃ dhuttikā maṃ mātulavādena vañcetukāmā, na me kakkhaḷabhāvaṃ jānātīti cintetvā dutiyaṃ gātham āha:
 
-Ja_VIII,1.10(=426).2: Naṅguṭṭham me avakkamma[^480-6] heṭhayitvāna[^480-7] eḷiki s'; ajja mātulavādena muñcitabbā nu maññasīti[^480-8]. || Ja_VIII:89 ||
+Ja_VIII,1.10(=426).2: Naṅguṭṭham me avakkamma[^480-6] heṭhayitvāna[^480-7] eḷiki s'; ajja mātulavādena muñcitabbā nu maññasīti[^480-8]. ||  
+Ja_VIII:89 ||  
 
 Tass'; attho: tvaṃ mama naṅguṭṭhamaṇḍalaṃ akkamitvā heṭhayitvā[^480-9] āgacchasi, sā tvaṃ ajja mātulavādena muñcitabbāham asmīti maññasi nu, evaṃ maññasi[^480-10] maññe ti[^480-11]. Taṃ sutvā itarā "mātula mā evaṃ vadīti" vatvā[^480-12] tatiyaṃ gātham āha:
 
-Ja_VIII,1.10(=426).3: Puratthāmukho nisinno si[^480-13], ahaṃ te[^480-14] mukham āgatā, pacchato tuyha[^480-15] naṅguṭṭhaṃ, kathaṃ kho 'haṃ avakkamin[^480-16] ti. || Ja_VIII:90 ||
+Ja_VIII,1.10(=426).3: Puratthāmukho nisinno si[^480-13], ahaṃ te[^480-14] mukham āgatā, pacchato tuyha[^480-15] naṅguṭṭhaṃ, kathaṃ kho 'haṃ avakkamin[^480-16] ti. ||  
+Ja_VIII:90 ||  
 
 Tattha mukhan ti abhimukhaṃ, kathaṃ kho han ti taṃ tava pacchato ṭhitaṃ ahaṃ kathaṃ avakkamin[^480-16] ti attho. Atha naṃ so "kiṃ kathesi eḷike, mama naṅguṭṭhassa aṭhitaṭṭhānaṃ[^480-17] nāma n'; atthīti[^480-18]" vatvā catutthaṃ gātham āha:
 
@@ -6250,21 +6968,26 @@ Tattha mukhan ti abhimukhaṃ, kathaṃ kho han ti taṃ tava pacchato ṭhita�
 
 ##### *[PTS Page 481]*
 
-Ja_VIII,1.10(=426).4: Yāvatā caturo dīpā sasamuddā sapabbatā tāvatā mayha[^481-1] naṅguṭṭhaṃ kathaṃ kho tvaṃ vivajjayīti. || Ja_VIII:91 ||
+Ja_VIII,1.10(=426).4: Yāvatā caturo dīpā sasamuddā sapabbatā tāvatā mayha[^481-1] naṅguṭṭhaṃ kathaṃ kho tvaṃ vivajjayīti. ||  
+Ja_VIII:91 ||  
 
 Tattha tāvatā ti ettāvatā[^481-2] mama naṅguṭṭhaṃ parikkhipitvā gatan ti vadati. Taṃ sutvā eḷikā "ayaṃ pāpo madhurakathāya na[^481-3] allīyati, paṭisattu hutvāssa kathessāmīti[^481-4]" pañcamaṃ gātham āha:
 
-Ja_VIII,1.10(=426).5: Pubbe va m'; etaṃ[^481-5] akkhaṃsu[^481-6] mātā pitā ca bhātaro: dīghaṃ duṭṭhassa naṅguṭṭhaṃ, s'; amhi vehāyasāgatā ti. || Ja_VIII:92 ||
+Ja_VIII,1.10(=426).5: Pubbe va m'; etaṃ[^481-5] akkhaṃsu[^481-6] mātā pitā ca bhātaro: dīghaṃ duṭṭhassa naṅguṭṭhaṃ, s'; amhi vehāyasāgatā ti. ||  
+Ja_VIII:92 ||  
 
 Tattha akkhaṃsū[^481-7] 'ti pubbe va me evaṃ[^481-8] mātā ca pitā ca bhātaro ca ācikkhiṃsu[^481-9], samhīti sā ahaṃ ñātakānaṃ santikā tava naṅguṭṭhassa dīghabhāvaṃ sutvā tava naṅguṭṭhaṃ pariharantī[^481-10] vehāyasā[^481-11] ākāsena āgatā ti. Atha naṃ so "jānāmi te ahaṃ ākāsenāgatabhāvaṃ[^481-12], evaṃ āgacchantī[^481-13] pana mayhaṃ bhakkhe nāsetvā[^481-14] āgatāsīti" vatvā chaṭṭhaṃ gātham āha:
 
-Ja_VIII,1.10(=426).6: Tañca[^481-15] disvāna āyantiṃ antalikkhasmim[^481-16] eḷiki migasaṃgho palāyittha, bhakkho me nāsito tayā ti. || Ja_VIII:93 ||
+Ja_VIII,1.10(=426).6: Tañca[^481-15] disvāna āyantiṃ antalikkhasmim[^481-16] eḷiki migasaṃgho palāyittha, bhakkho me nāsito tayā ti. ||  
+Ja_VIII:93 ||  
 
 Taṃ sutvā itarā maraṇabhayabhītā aññaṃ kāraṇaṃ āharituṃ asakkontī "mātula mā evarūpaṃ kakkhaḷakammaṃ kari, jīvitaṃ me dehīti" vilapi. Itaro pi naṃ vilapantiṃ yeva khandhe gahetvā māretvā khādi.
 
-Ja_VIII,1.10(=426).7: Icc-eva[^481-17] vilapantiyā eḷikiyā ruhaṃghaso galakaṃ anvāmaddi[^481-18] n'; atthi duṭṭhe[^481-19] subhāsitaṃ. || Ja_VIII:94 ||
+Ja_VIII,1.10(=426).7: Icc-eva[^481-17] vilapantiyā eḷikiyā ruhaṃghaso galakaṃ anvāmaddi[^481-18] n'; atthi duṭṭhe[^481-19] subhāsitaṃ. ||  
+Ja_VIII:94 ||  
 
-Ja_VIII,1.10(=426).8: N'; eva duṭṭhe nayo atthi na dhammo na subhāsitaṃ, nikkamaṃ[^481-20] duṭṭhe yujjetha[^481-21], so ca sabbhi na rajjatīti || Ja_VIII:95 ||
+Ja_VIII,1.10(=426).8: N'; eva duṭṭhe nayo atthi na dhammo na subhāsitaṃ, nikkamaṃ[^481-20] duṭṭhe yujjetha[^481-21], so ca sabbhi na rajjatīti ||  
+Ja_VIII:95 ||  
 
 imā dve abhisambuddhagāthā.
 
@@ -6294,19 +7017,26 @@ IX. NAVANIPĀTA.
 
 jitvā atthakāmānaṃ vacanaṃ na karosi, pubbe pi tvaṃ paṇḍitānaṃ vacanaṃ akatvā verambavātamukhe cuṇṇavicuṇṇajāto[^484-1]" ti vatvā atītaṃ āhari: Atīte Gijjhapabbate[^484-2] Bodhisatto gijjhayoniyaṃ nibbatti. Putto pan'; assa Supatto[^484-3] nāma gijjharājā anekasahassagijjhaparivāro thāmasampanno ahosi. So mātāpitaro posesi. Balasampannattā[^484-4] pana atidūraṃ uppatati, atha naṃ pitā "tāta ettakaṃ nāma ṭhānaṃ atikkamitvā na gantabban" ti ovadi. So "sādhū" 'ti vatvāpi ekadivasaṃ pana vuṭṭhe[^484-5] deve gijjhehi saddhiṃ uppatitvā sese ohāya atibhūmiṃ gantvā verambavātamukhaṃ patvā cuṇṇavicuṇṇabhāvaṃ pāpuṇi. Satthā tam atthaṃ dassento abhisambuddho hutvā imā gāthā abhāsi:
 
-Ja_IX.1(=427).1: Parisaṃkupatho nāma gijjhapantho[^484-6] sanantano, tatrāsi[^484-7] mātāpitaro gijjho posesi jiṇṇake[^484-8]. || Ja_IX:1 ||
+Ja_IX.1(=427).1: Parisaṃkupatho nāma gijjhapantho[^484-6] sanantano, tatrāsi[^484-7] mātāpitaro gijjho posesi jiṇṇake[^484-8]. ||  
+Ja_IX:1 ||  
 
-Ja_IX.1(=427).2: Tesaṃ ajakaraṃ[^484-9] medaṃ accahāsi[^484-10] bahūtaso[^484-11], pitā ca puttaṃ avaca jānaṃ uccāpapātinaṃ[^484-12] supattaṃ pakkhasampannaṃ[^484-13] tejasiṃ dūragāminaṃ. || Ja_IX:2 ||
+Ja_IX.1(=427).2: Tesaṃ ajakaraṃ[^484-9] medaṃ accahāsi[^484-10] bahūtaso[^484-11], pitā ca puttaṃ avaca jānaṃ uccāpapātinaṃ[^484-12] supattaṃ pakkhasampannaṃ[^484-13] tejasiṃ dūragāminaṃ. ||  
+Ja_IX:2 ||  
 
-Ja_IX.1(=427).3: Pariplavantaṃ[^484-14] paṭhaviṃ: yadā tāta[^484-15] vijānahi sāgarena parikkhittaṃ cakkaṃ va parimaṇḍalaṃ tato tāta nivattassu, māssu etto paraṃ gami. || Ja_IX:3 ||
+Ja_IX.1(=427).3: Pariplavantaṃ[^484-14] paṭhaviṃ: yadā tāta[^484-15] vijānahi sāgarena parikkhittaṃ cakkaṃ va parimaṇḍalaṃ tato tāta nivattassu, māssu etto paraṃ gami. ||  
+Ja_IX:3 ||  
 
-Ja_IX.1(=427).4: Udapatto si[^484-16] vegena balī[^484-17] pakkhī[^484-18] dijuttamo olokayanto vakkaṅgo pabbatāni vanāni ca. || Ja_IX:4 ||
+Ja_IX.1(=427).4: Udapatto si[^484-16] vegena balī[^484-17] pakkhī[^484-18] dijuttamo olokayanto vakkaṅgo pabbatāni vanāni ca. ||  
+Ja_IX:4 ||  
 
-Ja_IX.1(=427).5: Addasa[^484-19] paṭhaviṃ gijjho yathāsāsī[^484-20] pitus sutaṃ[^484-21] sāgarena parikkhittaṃ cakkaṃ va parimaṇḍalaṃ [tato tāta nivattassu, māssu etto paraṃ gami]. (Cfr. p.255, 30.)|| Ja_IX:5 ||
+Ja_IX.1(=427).5: Addasa[^484-19] paṭhaviṃ gijjho yathāsāsī[^484-20] pitus sutaṃ[^484-21] sāgarena parikkhittaṃ cakkaṃ va parimaṇḍalaṃ [tato tāta nivattassu, māssu etto paraṃ gami]. (Cfr. p.255, 30.)||  
+Ja_IX:5 ||  
 
-Ja_IX.1(=427).6: Tañ ca so samatikkamma param ev'; accavattatha[^484-22] tañ ca vātasikhā tikkhā accahāsi baliṃ[^484-23] dijaṃ. || Ja_IX:6 ||
+Ja_IX.1(=427).6: Tañ ca so samatikkamma param ev'; accavattatha[^484-22] tañ ca vātasikhā tikkhā accahāsi baliṃ[^484-23] dijaṃ. ||  
+Ja_IX:6 ||  
 
-Ja_IX.1(=427).7: Nāsakkh'; ātigato poso punar[^484-24] eva nivattituṃ, dijo vyasanam āpādi verambānaṃ vasaṃ gato. || Ja_IX:7 ||
+Ja_IX.1(=427).7: Nāsakkh'; ātigato poso punar[^484-24] eva nivattituṃ, dijo vyasanam āpādi verambānaṃ vasaṃ gato. ||  
+Ja_IX:7 ||  
 
 
 <!-- PTS Page 485 -->
@@ -6314,9 +7044,11 @@ Ja_IX.1(=427).7: Nāsakkh'; ātigato poso punar[^484-24] eva nivattituṃ, dijo
 
 ##### *[PTS Page 485]*
 
-Ja_IX.1(=427).8: Tassa puttā ca dārā ca ye c'; aññe anujīvino (Cfr. p.256, 14.) sabbe vyasanaṃ āpāduṃ[^485-1] anovādakare[^485-2] dije[^485-3]. || Ja_IX:8 ||
+Ja_IX.1(=427).8: Tassa puttā ca dārā ca ye c'; aññe anujīvino (Cfr. p.256, 14.) sabbe vyasanaṃ āpāduṃ[^485-1] anovādakare[^485-2] dije[^485-3]. ||  
+Ja_IX:8 ||  
 
-Ja_IX.1(=427).9: Evam pi idha vaddhānaṃ[^485-4] yo vākyaṃ nāvabujjhati atisīmacaro[^485-5] ditto gijjho vātītasāsano sa ve[^485-6] vyasanaṃ pappoti[^485-7] akatvā vaddhasāsanan[^485-8] ti. || Ja_IX:9 ||
+Ja_IX.1(=427).9: Evam pi idha vaddhānaṃ[^485-4] yo vākyaṃ nāvabujjhati atisīmacaro[^485-5] ditto gijjho vātītasāsano sa ve[^485-6] vyasanaṃ pappoti[^485-7] akatvā vaddhasāsanan[^485-8] ti. ||  
+Ja_IX:9 ||  
 
 Tattha parisaṃkupatho ti saṃkupatho, manussā hiraññasuvaṇṇatthāya gacchantā tasmiṃ padese khāṇuke koṭṭetvā tesu rajjuṃ bandhitvā gacchanti, tena so Gijjhapabbate[^485-9] jaṃghamaggo saṃkupatho ti vuccati, gijjhapantho ti gijjhapabbatamatthake maggo[^485-10], sanantano ti porāṇo, tatrāsīti tasmiṃ gijjhapabbatamatthake saṃkupathe eko gijjho āsi[^485-11], so jiṇṇake[^485-12] mātāpitaro posesi, ajakaraṃ[^485-13] medan ti ajakaramedaṃ[^485-14], accahāsīti ativiya āhari, bahūtaso[^485-15] ti bahūtaso[^485-16], jānaṃ[^485-17] uccāpapātinan[^485-18] ti putto te atiuccaṃ ṭhānaṃ laṃghatīti sutvā ucce[^485-19] papātī ayan ti jānanto, tejasin ti purisatejasampannaṃ, dūragāminan ti ten'; eva tejena dūragāmiṃ, pariplavantan[^485-20] ti uppalapattaṃ[^485-21] viya udake upplavamānaṃ[^485-22], vijānahīti[^485-23] vijānāsi, cakkaṃ va parimaṇḍalan ti yaṃ[^485-24] tasmiṃ te[^485-25] padese ṭhitassa samuddena paricchinno Jambudīpo cakkaṃ[^485-26] va paññāyati tato ṭhānā[^485-27] nivattāhīti ovadanto evam āha, udapatto sīti pitu ovādaṃ akatvā ekaṃ[^485-28] divasaṃ gijjhehi saddhiṃ uppatito te ohāya pitarā kathitaṭṭhānaṃ agamāsi, olokayanto[^485-29] vakkaṃgo ti vaṃkagīvo[^485-30], yathāsāsi[^485-31] pitussutan[^485-32] ti yathāssa[^485-33] pitu santikā sutaṃ āsi[^485-34] tath'; eva addasa, yathāssāsīti[^485-35] vā pāṭho, paramevaccavattathā 'ti pitarā akkhātaṭṭhānato paraṃ ativatto[^485-36] va, tañca[^485-37] vātasikhā tikkhā ti taṃ anovādakaṃ[^485-38] balim[^485-39] pi samānam dijaṃ tikhiṇaverambavātasikhā accahāsi atihari[^485-40] cuṇṇavicuṇṇaṃ akāsi, nāsakkhātigato ti nāsakkhi atigato[^485-41], poso ti satto, anovādakare ti tasmiṃ dije paṇḍitānaṃ ovādaṃ akaronte sabbe pi te mahādukkhaṃ pāpuṇiṃsu, akatvā vaddhasāsanan[^485-42] ti vuddhānaṃ[^485-43] hitakāmānaṃ vacanaṃ akatvā evam eva vyasanaṃ mahādukkhaṃ pāpunāti.
 
@@ -6344,25 +7076,35 @@ yāva Brahmalokā sabbe puthujjanā dve pakkhā ahesuṃ, yāva Akaniṭṭhabha
 
 ##### *[PTS Page 488]*
 
-Ja_IX.2(=428).1: Puthusaddo samajano, na bālo koci maññatha, (= Vinaya vol.I. p.349.) saṃghasmiṃ bhijjamānasmiṃ nāññaṃ bhiyyo amaññaruṃ. || Ja_IX:10 ||
+Ja_IX.2(=428).1: Puthusaddo samajano, na bālo koci maññatha, (= Vinaya vol.I. p.349.) saṃghasmiṃ bhijjamānasmiṃ nāññaṃ bhiyyo amaññaruṃ. ||  
+Ja_IX:10 ||  
 
-Ja_IX.2(=428).2: Parimuṭṭhā paṇḍitābhāsā vācāgocara bhāṇino yāv'; icchanti mukhāyāmaṃ yena nītā na taṃ vidū. || Ja_IX:11 ||
+Ja_IX.2(=428).2: Parimuṭṭhā paṇḍitābhāsā vācāgocara bhāṇino yāv'; icchanti mukhāyāmaṃ yena nītā na taṃ vidū. ||  
+Ja_IX:11 ||  
 
-Ja_IX.2(=428).3: ‘Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me'; (Cfr. supra p.212.) ye[^488-1] taṃ upanayhanti veraṃ tesaṃ na sammati. || Ja_IX:12 ||
+Ja_IX.2(=428).3: ‘Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me'; (Cfr. supra p.212.) ye[^488-1] taṃ upanayhanti veraṃ tesaṃ na sammati. ||  
+Ja_IX:12 ||  
 
-Ja_IX.2(=428).4: ‘Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me' ye[^488-1] taṃ na upanayhanti veraṃ tesūpasammati. || Ja_IX:13 ||
+Ja_IX.2(=428).4: ‘Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me' ye[^488-1] taṃ na upanayhanti veraṃ tesūpasammati. ||  
+Ja_IX:13 ||  
 
-Ja_IX.2(=428).5: Na hi verena verāni sammant'; idha[^488-2] kudācanaṃ, averena ca sammanti, esa dhammo sanantano. || Ja_IX:14 ||
+Ja_IX.2(=428).5: Na hi verena verāni sammant'; idha[^488-2] kudācanaṃ, averena ca sammanti, esa dhammo sanantano. ||  
+Ja_IX:14 ||  
 
-Ja_IX.2(=428).6: Pare ca na vijānanti 'mayam ettha yamāmase', ye ca tattha vijānanti tato sammanti medhagā. || Ja_IX:15 ||
+Ja_IX.2(=428).6: Pare ca na vijānanti 'mayam ettha yamāmase', ye ca tattha vijānanti tato sammanti medhagā. ||  
+Ja_IX:15 ||  
 
-Ja_IX.2(=428).7: Aṭṭhicchiddā[^488-3] pāṇaharā gavāssadhanahārino, raṭṭhaṃ vilumpamānānaṃ tesaṃ pi hoti saṃgati, kasmā tumhāka[^488-4] no siyā. || Ja_IX:16 ||
+Ja_IX.2(=428).7: Aṭṭhicchiddā[^488-3] pāṇaharā gavāssadhanahārino, raṭṭhaṃ vilumpamānānaṃ tesaṃ pi hoti saṃgati, kasmā tumhāka[^488-4] no siyā. ||  
+Ja_IX:16 ||  
 
-Ja_IX.2(=428).8: Sace labetha nipakaṃ sahāyaṃ (Cfr. Dhp. vv.328-30 & p.108. Suttanip. VV.44 - 45.) saddhiṃcaraṃ sādhuvihāri dhīraṃ abhibhuyya sabbāni parissayāni careyya ten'; attamano satīmā. || Ja_IX:17 ||
+Ja_IX.2(=428).8: Sace labetha nipakaṃ sahāyaṃ (Cfr. Dhp. vv.328-30 & p.108. Suttanip. VV.44 - 45.) saddhiṃcaraṃ sādhuvihāri dhīraṃ abhibhuyya sabbāni parissayāni careyya ten'; attamano satīmā. ||  
+Ja_IX:17 ||  
 
-Ja_IX.2(=428).9: No ce labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāri dhīraṃ rājā va raṭṭhaṃ vijitaṃ pahāya eko care mātaṅg'; araññe[^488-5] va nāgo. || Ja_IX:18 ||
+Ja_IX.2(=428).9: No ce labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāri dhīraṃ rājā va raṭṭhaṃ vijitaṃ pahāya eko care mātaṅg'; araññe[^488-5] va nāgo. ||  
+Ja_IX:18 ||  
 
-Ja_IX.2(=428).10: Ekassa caritaṃ seyyo, n'; atthi bāle sahāyatā, eko care na ca pāpāni kayirā appossukko mātaṅg'; araññe[^488-6] va nāgo ti. || Ja_IX:19 ||
+Ja_IX.2(=428).10: Ekassa caritaṃ seyyo, n'; atthi bāle sahāyatā, eko care na ca pāpāni kayirā appossukko mātaṅg'; araññe[^488-6] va nāgo ti. ||  
+Ja_IX:19 ||  
 
 Tattha puthu mahā saddo assā 'ti puthusaddo, samajano ti samāno ekasadiso jano, sabbo vāyaṃ[^488-7] bhaṇḍanakārakajano samantato saddanicchāraṇena puthusaddo c'; eva sadiso cā 'ti vuttaṃ hoti, na bālo koci maññathā 'ti tattha koci eko pi[^488-8] ahaṃ bālo ti[^488-8] na maññittha, sabbe paṇḍitamānino, sabbo cāyaṃ bhaṇḍanakārako jano yeva nāññaṃ bhiyyo maññanti[^488-9], koci eko pi ahaṃ[^488-10] bālo ti na maññittha[^488-11], bhiyyo ca[^488-12] saṃghasmiṃ bhijjamāne aññam pi ekaṃ[^488-13], mayhaṃ kāraṇena[^488-14] saṃgho bhijjatīti idaṃ kāraṇaṃ na maññitthā 'ti attho, parimuṭṭhā ti muṭṭhassatino, paṇḍitābhāsā ti attano paṇḍita-
 
@@ -6392,7 +7134,8 @@ tattha temāsaṃ vasitvā puna Kosambiṃ[^490-1] anāgantvā Sāvatthim[^490-2
 
 cuṇṇaṃ khādantāpi[^491-1] loluppacāraṃ pahāya santuṭṭhā mittadhammaṃ abhinditvā aññattha na agamiṃsu[^491-2], tvaṃ[^491-3] kasmā ‘piṇḍapāto paritto[^491-4] lūkho'; ti sappāyasenāsanaṃ pariccajīti" vatvā tena yācito atītaṃ āhari: Atīte Himavante Gaṅgātīre ekasmiṃ udumbaravane anekasatasahassā sukā[^491-5] vasiṃsu. Tatth'; eko[^491-6] sukarājā attano nivāsarukkhassa[^491-7] phalesu khīṇesu yañ ñad eva[^491-8] avasiṭṭhaṃ hoti aṃkuro vā pattaṃ vā taco vā papaṭikā[^491-9] vā taṃ khāditvā Gaṅgāya pānīyaṃ pivitvā paramāppicchasantuṭṭho[^491-10] hutvā aññattha na gacchati. Tassa[^491-11] appicchasantuṭṭhabhāvaguṇena[^491-12] Sakkabhavanaṃ kampi. Sakko āvajjamāno taṃ disvā tassa vīmaṃsanatthaṃ attano ānubhāvena taṃ rukkhaṃ sukkhāpesi, rukkho khāṇumatto hutvā chiddāvacchiddo[^491-13] vāte paharante[^491-14] ākoṭiyamāno va[^491-15] aṭṭhāsi, tassa chiddehi cuṇṇāni nikkhamanti. Sukarājā tāni cuṇṇani khāditvā Gaṅgāya pānīyaṃ pivitvā aññattha agantvā[^491-16] vātātapaṃ agaṇetvā udumbarakhāṇumatthake[^491-17] nisīdati[^491-18]. Sakko tassa paramappicchabhāvaṃ ñatvā "mittadhammaguṇaṃ kathāpetvā varam assa datvā udumbaraṃ amataphalaṃ[^491-19] karitvā āgamissāmīti" eko haṃsarājā hutvā Sujaṃ asurakaññaṃ purato katvā taṃ udumbaravanaṃ gantvā avidūre ekassa[^491-20] rukkhassa sākhāya nisīditvā tena saddhiṃ kathaṃ samuṭṭhāpento[^491-21] paṭhamaṃ gātham āha:
 
-Ja_IX.3(=429).1: Dumo yadā hoti phalūpapanno bhuñjanti naṃ vihagā[^491-22] sampatantā, khīṇan ti ñatvāna dumaṃ phalaccaye disodisaṃ yanti tato vihaṅgamā ti. || Ja_IX:20 ||
+Ja_IX.3(=429).1: Dumo yadā hoti phalūpapanno bhuñjanti naṃ vihagā[^491-22] sampatantā, khīṇan ti ñatvāna dumaṃ phalaccaye disodisaṃ yanti tato vihaṅgamā ti. ||  
+Ja_IX:20 ||  
 
 Tass'; attho: sukarāja rukkho nāma yadā phalasampanno hoti tadā taṃ sākhato sākhaṃ sampatantā[^491-23] vihaṅgamā bhuñjanti, taṃ pana[^491-24] khīṇaṃ ñatvā phalānaṃ accaye[^491-25] tato rukkhato disodisaṃ vihaṅgamā gacchantīti[^491-26]
 
@@ -6404,13 +7147,16 @@ Tass'; attho: sukarāja rukkho nāma yadā phalasampanno hoti tadā taṃ sākha
 
 Evañ ca pana taṃ[^492-1] vatvā tato[^492-2] uyyojetuṃ dutiyaṃ gātham āha:
 
-Ja_IX.3(=429).2: Cara[^492-3] cārikaṃ lohitatuṇḍa mā cari[^492-4], kiṃ tvaṃ suva sukkhadumamhi[^492-5] jhāyasi, tad iṃgha maṃ[^492-6] brūhi vasantasannibha: kasmā suva sukkhadumaṃ na riñcasīti. || Ja_IX:21 ||
+Ja_IX.3(=429).2: Cara[^492-3] cārikaṃ lohitatuṇḍa mā cari[^492-4], kiṃ tvaṃ suva sukkhadumamhi[^492-5] jhāyasi, tad iṃgha maṃ[^492-6] brūhi vasantasannibha: kasmā suva sukkhadumaṃ na riñcasīti. ||  
+Ja_IX:21 ||  
 
 Tattha jhāyasīti kiṃkāraṇā sukkhakhāṇumatthake[^492-7] jhāyanto pajjhāyanto tiṭṭhasi, iṃghā 'ti codanatthe nipāto, vasantasannibhā 'ti vasantakāle vanasaṇḍo sukagaṇasamākiṇṇo viya nīlobhāso hoti, tena taṃ vasantasannibhā 'ti ālapati, na riñcasīti na chaḍḍesi. Atha naṃ sukarājā[^492-8] "ahaṃ haṃsa attano kataññūkataveditāya imaṃ rukkhaṃ[^492-9] na jahāmīti" vatvā dve gāthā abhāsi:
 
-Ja_IX.3(=429).3: Ye ve[^492-10] sakhīnaṃ sakhāro bhavanti pāṇaccaye sukhadukkhesu haṃsa khīṇaṃ akhīṇan ti na taṃ jahanti santo sataṃ dhammam anussarantā. || Ja_IX:22 ||
+Ja_IX.3(=429).3: Ye ve[^492-10] sakhīnaṃ sakhāro bhavanti pāṇaccaye sukhadukkhesu haṃsa khīṇaṃ akhīṇan ti na taṃ jahanti santo sataṃ dhammam anussarantā. ||  
+Ja_IX:22 ||  
 
-Ja_IX.3(=429).4: So 'haṃ sataṃ aññataro 'smi haṃsa, ñātī ca me hoti sakhā ca rukkho, taṃ n'; ussahe jīvikattho[^492-11] pahātuṃ khīṇan ti ñatvāna, na h'; esa dhammo[^492-12] ti. || Ja_IX:23 ||
+Ja_IX.3(=429).4: So 'haṃ sataṃ aññataro 'smi haṃsa, ñātī ca me hoti sakhā ca rukkho, taṃ n'; ussahe jīvikattho[^492-11] pahātuṃ khīṇan ti ñatvāna, na h'; esa dhammo[^492-12] ti. ||  
+Ja_IX:23 ||  
 
 Tattha ye ve[^492-13] sakhīnaṃ sakhāro bhavantīti ye sahāyānaṃ sahāyā honti, khīṇaṃ akhīṇan ti paṇḍitā nāma attano sahāyaṃ[^492-14] bhogaparikkhayena pi khīnam pi akhīnam pi na jahanti, sataṃ dhammamanussarantā ti paṇḍitānaṃ paveṇiṃ[^492-15] anussaramānā, ñātī ca me ti haṃsarāja ayaṃ rukkho sampiyāyanaṭṭhena mayhaṃ ñāti ca[^492-16] sahaciṇṇacaraṇatāya[^492-17] sakhā ca, jīvikattho[^492-18] ti tam ahaṃ jīvikāya[^492-19] atthiko hutvā pahātuṃ na sakkomi. Sakko tassa kathaṃ[^492-20] sutvā tuṭṭho pasaṃsitvā varaṃ dātukāmo dve gāthā abhāsi:
 
@@ -6420,17 +7166,21 @@ Tattha ye ve[^492-13] sakhīnaṃ sakhāro bhavantīti ye sahāyānaṃ sahāyā
 
 ##### *[PTS Page 493]*
 
-Ja_IX.3(=429).5: Sādhu sakkhi kataṃ[^493-1] hoti metti saṃsati[^493-2] santhavo, sac'; etaṃ[^493-3] dhammaṃ rocesi pāsaṃso[^493-4] si[^493-5] vijānataṃ. || Ja_IX:24 ||
+Ja_IX.3(=429).5: Sādhu sakkhi kataṃ[^493-1] hoti metti saṃsati[^493-2] santhavo, sac'; etaṃ[^493-3] dhammaṃ rocesi pāsaṃso[^493-4] si[^493-5] vijānataṃ. ||  
+Ja_IX:24 ||  
 
-Ja_IX.3(=429).6: So te suva varaṃ dammi pattayāna vihaṅgama, (Cfr. p.495.) varaṃ varassu vakkaṅga[^493-6] yaṃ kiñci manas'; icchasīti. || Ja_IX:25 ||
+Ja_IX.3(=429).6: So te suva varaṃ dammi pattayāna vihaṅgama, (Cfr. p.495.) varaṃ varassu vakkaṅga[^493-6] yaṃ kiñci manas'; icchasīti. ||  
+Ja_IX:25 ||  
 
 Tattha sādhū ti sampahaṃsanaṃ[^493-7], sakkhi kataṃ[^493-8] hoti metti saṃsati[^493-9] santhavo ti sakhībhāvo ca mettī ca[^493-10] parisamajjhe santhavo cā 'ti[^493-11] yaṃ p'; etaṃ[^493-12] kataṃ[^493-13] sādhu hoti laṭṭhakaṃ bhaddakam[^493-14] eva, sacetaṃ dhamman ti sace etaṃ[^493-15] mettidhammaṃ, vijānatan ti evaṃ sante[^493-16] viññūnaṃ pasaṃsitabbayuttako sīti attho, so te ti so 'haṃ[^493-17] tuyhaṃ, varassū 'ti iccha, manasicchasīti yaṃ kiñci manasā icchasi sabbaṃ taṃ dadāmi te ti. Taṃ sutvā sukarājā[^493-18] varaṃ varanto[^493-19] sattamaṃ gātham āha:
 
-Ja_IX.3(=429).7: Varaṃ ce me haṃsa tuvaṃ dadeyya ayaṃ rukkho punar āyuṃ[^493-20] labhetha, so sākhavā phalimā saṃvirūḷho madhatthiko[^493-21] tiṭṭhatu sobhamāno ti. || Ja_IX:26 ||
+Ja_IX.3(=429).7: Varaṃ ce me haṃsa tuvaṃ dadeyya ayaṃ rukkho punar āyuṃ[^493-20] labhetha, so sākhavā phalimā saṃvirūḷho madhatthiko[^493-21] tiṭṭhatu sobhamāno ti. ||  
+Ja_IX:26 ||  
 
 Tattha sākhavā ti sākhāsampanno, phalimā ti phalinīhi sākhāhi upeto, saṃvirūḷho ti samantato virūḷhapatto taruṇapattasaṃchanno hutvā, madhatthiko[^493-22] ti saṃvijjamānamadhuraphalesu pakkhittamadhu[^493-23] viya, madhuraphalo hutvā ti attho. Ath'; assa Sakko varaṃ dadamāno aṭṭhamaṃ gātham āha:
 
-Ja_IX.3(=429).8: Taṃ passa samma phalimaṃ[^493-24] uḷāraṃ, sabhā[^493-25] va te hotu udumbarena, so sākhavā phalimā saṃvirūḷho madhatthiko tiṭṭhatu sobhamāno ti. || Ja_IX:27 ||
+Ja_IX.3(=429).8: Taṃ passa samma phalimaṃ[^493-24] uḷāraṃ, sabhā[^493-25] va te hotu udumbarena, so sākhavā phalimā saṃvirūḷho madhatthiko tiṭṭhatu sobhamāno ti. ||  
+Ja_IX:27 ||  
 
 Tattha sabhā[^493-26] va te hotu udumbarenā 'ti tava udumbarena saddhiṃ saha ekato va[^493-27] vāso hotu.
 
@@ -6442,11 +7192,13 @@ Tattha sabhā[^493-26] va te hotu udumbarenā 'ti tava udumbarena saddhiṃ saha
 
 Evañ ca pana vatvā taṃ[^494-1] attabhāvaṃ vijahitvā attano ca Sujāya ca ānubhāvaṃ dassetvā Gaṅgato[^494-2] hatthena udakaṃ gahetvā udumbarakhāṇukaṃ pahari[^494-3], tāvad eva sākhāvīṭapasampanno madhuraphalo rukkho uṭṭhahitvā muṇḍa-Maṇipabbato viya vilāsasampanno[^494-4] aṭṭhāsi. Sukarājā[^494-5] taṃ disvā somanassappatto Sakkassa thutiṃ karonto navamaṃ gātham āha:
 
-Ja_IX.3(=429).9: Evaṃ Sakka sukhī hohi saha sabbehi ñātibhi (Cfr. p. 495.) yathāham ajja sukhito disvāna phalitaṃ duman ti. || Ja_IX:28 ||
+Ja_IX.3(=429).9: Evaṃ Sakka sukhī hohi saha sabbehi ñātibhi (Cfr. p. 495.) yathāham ajja sukhito disvāna phalitaṃ duman ti. ||  
+Ja_IX:28 ||  
 
 Sakko[^494-6] tassa varaṃ datvā udumbaraṃ amataphalaṃ katvā saddhiṃ Sujātāya attano ṭhānam eva gato. Tam atthaṃ dīpayamānā osāne[^494-7] abhisambuddhagāthā ṭhapitā[^494-8]:
 
-Ja_IX.3(=429).10: Suvassa ca varaṃ datvā katvāna saphalaṃ dumaṃ (Cfr. p.495.) pakkāmi saha bhariyāya devānaṃ Nandanaṃ vanan ti. || Ja_IX:29 ||
+Ja_IX.3(=429).10: Suvassa ca varaṃ datvā katvāna saphalaṃ dumaṃ (Cfr. p.495.) pakkāmi saha bhariyāya devānaṃ Nandanaṃ vanan ti. ||  
+Ja_IX:29 ||  
 
 Satthā imaṃ desanaṃ[^494-9] āharitvā "evaṃ bhikkhu porāṇakapaṇḍitā tiracchānayoniyaṃ nibbattitvāpi[^494-10] nilloluppā[^494-11] ahesuṃ, tvaṃ[^494-12] kasmā evarūpe sāsane pabbajitvā loluppacāraṃ carasi, gaccha tatth'; eva vasā[^494-13]" 'ti kammaṭṭhānam assa kathetvā jātakaṃ samodhānesi (so bhikkhu tattha gantvā vipassanto arahattaṃ pāpuṇi): "Tadā Sakko Anuruddho ahosi, sukarājā[^494-14] aham evā" 'ti. Mahāsukajātakaṃ[^494-15].
 
@@ -6460,25 +7212,35 @@ Satthā imaṃ desanaṃ[^494-9] āharitvā "evaṃ bhikkhu porāṇakapaṇḍi
 
 gatānaṃ appicchasantuṭṭhabhāvo" ti. Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" 'ti vutte "anacchariyaṃ bhikkhave Tathāgatassa idāni loluppacārapahānaṃ yo[^495-1] pubbe tiracchānayoniyaṃ nibbatto pi loluppacāraṃ pahāsīti[^495-2]" vatvā atītaṃ āhari. Sabbaṃ[^495-3] vatthuṃ heṭṭhākathitaniyāmen'; eva[^495-4] vitthāretabbaṃ:
 
-Ja_IX.4(=430).1: Santi rukkhā haritapattā dumā nekaphalā bahū, kasmā nu sukkhe koḷāpe[^495-5] sukassa[^495-6] nirato mano. || Ja_IX:30 ||
+Ja_IX.4(=430).1: Santi rukkhā haritapattā dumā nekaphalā bahū, kasmā nu sukkhe koḷāpe[^495-5] sukassa[^495-6] nirato mano. ||  
+Ja_IX:30 ||  
 
-Ja_IX.4(=430).2: Phal'; assa upabhuñjimha nekavassagaṇe[^495-7] bahū, aphalam pi viditvāna sā va[^495-8] metti yathā pure. || Ja_IX:31 ||
+Ja_IX.4(=430).2: Phal'; assa upabhuñjimha nekavassagaṇe[^495-7] bahū, aphalam pi viditvāna sā va[^495-8] metti yathā pure. ||  
+Ja_IX:31 ||  
 
-Ja_IX.4(=430).3: {Sukkhañ} ca rukkhaṃ[^495-9] koḷāpaṃ[^495-10] opattam[^495-11] aphalaṃ dumaṃ ohāya sakuṇā yanti, kiṃ dosaṃ passase[^495-12] dija. || Ja_IX:32 ||
+Ja_IX.4(=430).3: {Sukkhañ} ca rukkhaṃ[^495-9] koḷāpaṃ[^495-10] opattam[^495-11] aphalaṃ dumaṃ ohāya sakuṇā yanti, kiṃ dosaṃ passase[^495-12] dija. ||  
+Ja_IX:32 ||  
 
-Ja_IX.4(=430).4: Ye phalaṭṭhā saṃbhajanti aphalo ti jahanti naṃ, attaṭṭhapaññā dummedhā te honti pakkhapātino. || Ja_IX:33 ||
+Ja_IX.4(=430).4: Ye phalaṭṭhā saṃbhajanti aphalo ti jahanti naṃ, attaṭṭhapaññā dummedhā te honti pakkhapātino. ||  
+Ja_IX:33 ||  
 
-Ja_IX.4(=430).5: Sādhu sakkhi kataṃ hoti mittaṃ saṃsati santhavo, sac'; etaṃ dhammaṃ rocesi pāsaṃso si[^495-13] vijānataṃ. || Ja_IX:34 ||
+Ja_IX.4(=430).5: Sādhu sakkhi kataṃ hoti mittaṃ saṃsati santhavo, sac'; etaṃ dhammaṃ rocesi pāsaṃso si[^495-13] vijānataṃ. ||  
+Ja_IX:34 ||  
 
-Ja_IX.4(=430).6: So te suva varaṃ dammi pattayāna vihaṅgama, varaṃ varassu vakkaṅga yaṃ kiñci manas'; icchasi. || Ja_IX:35 ||
+Ja_IX.4(=430).6: So te suva varaṃ dammi pattayāna vihaṅgama, varaṃ varassu vakkaṅga yaṃ kiñci manas'; icchasi. ||  
+Ja_IX:35 ||  
 
-Ja_IX.4(=430).7: Api nāma naṃ passemu[^495-14] sapattaṃ saphalaṃ dumaṃ, daliddo va nidhiṃ laddhā[^495-15] nandeyy'; āhaṃ[^495-16] punappunaṃ. || Ja_IX:36 ||
+Ja_IX.4(=430).7: Api nāma naṃ passemu[^495-14] sapattaṃ saphalaṃ dumaṃ, daliddo va nidhiṃ laddhā[^495-15] nandeyy'; āhaṃ[^495-16] punappunaṃ. ||  
+Ja_IX:36 ||  
 
-Ja_IX.4(=430).8: Tato amatam ādāya abhisiñci mahīruhaṃ, tassa sākhā virūhiṃsu[^495-17] sītacchāyā manoramā. || Ja_IX:37 ||
+Ja_IX.4(=430).8: Tato amatam ādāya abhisiñci mahīruhaṃ, tassa sākhā virūhiṃsu[^495-17] sītacchāyā manoramā. ||  
+Ja_IX:37 ||  
 
-Ja_IX.4(=430).9: Evaṃ Sakka sakhī hohi saha sabbehi ñātibhi yathāham ajja sukhito disvāna saphalaṃ dumaṃ. || Ja_IX:38 ||
+Ja_IX.4(=430).9: Evaṃ Sakka sakhī hohi saha sabbehi ñātibhi yathāham ajja sukhito disvāna saphalaṃ dumaṃ. ||  
+Ja_IX:38 ||  
 
-Ja_IX.4(=430).10: Suvassa ca varaṃ datvā[^495-18] katvāna saphalaṃ dumaṃ pakkāmi saha bhariyāya devānaṃ Nandanaṃ vanan ti. || Ja_IX:39 ||
+Ja_IX.4(=430).10: Suvassa ca varaṃ datvā[^495-18] katvāna saphalaṃ dumaṃ pakkāmi saha bhariyāya devānaṃ Nandanaṃ vanan ti. ||  
+Ja_IX:39 ||  
 
 Pañhapaṭipañhāpi[^495-19] purimanayen'; eva veditabbā[^495-20], anuttānapadamattam eva[^495-21] vaṇṇayissāma: haritapattā ti nīlapaṇṇasañchannā[^495-22], koḷāpe ti vāte paharante
 
@@ -6508,7 +7270,8 @@ ti vutte "bhikkhu kileso nāma guṇaviddhaṃsako nirassādo[^497-1] niraye nib
 
 chanto "amhākaṃ puññakkhettaṃ mā pamajjīti" Mahāsattaṃ deviyā niyyādetvā agamāsi. Tato paṭṭhāya sā Mahāsattaṃ sahatthā parivisati. Ath'; ekadivasaṃ sā bhojanaṃ sampādetvā tasmiṃ cirāyamāne gandhodakena nahātvā saṇhaṃ maṭṭasāṭakaṃ[^498-1] nivāsetvā sīhapañjaraṃ vivarāpetvā sarīraṃ[^498-2] vātaṃ paharāpentī muṭṭhimañcake[^498-3] nipajji. Mahāsatto pi[^498-4] divātaraṃ sunivattho supāruto bhikkhābhājanaṃ ādāya ākāsenāgantvā sīhapañjaraṃ sampāpuni[^498-5]. Deviyā tassa vākacīrasaddaṃ sutvā vegena uṭṭhahantiyā maṭṭasāṭako bhassi. Mahāsattassa visabhāgārammaṇaṃ cakkhuṃ paṭihaññi, ath'; assa anekavassakoṭisatasahassakālabbhantare[^498-6] nivutthakileso[^498-7] karaṇḍake sayitāasīviso viya uṭṭhahitvā jhānaṃ antaradhāpesi. So satiṃ upaṭṭhapetuṃ asakkonto gantvā deviṃ[^498-8] hatthe gaṇhi, tāvad eva sāṇiṃ parikkhipiṃsu. So tāya saddhiṃ lokadhammaṃ sevitvā bhuñjitvā uyyānaṃ gantvā tato paṭṭhāya devasikaṃ tath'; eva akāsi. Tassa tāya saddhiṃ lokadhammapatisevanam[^498-9] sakalanagare pākaṭaṃ jātaṃ. Amaccā "Hāritatāpaso[^498-10] evam akāsīti" rañño paṇṇaṃ pahiṇiṃsu. Rājā "maṃ[^498-11] bhinditukāmā evaṃ vadantīti" asaddahitvā paccantaṃ vūpasametvā Bārāṇasiṃ[^498-12] paccāgantvā nagaraṃ padakkhiṇaṃ katvā deviyā santikaṃ gantvā "saccaṃ kira mama ayyo Hāritatāpaso[^498-13] tayā saddhiṃ lokadhammaṃ patisevīti[^498-14]" pucchi. "Saccaṃ devā" 'ti. So tassāpi asaddahitvā "tam eva pucchissāmīti[^498-15]" uyyānaṃ gantvā vanditvā ekamantaṃ nisīditvā taṃ pucchanto paṭhamaṃ gātham āha:
 
-Ja_IX.5(=431).1: Sutaṃ m'; etaṃ[^498-16] mahābrahme: kāme bhuñjati Hārito[^498-17], kacc'; etaṃ vacanaṃ tucchaṃ, kacci suddho irīyasīti[^498-18]. || Ja_IX:41 ||
+Ja_IX.5(=431).1: Sutaṃ m'; etaṃ[^498-16] mahābrahme: kāme bhuñjati Hārito[^498-17], kacc'; etaṃ vacanaṃ tucchaṃ, kacci suddho irīyasīti[^498-18]. ||  
+Ja_IX:41 ||  
 
 Tattha kaccetan ti kacci etaṃ Hārito kāme paribhuñjatīti amhehi sutavacanaṃ tucchaṃ abhūtaṃ, kacci tvaṃ suddho iriyasi viharasīti.
 
@@ -6520,15 +7283,18 @@ Tattha kaccetan ti kacci etaṃ Hārito kāme paribhuñjatīti amhehi sutavacana
 
 So cintesi: "ayaṃ rājā ‘nāhaṃ paribhuñjāmīti'; vutte pi mama saddahissat'; eva, imasmiṃ pana[^499-1] loke saccasadisī[^499-2] patiṭṭhā nāma n'; atthi, ujjhitasaccā[^499-3] hi bodhitale[^499-4] nisīditvā bodhiṃ pāpuṇituṃ na sakkonti, mayā saccam eva kathetuṃ vaṭṭatīti". Bodhisattassa hi ekaccesu[^499-5] ṭhānesu[^499-6] pāṇātipāto[^499-7] pi[^499-8] adinnādānam pi[^499-9] micchācāro pi[^499-8] surāpānam[^499-10] pi hoti yeva, atthabhañjakavisaṃvādaṃ[^499-11] pana[^499-12] purakkhatvā musāvādo nāma na hosi[^499-13], tasmā so saccam eva kathento dutiyaṃ gātham āha:
 
-Ja_IX.5(=431).2: Evam etaṃ[^499-14] mahārāja yathā te vacanaṃ sutaṃ, kummagge paṭipanno 'smi mohaneyyesu mucchito ti. || Ja_IX:42 ||
+Ja_IX.5(=431).2: Evam etaṃ[^499-14] mahārāja yathā te vacanaṃ sutaṃ, kummagge paṭipanno 'smi mohaneyyesu mucchito ti. ||  
+Ja_IX:42 ||  
 
 Tattha mohaneyyesū 'ti kāmaguṇesu, kāmaguṇesu hi loko muyhati[^499-15], te ca[^499-16] lokaṃ mohenti[^499-17], tasmā mohaneyyā ti vuccanti. Taṃ sutvā rājā tatiyaṃ gātham āha:
 
-Ja_IX.5(=431).3: Ādu[^499-18] paññā kimatthikā[^499-19] nipuṇā sādhucintanī[^499-20] yāva[^499-21] uppatitaṃ rāgaṃ kiṃmano na vinodaye ti. || Ja_IX:43 ||
+Ja_IX.5(=431).3: Ādu[^499-18] paññā kimatthikā[^499-19] nipuṇā sādhucintanī[^499-20] yāva[^499-21] uppatitaṃ rāgaṃ kiṃmano na vinodaye ti. ||  
+Ja_IX:43 ||  
 
 Tattha ādū[^499-18] 'ti nipāto, idaṃ vuttaṃ hoti: bhante gilānassa nāma[^499-22] bhesajjaṃ pipāsitassa[^499-23] pānīyaṃ paṭisaraṇaṃ[^499-24], tumhākaṃ pan'; esā nipuṇā sādhūnaṃ[^499-25] atthānaṃ[^499-26] cintanī[^499-27] paññā kimatthiyā[^499-28] yā[^499-21] puna[^499-29] uppatitaṃ rāgaṃ kiṃmano na vinodaye ti kiṃcittam pi[^499-30] nāma vinodetuṃ nāsakkhīti. Ath'; assa kilesabalaṃ dassento Hārito catutthaṃ gātham āha:
 
-Ja_IX.5(=431).4: Cattāro 'me mahārāja loke atibalā[^499-31] bhusā rāgo doso mado moho yattha paññā na gādhatīti. || Ja_IX:44 ||
+Ja_IX.5(=431).4: Cattāro 'me mahārāja loke atibalā[^499-31] bhusā rāgo doso mado moho yattha paññā na gādhatīti. ||  
+Ja_IX:44 ||  
 
 
 <!-- PTS Page 500 -->
@@ -6538,19 +7304,23 @@ Ja_IX.5(=431).4: Cattāro 'me mahārāja loke atibalā[^499-31] bhusā rāgo do
 
 Tattha yatthā 'ti yesu pariyuṭṭhānappattesu[^500-1] mahoghe[^500-2] patitā[^500-2] viya paññā gādhaṃ patiṭṭhaṃ na labhati. Taṃ sutvā rājā pañcamaṃ gātham āha:
 
-Ja_IX.5(=431).5: Arahaṃ[^500-3] sīlasampanno suddho carati Hārito medhāvī paṇḍito c'; eva, iti no sammato bhavan ti. || Ja_IX:45 ||
+Ja_IX.5(=431).5: Arahaṃ[^500-3] sīlasampanno suddho carati Hārito medhāvī paṇḍito c'; eva, iti no sammato bhavan ti. ||  
+Ja_IX:45 ||  
 
 Tattha iti no sammato ti evaṃ amhākaṃ sammato sambhāvito[^500-4] bhavaṃ[^500-5]. Tato Hārito chaṭṭhaṃ[^500-6] gātham āha:
 
-Ja_IX.5(=431).6: Medhāvinam[^500-7] pi hiṃsanti isiṃ[^500-8] dhammaguṇe ratam vitakkā[^500-9] pāpakā[^500-10] rāja subhā rāgūpasaṃhitā[^500-11] ti. || Ja_IX:46 ||
+Ja_IX.5(=431).6: Medhāvinam[^500-7] pi hiṃsanti isiṃ[^500-8] dhammaguṇe ratam vitakkā[^500-9] pāpakā[^500-10] rāja subhā rāgūpasaṃhitā[^500-11] ti. ||  
+Ja_IX:46 ||  
 
 Tattha subhā ti subhanimittagahaṇena pavattā. Atha naṃ kilesappahāne[^500-12] ussāhento[^500-13] rājā sattamaṃ gātham āha:
 
-Ja_IX.5(=431).7: Uppann'; āyaṃ sarīrajo rāgo vaṇṇavidūsano tava[^500-14], taṃ pajaha, bhaddam atthu te, bahunn'; āsi[^500-15] medhāvi sammato ti. || Ja_IX:47 ||
+Ja_IX.5(=431).7: Uppann'; āyaṃ sarīrajo rāgo vaṇṇavidūsano tava[^500-14], taṃ pajaha, bhaddam atthu te, bahunn'; āsi[^500-15] medhāvi sammato ti. ||  
+Ja_IX:47 ||  
 
 Tattha vaṇṇavidūsano[^500-16] ti tava sarīravaṇṇassa ca guṇavaṇṇassa ca vidūsano, bahunnāsīti bahunnaṃ asi[^500-17] medhāvīti sammato ti. Tato Mahāsatto satiṃ paṭilabhitvā kāmesu ādīnavaṃ sallakkhetvā aṭṭhamaṃ gātham āha:
 
-Ja_IX.5(=431).8: Te andhakaraṇe[^500-18] kāme bahudukkhe mahāvise tesaṃ mūlaṃ gavesissaṃ, checchaṃ[^500-19] rāgaṃ sabandhanan[^500-20] ti. || Ja_IX:48 ||
+Ja_IX.5(=431).8: Te andhakaraṇe[^500-18] kāme bahudukkhe mahāvise tesaṃ mūlaṃ gavesissaṃ, checchaṃ[^500-19] rāgaṃ sabandhanan[^500-20] ti. ||  
+Ja_IX:48 ||  
 
 Tattha andhakaraṇe[^500-21] ti paññācakkhuvināsanato andhakare[^500-22], bahudukkhe[^500-23] ti ettha appasādā kāmā ti ādīni suttāni āharitvā tesaṃ bahudukkhatā dassetabbā, mahāvise ti sampayuttakilesavisassa c'; eva[^500-24] vipākavisassa[^500-25] ca[^500-26] mahantatāya mahāvise, tesaṃ mūlan ti te vuttappakāre kāme pahātuṃ tesaṃ[^500-27]
 
@@ -6562,7 +7332,8 @@ Tattha andhakaraṇe[^500-21] ti paññācakkhuvināsanato andhakare[^500-22], b
 
 mūlaṃ gavesissaṃ[^501-1] pariyesissāmi[^501-2], kiṃ pana tesaṃ[^501-3] mūlan ti: ayonisomanasikāro, checchaṃ[^501-4] rāgaṃ sabandhanan ti mahārāja idān'; eva paññākhaggena paharitvā subhanimittabandhanena sabandhanaṃ[^501-5] rāgaṃ chindissāmīti. Idañ ca pana vatvā "mahārāja okāsaṃ tāva me karohīti" okāsaṃ kāretvā paṇṇasālaṃ pavisitvā kasiṇamaṇḍalaṃ oloketvā puna jhānaṃ[^501-6] uppādetvā paṇṇasālato nikkhamma[^501-7] ākāse pallaṃkena nisīditvā rañño dhammaṃ desetvā "mahārāja, ahaṃ aṭṭhāne[^501-8] vutthakāraṇā[^501-9] mahājanamajjhe garahappatto, appamatto hohi, puna dāni ahaṃ anitthigandhavanasaṇḍam eva gamissāmīti" rañño rodantassa paridevantassa Himavantam eva[^501-14] gantvā aparihīnajjhāno brahmalokūpago ahosi. Satthā taṃ kāraṇaṃ ñatvā[^501-11]
 
-Ja_IX.5(=431).9: Idaṃ vatvāna Hārito[^501-12] isi saccaparakkamo (Alwis, Nirvāna 121.) kāmarāgaṃ virājetvā brahmalokūpago ahū ti || Ja_IX:49 ||
+Ja_IX.5(=431).9: Idaṃ vatvāna Hārito[^501-12] isi saccaparakkamo (Alwis, Nirvāna 121.) kāmarāgaṃ virājetvā brahmalokūpago ahū ti ||  
+Ja_IX:49 ||  
 
 abhisambuddho hutvā imaṃ gāthaṃ[^501-13] vatvā saccāni pakāsetvā jātakaṃ samodhānesi (saccapariyosāne ukkaṇṭhitabhikkhu arahatte patiṭṭhahi): "Tadā rājā Ānando ahosi, Hārito pana[^501-14] aham evā" 'ti. Hāritajātakaṃ[^501-15].
 
@@ -6616,7 +7387,8 @@ mantaṃ adāsi. Bodhisatto nadiyā ṭhitako va mātaraṃ vanditvā hatthakacc
 
 "Ko ca ko cā" 'ti. "Mahārāja yo[^507-1] icchati so va coro hotu[^507-2], tumhākaṃ bhaṇḍakassa[^507-3] laddhakālato paṭṭhāya corehi[^507-4] ko attho, mā pucchathā[^507-5]" 'ti. "Tāta, ahaṃ tumhākaṃ[^507-6] devasikaṃ sahassaṃ dammi, core[^507-7] me gahetvā dehīti". "Mahārāja dhane laddhe kiṃ corehīti[^507-8]". "Dhanato[^507-9] pi no tāta[^507-10] core laddhuṃ vaṭṭatīti". "Tena hi mahārāja ‘ime nāma corā' ti tumhākaṃ na[^507-11] kathessāmi, atīte pavattitakāraṇaṃ[^507-12] pana vo āharissāmi, sace tumhe paññāvanto[^507-13] taṃ kāraṇaṃ jānāthā[^507-14]" 'ti. So evaṃ vatvā atītaṃ āhari: Mahāraja, atīte[^507-15] Bārāṇasito avidūre nadītīragāmake[^507-16] Pāṭalo[^507-17] nāma eko naṭo vasati[^507-18]. So ekasmiṃ divase[^507-19] bhariyaṃ ādāya Bārāṇasiṃ pavisitvā naccitvā[^507-20] gāyitvā dhanaṃ labhitvā ussavapariyosāne bahuṃ surābhattaṃ gāhāpetvā attano gāmaṃ gacchanto nadītīraṃ patvā navodakaṃ āgacchantaṃ disvā[^507-21] suraṃ pivanto nisīditvā matto attano balaṃ ajānanto "mahāvīṇaṃ gīvāya bandhitvā nadiṃ taritvā[^507-22] gamissāmīti" bhariyaṃ hatthe[^507-23] gahetvā nadiṃ otari. Vīṇāchiddehi udakaṃ pāvisi, atha naṃ sā vīṇā udake osīdāpayi, Bhariyā pan' assa osīdanabhāvaṃ ñatvā taṃ vissajjetvā uttaritvā tīre aṭṭhāsi. NaṭaPāṭalo[^507-24] sakiṃ ummujjati sakiṃ nimmujjati, udakaṃ pivitvā uddhumātodaro ahosi. Ath'; assa bhariyā cintesi: "mayhaṃ sāmiko idāni marissati, ekaṃ naṃ gītikaṃ[^507-25] yācitvā parisamajjhe taṃ gāyantī[^507-26] jīvikaṃ kappessāmīti" cintetvā "sāmi, tvaṃ udake nimmujjasi, ekaṃ me gītakaṃ[^507-27] dehi, tena jīvikaṃ kappessāmīti" vatvā
 
-Ja_IX.6(=432).1: Bahussutaṃ cittakathiṃ[^507-28] Gaṅgā vahati[^507-29] Pāṭalaṃ[^507-30] vuyhamānaka[^507-31] bhaddan te, ekaṃ me gāhi[^507-32] gāthakan ti gātham āha[^507-33]. || Ja_IX:50 ||
+Ja_IX.6(=432).1: Bahussutaṃ cittakathiṃ[^507-28] Gaṅgā vahati[^507-29] Pāṭalaṃ[^507-30] vuyhamānaka[^507-31] bhaddan te, ekaṃ me gāhi[^507-32] gāthakan ti gātham āha[^507-33]. ||  
+Ja_IX:50 ||  
 
 Tattha gāthakan ti khuddakaṃ[^507-34] gāthaṃ.
 
@@ -6628,11 +7400,13 @@ Tattha gāthakan ti khuddakaṃ[^507-34] gāthaṃ.
 
 Atha naṃ naṭa-Pāṭalo[^508-1] "bhadde kathaṃ te[^508-2] gītikaṃ[^508-3] dassāmi[^508-4], idāni maṃ[^508-5] mahājanassa paṭisaraṇabhūtaṃ udakaṃ[^508-6] māretīti" vatvā
 
-Ja_IX.6(=432).2: Yena siñcanti dukkhitaṃ yena siñcanti āturaṃ tassa majjhe marissāmi, jātaṃ saraṇato bhayan ti || Ja_IX:51 ||
+Ja_IX.6(=432).2: Yena siñcanti dukkhitaṃ yena siñcanti āturaṃ tassa majjhe marissāmi, jātaṃ saraṇato bhayan ti ||  
+Ja_IX:51 ||  
 
 gātham āha. Bodhisatto imaṃ gāthaṃ dassetvā[^508-7] "mahārāja, yathā[^508-8] udakaṃ mahājanassa paṭisaraṇaṃ tathā rājāno pi, tesaṃ santikā bhaye uppajjamāne[^508-9] taṃ bhayaṃ ko paṭibāhissatīti" vatvā "mahārāja, idaṃ[^508-10] kāraṇaṃ paṭicchannaṃ, mayā pana[^508-11] paṇḍitavedanīyaṃ katvā kathitaṃ, jāna[^508-12] mahārājā" 'ti āha. "Tāta ahaṃ evarūpam pi[^508-13] paṭicchannakathaṃ na jānāmi, core me gahetvā dehīti[^508-14]". Ath'; assa Mahāsatto "tena hi mahārāja idaṃ sutvā jānāhīti" aparam pi kāraṇaṃ āhari: Deva pubbe imissā va[^508-15] Bārāṇasiyā[^508-16] dvāragāme eko kumbhakāro bhājanatthāya mattikaṃ āharanto ekasmiṃ ñeva ṭhāne nibaddhaṃ gaṇhitvā antopabbhāraṃ mahantaṃ āvāṭaṃ khaṇi. Ath' ekadivasaṃ tassa mattikaṃ gaṇhantassa akālamegho[^508-17] uṭṭhahitvā mahāvuṭṭhiṃ pātesi[^508-18], udakaṃ avattharamānaṃ āvāṭataṭaṃ[^508-19] pātesi, ten' assa[^508-20] matthako[^508-21] bhijji. So paridevamāno[^508-22]
 
-Ja_IX.6(=432).3: Yattha bījāni rūhanti sattā yattha patiṭṭhitā sā me sīsaṃ nipīḷeti[^508-23], jātaṃ saraṇato bhayan ti || Ja_IX:52 ||
+Ja_IX.6(=432).3: Yattha bījāni rūhanti sattā yattha patiṭṭhitā sā me sīsaṃ nipīḷeti[^508-23], jātaṃ saraṇato bhayan ti ||  
+Ja_IX:52 ||  
 
 gātham āha: Tattha nipīḷetīti patitvā[^508-24] pīḷeti bhindati. "Yathā hi deva mahājanassa paṭisaraṇabhūtā mahāpaṭhavī[^508-25] kumbhakārassa sīsaṃ bhindi evaṃ[^508-26] mahāpaṭhavisame[^508-27] sabbalokassa paṭisaraṇe[^508-28] narinde[^508-28] uṭṭhāya corikaṃ[^508-29] karonte ko paṭibāhissati, sakkhissasi mahārāja[^508-30] evaṃ paṭic-
 
@@ -6644,11 +7418,13 @@ gātham āha: Tattha nipīḷetīti patitvā[^508-24] pīḷeti bhindati. "Yath�
 
 chādetvā kathitaṃ coraṃ jānitun" ti. "Tāta mayhaṃ paṭicchannena kāraṇaṃ n'; atthi, ‘ayaṃ coro'; ti evaṃ me coraṃ gahetvā dehīti". So rājānaṃ rakkhanto "tvaṃ coro" ti avatvā aparam pi udāharaṇaṃ āhari: Mahārāja pubbe imasmiṃ yeva nagare ekassa purisassa gehaṃ[^509-1] ādittaṃ. So "anto pavisitvā bhaṇḍakaṃ[^509-2] nīharā" ti aññaṃ āṇāpesi. Tasmiṃ pavisitvā nīharante gehadvāraṃ pidahitaṃ[^509-3]. So dhūmandho[^509-4] hutvā nikkhamanamaggaṃ alabhanto uppannaḍāhadukkho[^509-5] anto ṭhito va pavidevanto[^509-6]:
 
-Ja_IX.6(=432).4: Yena bhattāni paccanti[^509-7] sītaṃ yena vihaññati so maṃ ḍahati[^509-8] gattāni, jātaṃ saraṇato bhayan ti || Ja_IX:53 ||
+Ja_IX.6(=432).4: Yena bhattāni paccanti[^509-7] sītaṃ yena vihaññati so maṃ ḍahati[^509-8] gattāni, jātaṃ saraṇato bhayan ti ||  
+Ja_IX:53 ||  
 
 gātham āha. Tattha so maṃ ḍahatīti[^509-8] so me ḍahati[^509-9], ayam eva vā pāṭho. "Mahārāja, aggi viya mahājanassa paṭisaraṇabhūto eko manusso ratanabhaṇḍikaṃ hari, mā maṃ coraṃ pucchā" 'ti. "Tāta mayhaṃ coraṃ[^509-10] dehi yevā" 'ti. So rājānaṃ "tvaṃ coro" ti avatvā aparam pi udāharaṇaṃ āhari: Deva pubbe imasmiṃ yeva nagare eko puriso atibahuṃ bhuñjitvā jīrāpetuṃ asakkonto vedanāmatto[^509-11] hutvā paridevanto
 
-Ja_IX.6(=432).5: Yena bhuttena yāpenti puthubrāhmaṇakhattiyā so maṃ bhutto vyāpādi[^509-12], jātaṃ saraṇato bhayan ti || Ja_IX:54 ||
+Ja_IX.6(=432).5: Yena bhuttena yāpenti puthubrāhmaṇakhattiyā so maṃ bhutto vyāpādi[^509-12], jātaṃ saraṇato bhayan ti ||  
+Ja_IX:54 ||  
 
 gātham āha. Tattha so maṃ bhutto vyāpādīti so odano bhutto maṃ vyāpādeti māreti[^509-13]. "Mahārāja, bhattaṃ viya mahājanassa[^509-14] paṭisaraṇabhūto eko bhaṇḍakaṃ[^509-15] hari, tasmiṃ laddhe kiṃ coraṃ pucchasīti[^509-16]". "Tāta sakkonto coraṃ me dehīti". So tassa saññāpanatthaṃ[^509-17] aparam pi udāharaṇaṃ āhari:
 
@@ -6660,11 +7436,13 @@ gātham āha. Tattha so maṃ bhutto vyāpādīti so odano bhutto maṃ vyāpād
 
 Mahārāja pubbe[^510-1] imasmiṃ ñeva nagare ekassa vāto uṭṭhahitvā gattāni bhañji[^510-2], so paridevanto[^510-3]
 
-Ja_IX.6(=432).6: Gimhānaṃ pacchime māse vātam icchanti paṇḍitā, so me bhañjati gattāni, jātaṃ saraṇato bhayan ti || Ja_IX:55 ||
+Ja_IX.6(=432).6: Gimhānaṃ pacchime māse vātam icchanti paṇḍitā, so me bhañjati gattāni, jātaṃ saraṇato bhayan ti ||  
+Ja_IX:55 ||  
 
 gātham āha. "Iti mahārāja saraṇato bhayaṃ uppannaṃ, jān'; etaṃ[^510-4] kāraṇan" ti. "Tāta coram eva[^510-5] dehīti". So tassa saññāpanatthaṃ aparam pi udāharaṇaṃ āhari: Deva atīte Himavantapasse[^510-6] viṭapasampanno[^510-7] mahārukkho ahosi[^510-8] anekasahassānaṃ[^510-9] sakuṇānaṃ nivāso, tassa dve sākhā aññamaññaṃ ghaṭṭesuṃ[^510-10], tato dhūmo uppajji, aggicuṇṇāni patiṃsu, taṃ disvā sakuṇajeṭṭhako
 
-Ja_IX.6(=432).7: Yaṃ nissitā jagatiruhaṃ[^510-11] [vihaṅgamā] so[^510-12] 'yaṃ aggiṃ pamuñcati[^510-13], disā bhajatha vakkaṅgā, jātaṃ saraṇato bhayan ti (= J. I p.216.) || Ja_IX:56 ||
+Ja_IX.6(=432).7: Yaṃ nissitā jagatiruhaṃ[^510-11] [vihaṅgamā] so[^510-12] 'yaṃ aggiṃ pamuñcati[^510-13], disā bhajatha vakkaṅgā, jātaṃ saraṇato bhayan ti (= J. I p.216.) ||  
+Ja_IX:56 ||  
 
 gātham āha. Tattha jagatiruhan ti mahīruhaṃ[^510-14]. "Yathā hi deva rukkho pakkhīnaṃ paṭisaraṇaṃ evaṃ rājā mahājanassa[^510-15], tasmiṃ corikaṃ[^510-16] karonte ko paṭibāhissati, sallakkhehi devā" 'ti. "Tāta mayhaṃ coram eva[^510-17] dehīti". Ath'; assa so aparam pi udāharaṇaṃ āhari: Mahārāja ekasmiṃ Kāsigāme[^510-18] aññatarassa kulagharassa[^510-19] pacchimabhāge kakkhaḷasuṃsumāranadī atthi, tassa ca kulassa eko va putto, so pitari kālakate mātaraṃ paṭijaggi. Tassa mātā anicchamānass'; ev'; ekaṃ kuladhītaraṃ ānesi. Sā pubbabhāge sassuṃ sampiyāyitvā[^510-20] pacchā puttadhītāhi vaḍḍhamānā taṃ nīharitukāmā ahosi. Tassāpi pana mātāpi tasmiṃ ñeva[^510-21] ghare vasati. Sā sāmikassa santike sassuyā nānappakāraṃ dosaṃ vatvā paribhinditvā "ahaṃ te mātaraṃ posetuṃ na sakkomi, mārehi nan" ti vatvā "manussamaraṇaṃ
 
@@ -6684,7 +7462,8 @@ nāma bhāriyaṃ[^511-1], kathaṃ naṃ[^511-2] māremīti" vutte[^511-3] "nid
 
 viravamāno palāyi. Mahallikā[^512-1] punadivase maṭṭasāṭakaṃ[^512-2] nivāsetvā nānāratanabhaṇḍikaṃ[^512-3] gahetvā va[^512-4] gharaṃ agamāsi. Suṇisā naṃ[^512-5] disvā "kahaṃ[^512-6] te amma idaṃ[^512-7] laddhan" ti pucchi. "Amma etasmiṃ susāne dārucitakāya jhāpitā[^512-8] evarūpaṃ labhantīti[^512-9]". "Amma mayāpi sakkā laddhun" ti. "Mādisī hutvā labhissasīti". Sā piḷandhanabhaṇḍakalobhena[^512-10] sāmikass'; akathetvā tattha attānaṃ jhāpesi. Atha naṃ punadivase sāmiko apassanto "amma imāya hi[^512-11] te[^512-12] velāya[^512-13] suṇisā[^512-14] nāgacchatīti" āha. Sā taṃ "are[^512-15] pāpapurisa kiṃ matā nāma āgacchantīti" tajjetvā
 
-Ja_IX.6(=432).8: Yam ānayiṃ[^512-16] somanassaṃ māliniṃ candanussadaṃ sā maṃ gharā nicchubhati[^512-17], jātaṃ saraṇato bhayan ti || Ja_IX:57 ||
+Ja_IX.6(=432).8: Yam ānayiṃ[^512-16] somanassaṃ māliniṃ candanussadaṃ sā maṃ gharā nicchubhati[^512-17], jātaṃ saraṇato bhayan ti ||  
+Ja_IX:57 ||  
 
 gātham āha. Tattha somanassan ti somanassaṃ uppādetvā, somanassā[^512-18] ti vā[^512-19] pāṭho, somanassavatī[^512-20] hutvā[^512-21] ti attho, idaṃ vuttaṃ hoti: yam ahaṃ[^512-22] imaṃ me nissāya putto puttadhītāhi[^512-23] vaḍḍhissati[^512-24] mañ ca mahallikakāle posessatīti[^512-25] māliniṃ candanussadaṃ[^512-26] katvā alaṃkaritvā somanassajātaṃ[^512-27] ānesiṃ sā maṃ ajja gharā nīharati, saraṇato yeva[^512-28] bhayaṃ uppannan ti. "Mahārāja[^512-29], suṇisā viya sassuyā mahājanassa rājā[^512-30] paṭisaranaṃ, tato bhaye uppanne kiṃ sakkā kātuṃ, sallakkhehi devā[^512-31]" 'ti. "Tāta[^512-32], nāhaṃ tayā āhaṭakāraṇāni[^512-33] jānāmi, coram eva dehīti[^512-34]". So "rājānaṃ rakkhissāmīti" puna[^512-35] aparam pi kāraṇaṃ[^512-36] āhari: Deva pubbe imasmiṃ ñeva[^512-37] nagare eko puriso patthanaṃ katvā puttaṃ labhi. So tassa[^512-38] jātakāle "putto me laddho" ti pītisomanassajāto[^512-39] taṃ posetvā vayappattakāle dārena[^512-40] saṃyojetvā aparabhāge jaraṃ patvā kammantaṃ adhiṭṭhātuṃ[^512-41] nāsakkhi. Atha naṃ putto "tvaṃ kammaṃ kātuṃ na sakkosi, ito nikkhamā" 'ti[^512-42] gehato
 
@@ -6696,13 +7475,16 @@ gātham āha. Tattha somanassan ti somanassaṃ uppādetvā, somanassā[^512-18]
 
 nīhari. So kicchena kasirena bhikkhāya[^513-1] jīvikaṃ kappento paridevamāno
 
-Ja_IX.6(=432).9: Yena jātena nandissaṃ[^513-2] yassa ca[^513-3] bhavam icchisaṃ[^513-4] so maṃ gharā nicchubhati, jātaṃ saraṇato {bhayan} ti || Ja_IX:58 ||
+Ja_IX.6(=432).9: Yena jātena nandissaṃ[^513-2] yassa ca[^513-3] bhavam icchisaṃ[^513-4] so maṃ gharā nicchubhati, jātaṃ saraṇato {bhayan} ti ||  
+Ja_IX:58 ||  
 
 gātham āha. Tattha so man ti so putto maṃ gharato nīharati, sv-āhaṃ {bhikkhaṃ} caritvā dukkhaṃ[^513-5] jīvāmi, saraṇato yeva me bhayaṃ jātan[^513-6] ti. "Mahārāja yathā pitā[^513-7] nāma mahallako paṭibalena puttena rakkhitabbo evaṃ sabbo[^513-8] pi janapado[^513-9] raññā[^513-10] rakkhitabbo[^513-9], idañ[^513-11] ca bhayaṃ uppajjamānaṃ sabbasatte rakkhantassa rañño santikā uppannaṃ, iminā kāraṇena ‘asuko nāma coro'; ti jāna devā" 'ti[^513-12] āha[^513-13]. "Tāta nāhaṃ kāraṇaṃ vā akāraṇaṃ vā[^513-14] jānāmi, coraṃ vā me dehi tvaṃ ñeva vā coro hohīti[^513-15]" evaṃ rājā punappuna māṇavaṃ anuyuñji. Atha naṃ so evam āha: "kiṃ pana mahārāja ekaṃsen'; eva[^513-16] coragahaṇaṃ rocethā" 'ti[^513-17]. "Āma tātā 'ti. "Tena hi ‘asuko ca asuko ca[^513-18] coro' ti parisamajjhe pakāsemīti". "Evaṃ karohi tātā" 'ti. So tassa vacanaṃ sutvā "ayaṃ rājā attānaṃ rakkhituṃ na deti[^513-19], gaṇhissāmi idāni[^513-20] coran" ti sannipatite mahājane āmantetvā
 
-Ja_IX.6(=432).10: Suṇantu me jānapadā negamā ca samāgatā: yat'; odakaṃ tad ādittaṃ, yato khemaṃ tato bhayaṃ, || Ja_IX:59 ||
+Ja_IX.6(=432).10: Suṇantu me jānapadā negamā ca samāgatā: yat'; odakaṃ tad ādittaṃ, yato khemaṃ tato bhayaṃ, ||  
+Ja_IX:59 ||  
 
-Ja_IX.6(=432).11: Rājā vilumpate raṭṭhaṃ brāhmaṇo ca purohito, attaguttā viharatha, jātaṃ saraṇato bhayan ti || Ja_IX:60 ||
+Ja_IX.6(=432).11: Rājā vilumpate raṭṭhaṃ brāhmaṇo ca purohito, attaguttā viharatha, jātaṃ saraṇato bhayan ti ||  
+Ja_IX:60 ||  
 
 imā gāthā āha. Tattha yato dakaṃ tadādittan ti yaṃ udakaṃ tad eva ādittaṃ, yato kheman ti yato rājato khemena bhavitabbaṃ tato va[^513-21] bhayaṃ uppannaṃ, attaguttā viharathā 'ti tumhe dāni[^513-22] anāthā jātā attānaṃ mā vināsetha,
 
@@ -6724,7 +7506,8 @@ attanā va guttā hutvā attano santakaṃ dhanadhaññaṃ rakkhatha[^514-1], r
 
 sahāyakā hutvā ekācariyakule sabbasippāni uggaṇhiṃsu. Aparabhāge kumāro[^515-1] pitu accayena rajje patiṭṭhāsi. Kassapo cintesi: "mayhaṃ sahāyo rājā jāto, idāni me mahantaṃ[^515-2] issariyaṃ[^515-3] dassati, kiṃ me issariyena, ahaṃ mātāpitaro ca rājānañ ca āpucchitvā pabbajissāmīti" so rājānañ ca mātāpitaro ca āpucchitvā Himavantaṃ pavisitvā isipabbajjaṃ[^515-4] pabbajitvā sattame divase[^515-5] abhiññā ca samāpattiyo ca nibbattetvā uñchācariyāya yāpento vihāsi. Pabbajitaṃ pana Lomasakassapo ti sañjāniṃsu. Parimāritindriyo[^515-6] ghoratapo tāpaso ahosi. Tassa pana tapatejena[^515-7] Sakkabhavanaṃ[^515-8] kampi. Sakko āvajjamāno taṃ disvā cintesi: "ayaṃ tāpaso ativiya uggatejo Sakkabhāvāpi maṃ cāveyya[^515-9], Bārāṇasiraññā saddhiṃ ekato hutvā tapam assa[^515-10] bhindissāmīti" so Sakkānubhāvena aḍḍharattasamaye[^515-11] Bārāṇasirañño sirigabbhaṃ pavisitvā sakalagabbhaṃ sarīrappabhāya obhāsetvā rañño santike ākāse ṭhito "uṭṭhehi mahārājā" 'ti rājānaṃ pabodhesi "ko si nāma tvan" ti ca[^515-12] vutte "Sakko ham asmīti" āha. "Kimatthaṃ āgato sīti". "Mahārāja sakala-Jambudīpe ekarajjaṃ icchasi na icchasīti[^515-13]". "Kissa na icchāmīti". Atha naṃ Sakko "tena hi Lomasakassapaṃ ānetvā pasughātayaññaṃ yajāpehi, Sakka-samo ajarāmaro hutvā sakala-Jambudīpe rajjaṃ karissasīti" vatvā paṭhamaṃ gātham āha:
 
-Ja_IX.7(=433).1: Assa Inda-samo rāja[^515-14] accantaṃ[^515-15] ajarāmaro sace tvaṃ[^515-16] yaññaṃ yājeyya[^515-17] isiṃ Lomasakassapan ti. || Ja_IX:61 ||
+Ja_IX.7(=433).1: Assa Inda-samo rāja[^515-14] accantaṃ[^515-15] ajarāmaro sace tvaṃ[^515-16] yaññaṃ yājeyya[^515-17] isiṃ Lomasakassapan ti. ||  
+Ja_IX:61 ||  
 
 Tattha assā ti bhavissasi[^515-18], yājeyyā 'ti sace tvaṃ araññāyatanato isiṃ Lomasakassapaṃ ānetvā yaññaṃ yajissasi[^515-19]. Tassa vacanaṃ sutvā rājā "sādhū" 'ti sampaṭicchi. Sakko "tena hi mā papañcaṃ karīti" vatvā pakkāmi. Rājā
 
@@ -6736,13 +7519,17 @@ Tattha assā ti bhavissasi[^515-18], yājeyyā 'ti sace tvaṃ araññāyatanato
 
 punadivase Sayhaṃ[^516-1] nāma amaccam pakkositvā[^516-2] "samma[^516-3] mayhaṃ piyasahāyassa[^516-4] Lomasakassapassa santikaṃ gantvā mama vacanena evaṃ vadehi: ‘rājā[^516-5] tumhehi yaññaṃ[^516-6] yajāpetvā sakala-Jambudīpe ekarājā bhavissati, tumhākam pi yattakaṃ padesaṃ icchatha tattakaṃ dassati, mayā saddhiṃ yaññaṃ yajituṃ āgacchathā"'; 'ti. So "sādhu devā" 'ti tāpasassa vasanokāsaṃ jānanatthaṃ nagare bheriñ carāpetvā ekena vanacarakena[^516-7] "ahaṃ jānāmīti" vutte taṃ purato katvā mahantena parivārena tattha gantvā isiṃ vanditvā ekamantaṃ nisinno taṃ sāsanaṃ ārocesi. Atha naṃ so "Sayha[^516-8] kiṃ nām'; etaṃ kathesīti" vatvā paṭikkhipanto catasso gāthā abhāsi:
 
-Ja_IX.7(=433).2: Sasamuddapariyāyaṃ mahiṃ sāgarakuṇḍalaṃ (Cfr. p.32.) na icche saha nindāya, evaṃ Sayha vijānahi. || Ja_IX:62 ||
+Ja_IX.7(=433).2: Sasamuddapariyāyaṃ mahiṃ sāgarakuṇḍalaṃ (Cfr. p.32.) na icche saha nindāya, evaṃ Sayha vijānahi. ||  
+Ja_IX:62 ||  
 
-Ja_IX.7(=433).3: Dhi-r-atthu taṃ yasalābhaṃ dhanalābhañ ca[^516-9] brāhmaṇa yā vutti vinipātena adhammacaraṇena vā. || Ja_IX:63 ||
+Ja_IX.7(=433).3: Dhi-r-atthu taṃ yasalābhaṃ dhanalābhañ ca[^516-9] brāhmaṇa yā vutti vinipātena adhammacaraṇena vā. ||  
+Ja_IX:63 ||  
 
-Ja_IX.7(=433).4: Api ce pattam ādāya anāgāro paribbaje sā eva jīvikā seyyā yā cādhammena esanā. || Ja_IX:64 ||
+Ja_IX.7(=433).4: Api ce pattam ādāya anāgāro paribbaje sā eva jīvikā seyyā yā cādhammena esanā. ||  
+Ja_IX:64 ||  
 
-Ja_IX.7(=433).5: Api ce pattam ādāya anāgāro paribbaje aññaṃ ahiṃsayaṃ loke api rajjena taṃ varan ti. || Ja_IX:65 ||
+Ja_IX.7(=433).5: Api ce pattam ādāya anāgāro paribbaje aññaṃ ahiṃsayaṃ loke api rajjena taṃ varan ti. ||  
+Ja_IX:65 ||  
 
 Tattha sasamuddapariyāyan ti sasamuddaparikkhepaṃ, mahiṃ sāgarakuṇḍalan ti cattāro dīpe parikkhipitvā ṭhitasāgarehi kaṇṇavalliyā ṭhapitakuṇḍalehi viya samannāgataṃ, saha nindāyā 'ti iminā pasughātakammaṃ katan ti imāya nindāya saha cakkavāḷapariyantaṃ mahāpaṭhaviṃ[^516-10] na icchāmīti vadati, yā vutti vinipātenā 'ti narake vinipātakammena yā ca jīvikavutti[^516-11] hoti taṃ dhiratthu, garahāmi taṃ vuttin ti dīpeti, sā jīvikā ti pabbajitassa mattikāpattaṃ ādāya paragharāni upasaṃkamitvā āhārapariyesanajīvikā yasa dhanalābhato sataguṇena varatarā ti attho, api rajjena taṃ varan ti anāgārassa sato aññaṃ avihiṃsantassa[^516-12] paribbajanaṃ[^516-13] sakala-Jambudīparajjena[^516-14] pi varan ti attho. Amacco tassa kathaṃ sutvā gantvā rañño ārocesi. Rājā "anāgacchante kiṃ sakkā kātun" ti tuṇhī ahosi. Puna Sakko
 
@@ -6762,9 +7549,11 @@ aḍḍharattasamaye[^517-1] āgantvā ākāse ṭhatvā "kiṃ mahārāja Lomas
 
 te[^518-1] Lomasakassapa[^518-2] ayuttaṃ appatirūpaṃ, kin nām'; etaṃ karosīti" vatvā paridevanto dve gāthā abhāsi:
 
-Ja_IX.7(=433).6: Balaṃ cando balaṃ suriyo balaṃ samaṇabrāhmaṇā balaṃ velā samuddassa balātibalam itthiyo. || Ja_IX:66 ||
+Ja_IX.7(=433).6: Balaṃ cando balaṃ suriyo balaṃ samaṇabrāhmaṇā balaṃ velā samuddassa balātibalam itthiyo. ||  
+Ja_IX:66 ||  
 
-Ja_IX.7(=433).7: Yathā uggatapaṃ santaṃ isiṃ Lomasakassapaṃ pitu atthā[^518-3] Candavatī vācapeyyaṃ[^518-4] ayājayīti[^518-5]. || Ja_IX:67 ||
+Ja_IX.7(=433).7: Yathā uggatapaṃ santaṃ isiṃ Lomasakassapaṃ pitu atthā[^518-3] Candavatī vācapeyyaṃ[^518-4] ayājayīti[^518-5]. ||  
+Ja_IX:67 ||  
 
 Tattha balaṃ cando balaṃ suriyo ti mahāndhakāravidhamane[^518-6] aññaṃ balaṃ nāma[^518-7] n'; atthi, candimasuriyā va tattha[^518-8] balavanto[^518-9] ti attho, samaṇabrāhmaṇā ti iṭṭhāniṭṭhavisayavegasahane[^518-10] khantibalañāṇabalena samannāgatā samitapāpā bāhitapāpā[^518-11] samaṇabrāhmaṇā, balaṃ velā samuddassā 'ti mahāsamuddassa uttarituṃ adatvā[^518-12] udakaṃ āvaritvā ṭhānasamatthatāya[^518-13] velā balaṃ[^518-14] nāma, balātibalan ti itthiyo pana visadañāṇe[^518-15] pi avītarāge attano vasaṃ[^518-16] ānetvā vināsetuṃ samatthatāya etehi sabbehi balehi atibalā nāma, sabbabalehi itthibalam eva mahantan ti attho, yathā ti yasmā, pitu atthā ti pitu vaḍḍhiatthāya[^518-17], idaṃ vuttaṃ hoti: yasmā imaṃ uggatapaṃ samānaṃ sīlādīnaṃ guṇānaṃ esitattā isiṃ ayaṃ Candavatī nissīlaṃ katvā pitu atthāya[^518-18] vācapeyyayaññaṃ[^518-19] yājeti[^518-20] tasmā jānitabbam etaṃ: balātibalam itthiyo ti. Tasmiṃ samaye Kassapo yaññaṃ yajanatthāya "maṅgalahatthiṃ gīvāya paharissāmīti" khaggaratanaṃ ukkhipi. Hatthi taṃ disvā maraṇabhayatajjito mahāviravaṃ viravi[^518-21]. Tassa ravaṃ sutvā sesāpi hatthiassausabhā[^518-22] maraṇabhayena viraviṃsu, mahājano pi viravi. Kassapo taṃ mahāviravaṃ[^518-23] sutvā saṃvegappatto hutvā attano jaṭādīni[^518-24] olokesi. Ath'; assa jaṭā massu kucchilomāni[^518-25] uralomāni[^518-26] pākaṭāni ahesuṃ. So vippaṭisārī hutvā "ananurūpaṃ vata me pāpakammaṃ katan" ti saṃvegaṃ pakāsento aṭṭhamaṃ gātham āha:
 
@@ -6774,11 +7563,13 @@ Tattha balaṃ cando balaṃ suriyo ti mahāndhakāravidhamane[^518-6] aññaṃ
 
 ##### *[PTS Page 519]*
 
-Ja_IX.7(=433).8: Taṃ[^519-1] lobhā pakataṃ kammaṃ kaṭukaṃ kāmahetukaṃ, tassa mūlaṃ gavesissaṃ, checchaṃ[^519-2] rāgaṃ sabandhanan ti. || Ja_IX:68 ||
+Ja_IX.7(=433).8: Taṃ[^519-1] lobhā pakataṃ kammaṃ kaṭukaṃ kāmahetukaṃ, tassa mūlaṃ gavesissaṃ, checchaṃ[^519-2] rāgaṃ sabandhanan ti. ||  
+Ja_IX:68 ||  
 
 Tass'; attho: mahārāja, yaṃ etaṃ mayā Candavatiyā lobhaṃ uppādetvā tena lobhena pakataṃ kāmahetukaṃ[^519-3] pāpaṃ[^519-4] taṃ[^519-5] kaṭukaṃ tikhiṇavipākaṃ, tassāhaṃ ayonisomanasikārasaṃkhātaṃ mūlaṃ gavesissaṃ, alam me iminā khaggena, paññākhaggaṃ[^519-6] nīharitvā subhanimittabandhanena saddhiṃ sabandhanaṃ rāgaṃ chindissāmīti. Atha naṃ rājā "mā bhāyi samma, idāni te Candavatīkumāriñ ca[^519-7] raṭṭhañ ca sattaratanarāsiñ ca dassāmi[^519-8], yajāhi yaññan" ti āha. Taṃ sutvā Kassapo "na me mahārāja iminā kilesen'; attho[^519-9]" ti vatvā osānagātham āha:
 
-Ja_IX.7(=433).9: Dhi-r-atthu kāme subahū pi loke, tapo va seyyo kāmaguṇehi rāja, tapo karissāmi[^519-10] pahāya kāme, tav'; eva raṭṭhaṃ Candavatī ca hotū 'ti. || Ja_IX:69 ||
+Ja_IX.7(=433).9: Dhi-r-atthu kāme subahū pi loke, tapo va seyyo kāmaguṇehi rāja, tapo karissāmi[^519-10] pahāya kāme, tav'; eva raṭṭhaṃ Candavatī ca hotū 'ti. ||  
+Ja_IX:69 ||  
 
 Tattha subahūpīti[^519-11] atibahuke pi[^519-12], tapo karissāmīti sīlasaṃyamatapam[^519-13] eva karissāmīti. So evaṃ vatvā kasiṇaṃ[^519-14] samannāharitvā naṭṭhaṃ visesaṃ uppādetvā ākāse pallaṃkena nisīditvā rañño dhammaṃ desetvā[^519-15] "appamatto hohīti" ovaditvā yaññāvāṭaṃ viddhaṃsāpetvā mahājanassa abhayadānaṃ[^519-16] dāpetvā rañño yācantass' eva[^519-17] uppatitvā attano vasanaṭṭhānam eva gantvā yāvajīvaṃ Brahmavihāre bhāvetvā[^519-18] Brahmaloka-parāyano ahosi. Satthā imaṃ desanaṃ[^519-19] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi (Saccapariyosāne ukkaṇṭhitabhikkhu arahatte[^519-20] patiṭṭhahi): "Tadā Sayhamahāmacco Sāriputto ahosi, Lomasakassapo[^519-21] aham evā" 'ti. Lomasakassapajātakaṃ[^519-22]
 
@@ -6790,7 +7581,8 @@ Tattha subahūpīti[^519-11] atibahuke pi[^519-12], tapo karissāmīti sīlasa�
 
 8. Cakkavākajātaka. Kāsāyavatthe ti. Idaṃ Satthā Jetavane viharanto ekaṃ lolabhikkhuṃ ārabbha kathesi. So kira lolo ahosi paccayaluddho ācariyupajjhāyavattādīni chaḍḍetvā pāto va Sāvatthiṃ pavisitvā Visākhāya gehe anekakhādaniyaparivāravarayāguṃ[^520-1] pivitvā divā[^520-2] nānaggarasaṃ[^520-3] sālimaṃsodanaṃ[^520-4] bhuñjitvāpi tenātitto[^520-5] tato Cullānāthapiṇḍikassa Kosalarañño ti tesaṃ tesaṃ nivesanāni[^520-6] sandhāya vicarati[^520-7]. Ath'; ekadivasaṃ tassa lolabhāvaṃ ārabbha dhammasabhāyaṃ kathaṃ samuṭṭhāpesuṃ. Satthā āgantvā "kāya nu 'ttha bhikkhave etarahi kathāya sannisinnā" ti pucchitvā "imāya nāmā" ti vutte taṃ bhikkhuṃ pakkosāpetvā "saccaṃ kira tvaṃ[^520-8] lolo" ti pucchitvā "saccaṃ bhante" ti vutte "bhikkhu kasmā lolo si[^520-9], pubbe pi tvaṃ lolabhāvena Bārāṇasiyaṃ hatthikuṇapādīhi[^520-10] atitto tato nikkhamitvā Gaṅgākūle[^520-11] vicaranto Himavantaṃ paviṭṭho" ti vatvā atītaṃ āhari: Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente eko lolakāko Bārāṇasiyaṃ hatthikuṇapādīni khāditvā caranto[^520-12] tehi atitto "Gaṅgākūle[^520-11] macchamedaṃ[^520-13] khādissāmīti" vatvā[^520-14] tattha[^520-15] matamacche khādanto katipāhaṃ vasitvā Himavantaṃ pavisitvā nānāvidhāni[^520-16] phalāphalāni khādanto pahūtamacchakacchapaṃ[^520-17] mahantaṃ padumasaraṃ patvā tattha suvaṇṇavaṇṇe dve cakkavāke sevāle[^520-18] khāditvā vasante disvā "ime ativiya vaṇṇasampannā sobhaggappattā, imesaṃ bhojanaṃ manāpaṃ bhavissati, imesaṃ bhojanaṃ pucchitvā aham pi tad eva[^520-19] bhuñjitvā suvaṇṇavaṇṇo bhavissāmīti" cintetvā tesaṃ santikaṃ gantvā paṭisanthāraṃ katvā ekasmiṃ sākhāpariyante nisīditvā tesaṃ pasaṃsanapaṭisaṃyuttaṃ paṭhamaṃ gātham āha:
 
-Ja_IX.8(=434).1: Kāsāyavatthe sakuṇe vadāmi duve duve nandimane[^520-20] carante, kaṃ aṇḍajaṃ aṇḍajā[^520-21] mānusesu jātiṃ pasaṃsanti, tad iṃgha brūthā[^520-22] 'ti. || Ja_IX:70 ||
+Ja_IX.8(=434).1: Kāsāyavatthe sakuṇe vadāmi duve duve nandimane[^520-20] carante, kaṃ aṇḍajaṃ aṇḍajā[^520-21] mānusesu jātiṃ pasaṃsanti, tad iṃgha brūthā[^520-22] 'ti. ||  
+Ja_IX:70 ||  
 
 
 <!-- PTS Page 521 -->
@@ -6800,11 +7592,13 @@ Ja_IX.8(=434).1: Kāsāyavatthe sakuṇe vadāmi duve duve nandimane[^520-20] c
 
 Tattha kāsāyavatthe ti suvaṇṇavaṇṇe kāsāyavatthanivatthe viya, duve duve ti dve dve hutvā, nandimane[^521-1] ti tuṭṭhacitte, kaṃ aṇḍajaṃ aṇḍajā[^521-2] mānusesu jātiṃ pasaṃsantīti ambho aṇḍajā tumhe mānusesu pasaṃsantā kaṃ aṇḍajan ti kataran nāma aṇḍajan ti vatvā pasaṃsanti, kaṃ sakuṇaṃ nāmā 'ti[^521-3] vatvā tumhe manussānaṃ antare vaṇṇentīti attho, kaṃ aṇḍajaṃ aṇḍajamānusesū 'ti pi pāṭho, tass'; attho: tumhe aṇḍajesu ca manussesu ca kataraṃ aṇḍajan ti vatvā pasaṃsantīti. Taṃ sutvā cakkavāko dutiyaṃ gātham āha:
 
-Ja_IX.8(=434).2: Amhe manussesu manussahiṃsa anubbate[^521-4] cakkavāke vadanti, kalyāṇabhāv'; amha[^521-5] dijesu sammatā, abhītarūpā vicarāma aṇṇave ti. || Ja_IX:71 ||
+Ja_IX.8(=434).2: Amhe manussesu manussahiṃsa anubbate[^521-4] cakkavāke vadanti, kalyāṇabhāv'; amha[^521-5] dijesu sammatā, abhītarūpā vicarāma aṇṇave ti. ||  
+Ja_IX:71 ||  
 
 Tattha manussahiṃsā 'ti kāko manusse hiṃsati viheṭheti, tena taṃ[^521-6] evaṃ ālapati, anubbate[^521-4] ti aññamaññaṃ anugate sammodamāne[^521-7] piyasaṃvāse, cakkavāke ti cakkavākā nāma[^521-8] sā aṇḍajajātīti pasaṃsanti vaṇṇenti kathenti, dijesū 'ti yattakā pakkhino nāma tesu mayaṃ kalyāṇabhāvā ti pi manussesu sammatā, dutiye atthavikappe: manussesu amhe cakkavākā ti pi vadanti, dijesu pana mayaṃ kalyāṇabhāvā ti sammatā[^521-9], kalyāṇabhāvā ti no dijā vadanti, aṇṇave ti imasmiṃ ṭhāne saro aṇṇavo ti vutto, imasmiṃ padumasare mayam[^521-10] eva dve janā paresaṃ ahiṃsanato abhītarūpā vicarāmā 'ti attho, imissā pana gāthāya catutthaṃ pādaṃ[^521-11]: na ghāsahetu pakaroma. [^521-12] pāpan ti paṭhanti[^521-13], tass'; attho: yasmā mayaṃ ghāsahetu pāpaṃ na karoma tasmā kalyāṇabhāvā ti amha[^521-14] manussesu ca dijesu ca sammatā ti. Taṃ sutvā kāko tatiyaṃ gatham āha:
 
-Ja_IX.8(=434).3: Kiṃ, aṇṇave kāni phalāni bhuñje maṃsaṃ kuto khādatha cakkavākā, kiṃ bhojanaṃ bhuñjatha vo anamā[^521-15], balañ ca vaṇṇo[^521-16] ca anapparūpo[^521-17] ti. || Ja_IX:72 ||
+Ja_IX.8(=434).3: Kiṃ, aṇṇave kāni phalāni bhuñje maṃsaṃ kuto khādatha cakkavākā, kiṃ bhojanaṃ bhuñjatha vo anamā[^521-15], balañ ca vaṇṇo[^521-16] ca anapparūpo[^521-17] ti. ||  
+Ja_IX:72 ||  
 
 Tattha kin ti pucchāvasena ālapanaṃ, kiṃ bho cakkavākā ti vuttaṃ hoti, aṇṇave ti imasmiṃ sare, bhuñje ti bhuñjitvā[^521-18] ti attho, maṃsaṃ kuto khādathā 'ti katarapāṇīnaṃ[^521-19] sarīrato maṃsaṃ khādatha, bhuñjatha vo[^521-20]
 
@@ -6816,13 +7610,16 @@ Tattha kin ti pucchāvasena ālapanaṃ, kiṃ bho cakkavākā ti vuttaṃ hoti,
 
 ti vokāro nipātamattaṃ vā[^522-1] parapadena vāssa[^522-2] sambandho: balañ ca vo vaṇṇo[^522-3] ca anapparūpo[^522-4] ti. Tato cakkavāko catutthaṃ gātham āha:
 
-Ja_IX.8(=434).4: Na aṇṇave santi phalāni vaṃka[^522-5] maṃsaṃ kuto khādituṃ cakkavāke, sevālabhakkh'; amha[^522-6] avākabhojanā, na ghāsahetū[^522-7] pakaroma[^522-8] pāpan ti. || Ja_IX:73 ||
+Ja_IX.8(=434).4: Na aṇṇave santi phalāni vaṃka[^522-5] maṃsaṃ kuto khādituṃ cakkavāke, sevālabhakkh'; amha[^522-6] avākabhojanā, na ghāsahetū[^522-7] pakaroma[^522-8] pāpan ti. ||  
+Ja_IX:73 ||  
 
 Tattha cakkavāke ti cakkavākassa, avākabhojanā ti vakkalarahitaudakabhojanā[^522-9], amhākaṃ hi sevālo[^522-10] c'; eva udakañ ca bhojanan ti dasseti, na ghāsahetū ti tumhādisā viya mayaṃ ghāsahetu pāpaṃ na karoma[^522-11] Tato kāko dve gāthā abhāsi:
 
-Ja_IX.8(=434).5: Na me idaṃ ruccati cakkavākā[^522-12], asmiṃ bhave bhojanasannikāso ahosi me pubbe, tato me[^522-13] aññathā, icc-eva me vimati ettha jātā. || Ja_IX:74 ||
+Ja_IX.8(=434).5: Na me idaṃ ruccati cakkavākā[^522-12], asmiṃ bhave bhojanasannikāso ahosi me pubbe, tato me[^522-13] aññathā, icc-eva me vimati ettha jātā. ||  
+Ja_IX:74 ||  
 
-Ja_IX.8(=434).6: Aham pi maṃsāni[^522-14] phalāni bhuñje annāni ca[^522-15] loṇiyateliyāni, rasaṃ manussesu labhāmi bhottuṃ[^522-16] sūro va saṃgāmamukhaṃ vijetvā[^522-17], na ca me tādiso vaṇṇo cakkavāka yathā tavan ti. || Ja_IX:75 ||
+Ja_IX.8(=434).6: Aham pi maṃsāni[^522-14] phalāni bhuñje annāni ca[^522-15] loṇiyateliyāni, rasaṃ manussesu labhāmi bhottuṃ[^522-16] sūro va saṃgāmamukhaṃ vijetvā[^522-17], na ca me tādiso vaṇṇo cakkavāka yathā tavan ti. ||  
+Ja_IX:75 ||  
 
 Tattha idan ti[^522-18] tumhākaṃ bhuñjanabhojanaṃ mayhaṃ na ruccati, asmiṃ bhave bhojanasannikāso ti asmiṃ bhave abhojjanasannikāso, yaṃ asmiṃ cakkavākabhave bhojanaṃ na tvaṃ tena[^522-19] sannikāso[^522-20] taṃsadiso[^522-20] tadanurūpo na hosi[^522-21], ativiya sampannasarīro sīti attho[^522-22], tato me aññathā ti[^522-23] mayhaṃ pubbe tumhe disvā va ete ettha nānāvidhāni phalāni c'; eva macchamaṃsañ ca khādanti tena evaṃ[^522-24] sobhaggappattā ti ahosi[^522-25], idāni me[^522-26] tato aññathā hotīti attho, icceva me ti eten'; eva me[^522-26] kāraṇena ettha tumhākaṃ
 
@@ -6834,11 +7631,14 @@ Tattha idan ti[^522-18] tumhākaṃ bhuñjanabhojanaṃ mayhaṃ na ruccati, asm
 
 sarīravaṇṇe[^523-1] vimati jātā: kathan nu kho ete evarūpaṃ lūkhaṃ[^523-2] bhojanaṃ bhuñjantā vaṇṇavanto jātā ti[^523-3], ahaṃ pīti ahaṃ hi[^523-4] ayam eva vā pāṭho, bhuñje ti bhuñjāmi, annāni ca 'ti bhojanāni ca, loṇiyateliyānīti loṇatelayuttāni, rasan ti manussesu manussaparibhogaṃ[^523-5] paṇītarasaṃ, vijetvā[^523-6] ti yathā sūro vīrayodho[^523-7] saṃgāmamukhaṃ vijaṭetvā[^523-8] vilumpitvā paribhuñjati tathā vilumpitvā paribhuñjāmīti attho, yathā tavan ti evaṃ paṇītabhojanaṃ[^523-9] bhuñjantassāpi mama tādiso vaṇṇo n'; atthi yādiso tava, tena te vacanaṃ na saddahāmīti dīpeti. Ath'; assa[^523-10] vaṇṇasampattiyā abhāvakāraṇaṃ attano ca bhāvakāraṇaṃ kathento cakkavāko sesagāthā abhāsi:
 
-Ja_IX.8(=434).7: Asuddhabhakkho si khaṇānupātī, kicchena te labbhati annapānaṃ, na tussasi rukkhaphalehi vaṃka[^523-11] maṃsāni vā yāni susānamajjhe. || Ja_IX:76 ||
+Ja_IX.8(=434).7: Asuddhabhakkho si khaṇānupātī, kicchena te labbhati annapānaṃ, na tussasi rukkhaphalehi vaṃka[^523-11] maṃsāni vā yāni susānamajjhe. ||  
+Ja_IX:76 ||  
 
-Ja_IX.8(=434).8: Yo[^523-12] sāhasena adhigamma bhoge paribhuñjati vaṃka khaṇānupātī tato upakkosati naṃ sabhāvo, upakkuṭṭho vaṇṇabalaṃ jahāti. || Ja_IX:77 ||
+Ja_IX.8(=434).8: Yo[^523-12] sāhasena adhigamma bhoge paribhuñjati vaṃka khaṇānupātī tato upakkosati naṃ sabhāvo, upakkuṭṭho vaṇṇabalaṃ jahāti. ||  
+Ja_IX:77 ||  
 
-Ja_IX.8(=434).9: Appam pi ce nibbutiṃ bhuñjatī yadi asāhasena aparūpaghātī[^523-13] balañ ca vaṇṇo ca tad'; assa hoti, na hi sabbo āhāramayena vaṇṇo ti. || Ja_IX:78 ||
+Ja_IX.8(=434).9: Appam pi ce nibbutiṃ bhuñjatī yadi asāhasena aparūpaghātī[^523-13] balañ ca vaṇṇo ca tad'; assa hoti, na hi sabbo āhāramayena vaṇṇo ti. ||  
+Ja_IX:78 ||  
 
 Tattha asuddhabhakkho sīti tvaṃ[^523-14] thenetvā[^523-15] vañcetvā bhakkhaṇato[^523-16] asuddhabhakkho[^523-17], khaṇānupātīti pamādakkhaṇe anupatanasīlo, kicchena te ti tassa tava dukkhena annapānaṃ labbhati, maṃsāni vā ti yāni vā susānamajjhe maṃsāni tehi na tussasi[^523-18], tato ti pacchā, upakkosati naṃ[^523-19] sabhāvo ti attā va[^523-20] taṃ puggalaṃ garahati, upakkuṭṭho ti evaṃ[^523-21] attanāpi parehi pi akkuṭṭho[^523-22] garahito vippaṭisāritāya vaṇṇañ ca balañ ca jahāti, nibbutiṃ bhuñjati yadīti yadi pana paraṃ aviheṭetvā appakam pi dhammaladdhaṃ nibbutabhojanaṃ[^523-23] bhuñjati, tadassa hotīti tadā assa paṇḍitassa
 
@@ -6852,7 +7652,8 @@ sarīrabalañ ca vaṇṇabalañ ca[^524-1] hoti. āhāramayenā 'ti nānappakā
 
 9. Haliddiragajātaka. Sutitikkhan ti. Idaṃ Satthā Jetavane viharanto thullakumāripalobhanaṃ ārabbha kathesi. Vatthuṃ Terasanipāte Cullanāradajātake āvibhavissati. Atītavatthumhi pana sā kumārikā tassa tāpasakumārassa[^524-8] sīlaṃ bhinditvā attano vase ṭhitabhāvaṃ ñatvā "imaṃ vañcetvā manussapathaṃ nessāmīti "cintetvā" rūpādikāmaguṇarahite araññe rakkhitasīlaṃ nāma na mahapphalaṃ hoti, manussapathe rūpādīnaṃ paccupaṭṭhāne mahapphalaṃ hoti, ehi mayā saddhiṃ tattha gantvā sīlaṃ rakkha[^524-9], kin te araññenā" 'ti vatvā[^524-10] paṭhamaṃ gātham āha:
 
-Ja_IX.9(=435).1: Sutitikkhaṃ araññamhi pantamhi[^524-11] sayanāsane, ye ca gāme titikkhanti te uḷāratarā tayā ti. || Ja_IX:79 ||
+Ja_IX.9(=435).1: Sutitikkhaṃ araññamhi pantamhi[^524-11] sayanāsane, ye ca gāme titikkhanti te uḷāratarā tayā ti. ||  
+Ja_IX:79 ||  
 
 Tattha sutitikkhan ti suadhivāsaṃ[^524-12], titikkhantīti sītādīni adhivāsenti. Taṃ sutvā tāpasakumāro "pitā me araññaṃ gato, tasmiṃ āgate taṃ āpucchitvā[^524-13] gamissāmīti" āha. Sā cintesi: "pitāpi
 
@@ -6864,19 +7665,25 @@ Tattha sutitikkhan ti suadhivāsaṃ[^524-12], titikkhantīti sītādīni adhiv�
 
 kir'; assa atthi[^525-1], sace maṃ so passissati kācakoṭiyā[^525-2] va[^525-3] pothetvā vināsaṃ pāpessati, mayā paṭhamam eva gantabban" ti. Atha naṃ āha: "tena hi ahaṃ magge[^525-4] saññaṃ kurumānā paṭhamataraṃ gamissāmi, tvaṃ pacchā āgacchā[^525-5]" 'ti. So tassā gatakāle[^525-6] n'; eva dārūni āhari na pānīyaṃ upaṭṭhāpesi, kevalaṃ pajjhāyanto[^525-7] nisīdi, pitu āgamanakāle[^525-8] paccuggamanam pi[^525-9] na akāsi. Atha naṃ pitā "itthivasaṃ[^525-10] gato eso" ti[^525-11] ñatvāpi "kasmā tāta n'; eva dārūni āhari na[^525-12] pānīyaṃ na[^525-12] paribhojanīyaṃ upaṭṭhāpesi[^525-13], pajjhāyanto yeva pana nisinno sīti" āha. Tāpasakumāro "tāta, araññe kira[^525-14] rakkhitasīlaṃ na mahapphalaṃ hoti manussapathe mahapphalaṃ, ahaṃ tattha gantvā sīlaṃ rakkhissāmi, sahāyo maṃ ‘āgaccheyyāsīti'; vatvā purato gato, ahaṃ[^525-15] ten'; eva[^525-16] saddhiṃ gamissāmi, tattha pana vasantena mayā kathaṃrūpo[^525-17] puriso sevitabbo" ti pucchanto dutiyaṃ gātham āha:
 
-Ja_IX.9(=435).2: Araññā gāmam āgamma kiṃsīlaṃ kiṃvataṃ ahaṃ purisaṃ tāta seveyyaṃ, tam me akkhāhi pucchito ti. || Ja_IX:80 ||
+Ja_IX.9(=435).2: Araññā gāmam āgamma kiṃsīlaṃ kiṃvataṃ ahaṃ purisaṃ tāta seveyyaṃ, tam me akkhāhi pucchito ti. ||  
+Ja_IX:80 ||  
 
 Ath'; assa pitā kathento sesagāthā abhāsi: (supra p.148.)
 
-Ja_IX.9(=435).3: Yo te vissāsaye[^525-18] tāta vissāsañ ca khameyya te sussūsī ca titikkhī ca taṃ bhajehi ito gato. || Ja_IX:81 ||
+Ja_IX.9(=435).3: Yo te vissāsaye[^525-18] tāta vissāsañ ca khameyya te sussūsī ca titikkhī ca taṃ bhajehi ito gato. ||  
+Ja_IX:81 ||  
 
-Ja_IX.9(=435).4: Yassa kāyena vācāya manasā n'; atthi dukkataṃ urasīva patiṭṭhāya tam bhajehi ito gato. || Ja_IX:82 ||
+Ja_IX.9(=435).4: Yassa kāyena vācāya manasā n'; atthi dukkataṃ urasīva patiṭṭhāya tam bhajehi ito gato. ||  
+Ja_IX:82 ||  
 
-Ja_IX.9(=435).5: Yo ca dhammena carati caranto pi na maññati visuddhakāriṃ[^525-19] sappaññaṃ[^525-20] taṃ bhajehi ito gato. || Ja_IX:83 ||
+Ja_IX.9(=435).5: Yo ca dhammena carati caranto pi na maññati visuddhakāriṃ[^525-19] sappaññaṃ[^525-20] taṃ bhajehi ito gato. ||  
+Ja_IX:83 ||  
 
-Ja_IX.9(=435).6: Haliddirāgaṃ kapicittaṃ purisaṃ rāgavirāginaṃ tādisaṃ tāta mā sevi nimmanussam[^525-21] pi ce siyā. || Ja_IX:84 ||
+Ja_IX.9(=435).6: Haliddirāgaṃ kapicittaṃ purisaṃ rāgavirāginaṃ tādisaṃ tāta mā sevi nimmanussam[^525-21] pi ce siyā. ||  
+Ja_IX:84 ||  
 
-Ja_IX.9(=435).7: Āsīvisaṃ va[^525-22] kupitaṃ mīḷhalittaṃ[^525-23] mahāpathaṃ ārakā parivajjehi yānīva visamaṃ pathaṃ. || Ja_IX:85 ||
+Ja_IX.9(=435).7: Āsīvisaṃ va[^525-22] kupitaṃ mīḷhalittaṃ[^525-23] mahāpathaṃ ārakā parivajjehi yānīva visamaṃ pathaṃ. ||  
+Ja_IX:85 ||  
 
 
 <!-- PTS Page 526 -->
@@ -6884,9 +7691,11 @@ Ja_IX.9(=435).7: Āsīvisaṃ va[^525-22] kupitaṃ mīḷhalittaṃ[^525-23] m
 
 ##### *[PTS Page 526]*
 
-Ja_IX.9(=435).8: Anatthā tāta vaḍḍhanti bālaṃ accūpasevato, māssu bālena saṃgañchi[^526-1] amitteneva sabbadā. || Ja_IX:86 ||
+Ja_IX.9(=435).8: Anatthā tāta vaḍḍhanti bālaṃ accūpasevato, māssu bālena saṃgañchi[^526-1] amitteneva sabbadā. ||  
+Ja_IX:86 ||  
 
-Ja_IX.9(=435).9: Taṃ t'; āhaṃ[^526-2] tāta yācāmi, karassu vacanaṃ mama, māssu bālena saṃgañchi[^526-1], dukkho bālehi saṃgamo ti. || Ja_IX:87 ||
+Ja_IX.9(=435).9: Taṃ t'; āhaṃ[^526-2] tāta yācāmi, karassu vacanaṃ mama, māssu bālena saṃgañchi[^526-1], dukkho bālehi saṃgamo ti. ||  
+Ja_IX:87 ||  
 
 Tattha yo te vissāsaye[^526-3] ti yo tava vissāseyya, khameyya te ti yo tava attani[^526-4] tayā kataṃ vissāsaṃ khameyya, sussūsī ca titikkhī cā 'ti tava vacanaṃ sussūsāya c'; eva vacanādhivāsanena ca samannāgato yo bhaveyyā 'ti attho, urasīva patiṭṭhāyā 'ti yathā mātu[^526-5] urasi putto patiṭṭhāti evaṃ patiṭṭhahitvā viya attano mātaraṃ viya maññamāno taṃ bhajeyyāsīti vadati, yo ca dhammena caratīti yo tividhasucaritadhammen'; eva[^526-6] iriyati, na maññatīti tathā[^526-7] caranto pi ca[^526-8] ahaṃ[^526-9] dhammaṃ carāmīti mānaṃ na karoti, visuddhakārin[^526-10] ti visuddhānaṃ dasannaṃ[^526-11] kusalakammapathānaṃ kārakaṃ, rāgavirāginan ti rāginañ ca virāginañ ca, rajjitvā[^526-12] taṃkhaṇam eva[^526-13] virajjanasabhāvaṃ[^526-14], nimmanussam[^526-15] pi ce ti sace pi sakala-Jambudīpatalaṃ nimmanussaṃ[^526-15] hoti so yeva eko[^526-16] manusso tiṭṭhati, tathāpi tādisaṃ mā sevi, mahāpathan ti gūthamakkhitamaggaṃ viya ca[^526-17], yānīvā[^526-18] 'ti yānena gacchanto viya, visaman ti ninnaunnatakhāṇupāsāṇādivisamaṃ, bālaṃ accūpasevato ti bālaṃ apaññaṃ atisevantassa, sabbadā ti tāta bālena saddhiṃ saṃvāso nāma amittasaṃvāso viya sabbadā niccakālam eva dukkho, tantāhan[^526-19] ti tena kāraṇena taṃ ahaṃ. So evaṃ pitarā ovadito "tāta ahaṃ manussapathaṃ gantvā tumhādise paṇḍite na labhissāmi[^526-20], tattha gantuṃ bhāyāmi, idh'; eva tumhākaṃ santike vasissāmīti" āha. Ath'; assa pitā bhiyyo pi ovādaṃ datvā kasiṇaparikammaṃ ācikkhi. So nacirass'; eva abhiññā ca samāpattiyo ca uppādetvā[^526-21] saddhiṃ pitarā Brahmaloka-parāyano ahosi. Satthā imaṃ desanaṃ[^526-22] āharitvā saccāni pakāsetvā jātakaṃ samodhānesi (Saccapariyosāne ukkaṇṭhito sotāpattiphale patiṭṭhani): "Tadā tāpasakumāro ukkaṇṭhitabhikkhu ahosi, kumārikā kumārikā ca[^526-23], pitā[^526-24] pana aham evā" ti. Haliddirāgajātakaṃ[^526-25].
 
@@ -6906,7 +7715,8 @@ Tattha yo te vissāsaye[^526-3] ti yo tava vissāseyya, khameyya te ti yo tava a
 
 gantvā nahāyi. Tasmiṃ samaye Vāyussa putto nāma vijjādharo sannaddhakhaggo ākāsena gacchati. Sā taṃ disvā "ehīti" hatthamuddaṃ akāsi. Vijjādharo khippaṃ otari. Atha naṃ sā karaṇḍake pakkhipitvā dānavassa āgamanaṃ olokentī[^528-1] karaṇḍakūpari[^528-2] nisīditvā taṃ āgacchantaṃ disvā tassa attānaṃ dassetvā tasmiṃ karaṇḍakasamīpaṃ asampatte yeva karaṇḍakaṃ vivaritvā anto pavisitvā vijjādharassa upari nipajjitvā attano sāṭakaṃ pārupi[^528-3]. Dānavo āgantvā karaṇḍakaṃ asodhetvā va[^528-4] "mātugāmo yeva me" ti saññāya karaṇḍakaṃ gilitvā attano guhaṃ gacchanto antarāmagge[^528-5] "tāpaso me ciradiṭṭho[^528-6], ajja tāva naṃ[^528-7] gantvā vandissāmīti" tassa santikaṃ agamāsi. Tāpaso pi naṃ dūrato va[^528-8] āgacchantaṃ disvā dinnaṃ janānaṃ kucchigatabhāvaṃ ñatvā ālapanto[^528-9] paṭhamaṃ gātham āha:
 
-Ja_IX.10(=436).1: Kuto nu āgacchatha bho tayo janā, svāgataṃ[^528-10] ettha nisīdathāsane, kacci 'ttha[^528-11] bhonto kusalaṃ anāmayaṃ, cirassam abbhāgamanaṃ[^528-12] hi[^528-13] vo idhā 'ti. || Ja_IX:88 ||
+Ja_IX.10(=436).1: Kuto nu āgacchatha bho tayo janā, svāgataṃ[^528-10] ettha nisīdathāsane, kacci 'ttha[^528-11] bhonto kusalaṃ anāmayaṃ, cirassam abbhāgamanaṃ[^528-12] hi[^528-13] vo idhā 'ti. ||  
+Ja_IX:88 ||  
 
 Tattha bho ti ālapanaṃ, kaccitthā[^528-14] 'ti kacci bhotha bhavatha[^528-15], bhonto ti puna pi ālapanto va āha, kusalaṃ anāmayan ti kacci[^528-16] tumhākaṃ kusalaṃ ārogyaṃ, cirassamabbhāgamanaṃ hi vo[^528-17] idhā 'ti ajja tumhākaṃ idha abbhāgamanañ ca cirassaṃ[^528-18] jātaṃ. Taṃ sutvā dānavo "ahaṃ imassa tāpasassa santikaṃ eko[^528-19] va āgato, ayañ ca[^528-20] ‘tayo janā'; ti vadati, kin nām'; esa katheti, kin nu kho sabhāvaṃ ñatvā katheti udāhu ummattako hutvā vippalapatīti[^528-21]" cintetvā tāpasaṃ upasaṃkamitvā vanditvā[^528-22] ekamantaṃ nisīditvā tena saddhiṃ sallapanto dutiyaṃ gātham āha:
 
@@ -6916,11 +7726,13 @@ Tattha bho ti ālapanaṃ, kaccitthā[^528-14] 'ti kacci bhotha bhavatha[^528-15
 
 ##### *[PTS Page 529]*
 
-Ja_IX.10(=436).2: Aham eva eko idha-m-ajja[^529-1] patto na cāpi me dutiyo koci vijjati, kim eva sandhāya te bhāsitaṃ ise: kuto nu āgacchatha bho tayo janā ti. || Ja_IX:89 ||
+Ja_IX.10(=436).2: Aham eva eko idha-m-ajja[^529-1] patto na cāpi me dutiyo koci vijjati, kim eva sandhāya te bhāsitaṃ ise: kuto nu āgacchatha bho tayo janā ti. ||  
+Ja_IX:89 ||  
 
 Tattha idhamajjā 'ti idha ajja, kimeva sandhāya te bhāsitaṃ ise ti bhante isi kin nām'; etaṃ sandhāya tayā bhāsitaṃ, pākaṭaṃ[^529-2] tāva[^529-3] me katvā kathehīti. Tāpaso "ekaṃsen'; evāvuso sotukāmo sīti" "āma bhante" ti "tena hi suṇohīti[^529-4]" vatvā tatiyaṃ gātham āha:
 
-Ja_IX.10(=436).3: Tuvañ[^529-5] ca eko bhariyā ca te piyā samuggapakkhittanikiṇṇa-m-antare[^529-6], sā rakkhitā kucchigatā va te sadā[^529-7] Vāyussa puttena sahā tahiṃ ratā ti. || Ja_IX:90 ||
+Ja_IX.10(=436).3: Tuvañ[^529-5] ca eko bhariyā ca te piyā samuggapakkhittanikiṇṇa-m-antare[^529-6], sā rakkhitā kucchigatā va te sadā[^529-7] Vāyussa puttena sahā tahiṃ ratā ti. ||  
+Ja_IX:90 ||  
 
 Tuvañ[^529-5] ca eko ti paṭhamaṃ tāva tvaṃ eko[^529-8], pakkhittanikiṇṇamantare[^529-9] ti pakkhittā nikiṇṇā antare[^529-10], atha te bhariyaṃ rakkhitukāmena sadā tayā[^529-11] samugge pakkhittā saddhiṃ samuggena nikiṇṇā[^529-12] antare, antokucchiyaṃ ṭhapitā ti attho, Vāyussa puttena sahā ti evannāmakena[^529-13] vijjādharena saddhiṃ, tahiṃ ratā ti tattha tava antokucchiyaṃ ñeva kilesaratiyā ratā, so dāni tvaṃ mātugāmaṃ ekapurisanissitaṃ[^529-14] rakkhissāmīti[^529-15] kucchinā[^529-16] pariharanto tassā jāram pi[^529-17] ukkhipitvā carasīti. Taṃ sutvā dānavo "vijjādharā nāma bahumāyā honti, sac' assa khaggo hatthagato[^529-18] bhavissati kucchim me phāletvāpi palāyissatīti" bhītatasito hutvā khippaṃ karaṇḍakaṃ uggilitvā[^529-19] purato ṭhapesi. Satthā abhisambuddho hutvā taṃ pavattiṃ pakāsento catutthaṃ gātham āha:
 
@@ -6932,19 +7744,25 @@ Ja_IX.10(=436).4: Saṃviggarūpo asinā vyākato[^529-20] so dānavo tattha sa
 
 ##### *[PTS Page 530]*
 
-addakkhi bhariyaṃ sucimālabhāriniṃ Vāyussa puttena sahā tahiṃ ratan ti. || Ja_IX:91 ||
+addakkhi bhariyaṃ sucimālabhāriniṃ Vāyussa puttena sahā tahiṃ ratan ti. ||  
+Ja_IX:91 ||  
 
 Tattha addakkhīti karaṇḍakaṃ vivaritvā addasa. Karaṇḍake pana vivaṭamatte yeva vijjādharo vijjaṃ parijapitvā[^530-1] khaggaṃ gahetvā ākāsaṃ pakkhandi. Taṃ disvā dānavo Mahāsattassa tussitvā thutipubbaṅgamā sesagāthā abhāsi:
 
-Ja_IX.10(=436).5: Suddiṭṭharūp'; uggatapānuvattinā[^530-2]: hīnā narā ye pamadāvasaṃ[^530-3] gatā, yathā have[^530-4] pāṇa-r-iv'; ettha[^530-5] rakkhitā duṭṭhā mayī[^530-6] aññam abhippamodati. || Ja_IX:92 ||
+Ja_IX.10(=436).5: Suddiṭṭharūp'; uggatapānuvattinā[^530-2]: hīnā narā ye pamadāvasaṃ[^530-3] gatā, yathā have[^530-4] pāṇa-r-iv'; ettha[^530-5] rakkhitā duṭṭhā mayī[^530-6] aññam abhippamodati. ||  
+Ja_IX:92 ||  
 
-Ja_IX.10(=436).6: Divā ca ratto ca mayā upaṭṭhitā tapassinā[^530-7] jotir ivā vane vasaṃ, sā dhammam okkamma adhammam ācari, akiriyarūpo pamadāhi[^530-8] santhavo. || Ja_IX:93 ||
+Ja_IX.10(=436).6: Divā ca ratto ca mayā upaṭṭhitā tapassinā[^530-7] jotir ivā vane vasaṃ, sā dhammam okkamma adhammam ācari, akiriyarūpo pamadāhi[^530-8] santhavo. ||  
+Ja_IX:93 ||  
 
-Ja_IX.10(=436).7: ‘Sarīramajjhamhi ṭhitā'; ti maññi 'haṃ[^530-9] ‘mayhaṃ ayan'; ti asatiṃ[^530-10] asaññataṃ, sā dhammam okkamma adhammam ācari, akiriyarūpo pamadāhi santhavo. || Ja_IX:94 ||
+Ja_IX.10(=436).7: ‘Sarīramajjhamhi ṭhitā'; ti maññi 'haṃ[^530-9] ‘mayhaṃ ayan'; ti asatiṃ[^530-10] asaññataṃ, sā dhammam okkamma adhammam ācari, akiriyarūpo pamadāhi santhavo. ||  
+Ja_IX:94 ||  
 
-Ja_IX.10(=436).8: ‘Surakkhitam me'; ti kathan nu vissase, anekacittāsu na h'; atthi rakkhanā[^530-11], etā hi pātālapapātasannibhā, ettha-ppamatto vyasanaṃ nigacchati. || Ja_IX:95 ||
+Ja_IX.10(=436).8: ‘Surakkhitam me'; ti kathan nu vissase, anekacittāsu na h'; atthi rakkhanā[^530-11], etā hi pātālapapātasannibhā, ettha-ppamatto vyasanaṃ nigacchati. ||  
+Ja_IX:95 ||  
 
-Ja_IX.10(=436).9: Tasmā hi te sukhino vītasokā ye mātugāmāhi[^530-12] caranti nissaṭā[^530-13], etaṃ sivaṃ uttamam ābhipatthayaṃ[^530-14] na mātugāmāhi[^530-12] kareyya santhavan ti. || Ja_IX:96 ||
+Ja_IX.10(=436).9: Tasmā hi te sukhino vītasokā ye mātugāmāhi[^530-12] caranti nissaṭā[^530-13], etaṃ sivaṃ uttamam ābhipatthayaṃ[^530-14] na mātugāmāhi[^530-12] kareyya santhavan ti. ||  
+Ja_IX:96 ||  
 
 
 <!-- PTS Page 531 -->
@@ -6976,19 +7794,23 @@ Meḷamātā[^533-1] nāma ekā eḷikā vyattā ahosi. Upāyakusalo[^533-2] sig
 
 ##### *[PTS Page 534]*
 
-Ja_IX.11(=437).1: Na kho me ruccati[^534-1] āḷi Pūtimaṃsassa pekkhanā, etādisā sakhārasmā ārakā parivajjaye ti. || Ja_IX:97 ||
+Ja_IX.11(=437).1: Na kho me ruccati[^534-1] āḷi Pūtimaṃsassa pekkhanā, etādisā sakhārasmā ārakā parivajjaye ti. ||  
+Ja_IX:97 ||  
 
 Tattha āḷīti ālapanaṃ, sakhi[^534-2] sahāyike ti attho, etādisā sakhārasmā ti evarūpā sahāyakā apakkamitvā taṃ sahāyakaṃ ārakā parivajjethā 'ti attho. Evañ ca pana vatvā sā nivattitvā attano vasanaṭṭhānam eva gatā. Sigālī pi[^534-3] taṃ nivattetuṃ asakkontī tassā kujjhitvā attano sāmikass'; eva santikaṃ gantvā pajjhāyamānā nisīdi. Atha naṃ sigālo garahanto dutiyaṃ gātham āha:
 
-Ja_IX.11(=437).2: Ummattikā ayaṃ[^534-4] Veṇī[^534-5], vaṇṇeti patino sakhiṃ[^534-6], pajjhāti paṭigacchantiṃ[^534-7] āgataṃ Meḷamātaran[^534-8] ti. || Ja_IX:98 ||
+Ja_IX.11(=437).2: Ummattikā ayaṃ[^534-4] Veṇī[^534-5], vaṇṇeti patino sakhiṃ[^534-6], pajjhāti paṭigacchantiṃ[^534-7] āgataṃ Meḷamātaran[^534-8] ti. ||  
+Ja_IX:98 ||  
 
 Tattha Veṇīti[^534-9] tassā nāmaṃ, vaṇṇeti patino sakhin ti paṭhamam eva attano sakhiṃ eḷikaṃ mayi sassinehavissāsikā āgamissati[^534-10] no[^534-11] santikaṃ matālayaṃ karohīti patino santike vaṇṇeti, atha naṃ idāni āgataṃ mama santikaṃ anāgantvā va paṭigacchantiṃ[^534-12] Meḷamātaraṃ[^534-13] pajjhāyati anusocatīti. Taṃ sutvā sigālī tatiyaṃ gātham āha:
 
-Ja_IX.11(=437).3: Tvaṃ kho si samma ummatto dummedho avicakkhaṇo yo tvaṃ matālayaṃ katvā akālena vipekkhasīti. || Ja_IX:99 ||
+Ja_IX.11(=437).3: Tvaṃ kho si samma ummatto dummedho avicakkhaṇo yo tvaṃ matālayaṃ katvā akālena vipekkhasīti. ||  
+Ja_IX:99 ||  
 
 Tattha avicakkhaṇo ti vicāraṇapaññārahito, akālena vipekkhasīti eḷikāya attano santikaṃ anāgatāy'; eva[^534-14] olokesīti attho.
 
-Ja_IX.11(=437).4: Na akāle vipekkheyya kāle pekkheyya paṇḍito. Pūtimaṃso va[^534-15] pajjhāti[^534-16] yo akāle vipekkhatīti. || Ja_IX:100 ||
+Ja_IX.11(=437).4: Na akāle vipekkheyya kāle pekkheyya paṇḍito. Pūtimaṃso va[^534-15] pajjhāti[^534-16] yo akāle vipekkhatīti. ||  
+Ja_IX:100 ||  
 
 ayaṃ abhisambuddhagāthā. Tattha akāle ti kāmaguṇe ārabbha subhavasena cittuppattikāle[^534-17], ayaṃ hi bhikkhuno rūpaṃ oloketuṃ akālo nāma, kāle[^534-18] ti asubhavasena anussativasena kasiṇavasena vā rūpagahaṇakāle[^534-18], ayaṃ hi bhikkhuno rūpaṃ oloketuṃ[^534-19] kālo nāma, tattha akāle sārattakāle[^534-20] rūpaṃ olokento mahāvināsaṃ pāpuṇātīti[^534-21] Hāritajātaka-Lomasakassapajātakādīhi dīpetabbaṃ, kāle asubhavasena olokento[^534-22] arahatte patiṭṭhahatīti[^534-23] Asubhakammikatissattheravatthunā kathetabbaṃ, Pūtimaṃso va pajjhātīti bhikkhave yathā Pūtimaṃsasigālo akāle eḷikaṃ oloketvā
 
@@ -7000,19 +7822,23 @@ ayaṃ abhisambuddhagāthā. Tattha akāle ti kāmaguṇe ārabbha subhavasena c
 
 attano gocarā parihīno pajjhāyati evaṃ bhikkhu akāle subhavasena rūpaṃ oloketvā satipaṭṭhānādigocarā[^535-1] parihīno diṭṭhadhamme samparāye pi jhāyati[^535-2] pajjhāyati kilamati. Veṇī pi kho sigālī Pūtimaṃsaṃ samassāsetvā[^535-3] "sāmi, mā cintesi, ahaṃ taṃ puna pi upāyena ānessāmi, tvaṃ āgamanakāle[^535-4] appamatto gaṇheyyāsīti[^535-5]" tassā santikaṃ gantvā "āḷi, tava āgatabhāvo[^535-6] yeva no atthāya[^535-7] jāto, tava[^535-8] āgatakālasmiṃ[^535-9] yeva hi[^535-10] me sāmiko satiṃ paṭilabhi, idāni jīvati, ehi[^535-11] tena saddhiṃ paṭisanthāraṃ karohīti[^535-12]" vatvā pañcamaṃ gātham āha:
 
-Ja_IX.11(=437).5: Piyaṃ kho āḷi me hotu, puṇṇapattaṃ dadāhi me, pati sañjīvito mayhaṃ, eyyāsi piyapucchikā[^535-13] ti. || Ja_IX:101 ||
+Ja_IX.11(=437).5: Piyaṃ kho āḷi me hotu, puṇṇapattaṃ dadāhi me, pati sañjīvito mayhaṃ, eyyāsi piyapucchikā[^535-13] ti. ||  
+Ja_IX:101 ||  
 
 Tattha puṇṇapattaṃ dadāhi me ti piyakkhānaṃ akkhāyikā[^535-14] mayhaṃ tuṭṭhidānaṃ dehi, pati sañjīvito ti mayhaṃ sāmiko sañjīvito uṭṭhito ārogo[^535-15] ti attho, eyyāsīti mayā saddhiṃ ñeva[^535-16] āgaccha. Eḷikā "ayaṃ pāpadhammā maṃ vañcetukāmā, ayuttaṃ kho pana paṭipakkhakaraṇaṃ[^535-17], upāyen'; eva naṃ vañcessāmīti" cintetvā chaṭṭhaṃ gātham āha:
 
-Ja_IX.11(=437).6: Piyaṃ kho āḷi te hotu, puṇṇapattaṃ dadāmi te, mahatā ca[^535-18] parivārena esaṃ, kayirāsi bhojanan ti. || Ja_IX:102 ||
+Ja_IX.11(=437).6: Piyaṃ kho āḷi te hotu, puṇṇapattaṃ dadāmi te, mahatā ca[^535-18] parivārena esaṃ, kayirāsi bhojanan ti. ||  
+Ja_IX:102 ||  
 
 Tattha esan ti āgamissāmi, āgacchamānā ca attano rakkhaṃ[^535-19] katvā mahantena parivārena āgacchissāmi. Atha naṃ sigālī parivāraṃ pucchantī[^535-20]
 
-Ja_IX.11(=437).7: Kīdiso tuyhaṃ parivāro yesaṃ kāhāmi bhojanaṃ, kiṃnāmakā[^535-21] ca te sabbe, te[^535-22] me akkhāhi pucchitā ti || Ja_IX:103 ||
+Ja_IX.11(=437).7: Kīdiso tuyhaṃ parivāro yesaṃ kāhāmi bhojanaṃ, kiṃnāmakā[^535-21] ca te sabbe, te[^535-22] me akkhāhi pucchitā ti ||  
+Ja_IX:103 ||  
 
 sattamaṃ gātham āha. Sā ācikkhantī[^535-23]
 
-Ja_IX.11(=437).8: Māliyo Caturakkho ca[^535-24] Piṅgiyo[^535-25] atha Jambuko[^535-26] ediso mayhaṃ parivāro, tesaṃ kayirāsi[^535-27] bhojanan ti || Ja_IX:104 ||
+Ja_IX.11(=437).8: Māliyo Caturakkho ca[^535-24] Piṅgiyo[^535-25] atha Jambuko[^535-26] ediso mayhaṃ parivāro, tesaṃ kayirāsi[^535-27] bhojanan ti ||  
+Ja_IX:104 ||  
 
 aṭṭhamaṃ gātham āha.
 
@@ -7024,7 +7850,8 @@ aṭṭhamaṃ gātham āha.
 
 Tattha te me[^536-1] ti te parivāre[^536-2] mayhaṃ ācikkha, Māliyo ti ādīni catunnaṃ sunakhānaṃ nāmāni. "Tattha ekekassa pañca sunakhasatāni[^536-3] parivāro ti[^536-4] evaṃ dvīhi[^536-5] sunakhasahassehi parivāritā āgamissāmīti" vatvā "sace te[^536-6] bhojanaṃ na labhissanti tumhe pi dve jane māretvā khādissantīti" āha. Taṃ sutvā sigālī bhītā "alaṃ imissā tatthagamanena, upāyen'; assā[^536-7] anāgamanam eva karissāmīti" cintetvā navamaṃ gātham āha:
 
-Ja_IX.11(=437).9: Nikkhantāya agārasmā bhaṇḍakam pi vinassati, ārogyaṃ āḷino vajjaṃ, idh'; eva vasa, mā gamā[^536-8] 'ti. || Ja_IX:105 ||
+Ja_IX.11(=437).9: Nikkhantāya agārasmā bhaṇḍakam pi vinassati, ārogyaṃ āḷino vajjaṃ, idh'; eva vasa, mā gamā[^536-8] 'ti. ||  
+Ja_IX:105 ||  
 
 Tass'; attho: āḷi, tava gehe bahubhaṇḍakaṃ atthi, tan te nikkhantāya[^536-9] agārasmā nirārakkhaṃ[^536-10] bhaṇḍakaṃ vinassissati[^536-11], aham eva te āḷino sahāyakassa ārogyaṃ vajjaṃ vadissāmi, tvaṃ idh'; eva vasa, mā gamā[^536-12] ti. Evañ ca pana vatvā maraṇabhayabhītā vegena sāmikassa santikaṃ gantvā taṃ gahetvā[^536-13] palāyi. Te puna taṃ ṭhānaṃ āgantuṃ[^536-14] nāsakkhiṃsu. Satthā imaṃ desanaṃ[^536-15] āharitvā jātakam samodhānesi: "Tadā ahaṃ tasmiṃ ṭhāne vanajeṭṭharukkhe[^536-16] nibbattadevatā ahosin" ti. Pūtimaṃsajātakaṃ[^536-17].
 
@@ -7052,13 +7879,16 @@ Tittiro "tena hi suṇāthā[^538-1]" 'ti tesaṃ gaṇṭhigaṇṭiṭṭhāna
 
 ##### *[PTS Page 539]*
 
-Ja_IX.12(=438).1: Yo te puttake akhādi dinnabhatto[^539-1] adūsake tasmiṃ dāṭhaṃ nipātehi[^539-2], mā te muccittha jīvato ti[^539-3]. || Ja_IX:106 ||
+Ja_IX.12(=438).1: Yo te puttake akhādi dinnabhatto[^539-1] adūsake tasmiṃ dāṭhaṃ nipātehi[^539-2], mā te muccittha jīvato ti[^539-3]. ||  
+Ja_IX:106 ||  
 
 Tattha dinnabhatto[^539-1] ti bhattaṃ pacitvā bhuñjā[^539-4] 'ti tayā dinnabhatto[^539-5], adūsake ti niddose niraparādhe, tasmiṃ dāṭhan ti[^539-6] tasmiṃ pāpapurise catasso pi dāṭhā[^539-7] nipātehīti adhippāyo, mā te muccittha jīvato[^539-8] ti jīvanto[^539-9] sajīvo hutvā tava hatthato esa[^539-10] pāpadhammo mā mucci[^539-11] mokkhaṃ mā labhatu, jīvitakkhayaṃ[^539-12] pāpehīti attho. Tato godhā dve gāthā abhāsi:
 
-Ja_IX.12(=438).2: Ākiṇṇaluddo puriso dhāticelaṃ[^539-13] va makkhito, padesan taṃ[^539-14] na passāmi yattha dāṭhaṃ[^539-15] nipātaye. || Ja_IX:107 ||
+Ja_IX.12(=438).2: Ākiṇṇaluddo puriso dhāticelaṃ[^539-13] va makkhito, padesan taṃ[^539-14] na passāmi yattha dāṭhaṃ[^539-15] nipātaye. ||  
+Ja_IX:107 ||  
 
-Ja_IX.12(=438).3: Akataññussa posassa niccaṃ vivaradassino (I, 322; Dhp. p.149.) sabbaṃ[^539-16] ce paṭhaviṃ dajjā n'; eva naṃ abhirādhaye ti. || Ja_IX:108 ||
+Ja_IX.12(=438).3: Akataññussa posassa niccaṃ vivaradassino (I, 322; Dhp. p.149.) sabbaṃ[^539-16] ce paṭhaviṃ dajjā n'; eva naṃ abhirādhaye ti. ||  
+Ja_IX:108 ||  
 
 Tattha ākiṇṇaluddo ti gāḷhaluddo[^539-17], vivaradassino ti chiddaṃ otāraṃ pariyesantassa, neva naṃ abhirādhaye ti evarūpaṃ puggalaṃ sakalaṃ paṭhaviṃ dento[^539-18] pi tosetuṃ na sakkuṇeyya, kimaṅga[^539-19], panāhaṃ bhattamattadāyikā ti dasseti. Godhā evaṃ vatvā "ayaṃ pabujjhitvā mam[^539-20] pi khādeyyā" 'ti attano jīvitaṃ rakkhamānā palāyi. Te pi pana sīhavyagghā tittirassa sahāyakā va[^539-21]. Kadāci[^539-22] pi[^539-23] te āgantvā tittiraṃ passanti, kadāci[^539-24] so gantvā tesaṃ dhammaṃ desetvā āgacchati. Tasmiṃ pana divase sīho vyagghaṃ āha: "samma, ciradiṭṭho no[^539-25] tittiro, ajja sattaṭṭhadivasā honti[^539-26], gaccha tāv' assa pavattiṃ ñatvā ehīti". Vyaggho "sādhū" 'ti sampaṭicchitvā godhāya palātakāle[^539-27] taṃ ṭhāṇaṃ patvā taṃ pāpapurisaṃ niddāyantaṃ passi. Tassa jaṭantare tittirapaṇḍitassa
 
@@ -7070,7 +7900,8 @@ Tattha ākiṇṇaluddo ti gāḷhaluddo[^539-17], vivaradassino ti chiddaṃ ot
 
 lomāni paññāyanti, dhenuyā ca vacchakassa ca aṭṭhīni paññāyanti. Vyaggharājā taṃ sabbaṃ disvā suvaṇṇapañjare ca tittirapaṇḍitaṃ adisvā "iminā pāpapurisen'; ete[^540-1] māritā bhavissantīti" taṃ pādena paharitvā uṭṭhapesi[^540-2]. So taṃ[^540-3] disvā bhītatasito va ahosi. Atha naṃ vyaggho "tvaṃ ete māretvā khādīti[^540-4]" pucchi. "N'; eva māremi na khādāmīti". "Pāpadhamma, tayi amārente añño ko māressati[^540-5], kathehi[^540-6], akathentassa te jīvitaṃ n'; atthīti[^540-7]". So maraṇabhayabhīto "āma sāmi, godhapotake[^540-8] vacchakañ ca dhenuñ ca māretvā khādiṃ[^540-9], tittiraṃ pana na māremīti[^540-10]". So tassa bahuṃ kathentassāpi[^540-11] asaddahitvā "tvaṃ kuto āgato sīti[^540-12]" pucchitvā "sāmi Kāliṅgaraṭṭhe[^540-13] vāṇijakānaṃ bhaṇḍikaṃ[^540-14] vahanto jīvikahetu[^540-15] idañ c'; idañ ca[^540-16] kammaṃ katvā idāni 'mhi[^540-17] idhāgato" ti tena sabbasmiṃ attanā katakamme kathite "pāpadhamma, tayi tittiraṃ amārente añño ko māressati, ehi sīhassa taṃ migarañño santikaṃ[^540-18] nessāmīti" taṃ purato katvā tāsento agamāsi. Sīho[^540-19] vyaggharājānaṃ[^540-20] taṃ ānentaṃ disvā[^540-21] vyagghaṃ pucchanto catutthaṃ gātham āha:
 
-Ja_IX.12(=438).4: Kin nu Subāhu taramānarūpo paccāgato si saha māṇavena, kiṃ kiccam[^540-22] atthaṃ idha-m-atthi tuyhaṃ, akkhāhi me pucchito etam atthan ti. || Ja_IX:109 ||
+Ja_IX.12(=438).4: Kin nu Subāhu taramānarūpo paccāgato si saha māṇavena, kiṃ kiccam[^540-22] atthaṃ idha-m-atthi tuyhaṃ, akkhāhi me pucchito etam atthan ti. ||  
+Ja_IX:109 ||  
 
 Tattha Subāhū 'ti vyagghaṃ nāmenālapati, vyagghassa hi purimakāyo manāpo hoti, tena taṃ[^540-23] evam āha, kiṃ kiccamatthaṃ[^540-22] idhamatthi tuyhan ti kiṃ karaṇīyaṃ atthasaṃhitaṃ iminā māṇavena idha atthi tuyhaṃ, kikiccamatthan[^540-24] ti pi pāṭho, ayam eva attho.
 
@@ -7082,17 +7913,21 @@ Tattha Subāhū 'ti vyagghaṃ nāmenālapati, vyagghassa hi purimakāyo manāpo
 
 Taṃ sutvā vyaggho pañcamaṃ gātham āha:
 
-Ja_IX.12(=438).5: Yo te sakhā daddaro sādhurūpo tassa vadhaṃ[^541-1] parisaṃkāmi ajja, purisassa kammāyatanāni sutvā nāhaṃ sukhiṃ[^541-2] daddaraṃ ajja maññe ti. || Ja_IX:110 ||
+Ja_IX.12(=438).5: Yo te sakhā daddaro sādhurūpo tassa vadhaṃ[^541-1] parisaṃkāmi ajja, purisassa kammāyatanāni sutvā nāhaṃ sukhiṃ[^541-2] daddaraṃ ajja maññe ti. ||  
+Ja_IX:110 ||  
 
 Tattha daddaro ti tittiro, tassa vadhan[^541-3] ti tassa tittirapaṇḍitassa imamhā purisā[^541-4] ajja vadhaṃ parisaṃkāmi, nāhaṃ sukhin ti ahaṃ ajja daddaraṃ sukhiṃ ārogyaṃ[^541-5] na maññāmi. Atha sīho chaṭṭhaṃ gātham āha:
 
-Ja_IX.12(=438).6: Kāni 'ssa[^541-6] kammāyatanāni assu purisassa vattisamodhānatāya[^541-7], kaṃ vā paṭiññaṃ purisassa sutvā parisaṃkasi daddaraṃ māṇavenā 'ti. || Ja_IX:111 ||
+Ja_IX.12(=438).6: Kāni 'ssa[^541-6] kammāyatanāni assu purisassa vattisamodhānatāya[^541-7], kaṃ vā paṭiññaṃ purisassa sutvā parisaṃkasi daddaraṃ māṇavenā 'ti. ||  
+Ja_IX:111 ||  
 
 Tattha assū 'ti assosi, vattisamodhānatāyā[^541-7] 'ti jīvitavuttisamodhānatāya[^541-8] kāni nāma iminā attano kammāni tuyhaṃ kathitānīti attho, māṇavenā 'ti kiṃ sutvā iminā māṇavena māritaṃ parisaṃkasi. Ath'; assa kathento vyaggharājā sesagāthā abhāsi:
 
-Ja_IX.12(=438).7: Ciṇṇā[^541-9] Kāliṅgā[^541-10], caritā[^541-11] vaṇijjā[^541-12], vettācāro saṃkupatho pi ciṇṇo[^541-13], naṭehi ciṇṇaṃ saha vākarehi[^541-14], daṇḍehi[^541-15] yuddham pi[^541-16] samajjamajjhe. || Ja_IX:112 ||
+Ja_IX.12(=438).7: Ciṇṇā[^541-9] Kāliṅgā[^541-10], caritā[^541-11] vaṇijjā[^541-12], vettācāro saṃkupatho pi ciṇṇo[^541-13], naṭehi ciṇṇaṃ saha vākarehi[^541-14], daṇḍehi[^541-15] yuddham pi[^541-16] samajjamajjhe. ||  
+Ja_IX:112 ||  
 
-Ja_IX.12(=438).8: Baddhā kuliṃkā, mitam āḷhakena[^541-17], akkhā jitā, saṃyamo abbhatīto, abbūhitaṃ[^541-18] pupphakaṃ[^541-19] aḍḍharattaṃ, hatthā daḍḍhā piṇḍapaṭiggahena. || Ja_IX:113 ||
+Ja_IX.12(=438).8: Baddhā kuliṃkā, mitam āḷhakena[^541-17], akkhā jitā, saṃyamo abbhatīto, abbūhitaṃ[^541-18] pupphakaṃ[^541-19] aḍḍharattaṃ, hatthā daḍḍhā piṇḍapaṭiggahena. ||  
+Ja_IX:113 ||  
 
 
 <!-- PTS Page 542 -->
@@ -7100,7 +7935,8 @@ Ja_IX.12(=438).8: Baddhā kuliṃkā, mitam āḷhakena[^541-17], akkhā jitā,
 
 ##### *[PTS Page 542]*
 
-Ja_IX.12(=438).9: Tāni 'ssa kammāyatanāni assuṃ[^542-1] purisassa vattisamodhānatāya[^542-2], yathā ayaṃ dissati lomapiṇḍo gāvo hatā, kiṃ pana daddarassā 'ti. || Ja_IX:114 ||
+Ja_IX.12(=438).9: Tāni 'ssa kammāyatanāni assuṃ[^542-1] purisassa vattisamodhānatāya[^542-2], yathā ayaṃ dissati lomapiṇḍo gāvo hatā, kiṃ pana daddarassā 'ti. ||  
+Ja_IX:114 ||  
 
 Tattha ciṇṇā[^542-3] kāliṅgā[^542-4] ti vāṇijakānaṃ bhaṇḍaṃ vahantena kira nena[^542-5] Kāliṅgaraṭṭhaṃ[^542-6] ciṇṇaṃ, caritā[^542-7] vaṇijjā ti[^542-8] vāṇijjāpi tena katā, vettācāro ti vettehi sañcaritabbo, saṃkupatho pi ciṇṇo ti khāṇukamaggo pi valañjito, naṭehīti jīvitahetu yeva naṭehi pi saddhiṃ ciṇṇaṃ, saha vākarehīti[^542-9] vākarā[^542-10] vahantena vākarehi[^542-11] pi saddhiṃ caritaṃ, daṇḍena yuddhan ti daṇḍayuddham pi kira tena yujjhitaṃ, baddhā kuliṃkā ti sakuṇikāpi kira tena baddhā[^542-12], mitamāḷhakenā[^542-13] 'ti dhaññamāpakakammam pi kira tena kataṃ, akkhā jitā ti akkhadhuttānaṃ[^542-14] veyyāvaccaṃ karontena akkhā haṭā[^542-15], saṃyamo abbhatīto ti jīvikavuttiṃ[^542-16] nissāya pabbajanten'; eva sīlasaṃyamo atikkanto, abbūhitan[^542-17] ṭhapitaṃ appaggharakaṃ kataṃ[^542-18], pupphakaṃ[^542-19] ti lohitaṃ, idaṃ vuttaṃ hoti: iminā kira jīvikaṃ[^542-20] nissāya rājāparādhikānaṃ[^542-21] hatthapāde[^542-22] chinditvā te[^542-23] ānetvā sālāyaṃ[^542-24] nipajjāpetvā vaṇamukhehi paggharantaṃ lohitaṃ aḍḍharattasamaye tattha gantvā kuṇḍakadhūmaṃ nāma datvā[^542-25] ṭhapitan ti, hatthā daḍḍhā ti ājīvikapabbajjaṃ pabbajitakāle uṇhapiṇḍapaṭiggahaṇena[^542-26] hatthāpi kir'; assa daḍḍhā, tānissa kammāyatanānīti tāni assa[^542-27] kammāni, assun[^542-28] ti assosiṃ, yathā ayan ti yathā[^542-29] etassa jaṭantare tittiralomapiṇḍo[^542-30] dissati iminā kāraṇena veditabbam etaṃ: eten'; eva so mārito ti, gāvo hatā kiṃ pana daddarassā 'ti gāvo pi etena hatā, daddarassa pana kiṃ kathetabbaṃ[^542-32] atthi, kasmā esa taṃ na māressatīti. Sīho taṃ purisaṃ pucchi: "mārito te tittirapaṇḍito[^542-32]" ti. "Āma sāmīti". Ath'; assa saccavacanaṃ sutvā taṃ vissajjetukāmo ahosi, vyaggharājā pana "māretabbayuttako[^542-33] esa pāpo[^542-34]" ti[^542-35] tatth'; eva[^542-36] naṃ dāṭhāhi paharitvā[^542-35] āvāṭaṃ
 

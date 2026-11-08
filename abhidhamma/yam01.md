@@ -95,7 +95,7 @@ kusalappaccayā?[^003-2] . . . pe . . . kusalasamudayā?[^003-3] . . . pe . . .
           (b) akusalā dhammā, sabbe te {akusalamūlā} ti?
      (a) Tiṇ[^003-5] 'eva kusalamūlāni,     |    (b) (Answer as for kusala-,
 avasesā kusalā dhammā na                    |   substituting akusala-.)
-kusalamūlā.                                 |
+kusalamūlā.                                 |  
      Ye vā pana kusalamūlā, sabbe te dhammā kusalā ti?
           akusalamūlā, sabbe te dhammā akusalā ti?
      Āmantā.                                |     Āmantā.
@@ -124,7 +124,7 @@ kusalamūlā.                                 |
 
 Kusalasamuṭṭhānaṃ rū-        |     (Answer as opposite, sub-
 paṃ k.-mūlena ekamūlaṃ, na        |  stituting akusala-.)
-kusalaṃ; kusalaṃ k.-mūlena        |
+kusalaṃ; kusalaṃ k.-mūlena        |  
 ekamūlañ ceva kusalañ ca.         |
      3. Ye keci k.-mūlena ekamūlā dhammā sabbe te
 k.-mūlena aññamaññamūlā ti?
@@ -133,7 +133,7 @@ ak.-mūlena aññamaññamūlā ti?
      Mūlāni yāni ekato uppaj-     |     (Answer as opposite, sub-
 janti k.-mūlāni ekamūlāni         |  stituting akusalā-.)
 ceva aññamaññamūlāni ca;          |
-avasesā k.-mūlasahajātā           |
+avasesā k.-mūlasahajātā           |  
 dhammā k.-mūlena ekamūlā,         |
 na ca aññamaññamūlā.              |
      Ye vā pana k.-mūlena aññamaññamūlā sabbe te dhammā kusalā ti?
@@ -168,7 +168,7 @@ k.-mūlamūlā.                      |
 paṃ k.-mūlena ekamūlamū-          |     stituting ak.)
 laṃ, na kusalaṃ; kusalaṃ          |
 k.-mūlena ekamūlamūlañ            |
-ceva kusalañ ca.                  |
+ceva kusalañ ca.                  |  
      6. Ye keci k.-mūlena ekamūlamūlā dhammā, sabbe te k.-mūlena
 aññamaññamūlamūlā ti?
           ak.-mūlena ekamūlamūlā dhammā, sabbe te ak.-mūlena
@@ -179,7 +179,7 @@ mūlāni ceva aññamañña-            |
 mūlamūlāni ca; avasesā            |
 k.-mūlasahajātā dhammā            |
 k.-mūlena ekamūlamūlā, na         |
-ca aññamaññamūlamūlā.             |
+ca aññamaññamūlamūlā.             |  
      Ye vā pana k.-mūlena aññamaññamūlamūlā, sabbe te dhammā kusalā ti?
           ak.-mūlena aññamaññamūlamūlā, sabbe te dhammā akusalā ti?
      Āmantā.                      |     Āmantā.
@@ -200,8 +200,8 @@ Ye vā pana k.-mūlakā, sabbe te dhammā kusalā ti?
           ak.-mūlakā, sabbe te dhammā akusalā ti?
      Kusalasamuṭṭhānaṇ rūpaṃ      |     (Answer as opposite, sub-
 k.-mūlakaṃ, na kusalaṃ;           |     stituting ak.)
-kusalaṃ k.-mūlakañ ceva           |
-kusalañ ca.                       |
+kusalaṃ k.-mūlakañ ceva           |  
+kusalañ ca.                       |  
      8. Ye keci kusalā dhammā, sabbe te k.-mūlena ekamūlakā ti?
           akusalā dhammā, sabbe te ak.-mūlena ekamūlakā ti?
      Āmantā.                      |     Ahetukaṃ akusalaṃ ak.-
@@ -212,8 +212,8 @@ kusalañ ca.                       |
           ak.-mūlena ekamūlakā, sabbe te dhammā akusalā ti?
      Kusalasamuṭṭhānaṇ rū-        |     (Answer as opposite, sub-
 paṃ k.-mūlena ekamūlakaṃ,         |     stituting ak.)
-na kusalaṃ; kusalaṃ k.-mū-        |
-lena ekamūlakañ ceva kusa-        |
+na kusalaṃ; kusalaṃ k.-mū-        |  
+lena ekamūlakañ ceva kusa-        |  
 lañ ca.                           |
      9. Ye keci k.-mūlena ekamūlakā dhammā, sabbe te k.-mūlena
 aññamaññamūlakā ti?
@@ -223,7 +223,7 @@ aññamaññamūlakā ti?
 janti k.-mūlāni ekamūla-          |     stituting ak.)
 kāni[^006-1] ceva aññamaññamūla-     |
 kāni ca; avasesā k.-mūlasa-       |
-hajātā dhammā k.-mūlena           |
+hajātā dhammā k.-mūlena           |  
 ekamūlakā, na ca aññamañ-         |
 ñamūlakā.                         |
 --------------------------------------------------------------------------
@@ -259,9 +259,9 @@ kañ ceva kusalañ ca.              |
           ak.-mūlena ekamūlamūlakā, sabbe te dhammā akusalā ti?
      K.-samuṭṭhānaṃ rūpaṃ         |     (Answer as opposite, sub-
 k.-mūlena ekamūlamūlakaṃ,         |     stituting ak.)
-na kusalaṃ; kusalaṃ k.-mū-        |
+na kusalaṃ; kusalaṃ k.-mū-        |  
 lena ekamūlamūlakañ ceva          |
-kusalañ ca.                       |
+kusalañ ca.                       |  
      12. Ye keci k.-mūlena ekamūlamūlakā dhammā,
           ak.-mūlena ekamūlamūlakā dhammā,
 sabbe te k.-mūlena aññamaññamūlamūlakā ti?
@@ -279,7 +279,7 @@ janti k.-mūlāni ekamūlamū-        |     stituting ak.)
 lakāni ceva aññamaññamū-          |
 lamūlakāni ca; avasesā            |
 k.-mūlasahajātā dhammā            |
-k.-mūlena ekamūlamūlakā           |
+k.-mūlena ekamūlamūlakā           |  
 na ca aññamaññamūlakā.            |
      Ye vā pana k.-mūlena aññamaññamūlamūlakā, sabbe te dhammā kusalā ti?
           ak.-mūlena aññamaññamūlamūlakā, sabbe te dhammā akusalā ti?
@@ -297,7 +297,7 @@ na abyākatamūlā.                  |     nāmamūlā.
      Ahetukaṃ abyākataṃ ab.-      |     (Answer as opposite, sub-
 mūlena na ekamūlaṃ, sahe-         |     stituting nāma- for abyā-
 tukaṃ abyākataṃ ab.-mūlena        |     kata.-)
-{ekamūlaṃ.}                       |
+{ekamūlaṃ.}                       |  
      Ye vā pana ab.-mūlena ekamūlā, sabbe te dhammā abyākatā ti?
           n.-mūlena ekamūlā, sabbe te dhammā nāmā ti?
 --------------------------------------------------------------------------
@@ -363,7 +363,7 @@ te n.-mūlena aññamaññamūlamūlā ti?
      Mūlāni yāni ekato uppaj-     |     (Answer as opposite, sub-
 janti ab.-mūlāni ekamūla-         |     stituting nāma-.)
 mūlāni ceva aññamaññamū-          |
-lāni[^010-2] ca; avasesā ab.-mūla-      |
+lāni[^010-2] ca; avasesā ab.-mūla-      |  
 sahajātā dhammā abyākata-         |
 mūlena ekamūlamūlā, na ca         |
 aññamaññamūlā.                    |
@@ -397,7 +397,7 @@ Ye vā pana ab.-mūlakā, sabbe te dhammā abyākatā ti?
      Ahetukaṃ abyākataṃ ab.-      |     (Answer as opposite, sub-
 mūlena na ekamūlakaṃ, sa-         |     stituting nāma-.)
 hetukaṃ abyākataṃ ab.-mū-         |
-lena ekamūlakaṃ.                  |
+lena ekamūlakaṃ.                  |  
      Ye vā pana ab.-mūlena ekamūlakā, sabbe te dhammā ekamūlakā ti?
           n.-mūlena ekamūlakā, sabbe te dhammā ekamūlakā ti?
      Āmantā.                      |     N.-samuṭṭhānaṃ rūpaṃ n.-
@@ -411,8 +411,8 @@ te n.-mūlena aññamaññamūlakā ti?
      Mūlāni yāni ekato uppaj-     |     (Answer as opposite, sub-
 janti ab.-mūlāni ekamūla-         |     stituting nāma-.)
 kāni ceva aññamaññamūla-          |
-kāni ca; avasesā ab.-mūla-        |
-sahajātā dhammā ab.-mū-           |
+kāni ca; avasesā ab.-mūla-        |  
+sahajātā dhammā ab.-mū-           |  
 lena ekamūlakā, na ca añña-       |
 maññamūlakā.                      |
      Ye vā pana ab.-mūlena aññamaññamūlakā, sabbe te dhammā abyākatā ti?
@@ -431,7 +431,7 @@ maññamūlakā.                      |
      Ahetukaṃ abyākataṃ na        |     (Answer as opposite, etc.)
 ab.-mūlamūlakaṃ, sahetu-          |
 kaṃ abyākataṃ ab.-mūlamū-         |
-lakaṃ.                            |
+lakaṃ.                            |  
      Ye vā pana ab.-mūlamūlakā, sabbe te dhammā abyākatā ti?
           n.-mūlamūlakā, sabbe te dhammā nāmā ti?
      Āmantā.                      |     Nāmasamuṭṭhānaṃ rūpaṃ n.

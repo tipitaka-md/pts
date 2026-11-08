@@ -125,7 +125,8 @@ vipākapaccayā . . . (saṃkhittaṃ) . . .
 avigatapaccayā . . .
 --------------------------------------------------------------------------
 1 S. ārammaṇapaccayā rūpaṃ. Chaḍḍetvā arūpe ye ca neva neva pañhā.
-     B. paccayā rūpaṃ chaḍḍetvā || arūpe ca nava pañhā.
+     B. paccayā rūpaṃ chaḍḍetvā ||  
+arūpe ca nava pañhā.
 2 S. Adhipatipaccayā paṭisandhi natthi paripuṇṇaṃ. Naṃ mahābhūtaṃ
      paṭicca. Mahābhūte paṭicca cittasamuṭṭhānan rūpaṃ idanānaṃ.
      B. Idaṃ nānaṃ. R. imaṃ nānaṃ.
@@ -174,7 +175,9 @@ nādhipatipaccayā[^004-4] . . . (paripuṇṇaṃ) . . . nānantarapaccayā[^00
 napurejātapaccayā.
 --------------------------------------------------------------------------
 1 Cf. p. 2, 6.
-2 B. āhāraṃ utuṃ asañña (sic). R. āhāra || utu || asañña ||.
+2 B. āhāraṃ utuṃ asañña (sic). R. āhāra ||  
+utu ||  
+asañña ||.
      S. āhāraṃ utu.
 3 S. nahetu khandhaṃ.
 4 R. na-adhi-.
@@ -265,9 +268,12 @@ nāhārapaccayā.
 --------------------------------------------------------------------------
 1 B., R. and S. na āsev-.
 2 R. adds (nava).
-3 B. utuṃ asañña || na jhānapaccayā || bāhiraṃ āhāraṃ utuṃ asañña
-     sattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ || najhānapaccayā ||
-     pañcaviññāṇaṃ bāhiraṃ āhāraṃ utuṃ asañña namaggapaccayā ||
+3 B. utuṃ asañña ||  
+na jhānapaccayā ||  
+bāhiraṃ āhāraṃ utuṃ asañña
+     sattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ ||  
+najhānapaccayā ||  
+     pañcaviññāṇaṃ bāhiraṃ āhāraṃ utuṃ asañña namaggapaccayā ||  
      S. utu . . . asañña . . . na indriyapacca . . . bāhiraṃ āhāraṃ
      utu . . . asañña indriyapacca bāhiraṃ āhāraṃ utu . . .
      asaññasattānaṃ, etc.
@@ -547,7 +553,8 @@ mānaṃ nahetūnaṃ khandhānaṃ anantarapaccayena paccayo.
 Anulomaṃ gotrabhussa . . . (saṃkhittaṃ[^012-8]) . . . Neva-
 --------------------------------------------------------------------------
 1 B. hetussa.
-2 R. uposatha || taṃ garuṃ katvā pacca-.
+2 R. uposatha ||  
+taṃ garuṃ katvā pacca-.
 3 As under 3.
 4 As under 8.
 5 As under 1.
@@ -877,7 +884,8 @@ sampayuttakānaṃ hetūnaṃ atthipaccayena paccayo. Paṭi-
 1 S. sahajāte.
 2 B. tiṇṇaṃ. S. tinnannaṃ.
 3 R., B. and S. omit after paṭisandhikkhaṇe.
-4 B. proceeds: kāyavi cakkhāyatanaṃ cakkhuṃ|| || kāyāyatanaṃ
+4 B. proceeds: kāyavi cakkhāyatanaṃ cakkhuṃ|| ||  
+kāyāyatanaṃ
      kāyavatthunaṃ hetunaṃ khandhānaṃ atthi|| ||.
      S. practically agrees with B.
 
@@ -1204,8 +1212,10 @@ khandhā vatthu ca; dve . . . pe . . .
 2 K. omits Ninnānaṇ
 3 S. ahetuko.
 4 B. omits.
-5 B. continues ekaṃ khandhaṃ paṭicca tayo || khandhā vatthuṇ
-     khandhe || || ahetukaṃ ahetuko aññammañña, etc.
+5 B. continues ekaṃ khandhaṃ paṭicca tayo ||  
+khandhā vatthuṇ
+     khandhe || ||  
+ahetukaṃ ahetuko aññammañña, etc.
 
 
 <!-- PTS Page 028 -->
@@ -1466,7 +1476,8 @@ khandhā.
 1 B. nahetuyā ārammaṇe. S. hetu
 2 B. paccaniyā niṭṭhitaṃ. S. paccanulomaṃ niṭṭhitaṃ.
 3 S. inserts dhammaṃ.
-4 B. omits this clause. R. ahetukaṃ dhammaṃ || ahetuko ||
+4 B. omits this clause. R. ahetukaṃ dhammaṃ ||  
+ahetuko ||  
      paṭiccasadisaṃ yeva.
 
 
@@ -4186,7 +4197,9 @@ khandhe aniccato . . . pe . . . domanassaṃ uppajjati;
 2 So also B.
 3 S. omits.
 4 R. -sanaṃ rūpaṃ.
-5 R. kāyaṃ || sadde || vatthuṃ ||.
+5 R. kāyaṃ ||  
+sadde ||  
+vatthuṃ ||.
 
 
 <!-- PTS Page 097 -->
@@ -4361,7 +4374,8 @@ vippayuttapaccayena paccayo.
 1 K. tāsu.
 2 B. omits clause.
 3 B. omits.
-4 B. omits to atthipacca || sanidassanaṃ rūpaṃ (sic) aniccato,
+4 B. omits to atthipacca ||  
+sanidassanaṃ rūpaṃ (sic) aniccato,
      in following section.
 
 
@@ -4815,7 +4829,8 @@ viññāṇassa . . . phoṭṭhabbāyatanaṃ kāyaviññāṇassa sappa-
 --------------------------------------------------------------------------
 1 B. omits nava, upanissaye.
 2 B. and S. paccayampi. K. paccaniyaṃpi gaṇanāpi.
-3 R. sabbattha ekaṃ, adding saṃkhittaṃ || avigatapaccayā
+3 R. sabbattha ekaṃ, adding saṃkhittaṃ ||  
+avigatapaccayā
      ekā yeva pañhā.
 4 B. sapp-.
 5 S. -ānañca.
@@ -5782,7 +5797,8 @@ jāta-, purejātapaccayena paccayo.
           nasahajāte cha,[^133-4]                  namagge satta,
 --------------------------------------------------------------------------
 1 B. and S. omit the two words.
-2 B. adds upanissaya || purejāta || ||.
+2 B. adds upanissaya ||  
+purejāta || ||.
 3 K. omits clause.
 4 B. nava.
 
@@ -6193,8 +6209,9 @@ yena paccayo.
      Purimā purimā lokiyā khandhā pacchimānaṃ pacchimā-
 naṃ lokiyānaṃ khandhānaṃ āsevanapaccayena paccayo.
 --------------------------------------------------------------------------
-1 R. and B. continue ṭhānāṭhānato sattassa upani ||
-     || phalasamāpattiyā, etc. S. continues ṭhānāṭhānākosallassa
+1 R. and B. continue ṭhānāṭhānato sattassa upani ||  
+     ||  
+phalasamāpattiyā, etc. S. continues ṭhānāṭhānākosallassa
      upanissaya.
 2 R., B. and S. omit last two words.
 3 Preceded in R. by vatthu purejātaṃ ||.
@@ -6322,7 +6339,7 @@ Pacchājātā lokuttarā khandhā . . .[^146-4]
 --------------------------------------------------------------------------
 1 As under 1.
 2 B. has purejātaṃ saha cakkhuṃ vatthuṃ purejātasadisaṃ.
-3 B. inserts purejātaṃ vatthuṃ lokuttarānaṃ khandhānaṃ atthi ||
+3 B. inserts purejātaṃ vatthuṃ lokuttarānaṃ khandhānaṃ atthi ||  
      Lokuttaro dhammo lokuttarassa ||.
 4 As under 1.
 
@@ -7790,10 +7807,14 @@ cayena paccayo.
 --------------------------------------------------------------------------
 1 S. omits this sentence.
 2 R. omits from domanassa- to mohassa, but adds doso mohassa
-     cittasamuṭṭhā || hetu ||.
+     cittasamuṭṭhā ||  
+hetu ||.
 3 S. omits this and next sentence.
-4 As under 2. R. for mohassa reads cittasamu || hetu || adding
-     doso sampayuttakānaṃ khandhānaṃ mohassa cittasamu || hetu ||.
+4 As under 2. R. for mohassa reads cittasamu ||  
+hetu ||  
+adding
+     doso sampayuttakānaṃ khandhānaṃ mohassa cittasamu ||  
+hetu ||.
 5 As under 3. R. omits mohassa only.
 6 As under 5.
 
@@ -9938,7 +9959,8 @@ atthipaccayena paccayo.
 --------------------------------------------------------------------------
 1 B. here inserts formula 4. K. has formula 1. Cf. p. 17, § 2.
 2 B. repeats formula 4.
-3 R. Vatthupurejātaṃ || vatthu, etc.
+3 R. Vatthupurejātaṃ ||  
+vatthu, etc.
 4 S. substitutes ekaṃ paṭiccasarisaṃ.
 
 
@@ -14650,7 +14672,8 @@ senāsanaṃ upanissāya diṭṭhiṃ gaṇhāti;[^345-7] saddhā . . . pe . . 
 4 K. pe to saṃghaṃ.
 5 B. inserts doso.
 6 R. has instead rāgo uppajjati.
-7 R. has instead || patthanā.
+7 R. has instead ||  
+patthanā.
 
 
 <!-- PTS Page 346 -->

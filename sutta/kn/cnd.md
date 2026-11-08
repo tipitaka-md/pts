@@ -234,7 +234,8 @@ Sn_V,4.5(=1047): "Te ce n'; ātariṃsu[^013-1] yājayogā -- icc-āyasmā Puṇ
 
 saṅkhāya, 619ia. paroparāni, 422 b.
 
-(1)  [paroparāni aniccato] saṅkhāya . . . 619II. yassa, 528, a (: arahato ~=), iñjitaṃ (n'atthi), 140. kuhiñci, 215. loke, 552, b. santa, 634. vidhuma, 576. anigha, 45. nirāsa, 360, a. jāti, 257. jarā, 252. (c + d) | [yo santo ca vidhumo ca anigho ca nirāso ca so jāti-jarā-maraṇaṃ] atāri, 282, e. brūmi, 465, a.
+(1)  [paroparāni aniccato] saṅkhāya . . . 619II. yassa, 528, a (: arahato ~=), iñjitaṃ (n'atthi), 140. kuhiñci, 215. loke, 552, b. santa, 634. vidhuma, 576. anigha, 45. nirāsa, 360, a. jāti, 257. jarā, 252. (c + d) |  
+[yo santo ca vidhumo ca anigho ca nirāso ca so jāti-jarā-maraṇaṃ] atāri, 282, e. brūmi, 465, a.
 
 [4. Mettagūmāṇavapucchā.]
 
@@ -256,7 +257,9 @@ Sn_V,5.3(=1051): Yo ve[^015-1] avidvā upadhiṃ[^015-2] karoti, <V. 728>. punap
 
 ##### *[PTS Page 016]*
 
-[yan taṃ] apucchimha, 447, f. akittayi, 6. om. Sc | (āññaṃ taṃ) pucchāma, 447, b brūhi, 465, c; uttariṃ tam pucchāma. kathan nu, 189. dhīrā, 324. ogha, 178. jāti, 257 + jarā, 252. soka, 694. (*pariddava) parideva, 416. (c + d) | dhīrā kathaṃ oghañ ca jātiñ ca jarañ ca. dukkhaṃ sokañ ca paridevañ ca (*vitaranti). taranti . . . 573. taṃ, 278, c (: yam pucchāmi). muni, 514. (sādhu) viyākarohi, 589, e. vidito [esa dhammo], 574, a.
+[yan taṃ] apucchimha, 447, f. akittayi, 6. om. Sc |  
+(āññaṃ taṃ) pucchāma, 447, b brūhi, 465, c; uttariṃ tam pucchāma. kathan nu, 189. dhīrā, 324. ogha, 178. jāti, 257 + jarā, 252. soka, 694. (*pariddava) parideva, 416. (c + d) |  
+dhīrā kathaṃ oghañ ca jātiñ ca jarañ ca. dukkhaṃ sokañ ca paridevañ ca (*vitaranti). taranti . . . 573. taṃ, 278, c (: yam pucchāmi). muni, 514. (sādhu) viyākarohi, 589, e. vidito [esa dhammo], 574, a.
 
 Sn_V,5.5(=1053): "Kittayissāmi te dhammaṃ -- Mettagū ti Bhagavā -- diṭṭhe-dhamme anītihaṃ[^016-1] yaṃ viditvā sato caraṃ tare[^016-2] loke visattikaṃ."
 
@@ -358,7 +361,8 @@ Sn_V,7.5(=1073): "Tiṭṭhe[^024-1] ce[^024-1] so [tattha anānuyāyi] <1071d>.
 
 ##### *[PTS Page 025]*
 
-acci, 11. vāta, 562. [vātavegena] khitta, 220. atthaṃ paleti, 28. saṅkhaṃ (na upeti), 617. evaṃ, 175. muni, 514. nāma-kāyā-vimutta, 338. (d)  | . . . na upeti saṅkhaṃ : anupādisesāya nibbānadhātuyā parinibbuto saṅkham (: 617) na upeti.
+acci, 11. vāta, 562. [vātavegena] khitta, 220. atthaṃ paleti, 28. saṅkhaṃ (na upeti), 617. evaṃ, 175. muni, 514. nāma-kāyā-vimutta, 338. (d) |  
+. . . na upeti saṅkhaṃ : anupādisesāya nibbānadhātuyā parinibbuto saṅkham (: 617) na upeti.
 
 Sn_V,7.7(=1075): "Atthaṅgato so uda vā so n'; atthi udāhu ve sassatiyā arogo, [tam me muni sādhu viyākarohi, tathā hi te vidito esa dhammo."] <1052ef>.
 
@@ -384,7 +388,8 @@ Sn_V,8.1(=1077): "‘Santi[^026-1] loke[^026-1] munayo'; -- icc-āyasmā Nando -
 
 ##### *[PTS Page 027]*
 
-anigha, 45. nirāsa, 360, a. (Rep. c + d). | ye (: 528, a) te arahanto khīṇāsavā visenikatvā anighā ca nirāsā ca caranti . . . 237, a te loke munayo ti brūmi . . . 465.
+anigha, 45. nirāsa, 360, a. (Rep. c + d). |  
+ye (: 528, a) te arahanto khīṇāsavā visenikatvā anighā ca nirāsā ca caranti . . . 237, a te loke munayo ti brūmi . . . 465.
 
 Sn_V,8.3(=1079): "Ye kec'; ime samaṇa-brāhmaṇāse -- icc-āyasmā Nando -- diṭṭha-sutenā pi[^027-1] vadanti suddhiṃ, sīlabbatenā pi vadanti suddhiṃ, anekarūpena vadanti suddhiṃ kacci ssu[^027-2] te Bhagavā tattha yatā[^027-3] carantā [atāru jātiñ ca jarañ ca mārisa,] <1045e>. [pucchāmi taṃ, Bhagavā, brūhi me taṃ.]" <1043f>.
 
@@ -406,7 +411,10 @@ Sn_V,8.5(=1081): ["Ye kec'; ime samaṇa-brāhmaṇāse -- icc-āyasmā Nando --
 
 ##### *[PTS Page 029]*
 
-(c + d) | ye sabbā diṭṭha-suddhiyo (cp. 298) pahāya ~= "    "  suta- (diṭṭha-suta- muta- sīlavata- sīlabbata)-suddhiyo pahāya ~= (e) | anekavividha-vata-kutūhala-maṅgalena suddhiṃ ~= pahāya . . . 430. taṇhā, 271. pariññāya, 413. (f + g) | ye taṇhaṃ pariññāya anāsavā (*oghatiṇṇā). (: 179)[^029-1] te kām'; oghaṃ ~= tiṇṇā sabbaṃ saṃsāra-pathaṃ tiṇṇā ~= ti brūmi . . . 465, a.
+(c + d) |  
+ye sabbā diṭṭha-suddhiyo (cp. 298) pahāya ~= "    "  suta- (diṭṭha-suta- muta- sīlavata- sīlabbata)-suddhiyo pahāya ~= (e) |  
+anekavividha-vata-kutūhala-maṅgalena suddhiṃ ~= pahāya . . . 430. taṇhā, 271. pariññāya, 413. (f + g) |  
+ye taṇhaṃ pariññāya anāsavā (*oghatiṇṇā). (: 179)[^029-1] te kām'; oghaṃ ~= tiṇṇā sabbaṃ saṃsāra-pathaṃ tiṇṇā ~= ti brūmi . . . 465, a.
 
 
 <!-- PTS Page 030 -->
@@ -422,7 +430,8 @@ Sn_V,9.2(=1085): Tvañ ca me dhammam akkhāhi taṇhā-nigghātanaṃ[^030-1] mu
 
 ##### *[PTS Page 031]*
 
-te, 278, e (: arahanto khīṇāsavā). sadā, 631. visattikā, 598. loke, 552, b. (d) | yā sā loke visattikā loke taṃ visattikaṃ tiṇṇā . . . 284 [v.l. Sc : loke vā yā visattikā loke vā taṃ . . . ).
+te, 278, e (: arahanto khīṇāsavā). sadā, 631. visattikā, 598. loke, 552, b. (d) |  
+yā sā loke visattikā loke taṃ visattikaṃ tiṇṇā . . . 284 [v.l. Sc : loke vā yā visattikā loke vā taṃ . . . ).
 
 [9. Todeyyamāṇavapucchā.]
 
@@ -460,7 +469,8 @@ Sn_V,11.3(=1094): Akiñcanaṃ anādānaṃ etaṃ dīpaṃ[^033-1] anāparaṃ,
 
 ##### *[PTS Page 034]*
 
-(*sutvāna) sutvā, 681, b. | iti pi so Bhagavā arahaṃ . . . pe . . . uddho Bhagavā ti. vīra, 609. akāmakāmin, 4. icc-a, 137. āyasmā, 130. Jatukanni, 246. oghātiga, 180. puṭṭhuṃ, 447, e. akāmaṃ, 3 + āgamaṃ, 117B. santi, 638 (: ekena ākārena santi pi). santipada, 640. brūhi, 465, c. sahājanetta, 669. taccha, 270. Bhagavā, 466.
+(*sutvāna) sutvā, 681, b. |  
+iti pi so Bhagavā arahaṃ . . . pe . . . uddho Bhagavā ti. vīra, 609. akāmakāmin, 4. icc-a, 137. āyasmā, 130. Jatukanni, 246. oghātiga, 180. puṭṭhuṃ, 447, e. akāmaṃ, 3 + āgamaṃ, 117B. santi, 638 (: ekena ākārena santi pi). santipada, 640. brūhi, 465, c. sahājanetta, 669. taccha, 270. Bhagavā, 466.
 
 Sn_V,12.2(=1097): Bhagavā hi kāme abhibhuyya[^034-1] iriyati Ādicco va paṭhaviṃ[^034-2] teji tejasā: paritta-paññassa me bhūri-pañña ācikkha dhammaṃ yaṃ ahaṃ vijaññaṃ jātijarāya idha vippahānaṃ."
 
@@ -480,7 +490,13 @@ Sn_V,12.3(=1098): "Kāmesu vinaya[^035-1] gedhaṃ -- Jatukaṇṇī ti Bhagavā
 
 ##### *[PTS Page 037]*
 
-(nānā) janā, 248, b. janapadā* (: 247) | Aṅgā[^037-1] ca             Magadhā ca             Kāliṅgā[^037-2] ca | Kāsī[^037-3] ca             Kosalā ca              Vajjī[^037-4] ca | Mallā ca             Cetī[^037-5] ca               Vamsā[^037-6] ca | Kurū[^037-1] ca             Pañcālā ca             Macchā[^037-1,7] ca | Sūrasenā[^037-1,8] ca       Assakā[^037-1] ca             Avantī9 ca | Yonā[^037-10] ca            Kambojā[^037-11] ca saṅgata, 621. vīra, 609. (tava) vākyaṃ, 559. abhikaṅkhamāna, 75. tesaṃ, 278, i (: khattiyānaṃ ~=) tuvaṃ, 280, c (: Bhagavantaṃ bhanati). (sādhu-) viyākarohi, 589, a.
+(nānā) janā, 248, b. janapadā* (: 247) |  
+Aṅgā[^037-1] ca             Magadhā ca             Kāliṅgā[^037-2] ca |  
+Kāsī[^037-3] ca             Kosalā ca              Vajjī[^037-4] ca |  
+Mallā ca             Cetī[^037-5] ca               Vamsā[^037-6] ca |  
+Kurū[^037-1] ca             Pañcālā ca             Macchā[^037-1,7] ca |  
+Sūrasenā[^037-1,8] ca       Assakā[^037-1] ca             Avantī9 ca |  
+Yonā[^037-10] ca            Kambojā[^037-11] ca saṅgata, 621. vīra, 609. (tava) vākyaṃ, 559. abhikaṅkhamāna, 75. tesaṃ, 278, i (: khattiyānaṃ ~=) tuvaṃ, 280, c (: Bhagavantaṃ bhanati). (sādhu-) viyākarohi, 589, a.
 
 
 <!-- PTS Page 038 -->
@@ -510,7 +526,10 @@ Sn_V,14.2(=1106): "Pahānaṃ kāma-cchandānaṃ -- -- Udayā ti Bhagava -- dom
 
 Sn_V,14.5(=1109): "Nandī-saññojano loko, vitakk'; assa vicāranā, taṇhāya [vippahānena] <~1108c>. [‘Nibbānaṃ'; iti vuccati."] <1108d>.
 
-nandi, 330. | [ayaṃ nandi lokassa] saṃyojanaṃ, 657a. vitakka, 572. | [ime nava vitakkā lokassa] vicāraṇā, 564. | imehi nava vitakkehi loko carati (: ad vicarati). taṇhā, 271.
+nandi, 330. |  
+[ayaṃ nandi lokassa] saṃyojanaṃ, 657a. vitakka, 572. |  
+[ime nava vitakkā lokassa] vicāraṇā, 564. |  
+imehi nava vitakkehi loko carati (: ad vicarati). taṇhā, 271.
 
 Sn_V,14.6(=1110): "Kathaṃ satassa carato viññāṇaṃ uparujjhati, Bhagavantaṃ[^040-1] puṭṭhuṃ āgamhā[^040-2] taṃ suṇoma vaco tava."
 
@@ -538,7 +557,8 @@ Sn_V,15.4(=1115): Ākiñcaññā-sambhavaṃ ñatvā ‘nandi saññojanaṃ'; i
 
 ##### *[PTS Page 042]*
 
-ākiñcañña-sambhava, 116. ñatvā, 267. nandi-saṃyojana, 332. iti, 142. [evam (*etaṃ 173, c) taṃ] abhiññāya, 81. (tato) tattha . . 274 (vipassati) ākiñcaññāyatanaṃ | samāpajjitvā tato vuṭṭhahitvā tattha jāte citta-cetasike dhamme aniccato vipassati dukkhato vipassati (etc. : kusala II.~=) nissaraṇato vipassati . . 579. [etaṃ ñāṇaṃ] tathaṃ [tassa], 275. brāhmaṇa, 464, a. vusīmato, 611.
+ākiñcañña-sambhava, 116. ñatvā, 267. nandi-saṃyojana, 332. iti, 142. [evam (*etaṃ 173, c) taṃ] abhiññāya, 81. (tato) tattha . . 274 (vipassati) ākiñcaññāyatanaṃ |  
+samāpajjitvā tato vuṭṭhahitvā tattha jāte citta-cetasike dhamme aniccato vipassati dukkhato vipassati (etc. : kusala II.~=) nissaraṇato vipassati . . 579. [etaṃ ñāṇaṃ] tathaṃ [tassa], 275. brāhmaṇa, 464, a. vusīmato, 611.
 
 [15. Mogharājamāṇavapucchā.]
 
@@ -616,7 +636,8 @@ Sn_V,18.8(=1131): "Pārāyanaṃ anugāyissaṃ -- icc-āyasmā Piṅgiyo -- yat
 
 ##### *[PTS Page 050]*
 
-(pahīna-) mala, 500. (pahīna-) moha, 522. māna, 505. makkha, 484. (māna-makkha)-(*pahāyino) pahīna . . 431. (e + d) handa, 697. | (kittayissāmi :) vaṇṇena upetaṃ ~= giraṃ vācaṃ byāpathaṃ udīraṇaṃ kittayissāmi . . 207.
+(pahīna-) mala, 500. (pahīna-) moha, 522. māna, 505. makkha, 484. (māna-makkha)-(*pahāyino) pahīna . . 431. (e + d) handa, 697. |  
+(kittayissāmi :) vaṇṇena upetaṃ ~= giraṃ vācaṃ byāpathaṃ udīraṇaṃ kittayissāmi . . 207.
 
 Sn_V,18.10(=1133): Tamonudo Buddho samantacakkhu lokantagū[^050-1] sabba-bhavā 'tivatto anāsavo sabba-dukkha-ppahīno sacca-vhayo[^050-2] brahme[^050-3] upāsito me.
 
@@ -644,13 +665,17 @@ Sn_V,18.14(=1137): Yo me dhammam adesesi sandiṭṭhikam akālikaṃ taṇhakkh
 
 ##### *[PTS Page 053]*
 
-(a)  | n'; āhaṃ Buddhamhā vippavasāmi . . 582. brāhmaṇa, 464, a (: gāravena mātulam ālapati) [om. Sc].
+(a) |  
+n'; āhaṃ Buddhamhā vippavasāmi . . 582. brāhmaṇa, 464, a (: gāravena mātulam ālapati) [om. Sc].
 
 Sn_V,18.18(=1141) = V,18.14(=1137): Yo me . . . .
 
 Sn_V,18.19(=1142): Passāmi naṃ manasā cakkhunā va rattin-divaṃ brāhmaṇa appamatto, namassamāno vivasemi rattiṃ, ten'; eva maññāmi avippavāsaṃ.
 
-(a)  | yathā cakkhunā (: 234) puriso ālokeyya rūpagatāni passeyya ~=, evam ev'; āhaṃ (*naṃ 333) Buddhaṃ Bhagavantaṃ [manasā] passāmi . . 428, a. (b)  | rattiñ ca divañ ca manasā bhāvento appamatto namassamāna, 334. (rattiṃ, 539 :) rattindivaṃ vivasemi . . 594. (d)  | tāya Buddh'ānussatiyā bhāvento avippavāso . . . 101 ti taṃ maññāmi avippaviṭṭho ti taṃ maññāmi . . . 491.
+(a) |  
+yathā cakkhunā (: 234) puriso ālokeyya rūpagatāni passeyya ~=, evam ev'; āhaṃ (*naṃ 333) Buddhaṃ Bhagavantaṃ [manasā] passāmi . . 428, a. (b) |  
+rattiñ ca divañ ca manasā bhāvento appamatto namassamāna, 334. (rattiṃ, 539 :) rattindivaṃ vivasemi . . 594. (d) |  
+tāya Buddh'ānussatiyā bhāvento avippavāso . . . 101 ti taṃ maññāmi avippaviṭṭho ti taṃ maññāmi . . . 491.
 
 Sn_V,18.20(=1143): Saddhā ca pītī[^053-1] ca mano satī[^053-2] ca n'; āpenti[^053-3] me Gotama-sāsanamhā, yaṃ yaṃ disaṃ vajati bhūripañño, sa tena ten'; eva nato 'ham asmi.
 
@@ -706,11 +731,15 @@ Sn_I,3.4(=38): Vaṃso visālo va yathā visatto puttesu dāresu ca yā apekkhā
 
 ##### *[PTS Page 059]*
 
-(a + b) | sahāyā, 670; sahāya-majjhe vāse pi ṭhāne pi gamane pi cārikāyā pi att-attha (*āmantanā) mantanā . . 128. | anabhijjhita, 38. seri, 691. (c)  seri taṃ, 278, d (: dhammaṃ) pekkhamāno . . . 453.
+(a + b) |  
+sahāyā, 670; sahāya-majjhe vāse pi ṭhāne pi gamane pi cārikāyā pi att-attha (*āmantanā) mantanā . . 128. |  
+anabhijjhita, 38. seri, 691. (c)  seri taṃ, 278, d (: dhammaṃ) pekkhamāno . . . 453.
 
 Sn_I,3.7(=41): Khiḍḍā ratī hoti sahāya -- majjhe puttesu ca vipulaṃ hoti pemaṃ, piya-vippayogaṃ vijigucchamāno eko care . . .
 
-khiḍḍā, 219. retī, 537. sahāyā, 670. puttā, 448. (b) | puttesu ca (*vipulaṃ) (: 581) adhimattaṃ. | hoti peman. piyā, 444. (c)  [piya-vippayogaṃ] vijigucchamāno . . . 566.
+khiḍḍā, 219. retī, 537. sahāyā, 670. puttā, 448. (b) |  
+puttesu ca (*vipulaṃ) (: 581) adhimattaṃ. |  
+hoti peman. piyā, 444. (c)  [piya-vippayogaṃ] vijigucchamāno . . . 566.
 
 Sn_I,3.8(=42): Cātuddiso appaṭigho ca hoti santussamāno itar'; ītarena, parissayānaṃ sahitā achambhī[^059-1] eko care . . .
 
@@ -728,7 +757,9 @@ Sn_I,3.10(=44): Oropayitvā[^060-1] gihi-byañjanāni sañchinna[^060-2]-patto y
 
 ##### *[PTS Page 061]*
 
-(a)| no nipakaṃ . . . 349 sahāyaṃ (*labhetha) labheyya. (c)| yathā rājā . . . 542 raṭṭhañ (ca) . . . 536. | (*pahāya) pariccajayitvā . . . 430. | evam eva paccekasambuddho pi sabbaṃ ghar'āvāsa-palibodhaṃ chinditvā (etc. : pabbajitvā ~=)
+(a)| no nipakaṃ . . . 349 sahāyaṃ (*labhetha) labheyya. (c)| yathā rājā . . . 542 raṭṭhañ (ca) . . . 536. |  
+(*pahāya) pariccajayitvā . . . 430. |  
+evam eva paccekasambuddho pi sabbaṃ ghar'āvāsa-palibodhaṃ chinditvā (etc. : pabbajitvā ~=)
 
 Sn_I,3.13(=47): Addhā pasaṃsāma sahāya-sampadaṃ: seṭṭhā samā sevitabbā sahāya[^061-1], ete aladdhā anavajjabhojī eko care . . .
 
@@ -782,13 +813,16 @@ B.     (1)  So vat', Ānanda, (etc. ~= A1).
 
 (2)  ceto-vimuttiṃ upasampajja viharissati asāmāyikaṃ [asamādhikaṃ Sc] akuppan ti n'; etaṃ ṭṭhānaṃ vijjati.
 
-(3)  yo ca kho Ānanda bhikkhu (etc. ~= A3, up to pāṭikaṅkhaṃ) sāmāyikaṃ vā ceto-vimuttiṃ upasampajja viharissati asāmāyikaṃ vā akuppan ti. Ṭhānaṃ etaṃ vijjatī ti. Ādicca, 125. (c) | [Ādicca-bandhussa, 125, b] (*vaco) (553). | vacanaṃ . . . (*nisamma) sutvā . . . 367.
+(3)  yo ca kho Ānanda bhikkhu (etc. ~= A3, up to pāṭikaṅkhaṃ) sāmāyikaṃ vā ceto-vimuttiṃ upasampajja viharissati asāmāyikaṃ vā akuppan ti. Ṭhānaṃ etaṃ vijjatī ti. Ādicca, 125. (c) |  
+[Ādicca-bandhussa, 125, b] (*vaco) (553). |  
+vacanaṃ . . . (*nisamma) sutvā . . . 367.
 
 Sn_I,3.21(=55): Diṭṭhi-visūkāni upātivatto patto niyāmaṃ paṭiladdha-maggo, ‘uppanna-ñāṇo 'mhi anaññaneyyo' eko care . . .
 
 Dutiyo Vaggo [om. Sc T].
 
-diṭṭhi-visūkāni, 301. (b)  [diṭṭhi-visūkāni] upātivatto, 163. niyāma, 358. | (*patto, 391 :) catūhi ariya-maggehi samannāgato . . . (ad. 358). paṭiladdha-maggo, 387. uppanna-ññṇo, 168. anañña-neyyo, 35.
+diṭṭhi-visūkāni, 301. (b)  [diṭṭhi-visūkāni] upātivatto, 163. niyāma, 358. |  
+(*patto, 391 :) catūhi ariya-maggehi samannāgato . . . (ad. 358). paṭiladdha-maggo, 387. uppanna-ññṇo, 168. anañña-neyyo, 35.
 
 Sn_I,3.22(=56): Nillolupo nikkuho nippipāso nimmakkho niddhanta-kasāva-moho nirāsayo[^065-1] sabbaloke bhavitvā eko care . . .
 
@@ -802,11 +836,14 @@ Sn_I,3.22(=56): Nillolupo nikkuho nippipāso nimmakkho niddhanta-kasāva-moho ni
 
 Sn_I,3.23(=57): Pāpaṃ sahāyaṃ parivajjayetha, anatthadassiṃ, visame niviṭṭhaṃ, sayaṃ na seve pasutaṃ pamattaṃ, eko care . . .
 
-pāpa-sahāya, 434. (a)  [pāpaṃ sahāyaṃ] (*parivajjayetha) parivajjeyya . . . 419. (b)  anattha-dassī, 37. visame, 599 + niviṭṭha, 364. pasuta, 427. pamatta, 404. (c) | pasutaṃ na (*seve) seveyya, pamattaṃ na seveyya (*sayaṃ, 652 :) sāmaṃ (om. T] na seveyya . . . 692, b.
+pāpa-sahāya, 434. (a)  [pāpaṃ sahāyaṃ] (*parivajjayetha) parivajjeyya . . . 419. (b)  anattha-dassī, 37. visame, 599 + niviṭṭha, 364. pasuta, 427. pamatta, 404. (c) |  
+pasutaṃ na (*seve) seveyya, pamattaṃ na seveyya (*sayaṃ, 652 :) sāmaṃ (om. T] na seveyya . . . 692, b.
 
 Sn_I,3.24(=58): Bahussutaṃ dhammadharaṃ bhajetha mittaṃ uḷāraṃ paṭibhānavantaṃ, aññāya atthāni vineyya kaṅkhaṃ eko care . . .
 
-bahussuta, 457. dhammadhara, 319. (a) | bahussutañ ca dhammadharañ ca | mittaṃ (*bhajetha) bhajeyya . . . 468. uḷāro (mitto), 170. paṭibhānavā, 386. (c)  (att-) attha, 26 + aññāya, 18. [kaṅkhaṃ] vineyya, 577, b.
+bahussuta, 457. dhammadhara, 319. (a) |  
+bahussutañ ca dhammadharañ ca |  
+mittaṃ (*bhajetha) bhajeyya . . . 468. uḷāro (mitto), 170. paṭibhānavā, 386. (c)  (att-) attha, 26 + aññāya, 18. [kaṅkhaṃ] vineyya, 577, b.
 
 Sn_I,3.25(=59): Khiḍḍā-ratiṃ[^066-1] kāmasukhañ ca loke analaṅkaritvā anapekkhamāno, vibhūsanaṭṭhānā[^066-2] virato saccavādī eko care . . .
 
@@ -816,7 +853,8 @@ Sn_I,3.25(=59): Khiḍḍā-ratiṃ[^066-1] kāmasukhañ ca loke analaṅkaritv�
 
 ##### *[PTS Page 067]*
 
-loke, 552, b. (b) | [khiḍḍañ ca *ratiñ* ca [*om. T] kāmasukhañ ca loke] analaṅkaritvā anapekkho hutvā pajahitvā ~= vibhūsā, 585. saccavādī, 623. lokassa vibhūsaṭṭhānā (*virato) ārato . . . 591.
+loke, 552, b. (b) |  
+[khiḍḍañ ca *ratiñ* ca [*om. T] kāmasukhañ ca loke] analaṅkaritvā anapekkho hutvā pajahitvā ~= vibhūsā, 585. saccavādī, 623. lokassa vibhūsaṭṭhānā (*virato) ārato . . . 591.
 
 Sn_I,3.26(=60): Puttañ ca dāraṃ [ca][^067-1] pitarañ ca mātaraṃ dhanāni dhaññāni ca bandhavāni ca hitvāna[^067-2] kāmāni yath-odhikāni.
 
@@ -834,17 +872,20 @@ Sn_I,3.28(=62): Sandālayitvāna[^068-1] saññojanāni[^068-2] jālaṃ va bhet
 
 ##### *[PTS Page 069]*
 
-(b) | yathā pāricchatto (439 :) kovilāro (*sañchinnapatto) bahula-patta-palāso (na Sc) saṇḍacchāyo, evam eva so paccekasambuddho paripuṇṇa-patta-cīvara-dharo ti. (c)  ad kāsāya-vattho, 205.
+(b) |  
+yathā pāricchatto (439 :) kovilāro (*sañchinnapatto) bahula-patta-palāso (na Sc) saṇḍacchāyo, evam eva so paccekasambuddho paripuṇṇa-patta-cīvara-dharo ti. (c)  ad kāsāya-vattho, 205.
 
 Sn_I,3.31(=65): Rasesu gedhaṃ akaraṃ alolo anaññaposī sapadānacārī kule kule appaṭibaddhacitto eko care . . .
 
-rasesu gedhaṃ akaraṃ : see rasa, 540. alola, 98. anañña-posī, 36. sapadāna-cārī, 646. appaṭibaddha-citta, 68. (c) | so paccekasambuddho (*kule) kula-palibodhena appaṭibaddha-citto hoti (etc. : see visattikā).
+rasesu gedhaṃ akaraṃ : see rasa, 540. alola, 98. anañña-posī, 36. sapadāna-cārī, 646. appaṭibaddha-citta, 68. (c) |  
+so paccekasambuddho (*kule) kula-palibodhena appaṭibaddha-citto hoti (etc. : see visattikā).
 
 Tatiyo Vaggo (om. T].
 
 Sn_I,3.32(=66): Pahāya pañc'; āvaraṇāni, cetaso upakkilese byapanujja sabbe, anissito chetvā sineha-dosaṃ eko care . . .
 
-pahāya, 430 + pañc'; āvaraṇāni, 379. (sabbe) uppakkilese, 156. (b)  (*cetaso :) cittassa (241) sabbe upakkilese (*byapanujja) panuditvā . . . 460. anissita, 46, b (first part) ("dve nissayā") (*sineha) sneha, 696. dosa, 313. (c) | so paccekasambuddho taṇhā-snehā ca diṭṭhisnehañ ca dosañ ca (*chetvā) chitvā . . . 245, a, anissito, 46, b (second part).
+pahāya, 430 + pañc'; āvaraṇāni, 379. (sabbe) uppakkilese, 156. (b)  (*cetaso :) cittassa (241) sabbe upakkilese (*byapanujja) panuditvā . . . 460. anissita, 46, b (first part) ("dve nissayā") (*sineha) sneha, 696. dosa, 313. (c) |  
+so paccekasambuddho taṇhā-snehā ca diṭṭhisnehañ ca dosañ ca (*chetvā) chitvā . . . 245, a, anissito, 46, b (second part).
 
 Sn_I,3.33(=67): Vipiṭṭhikatvāna sukhaṃ dukkhañ ca pubbe va ca[^069-1] somanassa[^069-2] -domanassaṃ, laddhān'; upekkhaṃ samathaṃ {visuddhaṃ} eko care . . .
 
@@ -854,7 +895,9 @@ Sn_I,3.33(=67): Vipiṭṭhikatvāna sukhaṃ dukkhañ ca pubbe va ca[^069-1] so
 
 ##### *[PTS Page 070]*
 
-(a + b) | so paccekasambuddho sukhassa ca (*vipiṭṭhi-katvāna) | pahānā (580) (: etc., 4th jhāna). upekkhā, 166. samatha, 649. satutthe jhāna upekkhā ca samatho (*visuddhā) suddhā honti visuddhā . . . 601. (c)  catutthe jhāne upekkhañ ca samathañ ca (*laddhāna) laddhā . . . 546.
+(a + b) |  
+so paccekasambuddho sukhassa ca (*vipiṭṭhi-katvāna) |  
+pahānā (580) (: etc., 4th jhāna). upekkhā, 166. samatha, 649. satutthe jhāna upekkhā ca samatho (*visuddhā) suddhā honti visuddhā . . . 601. (c)  catutthe jhāne upekkhañ ca samathañ ca (*laddhāna) laddhā . . . 546.
 
 Sn_I,3.34(=68): Āraddha-viriyo paramattha-pattiyā, alīna-citto akusīta-vutti, daḷha-nikkamo, thāmabal'; ūpapanno eko care . . .
 
@@ -876,15 +919,20 @@ taṇhakkhaya, 272. (*patthayaṃ) icchanto patthayanto . . . 392. appamatta, 70
 
 Sn_I,3.37(=71): Sīho va saddesu asantasanto vāto va jālamhi asajjamāno padumaṃ va toyena alippamāno eko care . . .
 
-(a) | yathā sīho (679 :) migarājā saddesu (*asantasanto) | asantāsi . . . 109, paccekasambuddho pi saddesu asantāsi . . . 109 (2nd). vāta, 562. jāla, 260. (b)  yathā vāto jālamhi (*asajjamāno) (: 107) na sajjati . . . (ad jāla), paduma, 393. toya, 287. (c)  yathā paduma-pupphaṃ toyena (*alippamāno) na lippati . . . 96.
+(a) |  
+yathā sīho (679 :) migarājā saddesu (*asantasanto) |  
+asantāsi . . . 109, paccekasambuddho pi saddesu asantāsi . . . 109 (2nd). vāta, 562. jāla, 260. (b)  yathā vāto jālamhi (*asajjamāno) (: 107) na sajjati . . . (ad jāla), paduma, 393. toya, 287. (c)  yathā paduma-pupphaṃ toyena (*alippamāno) na lippati . . . 96.
 
 Sn_I,3.38(=72): Sīho yathā dāṭha-balī pasayha rājā migānaṃ abhibhuyya-cārī sevetha pantāni senāsanāni, eko care . . .
 
-(a + b) | yathā sīho migarājā dāṭha-balī dāṭh'; -āvudho sabbe tiracchānagate pāṇe (*abhibhuyyacārī) (85 :) abhibhuyya ~= carati ~= , evam eva paccekasambuddho pi paññā-balī paññ'; āvudho sabbe pāṇabhūte puggale [om. T] paññāya abhibhuyya ~= (c) | yathā sīho migarājā arañña-vana-majjhe gāhetvā [arañña-vana-patthāni ajjhogāhetvā T] (cp. v. 53) carati ~= *evam *eva [*om. Sc] paccekasambuddho pi arañña ~=
+(a + b) |  
+yathā sīho migarājā dāṭha-balī dāṭh'; -āvudho sabbe tiracchānagate pāṇe (*abhibhuyyacārī) (85 :) abhibhuyya ~= carati ~= , evam eva paccekasambuddho pi paññā-balī paññ'; āvudho sabbe pāṇabhūte puggale [om. T] paññāya abhibhuyya ~= (c) |  
+yathā sīho migarājā arañña-vana-majjhe gāhetvā [arañña-vana-patthāni ajjhogāhetvā T] (cp. v. 53) carati ~= *evam *eva [*om. Sc] paccekasambuddho pi arañña ~=
 
 Sn_I,3.39(=73): Mettaṃ upekkhaṃ karuṇaṃ vimuttiṃ āsevamāno muditañ ca kāle sabbena lokena avirujjhamāno eko care . . .
 
-(a + b) | see cātuddisa A. (c)  see cātuddisa B. avirujjhamāna, 102.
+(a + b) |  
+see cātuddisa A. (c)  see cātuddisa B. avirujjhamāna, 102.
 
 Sn_I,3.40(=74): Rāgañ ca dosañ ca pahāya moham [sandālayitvāna saññojanāni] <62a>. asantasaṃ jīvita-saṅkhayamhi eko care . . .
 
@@ -894,7 +942,8 @@ Sn_I,3.40(=74): Rāgañ ca dosañ ca pahāya moham [sandālayitvāna saññojan�
 
 ##### *[PTS Page 072]*
 
-rāga, 541. dosa, 313. moha, 522. (a)  so paccekasambuddho rāgañ ca dosañ ca mohañ ca pahāya . . . 430. (c) | so paccekasambuddho (*jīvita-saṅkhayamhi) (261 :) jīvita-pariyosāne (*asantasaṃ) asantāsi . . . 109.
+rāga, 541. dosa, 313. moha, 522. (a)  so paccekasambuddho rāgañ ca dosañ ca mohañ ca pahāya . . . 430. (c) |  
+so paccekasambuddho (*jīvita-saṅkhayamhi) (261 :) jīvita-pariyosāne (*asantasaṃ) asantāsi . . . 109.
 
 Sn_I,3.41(=75): Bhajanti sevanti ca kāraṇatthā, nikkāraṇā dullabhā ajja mittā att-aṭṭhapaññā[^072-1] asuci-manussā, -- eko care khaggavisāṇakappo ti. <see 35d>.
 

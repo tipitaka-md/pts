@@ -1051,16 +1051,25 @@ no-natthipaccayā . . . no-vigatapaccayā.
 
 [Gaṇanamūlakā[^094-1]
                        1. Hetu-ekamūlakaṃ.]
-Na-hetuyā dve        (Na-H 2)  | na-kamme tīṇi       (Na-K 3)
-na-ārammaṇe pañca    (Na-Ā 5)  | na-vipāke nava      (Na-V 9)
-na-adhipatiyā nava   (Na-A 9)  | na-indriye ekaṃ     (Na-I 1)
-na-anantare pañca    (Na-An 5) | na-jhāne ekaṃ       (Na-Jh 1)
-na-samanantare pañca (Na-S 5)  | na-magge ekaṃ       (Na-M 1)
-na-aññamaññe pañca   (Na-Añ 5) | na-sampayutte pañca (Na-Sp 5)
-na-upanissaye pañca  (Na-U 5)  | na-vippayutte tīṇi  (Na-Vpp 3)
-na-purejāte satta    (Na-Pu 7) | no-natthiyā pañca   (No-Nat 5)
-na-pacchājāte nava   (Na-Pa 9) | no-vigate pañca     (No-Vg 5)
-na-āsevane nava      (Na-Ās 9) |
+Na-hetuyā dve        (Na-H 2) |  
+na-kamme tīṇi       (Na-K 3)
+na-ārammaṇe pañca    (Na-Ā 5) |  
+na-vipāke nava      (Na-V 9)
+na-adhipatiyā nava   (Na-A 9) |  
+na-indriye ekaṃ     (Na-I 1)
+na-anantare pañca    (Na-An 5) |  
+na-jhāne ekaṃ       (Na-Jh 1)
+na-samanantare pañca (Na-S 5) |  
+na-magge ekaṃ       (Na-M 1)
+na-aññamaññe pañca   (Na-Añ 5) |  
+na-sampayutte pañca (Na-Sp 5)
+na-upanissaye pañca  (Na-U 5) |  
+na-vippayutte tīṇi  (Na-Vpp 3)
+na-purejāte satta    (Na-Pu 7) |  
+no-natthiyā pañca   (No-Nat 5)
+na-pacchājāte nava   (Na-Pa 9) |  
+no-vigate pañca     (No-Vg 5)
+na-āsevane nava      (Na-Ās 9) |  
 Na-hetupaccayā
      Na-Ā 1         Na-U 1          Na-V 2        Na-Sp 1 
      Na-A 2         Na-Pu 2        Na-Āh 1        Na-Vpp 2
@@ -1081,14 +1090,30 @@ so on to (23) no-vigatapaccayā, omitting (6), (8), (21), (24).
      they are experienced, in numerals. In this first list they are
      printed both in full and in abbreviated form, as a guide. The
      following is a full list of the paccayas and their abbreviations:
-1. Hutu        H |  9. Upanissaya   U | 17. Jhāna        Jh
-2. Ārammaṇa    Ā | 10. Purejāta    Pu | 18. Magga         M
-3. Adhipati    A | 11. Pacchājāta  Pā | 19. Sampayutta   Sp
-4. Anantara   An | 12. Āsevana     Ās | 20. Vippayutta  Vpp
-5. Samanantara S | 13. Kamma        K | 21. Atthi        At
-6. Shajāta    Sj | 14. Vipāka       V | 22. Natthi      Nat
-7. Aññamañña  Añ | 15. Āhāra       Āh | 23. Vigata       Vg
-8. Nissaya     N | 16. Indriya      I | 24. Avigata     Avg
+1. Hutu        H |  
+9. Upanissaya   U |  
+17. Jhāna        Jh
+2. Ārammaṇa    Ā |  
+10. Purejāta    Pu |  
+18. Magga         M
+3. Adhipati    A |  
+11. Pacchājāta  Pā |  
+19. Sampayutta   Sp
+4. Anantara   An |  
+12. Āsevana     Ās |  
+20. Vippayutta  Vpp
+5. Samanantara S |  
+13. Kamma        K |  
+21. Atthi        At
+6. Shajāta    Sj |  
+14. Vipāka       V |  
+22. Natthi      Nat
+7. Aññamañña  Añ |  
+15. Āhāra       Āh |  
+23. Vigata       Vg
+8. Nissaya     N |  
+16. Indriya      I |  
+24. Avigata     Avg
 
 
 <!-- PTS Page 095 -->
@@ -6379,26 +6404,34 @@ Vipāka-, etc., inserting aññamañña-
      Na-H 7 . . . pe . . .      |     Na-H 3 . . . pe . . .
 Āh-Sj-N-At-Avg ti               |  Āh-Sj-N-K-Vpp-At-Avg ti
      Na-H 7 . . . pe . . .Count-|     Na-H 3 . . . pe . . .
-     ing 3 for Nos. 7,19,20.  |  Āh-Sj-N-K-V-At-Avg ti
+     ing 3 for Nos. 7,19,20. |  
+Āh-Sj-N-K-V-At-Avg ti
 Āh-Sj-Añ-N-At-Avg ti            |     Na-H 1 . . . pe . . .
      Na-H 3 . . . pe . . .[^213-2]     |  Āh-Sj-Añ-N-K-V-At-Avg ti
 Āh-Sj-Añ-N-Sp-At-Avg ti         |     Na-H 1 . . . pe . . .
-     Na-H 3 . . . pe . . .      |  Āh-Sj-Añ-N-K-V-Sp-At-Avg ti
+     Na-H 3 . . . pe . . .      |  
+Āh-Sj-Añ-N-K-V-Sp-At-Avg ti
 Āh-Sj-N-Vp-At-Avg ti            |     Na-H 1 . . . pe . . .
      Na-H 3 . . . pe . . .[^213-3]     |  Āh-Sj-N-K-V-Vpp-At-Avg ti
 Āh-Sj-N-V-At-Avg ti             |     Na-H 1 . . . pe . . . 5
-     Na-H 1 . . . pe . . .      |  Āh-Sj-Añ-N-K-V-Vpp-At-Avg ti
+     Na-H 1 . . . pe . . .      |  
+Āh-Sj-Añ-N-K-V-Vpp-At-Avg ti
 Āh-Sj-Añ-N-V-At-Avg ti          |     Na-H 1 . . . pe . . .
-     Na-H 1 . . . pe . . .      |  Āh-Sj-N-I-At-Avg ti
+     Na-H 1 . . . pe . . .      |  
+Āh-Sj-N-I-At-Avg ti
 Āh-Sj-Añ-N-V-Sp-At-Avg ti       |     Na-H 7 . . . pe . . . count-
      Na-H 1 . . . pe . . .      |        ing 3 for Nos. 7,19,20.
-Āh-Sj-N-V-Vpp-At-Avg ti         |  Āh-Sj-Añ-N-I-At-Avg ti
+Āh-Sj-N-V-Vpp-At-Avg ti      |  
+Āh-Sj-Añ-N-I-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 3 . . . pe . . .[^213-4]
-Āh-Sj-Añ-N-V-Vpp-At-AVg ti      |  Āh-Sj-Añ-N-I-Sp-At-AVg ti
+Āh-Sj-Añ-N-V-Vpp-At-AVg ti      |  
+Āh-Sj-Añ-N-I-Sp-At-AVg ti
      Na-H 1 . . . pe . . .      |     Na-H 3 . . . pe . . .
-Āh-Sj-N-K-At-Avg ti             |  Āh-Sj-N-I-Vpp-At-Avg ti
+Āh-Sj-N-K-At-Avg ti           |  
+Āh-Sj-N-I-Vpp-At-Avg ti
      Na-H 7 . . . pe . . .Count-|     Na-H 3 . . . pe . . .[^213-5]
-     ing 3 for Nos. 7,19,20.   |  Āh-Sj-N-V-I-At-Avg ti
+     ing 3 for Nos. 7,19,20. |  
+Āh-Sj-N-V-I-At-Avg ti
                                 |     Na-H 1 . . . pe . . .
 --------------------------------------------------------------------------
 1 B. counts 1 for No. 6, and 3 for No. 19.
@@ -6413,17 +6446,21 @@ Vipāka-, etc., inserting aññamañña-
 
 ##### *[PTS Page 214]*
 
-Āh-Sj-Añ-N-V-I-At-Avg ti        |  Āh-A-Sj-Añ-N-I-Sp-At-AVg ti
+Āh-Sj-Añ-N-V-I-At-Avg ti      |  
+Āh-A-Sj-Añ-N-I-Sp-At-AVg ti
      Na-H 1 . . . pe . . .[^214-1]     |     Na-H 3 . . . pe . . .
 Āh-Sj-Añ-N-V-I-Sp-At-Avg ti     |  Āh-A-Sj-N-I-Vpp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 3 . . . pe . . .
-Āh-Sj-N-V-I-Vpp-At-Avg ti       |  Āh-A-Sj-N-V-I-At-Avg ti
+Āh-Sj-N-V-I-Vpp-At-Avg ti      |  
+Āh-A-Sj-N-V-I-At-Avg ti
      Na-H 1 . . . pe . . .[^214-2]    |     Na-H 1 . . .  pe . . .[^214-3]
-Āh-Sj-Añ-N-V-I-Vpp-At-Avg ti    |  Āh-A-Sj-Añ-N-V-I-Sp-At-Avg ti
+Āh-Sj-Añ-N-V-I-Vpp-At-Avg ti |  
+Āh-A-Sj-Añ-N-V-I-Sp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 1 . . . pe . . .
-Āh-Ā-Sj-N-I-At-Avg ti           |  Āh-A-Sj-N-V-I-Vpp-At-Avg ti
+Āh-Ā-Sj-N-I-At-Avg ti           |  
+Āh-A-Sj-N-V-I-Vpp-At-Avg ti
      Na-H 7 . . . pe . . .count-|     Na-H 1 . . . pe . . .
-     ing 3 for Nos. 7,9,20.   |
+     ing 3 for Nos. 7,9,20.   |  
                       Āhāramūlakaṃ niṭṭhitaṃ.
                          16. Indriya na-.
 Indriyapaccayā
@@ -6431,18 +6468,22 @@ Indriyapaccayā
      Na-S 7               Na-U 7[^214-4] ...pe...      No-Nat 7
      Na-Sj 1              Na-M 7                No-Vg 7
      Na-Añ 3              Na-Sp 3
-Indriya-atthi-avigatan ti       |  I-Sj-N-Vpp-At-Avg ti
+Indriya-atthi-avigatan ti      |  
+I-Sj-N-Vpp-At-Avg ti
      . . . as in foregoing.     |     Na-H 3 . . . pe . . .
-I-N-At-Avg ti                   |  I-Sj-N-V-At-Avg ti
+I-N-At-Avg ti                |  
+I-Sj-N-V-At-Avg ti
      . . . as in foregoing.     |     Na-H 1 . . . pe . . .
 I-N-Vpp-At-Avg ti               |  I-Sj-Añ-N-V-At-Avg ti
      Na-H 3 . . . pe . . .[^214-5]     |     Na-H 1 . . . pe . . .
-I-N-Pu-Vpp-At-Avg ti            |  I-Sj-Añ-N-V-Sp-At-Avg ti
+I-N-Pu-Vpp-At-Avg ti           |  
+I-Sj-Añ-N-V-Sp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 1 . . . pe . . .
-I-Sj-N-At-Avg ti                |
+I-Sj-N-At-Avg ti                |  
      Na-H 7 . . .pe . . . count-|  I-Sj-N-V-Vpp-At-Avg ti
      ing 3 for Nos. 7,19,20.  |     Na-H 1 . . . pe . . .
-I-Sj-Añ-N-At-Avg ti             |  I-Sj-Añ-N-V-Vpp-At-Avg ti
+I-Sj-Añ-N-At-Avg ti           |  
+I-Sj-Añ-N-V-Vpp-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-H 1 . . . pe . . .
 I-Sj-Añ-N-Sp-At-Avg ti          |  I-Sj-N-M-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-H 7 . . . pe[^214-6] . . .
@@ -6460,39 +6501,52 @@ I-Sj-Añ-N-Sp-At-Avg ti          |  I-Sj-N-M-At-Avg ti
 
 ##### *[PTS Page 215]*
 
-I-Sj-Añ-N-M-At-Avg ti           |  I-Sj-N-Jh-M-At-Avg ti
+I-Sj-Añ-N-M-At-Avg ti           |  
+I-Sj-N-Jh-M-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-H 7 . . . pe . . .
-I-Sj-Añ-N-M-Sp-At-Avg ti        |  I-Sj-Añ-N-Jh-M-At-Avg ti
+I-Sj-Añ-N-M-Sp-At-Avg ti      |  
+I-Sj-Añ-N-Jh-M-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-H 3 . . . pe . . .
 I-Sj-N-M-Vpp-At-Avg ti          |  I-Sj-Añ-N-Jh-M-Sp-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-H 3 . . . pe . . .
-I-Sj-N-V-M-At-Avg ti            |  I-Sj-N-Jh-M-Vpp-At-Avg ti
+I-Sj-N-V-M-At-Avg ti           |  
+I-Sj-N-Jh-M-Vpp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 3 . . . pe . . .
-I-Sj-Añ-N-V-M-At-Avg ti         |  I-Sj-N-V-Jh-M-At-Avg ti
+I-Sj-Añ-N-V-M-At-Avg ti      |  
+I-Sj-N-V-Jh-M-At-Avg ti
      Na-H 1 . . . pe . . .[^215-1]     |     Na-H 1 . . . pe . . .
-I-Sj-N-V-M-Vpp-At-Avg ti        |  I-Sj-Añ-N-V-Jh-M-At-Avg ti
+I-Sj-N-V-M-Vpp-At-Avg ti      |  
+I-Sj-Añ-N-V-Jh-M-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 1 . . . pe . . .
-I-Sj-Añ-N-V-M-Sp-At-Avg ti      |  I-Sj-Añ-N-V-Jh-M-Sp-At-Avg ti
+I-Sj-Añ-N-V-M-Sp-At-Avg ti      |  
+I-Sj-Añ-N-V-Jh-M-Sp-At-Avg ti
      Na-H 1 . . . pe . . .[^215-2]     |     Na-H 1 . .pe . . .
 I-Sj-Añ-N-V-M-Vpp-At-Avg ti     |  I-Sj-N-V-Jh-M-Vpp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 1 . .pe . . .
-I-Sj-N-Jh-At-Avg ti             |  I-Sj-Añ-N-V-Jh-M-Vpp-At-Avg ti
+I-Sj-N-Jh-At-Avg ti           |  
+I-Sj-Añ-N-V-Jh-M-Vpp-At-Avg ti
      Na-H 7 . . . pe . . .      |     Na-H 1 . . . pe . . .
 I-Sj-Añ-N-Jh-At-Avg ti          |  I-Sj-N-Āh At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-H 7 . . . pe . . .
-I-Sj-Añ-N-Jh-Sp-At-Avg ti       |  I-Sj-Añ-N-Āh-At-Avg ti
+I-Sj-Añ-N-Jh-Sp-At-Avg ti      |  
+I-Sj-Añ-N-Āh-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-H 3 . . .pe . . .
-I-Sj-N-Jh-Vpp At Avg ti         |  I-Sj-Añ-N-Āh-Sp-At-Avg ti
+I-Sj-N-Jh-Vpp At Avg ti      |  
+I-Sj-Añ-N-Āh-Sp-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-H 3 . . . pe . . .
-I-Sj-N-V-Jh-Vpp-At-Avg ti       |  I-Sj-N-Āh-Vp-At-Avg ti
+I-Sj-N-V-Jh-Vpp-At-Avg ti      |  
+I-Sj-N-Āh-Vp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 3 . . . pe . . .
-I-Sj-Añ-N-V-Jh-At-Avg ti        |  I-Sj-2N-V-Āh At-Avg ti
+I-Sj-Añ-N-V-Jh-At-Avg ti      |  
+I-Sj-2N-V-Āh At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 1 . . . pe . . .
 I-Sj-Añ-N-V-Jh-Sp-At-Avg ti     |  I-Sj-Añ N-V-Āh-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 1 . . . pe . . .
-I-Sj-N-V-Jh-Vpp-At-Avg ti       |  I-Sj-Añ-N-V-Āh-Sp-At-Avg ti
+I-Sj-N-V-Jh-Vpp-At-Avg ti      |  
+I-Sj-Añ-N-V-Āh-Sp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-H 1 . . . pe . . .
-I-Sj-Añ-N-V-Jh-Vpp-At-Avg ti    |  I-Sj-N-V-Āh-Vpp-At-Avg ti
+I-Sj-Añ-N-V-Jh-Vpp-At-Avg ti |  
+I-Sj-N-V-Āh-Vpp-At-Avg ti
      Na-H 1 . . .pe . . .       |     Na-H 1 . . . pe . . .
 --------------------------------------------------------------------------
 1 K. omits this group.
@@ -6506,31 +6560,41 @@ I-Sj-Añ-N-V-Jh-Vpp-At-Avg ti    |  I-Sj-N-V-Āh-Vpp-At-Avg ti
 
 I-Sj-Añ-N-V-Āh-Vp-At-Avg ti     |  I-H-Sj-Añ-N-M-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-Ā 2 . . . pe . . .
-I-A-Sj-N-Ah At-Āvg ti           |  I-H-Sj-Añ-N-M-Sp-At-Avg ti
+I-A-Sj-N-Ah At-Āvg ti           |  
+I-H-Sj-Añ-N-M-Sp-At-Avg ti
      Na-H 7 . . . pe . . .      |     Na-Ā 2 . . . pe . . .
 I-A-Sj-Añ-N-Āh-Sp-At-Avg ti     |  I-H-Sj-N-M-Vpp-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-Ā 2 . . . pe . . .
-I-A-Sj-N-Āh-Vpp-At-Avg ti       |  I-H-Sj-N-V-M-At-Avg ti
+I-A-Sj-N-Āh-Vpp-At-Avg ti      |  
+I-H-Sj-N-V-M-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-Ā 1 . . . pe . . .
-I-A-Sj-N-V-Āh-At-Avg ti         |  I-H-Sj-Añ-N-V-M-At-Avg ti
+I-A-Sj-N-V-Āh-At-Avg ti      |  
+I-H-Sj-Añ-N-V-M-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-Ā 1 . . . pe . . .
-I-A-Sj-Añ-N-V-Āh-Sp-At-Avg ti   |  I-H-Sj-Añ-N-V-M-Sp-At-Avg ti
+I-A-Sj-Añ-N-V-Āh-Sp-At-Avg ti |  
+I-H-Sj-Añ-N-V-M-Sp-At-Avg ti
      Na-H 1 . . . pe . . .[^216-1]     |     Na-Ā 1 . . . pe . . .
 I-A-Sj-N-V-Āh-Vpp-At-Avg ti     |  I-H-Sj-N-V-M-Vpp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-Ā 1 . . . pe . . .
-I-A-Sj-N-M-At-Avg ti            |  I-H-Sj-Añ-N-V-M-Vpp-At-Avg ti
+I-A-Sj-N-M-At-Avg ti           |  
+I-H-Sj-Añ-N-V-M-Vpp-At-Avg ti
      Na-H 7 . . . pe . . .      |     Na-Ā 1 . . . pe . . .
-I-A-Sj-Añ-N-M-Sp-At-Avg ti      |  I-H-A-Sj-N-M-At-Avg ti
+I-A-Sj-Añ-N-M-Sp-At-Avg ti      |  
+I-H-A-Sj-N-M-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-Ā 4 . . . pe . . .[^216-2]
-I-A-Sj-N-M-Vpp-At-Avg ti        |  I-H-A-Sj-Añ-N-M-Sp-At-Avg ti
+I-A-Sj-N-M-Vpp-At-Avg ti      |  
+I-H-A-Sj-Añ-N-M-Sp-At-Avg ti
      Na-H 3 . . . pe . . .      |     Na-Ā 2 . . . pe . . .
 I-A-Sj-N-V-M-At-Avg ti          |  I-H-A-Sj-N-M-Vpp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-Ā 2 . . . pe . . .
-I-A-Sj-Añ-N-V-M-Sp-At-Avg ti    |  I-H-A-Sj-N-V-M-At-Avg ti
+I-A-Sj-Añ-N-V-M-Sp-At-Avg ti |  
+I-H-A-Sj-N-V-M-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-Ā 1 . . . pe . . .
-I-A-Sj-N-V-M-Vpp-At-Avg ti      |  I-H-A-Sj-Añ-N-V-M-Sp-At-Avg ti
+I-A-Sj-N-V-M-Vpp-At-Avg ti      |  
+I-H-A-Sj-Añ-N-V-M-Sp-At-Avg ti
      Na-H 1 . . . pe . . .      |     Na-Ā 1 . . . pe . . .
-I-H-Sj-N-M-At-Avg ti            |  I-H-A-Sj-N-V-M-Vpp-At-Avg ti
+I-H-Sj-N-M-At-Avg ti           |  
+I-H-A-Sj-N-V-M-Vpp-At-Avg ti
      Na-Ā 4 . . . pe . . .      |     Na-Ā 1 . . . pe . . .
                      Indriyamūlakaṃ niṭṭhitaṃ.
                           17. Jhāna na-.
@@ -6549,19 +6613,25 @@ Jhāna-sahajāta-nissaya-atthi-avigatan ti
 
 ##### *[PTS Page 217]*
 
-Jhāna-Sj-Añ-N-At-Avg ti         | Jhāna-Sj-Añ-N-V-Vpp-At-Avg ti
+Jhāna-Sj-Añ-N-At-Avg ti      |  
+Jhāna-Sj-Añ-N-V-Vpp-At-Avg ti
      Na-H 3 ...pe... No-Vg 3.   |     Na-H 1  . . . pe . . . No-Vg 1.
-Jh-Sj-Añ-N-Sp-At-Avg ti         |  Jhāna-Sj-N-I-At-Avg ti
+Jh-Sj-Añ-N-Sp-At-Avg ti      |  
+Jhāna-Sj-N-I-At-Avg ti
      Na-H 3 ...pe... No-Vg 3.   |     Na-H 7 . . . pe . . . No-Vg 7.
-Jhāna-Sj-N-Vpp-At-Avg ti        |  Jhāna-Sj-Añ-N-I-At-Avg ti
+Jhāna-Sj-N-Vpp-At-Avg ti      |  
+Jhāna-Sj-Añ-N-I-At-Avg ti
      Na-H 3 ...pe... No-Vg 3.   |     Na-H 3 . . . pe . . . No-
 Jhāna-Sj-N-V-At-Avg ti          |       Vg 3.
-     Na-H 1 . . . No-Vg 1.      |  Jhāna-Sj-Añ-N-I-Sp-At-Avg ti
+     Na-H 1 . . . No-Vg 1.      |  
+Jhāna-Sj-Añ-N-I-Sp-At-Avg ti
 Jhāna-Sj-Añ-N-V-At-Avg ti       |     Na-H 3 . . . No-Vg 3.
-     Na-H 1 ...pe... No-Vg 1.   |  Jhāna-Sj-N-I-Vpp-At-Avg ti
+     Na-H 1 ...pe... No-Vg 1. |  
+Jhāna-Sj-N-I-Vpp-At-Avg ti
 Jhāna-Sj-Añ-N-V-Sp-At-Avg ti    |     Na-H 3 . . . pe . . . No-
      Na-H 1 ...pe... No-Vg 1.   |       Vg 3.
-Jhāna-Sj-N-V-Vpp-At-Avg ti      |  Jhāna-Sj-N-V-I-At-Avg ti
+Jhāna-Sj-N-V-Vpp-At-Avg ti      |  
+Jhāna-Sj-N-V-I-At-Avg ti
      Na-H 1 ...pe... No-Vg 1.   |     Na-H 1 . . . pe . . . No-Vg 1.
 Jhāna-Sj-Añ-N-V-I-At-Avg ti  Na-H 1 . . . pe . . . No-Vg 1.
 Jhāna-Sj-Añ-N-V-I-Sp-At-Avg ti  Na-H 1 . . . pe . . . No-Vg 1.
