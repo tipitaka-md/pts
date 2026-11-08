@@ -16,9 +16,9 @@
 <title> Yasa Mahathera: Kaccayanasara Based on the ed. by Ūḥ Tvanḥ Sinḥ (et al.): Saddā ṅay 15 coṅ pāṭh, Rankun : Icchāsaya piṭakat cā puṃ nhip tuik 1964. </title>
 <style type="text/css">
   <!--
-td {font-family:'Arial Unicode MS', 'Arial Unicode MS Standard', 'Gentium', 'Gandhari Unicode', 
-'Lucida Grande', 'CyberBit', 'Bitstream CyberBase', 'Bitstream CyberCJK', 
-'Code2000', 'Courier New', 'Doulos SIL', 'Fixedsys Excelsio', 'Free Monospaced', 
+td {font-family:'Arial Unicode MS', 'Arial Unicode MS Standard', 'Gentium', 'Gandhari Unicode',
+'Lucida Grande', 'CyberBit', 'Bitstream CyberBase', 'Bitstream CyberCJK',
+'Code2000', 'Courier New', 'Doulos SIL', 'Fixedsys Excelsio', 'Free Monospaced',
 'Free Serif', 'Everson Mono Unicode', 'Arial', 'CN-Arial', 'CN-Times';}  -->
  </style></HEAD><BODY><FONT Size=3 Face="Arial Unicode MS, Arial Unicode MS Standard">
 
@@ -85,236 +85,236 @@ For further information see: http://gretil.sub.uni-goettingen.de/gretil.htm
 
 
 mundindakko tamaṃ mohaṃhantvā bodhesi paṅkajaṃ /  
-janaṃsaddhammaraṃsīhi so sampāletumaṃ jino  // YKac_1 //  
+janaṃsaddhammaraṃsīhi so sampāletumaṃ jino  // YKac_1 //
 
 māgadhikāya bālānaṃ buddhiyā buddhasāsane /  
-vakkhaṃ kaccāyanasāraṃ nissāya jaṅghadāsakaṃ  // YKac_2 //  
+vakkhaṃ kaccāyanasāraṃ nissāya jaṅghadāsakaṃ  // YKac_2 //
 
 kattādo yattha ākhyātaṃ kitsamāsassutaddhitaṃ /  
-savutto tattha paṭhamā atthamattavivacchayā  // YKac_3 //  
+savutto tattha paṭhamā atthamattavivacchayā  // YKac_3 //
 
 kattukammani ākhyātaṃ taddhitaṃ vadhivajjite /  
-sāmivajje kitsamāso khile jāti visesake  // YKac_4 //  
+sāmivajje kitsamāso khile jāti visesake  // YKac_4 //
 
 kitādivācakānāma goṇāte ca visesanā /  
-vuttassādiparaṃ saṅkhyaṃ sesā liṅgādigāhino  // YKac_5 //  
+vuttassādiparaṃ saṅkhyaṃ sesā liṅgādigāhino  // YKac_5 //
 
 nāmānañce caye vākyaṃ goṇasaṅkhyā cayaṅgasā /  
-.... .... [missing line] .... ...  // YKac_6 //  
+.... .... [missing line] .... ...  // YKac_6 //
 
 pakatī vikatīcāpi yatra vuttaṃ dvayampica /  
-vācako pakatisaṅkhyaṃ gaṇhātissā padhānato  // YKac_7 //  
+vācako pakatisaṅkhyaṃ gaṇhātissā padhānato  // YKac_7 //
 
 bhedo visesanaṃ bhedyaṃ visesyaṃ taṃ dvayaṃ yadi /  
-tulyatthaṃbhedakaṃ bhiyyo bhedyaliṅgādigāhakaṃ  // YKac_8 //  
+tulyatthaṃbhedakaṃ bhiyyo bhedyaliṅgādigāhakaṃ  // YKac_8 //
 
 sādhammasādhanaṃ siddha masiddhasso pamānakaṃ /  
-upameyyamasiddhaṃ taṃ dvayamekavibhattikaṃ  // YKac_9 //  
+upameyyamasiddhaṃ taṃ dvayamekavibhattikaṃ  // YKac_9 //
 
 payutte gamyamānevā vutte tumhamhi majjhimo /  
-tathuttamo bhavemhamhi sesamhi paṭhamo bhave  // YKac_10 //  
+tathuttamo bhavemhamhi sesamhi paṭhamo bhave  // YKac_10 //
 
 ekakālābhidhānamhi vuttesu nāmaādisu /  
-parova puriso hoti dhātuto paṭhamādisu  // YKac_11 //  
+parova puriso hoti dhātuto paṭhamādisu  // YKac_11 //
 
 jhatthaniddiṭṭhe tumhamhe na sakā purisā siyuṃ /  
-upāyopādiyaheyyo upeyyaṃ tena sādhiyaṃ  // YKac_12 //  
+upāyopādiyaheyyo upeyyaṃ tena sādhiyaṃ  // YKac_12 //
 
 gatibuddhyāsanasaddā kammakānañca kārite /  
 bhajjādīnañca yo kattā kammasañño sadhātunaṃ /  
-harakkarābhivādīnaṃ disajjhoharatissavā  // YKac_13 //  
+harakkarābhivādīnaṃ disajjhoharatissavā  // YKac_13 //
 
 nīkhādāvhādasaddāya kandānaṃ sambhave na sā /  
-vahāniyantu hetumhi bhakkhissāhiṃsanepica  // YKac_14 //  
+vahāniyantu hetumhi bhakkhissāhiṃsanepica  // YKac_14 //
 
 padhānaṃ nīvahādīnaṃ appadhānaṃ duhādinaṃ /  
-karitānaṃ sakaṃ kammaṃ vaccaṃ kattā payojako  // YKac_15 //  
+karitānaṃ sakaṃ kammaṃ vaccaṃ kattā payojako  // YKac_15 //
 
 abhāvā abhidheyyassa aññadapyāha kammajo {*1} /  
-kāladdhabhāvadesetu nābhidhātyaññasambhave  // YKac_16 //  
+kāladdhabhāvadesetu nābhidhātyaññasambhave  // YKac_16 //
 
 {*1 aññamapyāha - katthaci} kāladdhabhāvadesānaṃ kammatā kammakehi ve /  
-antabhūtakriyāññehi yoge sambhoti dhātuhi  // YKac_17 //  
+antabhūtakriyāññehi yoge sambhoti dhātuhi  // YKac_17 //
 
 kitākhyātavisesyehi yaṃvuttaṃ taṃ pakāsati /  
-visesanānuttamapi vuttaṃ vādappabhedato  // YKac_18 //  
+visesanānuttamapi vuttaṃ vādappabhedato  // YKac_18 //
 
 vuttaṃpi vuttataṃ yāti padantarehyanuttataṃ /  
-kvacānuttaṃ panānuttaṃ vuttañcāpi padantare  // YKac_19 //  
+kvacānuttaṃ panānuttaṃ vuttañcāpi padantare  // YKac_19 //
 
 sāmaññaniddeso.
 
 parassa kattariyeva attanopana tīsupi /  
-vikaraṇātu sabbepi katvatthe sabbadhātuke  // YKac_20 //  
+vikaraṇātu sabbepi katvatthe sabbadhātuke  // YKac_20 //
 
 assabbadhātukepyesu kiñci icchanti paccayaṃ /  
-paccuppannādikālesu vattamānādayo kamā  // YKac_21 //  
+paccuppannādikālesu vattamānādayo kamā  // YKac_21 //
 
 āraddhāniṭṭhito bhāvo paccuppanno suniṭṭhito /  
-atītānāgatuppāda mappattābhimukhākriyā  // YKac_22 //  
+atītānāgatuppāda mappattābhimukhākriyā  // YKac_22 //
 
 katassāsaraṇe kattu accantacchādanepica /  
-diṭṭhādīnamabhāveca tīsu ñeyyā parokkhatā  // YKac_23 //  
+diṭṭhādīnamabhāveca tīsu ñeyyā parokkhatā  // YKac_23 //
 
 atītarattiyā yāmo pacchimoḍḍhamamussavā /  
-bhāviniyādippahāro tadaḍḍhaṃ vājjatehyaho  // YKac_24 //  
+bhāviniyādippahāro tadaḍḍhaṃ vājjatehyaho  // YKac_24 //
 
 viruddhahetuyogāvā hetuvekallatopi vā /  
-kriyānamabhavova kriyātipannamīritaṃ  // YKac_25 //  
+kriyānamabhavova kriyātipannamīritaṃ  // YKac_25 //
 
 tañca dvidhā bhūtaṃ bhāvī bhūtaṃ sampuṇṇakāraṇā /  
-bhāvībhāvātipannantu kutoci liṅgadassanā  // YKac_26 //  
+bhāvībhāvātipannantu kutoci liṅgadassanā  // YKac_26 //
 
 kālabhedamanissāya pañcamī sattamī siyuṃ /  
-patthanā vidhisaṃpucchā visayā parikittitā  // YKac_27 //  
+patthanā vidhisaṃpucchā visayā parikittitā  // YKac_27 //
 
 patthanāsīsanaṃ tesu niyogo vidhi so dvidhā /  
-sādarānādarā pucchā kimevaṃ sampadhāraṇaṃ  // YKac_28 //  
+sādarānādarā pucchā kimevaṃ sampadhāraṇaṃ  // YKac_28 //
 
 kriyākālavivacchāyaṃ vattamānādayo khilā /  
-yathāsakālamuppannā saddantarasamāgamā  // YKac_29 //  
+yathāsakālamuppannā saddantarasamāgamā  // YKac_29 //
 
 pacchā kālantaraṃ brūte padasaṅkhārakālato /  
-purā dibbatyasaddhammo ityādikamidaṃ mataṃ  // YKac_30 //  
+purā dibbatyasaddhammo ityādikamidaṃ mataṃ  // YKac_30 //
 
 padantarena yo ñāto nasottho bādhakobhave /  
-padasaṅkhārabhāvissa atthassa bāhiraṅgato  // YKac_31 //  
+padasaṅkhārabhāvissa atthassa bāhiraṅgato  // YKac_31 //
 
 yathā vivacchamevāyaṃ sabbā saddatthasaṇṭhiti /  
-siddhalakkhyānusārena vivacchāpyanugamyate  // YKac_32 //  
+siddhalakkhyānusārena vivacchāpyanugamyate  // YKac_32 //
 
 ākhyātaniddeso.
 
 bhāve kammani kiccāhu khatthāpi paccayā tathā /  
-aññatthāpi kvaci kiccā yutusabbamhi sādhane  // YKac_33 //  
+aññatthāpi kvaci kiccā yutusabbamhi sādhane  // YKac_33 //
 
 saddattharucatādīhi sīlādīsvapi kattari /  
-ṇī tu ādīca sabbehi sīlādīsvapi kattari  // YKac_34 //  
+ṇī tu ādīca sabbehi sīlādīsvapi kattari  // YKac_34 //
 
 bhāve kammani bhūteto ṭhāsāvasā ruhājarā /  
-sijanīsilisārambhā kattarica akammakā  // YKac_35 //  
+sijanīsilisārambhā kattarica akammakā  // YKac_35 //
 
 gamanatthā tathādhāre āhāratthā ca dhātuto /  
-bhāvamattetu dhātumhā avivacchitakammakā  // YKac_36 //  
+bhāvamattetu dhātumhā avivacchitakammakā  // YKac_36 //
 
 tavantuṇvu tu āvītu sabbasmā api kattari /  
-pāyaso ṇādayo bhāve keci tesvapi kārake  // YKac_37 //  
+pāyaso ṇādayo bhāve keci tesvapi kārake  // YKac_37 //
 
 kitabhāvo dabbamiva tena kammādayo api /  
-pāyo satyapi kammasmiṃ bhāvatthavihitā kitā  // YKac_38 //  
+pāyo satyapi kammasmiṃ bhāvatthavihitā kitā  // YKac_38 //
 
 kriyānameka kattūnaṃ bhāve tvādipurākriyā /  
-tuṃtu bhāve tadatthāce icchatthādikriyāpica  // YKac_39 //  
+tuṃtu bhāve tadatthāce icchatthādikriyāpica  // YKac_39 //
 
 paccayatthopi bhāvoyaṃ vinātenāpasiddhito /  
-dhāturatthopi sesevaṃ cayattho tena sabbako  // YKac_40 //  
+dhāturatthopi sesevaṃ cayattho tena sabbako  // YKac_40 //
 
 saṅketakālamevāyaṃ vibhāgo sampavattate /  
-atthoyaṃ pakatiyeso paccayattho itīdiso  // YKac_41 //  
+atthoyaṃ pakatiyeso paccayattho itīdiso  // YKac_41 //
 
 siddhasaddānuvādoya mato eva nasijjhate /  
-itaretaratosiddhi lakkhyalakkhaṇikā kvaci  // YKac_42 //  
+itaretaratosiddhi lakkhyalakkhaṇikā kvaci  // YKac_42 //
 
 anādirayamāloko saddakhyoyassa napphuṭo /  
-byañjate tassa satthena dīpova gatiyāvuto  // YKac_43 //  
+byañjate tassa satthena dīpova gatiyāvuto  // YKac_43 //
 
 mānantā vattamāne ca lakkhaṇe hetuke siyuṃ /  
-kitā dhātvattha sambandhe honti kālantaresvapi  // YKac_44 //  
+kitā dhātvattha sambandhe honti kālantaresvapi  // YKac_44 //
 
 kitakābhidheyyaliṅgā iyuvaṇṇāvarādijo /  
-apaccayoṇo dutiyo ipaccayo pume siyuṃ {*2}  // YKac_45 //  
+apaccayoṇo dutiyo ipaccayo pume siyuṃ {*2}  // YKac_45 //
 
 {*2 ṇotibhāvecāti suttenavihita ṇappaccayova}
 
 yucākattari bhāvasmiṃ kiccā koca napuṃsake /  
-tavādikkhattumantātu abyayanāmakā siyuṃ  // YKac_46 //  
+tavādikkhattumantātu abyayanāmakā siyuṃ  // YKac_46 //
 
 kitaniddeso.
 
 yatratthe novidhiyante tyādippabhutayoca te /  
-sonutto tatrakammādo dutiyādī yathārahaṃ  // YKac_47 //  
+sonutto tatrakammādo dutiyādī yathārahaṃ  // YKac_47 //
 
 kriyappe dutiyākamme ghanayoge khaṇaddhani /  
-kammappavacanīyena kvantehi cubhayādibhi  // YKac_48 //  
+kammappavacanīyena kvantehi cubhayādibhi  // YKac_48 //
 
 sakanta sādhaka tamā kattu karaṇa kārakā /  
 tatiyā tesuhetvatthe sattamyālakkhaṇepica /  
-visesane sahattheca yoge pubbādināpica  // YKac_49 //  
+visesane sahattheca yoge pubbādināpica  // YKac_49 //
 
 pūjānuggahakāmena yassa saṃdīyate dhanaṃ /  
 laddhasāmittakaṃ taṃhi sampadānanti kittitaṃ /  
-catutthīsampadāneca yutte namoti ādinā  // YKac_50 //  
+catutthīsampadāneca yutte namoti ādinā  // YKac_50 //
 
 kriyāvadhirapādānaṃ tasmiṃ ca pañcamī siyā /  
-kattukammānamādhāro nissayānaṃ kriyāya yo  // YKac_51 //  
+kattukammānamādhāro nissayānaṃ kriyāya yo  // YKac_51 //
 
 okāso sattamītamhi kriyālakkhyakriyāyavā /  
-ippakati takammeca kamme gahādinaṃpica  // YKac_52 //  
+ippakati takammeca kamme gahādinaṃpica  // YKac_52 //
 
 kāle nimitte karaṇe piṇḍacarādidhātunaṃ /  
-adhināsattamī sāmye upenādhikināpisā  // YKac_53 //  
+adhināsattamī sāmye upenādhikināpisā  // YKac_53 //
 
 visesana visesyānaṃ aññamaññamapekkhatā /  
-sambandho ca tasmiṃ chaṭṭhī kityoge kammakattari  // YKac_54 //  
+sambandho ca tasmiṃ chaṭṭhī kityoge kammakattari  // YKac_54 //
 
 nakattari dvaye patte ṇvuyutīnaṃ tuvā bhave /  
 thīaṇvvunaṃ dvaye kicce neva kattari evavā /  
-niṭṭhādīnaṃ nahotyeva bhāvevā yassa kattari  // YKac_55 //  
+niṭṭhādīnaṃ nahotyeva bhāvevā yassa kattari  // YKac_55 //
 
 disino antino kamme karino yatanepica /  
-haratissānukārepi sati hiṃsatthadhātunaṃ  // YKac_56 //  
+haratissānukārepi sati hiṃsatthadhātunaṃ  // YKac_56 //
 
 dayatissicchatissāpi tityatthekaraṇepica /  
-ādhārake bhave niccaṃ kammakattari tassatu  // YKac_57 //  
+ādhārake bhave niccaṃ kammakattari tassatu  // YKac_57 //
 
 sattamīnādaresāmi apiniddhāraṇe tathā /  
-tatiyā pañcamīceva puthunānā payogato  // YKac_58 //  
+tatiyā pañcamīceva puthunānā payogato  // YKac_58 //
 
 ritetu dutiyā sāpi vināññatrehi tāpica /  
-chaṭṭhī hetupayogetu hetvatthe suddhanāmato  // YKac_59 //  
+chaṭṭhī hetupayogetu hetvatthe suddhanāmato  // YKac_59 //
 
 sabbanāmātu sabbāva kriyānipphattikāraṇā /  
-goṇamukhyappabhedena kammādikārakā siyuṃ  // YKac_60 //  
+goṇamukhyappabhedena kammādikārakā siyuṃ  // YKac_60 //
 
 kārakaniddeso.
 
 visesana visesyānaṃ abhinnatthattamīritaṃ /  
-samāso nāma tādimhi taddhitopi vidhīyate  // YKac_61 //  
+samāso nāma tādimhi taddhitopi vidhīyate  // YKac_61 //
 
 dutiyādīsamāsyante yatra nāmapadehi so /  
-parehitu tappuriso visesyatra paraṃ bahuṃ  // YKac_62 //  
+parehitu tappuriso visesyatra paraṃ bahuṃ  // YKac_62 //
 
 visesanaṃ visesyena ekatthaṃ yadi taṃdvayaṃ /  
-sa kammadhārayo tasmiṃ pāyo pubbaṃ visesanaṃ  // YKac_63 //  
+sa kammadhārayo tasmiṃ pāyo pubbaṃ visesanaṃ  // YKac_63 //
 
 taddhitatthe samāhāre uttarasmiṃ pade pare /  
-samāsyante digu yatra saṅkhyāsaṅkhyeyyavācibhi  // YKac_64 //  
+samāsyante digu yatra saṅkhyāsaṅkhyeyyavācibhi  // YKac_64 //
 
 ubhetappurisā vuttā kāriyañce tadāsayaṃ /  
-lakkhataṃ lakkhyalakkhesu lakkhyalakkhaṇadassinā  // YKac_65 //  
+lakkhataṃ lakkhyalakkhesu lakkhyalakkhaṇadassinā  // YKac_65 //
 
 yatrānekapadāññatthe bahubbīhi samuccate /  
-sarūpā yadivā yuddhe vidisāya disāya vā  // YKac_66 //  
+sarūpā yadivā yuddhe vidisāya disāya vā  // YKac_66 //
 
 pubbaṃ visesanaṃ tatra sattamī niṭṭhantaṃpica /  
-parantu āvudhattehi vibhāsābyāhitādisu  // YKac_67 //  
+parantu āvudhattehi vibhāsābyāhitādisu  // YKac_67 //
 
 samāhāretarītarayoge nāmasamuccayo /  
-dvando pubbaṃ bhave tatra accitappasaraṃ bahuṃ  // YKac_68 //  
+dvando pubbaṃ bhave tatra accitappasaraṃ bahuṃ  // YKac_68 //
 
 vibhatyādobyayāyatra so byayībhāvo issate /  
-parādayo pañcamiyā chaṭṭhiyā oramādayo  // YKac_69 //  
+parādayo pañcamiyā chaṭṭhiyā oramādayo  // YKac_69 //
 
 chaṭṭhītappurise rājā manussehi parāsabhā /  
-paṇḍake sālamatthepi chāyā bāhullapubbikā  // YKac_70 //  
+paṇḍake sālamatthepi chāyā bāhullapubbikā  // YKac_70 //
 
 vāssusenāsurāsālānisāchāyā imepana /  
-upaññopakkamā niccaṃ tadādittappakāsane  // YKac_71 //  
+upaññopakkamā niccaṃ tadādittappakāsane  // YKac_71 //
 
 samāsaniddeso.
 
 sambandhe kārake piṇḍe bhāve gotte paratraca /  
-kathyante taddhitā ruḷhā samāsantābyayā api  // YKac_72 //  
+kathyante taddhitā ruḷhā samāsantābyayā api  // YKac_72 //
 
 taddhitaniddeso. kaccāyanasāragantho niṭṭhito.
 

@@ -109,7 +109,7 @@ ti. es'[^1157-3] eva nayo sabbattha. aṭṭhārasa sammā vattana-
 vatthūni Pārivāsikakkhandhake vaṇṇayissāma.
      [Cv_I.6:] lomaṃ pātentī 'ti pannalomā honti, bhikkhū anuvattantī
 'ti attho. netthāraṃ vattantī 'ti nittharantānaṃ etan ti
-netthāraṃ. yena sakkā nissāraṇā nittharituṃ taṃ aṭṭhāra-- 
+netthāraṃ. yena sakkā nissāraṇā nittharituṃ taṃ aṭṭhāra--
 savidhaṃ sammā vattantī 'ti attho. kittakaṃ kālaṃ vattaṃ
 pūretabban ti. dasa vā vīsaṃ[^1157-4] vā divasāni. imasmiṃ hi
 Kammakkhandhake ettakena vattaṃ pūretabbam[^1157-5] eva hoti.
@@ -129,7 +129,7 @@ bhāvena[^1157-12] upahananaṃ vuccati. nāsanaṃ vināsanan ti attho.
 2 Bp. -vasen'eva.                    8 Bp. tajjaniye.
 3 Bp. esa for es' eva.               9 Bp. -vatthu.
 4 Bp. pañca for vīsaṃ.                   10 Bp. kāyakiḷā.
-5 Bp. pūritaṃ                            11 Bp. sesadvaye. 
+5 Bp. pūritaṃ                            11 Bp. sesadvaye.
 6 Bp. pakatā.                            12 Bp. asikkhanabhāvena.
 
 
@@ -175,7 +175,7 @@ natthañ c' eva tajjanīye ca vuttanayam eva.
 5 Bp. na āpucchitvā.                          14 Bp. tayāpi.
 6 Bp. omits taṃ.                              15 Bp. -gamo.
 7 Bp. tilasakkhalikā.                         16 Bp. omits gihīnaṃ alābhāyātiādīsu.
-8 Bp. eko.                                    17 Bp. omits anatthāyā 'tiatthavināsāya.                   
+8 Bp. eko.                                    17 Bp. omits anatthāyā 'tiatthavināsāya.  
 9 Bp. pūviko.                                 18 Bp. omits na.
 
 
@@ -190,7 +190,7 @@ sathā 'ti sabbāvāsesu ca[^1159-1] ārocetha. bhanḍanakārako 'ti
 adassane yeva kammaṃ kātabbaṃ. tikā vuttappakārā eva.
 sammā vattanāyaṃ pan' ettha tecattāḷīsa vattāni.
      [Cv_I.27:] tattha na anuddhaṃsetabbo ti na codetabbo. na bhikkhu
-bhikkhūhī 'ti añño bhikkhu aññehi bhikkhuhi na bhinditabbo.        
+bhikkhūhī 'ti añño bhikkhu aññehi bhikkhuhi na bhinditabbo.  
 na gihidhajo ti odātavatthāni acchinnadasāni[^1159-3] pupphadasāni
 ca na dhāretabbāni. na titthiyadhajo ti kusacīrādīni na
 dhāretabbāni. na āsādetabbo ti na apasādetabbo. anto vā
@@ -396,7 +396,7 @@ vassaggena attano pattaṭṭhāne seyyaṃ gahetuṃ na labhati.
 2 Bp. omits kammikā 'ti.                9 Bp. ekasammutivasenā.
 3 Bp. -bodhatthāya.                         10 Bp. omits na.
 4 Bp. -dhatthāya.                           11 Bp. kāretabbo.
-5 Bp. gacchā.                               12 Bp. ayaṃ pubbe te for ayan te. 
+5 Bp. gacchā.                               12 Bp. ayaṃ pubbe te for ayan te.
 6 Bp. vihāre jeṭṭhaka-.                     13 Bp. omits bhikkhū.
 7 Bp. adds nāpi before terasasu.        14 Bp. yojetvā.
 15 Bp. -sanaṃ vuccati for -sanapariyanto nāma.
@@ -620,7 +620,7 @@ maṃ nipannassa ratticchedo 'va na vattabhedo. sace pacchā
 nipajjanto 'pi na jānāti, dvinnaṃ pi vattabhedo n' atthi
 --------------------------------------------------------------------------
 1 Bp. omits na.                      9 Bp. vedikā-.
-2 Bp. vālikatale.                        10 Bp. 'ti for 'pi           
+2 Bp. vālikatale.                        10 Bp. 'ti for 'pi
 3 Bp. omits na.                          11 Bp. suppa-.
 4 Bp. inserts caṅkamanto after this               12 Bp. appa-.
 5 Bp. caṅkame.                           13 Bp. upacāraṃ.
@@ -702,7 +702,7 @@ ettha gaṇo ti cattāro vā atirekā vā. tasmā sace 'pi tīhi
 bhikkhūhi saddhiṃ vasati ratticchedo hoti yeva. mānatta-
 nikkhepasamādānesu vuttasadiso 'va vinicchayo. sesaṃ sab-
 battha uttānam evā 'ti.
-              PĀRIVĀSIKAKKHANDHAKAVAṆṆANĀ NIṬṬHITĀ             
+              PĀRIVĀSIKAKKHANDHAKAVAṆṆANĀ NIṬṬHITĀ  
                    SAMUCCAYAKKHANDHAKAVAṆṆANĀ
      [Cv_III.1:] Samuccayakkhandhake. chārattaṃ mānattan ti ettha catub-
 bidhaṃ mānattaṃ appaṭicchannamānattaṃ paṭicchanna-
@@ -1320,7 +1320,7 @@ vasena pi yojetvā kammaṃ[^1184-4] kātuṃ vaṭṭati yeva[^1184-5]. ayaṃ
 missakasamodhāno nāma[^1184-6]. sabbaparivāsakammavācā-
 vasāne pana nikkhittānikkhittavattādikathā purimanayen
 eva veditabbā.
-                     PARIVĀSAKATHĀ NIṬṬHITĀ   
+                     PARIVĀSAKATHĀ NIṬṬHITĀ  
      [Cv_III.27:] Idāni yaṃ vuttaṃ pakkhamānattañ ca samodhāna-
 mānattañ ca avasesaparivāsakathāvasāne[^1184-7] kathayissāmā 'ti
 tass' okāso sampatto tasmā vuccati. pakkhamānattan ti
@@ -1612,7 +1612,7 @@ pacchā chāditattā pana pacchimasmiṃ āpattikkhandhe 'ti
 vuttaṃ. purimasmin ti etthāpi es' eva nayo.
      [Cv_III.33:] vavatthitā sambhinnā 'ti sabhāgavisabhāgānam ev' etaṃ
 pariyāyavacanaṃ.
-     [Cv_III.34:] tato paraṃ yo paṭicchādeti, tasmiṃ paṭipattidassanatthaṃ 
+     [Cv_III.34:] tato paraṃ yo paṭicchādeti, tasmiṃ paṭipattidassanatthaṃ
 dve bhikkhū 'ti ādi vuttaṃ. tattha missakan ti thullaccayā-
 dīhi missakaṃ. suddhakan ti saṅghādisesaṃ vinā lahukā-
 pattikkhandham eva.
@@ -1673,7 +1673,7 @@ salākagāhesu[^1192-9].
      [Cv_IV.10:] oramattakan ti parittaṃ appamattakaṃ bhaṇḍana-
 mattam eva. na ca gatigatan ti dve tayo āvāse na gataṃ
 tattha tatth' eva vā dvattikkhattuṃ avinicchitaṃ. na ca
-saritasāritan ti dvattikkhattuṃ tehi bhikkhūhi sayaṃ 
+saritasāritan ti dvattikkhattuṃ tehi bhikkhūhi sayaṃ
 saritaṃ vā aññehi sāritaṃ vā na hoti. jānātī 'ti salākaṃ
 gāhento jānāti adhammavādino[^1192-10] bahutarā ti. app' eva nāmā
 'ti iminā nīhārena salākāya gāhiyamānāya app'eva[^1192-11] nāma
@@ -1947,10 +1947,10 @@ gaṇhāti[^1198-14], dātabbā. atha n'eva avabujjhati, tato mā kassaci
 ārocehī 'ti vattabbo. sesaṃ vuttanayam eva. vivaṭako[^1198-15]
 'ti vivaṭattho yeva.
 --------------------------------------------------------------------------
-1 Bp. inserts āpattiṃ after this.         9 Bp. va bahutarā for bahutarā 
+1 Bp. inserts āpattiṃ after this.         9 Bp. va bahutarā for bahutarā
 2 Bp. adds ca.                                             'va.
 3 Bp. paññattiyā.                             10 Bp. pakkhabhedatthāya for
-4 Bp. inserts parisāya after this.            pakkhaṃ vibheda-.                                                                                  
+4 Bp. inserts parisāya after this.            pakkhaṃ vibheda-.  
 5 Bp. vaṇṇavaṇṇāyo.                           11 Bp. guḷhaka.
 6 Bp. āropetvā.                               12 Bp. gaṇhati.
 7 Bp. gāhetabbā.                              13 Bp. assa.
@@ -2143,7 +2143,7 @@ taggesu[^1203-6] suvaṇṇataṭṭakādīsu byañjanaṃ katvā upanāmenti
 yādīni[^1203-7] pana taṭṭakādīni bhājanāni[^1203-8] puggalikaparibhogen'
 eva na vaṭṭanti. saṅghikaparibhogena vā gihivikaṭāni vā
 vaṭṭanti. tambalohamayo 'pi patto[^1203-9] na vaṭṭati. thālakaṃ
-pana vaṭṭatī 'ti idaṃ sabbaṃ Kurndiyaṃ vuttaṃ. maṇimayo       
+pana vaṭṭatī 'ti idaṃ sabbaṃ Kurndiyaṃ vuttaṃ. maṇimayo  
 ti ettha pana indanilādimaṇimayo[^1203-10] vutto. kaṃsamayo ti ettha
 vaṭṭalohamayo 'pi saṅgahito. likhitun ti tanukaranatthāy'
 etaṃ vuttaṃ. pakatimaṇḍalan ti makaradantachindaka-
@@ -2255,7 +2255,7 @@ gahitā[^1205-18] honti. kiṇṇena pūretun ti kiṇṇacuṇṇena pūretuṃ
 1 Bp. lābu-.                          9 Bp. suddha-.
 2 Bp. -paṃsukūlikenā.                     10 Bp. -gaṇḍusaṃ.
 3 Bp. -kūlaṃ.                             11 Bp. hatthaṃ.
-4 Bp. cambetvā for chaḍḍevā.              12 Bp. -maṃsaphalādīni.            
+4 Bp. cambetvā for chaḍḍevā.              12 Bp. -maṃsaphalādīni.  
      vammetvā.       13 Bp. labbhati.
 5 Bp. apaviddhāmisāni.                    14 Bp. -kaṇṭakādīni.
 6 Bp. paṭiggahaṃ.                         15 Bp. inserts na after puna.
@@ -2287,7 +2287,7 @@ anujānāmī 'ti attho. vidalakan ti daṇḍakaṭhinappamāṇena
 kaṭasārakassa pariyante paṭisaṃharitvā[^1206-8] dugguṇakaraṇaṃ[^1206-9].
 salākan ti duppaṭicīvarassa[^1206-10] antare pavesanasalākaṃ. vinad-
 dhanarajjun[^1206-11] ti tattha[^1206-12] mahānisseṇiyā saddhiṃ khuddakanis-
-seṇiṃ vinaddhitarajjuṃ[^1206-13]. vinaddhanasuttakan[^1206-14] ti khudda- 
+seṇiṃ vinaddhitarajjuṃ[^1206-13]. vinaddhanasuttakan[^1206-14] ti khudda-
 kanisseṇiyā cīvaraṃ vinaddhitasuttakaṃ[^1206-15].. vinaddhitvā[^1206-16]
 cīvaraṃ sibbetun[^1206-17] ti tena suttakena tattha cīvaraṃ vinaddhitvā
 sibbetuṃ[^1206-17]. visamā hontī'ti kāci khuddakā honti kāci mahan-
@@ -2397,7 +2397,7 @@ hepagamanto hi paṭṭhāya chiddaṃ viddhaṃ pi āviddhaṃ[^1208-19]
 7 Bp. karakaṭake.                           16 Bp. peḷāya.
 8 Bp. daṇḍamayā.                            17 Bp. maḷorikā.
 9 Bp. tasmiṃ asati coḷakenāpi for       18 Bp. -paṇṇādhāra- for -pattādharā-.
-     these.                          
+     these.
 19 Bp. aviddhaṃ.
 
 
@@ -2411,7 +2411,7 @@ nato phalaṃ vā pūvaṃ vā gahetvā gacchati, tasmiṃ
 bhikkhumhi[^1209-1] apagate itarassa sesakaṃ bhuñjituṃ vaṭṭati.
 itarassāpi tasmiṃ khaṇe puna gahetuṃ vaṭṭati.
      [Cv_V.20:] aṭṭhaṅgehī 'ti ettha ekekena pi aṅgena samannāgatassa
-antosīmāya vā nisīmaṃ[^1209-2] gantvā nadīādīsu vā nikkujjituṃ 
+antosīmāya vā nisīmaṃ[^1209-2] gantvā nadīādīsu vā nikkujjituṃ
 vaṭṭati yeva. evaṃ nikkujjite pana patte tassa gehe koci
 deyyadhammo na gahetabbo. asukassa gehe bhikkhaṃ mā
 gaṇhathā 'ti aññesu pi[^1209-3] vihāresu pesetabbaṃ. ukkujjanakāle
@@ -2477,7 +2477,7 @@ hacchedanaṃ anuññātaṃ. vīsatimaṭṭhan ti vīsati pi nakhe
 likhitamaṭṭhe kārāpenti. malamattan ti nakhato malamattaṃ
 apakaṇḍhituṃ[^1210-21] anujānāmī 'ti attho. khurasipātikan ti
 --------------------------------------------------------------------------
-1 Bp. morapiñchehi.                           10 Bp. pajjotalati.                          
+1 Bp. morapiñchehi.                           10 Bp. pajjotalati.
 2 Bp. makasabījanī.                           11 Bp. -sammuti.
 3 Bp. -bījaniyā.                              12 Bp. ūnātiritto.
 4 Bp. -rohakuntāla-.                          13 Bp. sammutiyā.
@@ -3033,7 +3033,7 @@ sallakkhetvā paṭirūpaṃ senāsanaṃ dātabbaṃ lesakappenā
 3 Bp. etha.                           11 Bp. āharāhī.
 4 Bp. adds pana.                      12 Bp. ekaṃ ṭhānan.
 5 Bp. -sālaṃ.                         13 Bp. sitthānī 'ti for sitthāni gilitvā.
-6 Bp. agantvā.                        14 Bp. kāsabhagandarātisārādīhi.                           
+6 Bp. agantvā.                        14 Bp. kāsabhagandarātisārādīhi.  
 7 Bp. vutte pana.                     15 Bp. pāsādapaṇnasālādīsu.
 8 Bp. vuṭṭhāpetuṃ.                    16 Bp. dussati.
 
@@ -4019,7 +4019,7 @@ bhaṇḍaṃ sabbaṃ cakkayuttakayānaṃ garubhaṇḍam eva.
 6 Bp. vaṅkaphalakaṃ.                     15 Bp. -sambhārarūpaṃ.
 7 Bp. ghaṭṭa- for ghaṭa-.                16 Bp. bhūma- for bhumma-.
 8 Bp. -cchedanagaṇikā.                   17 Bp. sabbaṃ saṅghe.
-9 Bp. mañjusā.                           18 Bp. inserts taṃ pi. 
+9 Bp. mañjusā.                           18 Bp. inserts taṃ pi.
 19 Bp. -poto.
 
 
@@ -4172,7 +4172,7 @@ gahetuṃ na labhanti.
 tthāyā 'ti yaṃ tattha mañcapīṭhādikaṃ[^1248-3] tassa guttatthāya
 taṃ aññattha[^1248-4] harituṃ anujānāmī 'ti attho. tasmā[^1248-5] aññat-
 tha haritvā saṅghikaparibhogena paribhuñjantassa naṭṭhaṃ
-sunaṭṭhaṃ jiṇṇaṃ sujiṇṇaṃ, sace arogaṃ tasmiṃ 
+sunaṭṭhaṃ jiṇṇaṃ sujiṇṇaṃ, sace arogaṃ tasmiṃ
 vihāre paṭisaṅkhate puna pākaṭikaṃ kātabbaṃ. puggalika-
 paribhogena paribhuñjato naṭṭhaṃ vā jiṇṇaṃ vā gīvā hoti
 tasmiṃ paṭisaṅkhate dātabbam eva. sace tato gopānasi-
@@ -4217,7 +4217,7 @@ atthatāya[^1249-3] pi bhūmiyā ṭhapenti adhotapādehi valañjenti[^1249-4],
 tath' eva valañjetuṃ[^1249-5] vaṭṭati. na bhikkhave parikammakatā
 bhittī 'ti setabhitti vā cittakammakatā vā. na kevalañ ca
 bhittiṃ yeva dvāraṃ pi vātapānaṃ pi apassena phalakaṃ
-pi pāsāṇathambhaṃ pi rukkhathambaṃ pi cīvarena 
+pi pāsāṇathambhaṃ pi rukkhathambaṃ pi cīvarena
 vā kenaci vā apaṭicchādetvā apassiyituṃ[^1249-6] na labhati yeva.
 dhotapādakā 'ti dhotapādakā hutvā dhotehi pādehi akkami-
 tabbaṭṭhāne nipajjituṃ kukkuccāyanti. dhotapādake 'ti
@@ -4362,7 +4362,7 @@ nānānivesanesu nisinnānaṃ[^1252-12] uddesalābho uppajjati, kiñcāpi
 bhittichiddena[^1252-13] bhikkhū dissanti tasmiṃ tasmiṃ nivesane
 nisinnānaṃ yeva pāpuṇāti. etaṃ nānāgharaṃ nānupacāraṃ
 nāma. yo pana gāmadvāravīthicatukkesu aññatarasmiṃ
-ṭhāne uddesabhattaṃ labhitvā aññasmiṃ bhikkhusmiṃ    
+ṭhāne uddesabhattaṃ labhitvā aññasmiṃ bhikkhusmiṃ  
 asati attano pāpetvā[^1252-14] dutiyadivase 'pi tasmiṃ yeva ṭhāne
 aññaṃ labhati, tena yaṃ[^1252-15] aññaṃ navakaṃ vā vuḍḍhaṃ
 vā bhikkhuṃ passitvā[^1252-16] tassa gāhetabbaṃ. sace koci n' atthi
@@ -4623,7 +4623,7 @@ labbhati, evārūpānaṃ paṇītabhojanānaṃ āveṇikaṭhitikā[^1258-4]
 kātabbā. tathā saparivārāya yāguyā mahagghānaṃ phalā-
 naṃ paṇītānañ ca khajjakānaṃ, pakatibhattayāguphalak-
 hajjakānaṃ pana ekā 'va ṭhitikā kātabbā. sappiṃ āharissāmī
-'ti vutte sabbasappīnaṃ ekā 'vā ṭhitikā vaṭṭati. tathā 
+'ti vutte sabbasappīnaṃ ekā 'vā ṭhitikā vaṭṭati. tathā
 sabbatelānaṃ. madhuṃ āharissāmī 'ti vutte pana madhuno
 ekā 'va ṭhitikā vaṭṭati. tathā phāṇitassa laṭṭhimadhu-
 kādīnañ ca bhesajjānaṃ. sace[^1258-5] gandhamālaṃ saṅghuddesaṃ
@@ -4861,7 +4861,7 @@ puna gāhetabbaṃ. khīrabhattasalākāya[^1263-10] pi es' eva nayo.
 sace pana khīram eva labhati na bhattaṃ, khīralābhato
 paṭṭhāya puna na gāhetabbaṃ. dve tīṇi ekavāriyabhattāni[^1263-11]
 --------------------------------------------------------------------------
-1 Bp. pattati.                      6 Bp. nibaddhaṃ. 
+1 Bp. pattati.                      6 Bp. nibaddhaṃ.
 2 Bp. dātabbaṃ.                     7 Bp. va.
 3 Bp. orimavāra.                    8 Bp. ekacārikabhattassa.
 4 Bp. omits these.                  9 Bp. omits pana.
@@ -4997,8 +4997,8 @@ evaṃ pāpitā 'pi hi supāpitā 'va honti. bhikkhū sabbarattiṃ
 2 Bp. ghaṇḍiṃ.                           9 Bp. ghaṇḍi-.
 3 Bp. duragāme.                              10 Bp. pāpitā na.
 4 Bp. gahi-.                                 11 Bp. salākā pīṭhake.
-5 Bp. atidūro.                               12 Bp. omits -pacchiṃ pana 
-6 Bp. mayhaṃ.                                          gahetvā. 
+5 Bp. atidūro.                               12 Bp. omits -pacchiṃ pana
+6 Bp. mayhaṃ.                                          gahetvā.
 7 Bp. omits ca.                              13 Bp. etto.
 14 Bp. ākiritvā.
 
@@ -5327,7 +5327,7 @@ paṭṭhāya saṅghaṃ pucchitvā dātabbaṃ. guḷapiṇḍe 'pi
 ekadivasaṃ tatiyabhāgo dātabbo. evaṃ tīhi divasehi niṭṭhite
 piṇḍe tato paraṃ saṅghaṃ pucchitvā dātabbaṃ. sesaṃ
 sabbattha uttānam evā 'ti.
-              SENĀSANAKKHANDHAKAVAṆṆANĀ[^1274-2] NIṬṬHITĀ. 
+              SENĀSANAKKHANDHAKAVAṆṆANĀ[^1274-2] NIṬṬHITĀ.
                   SAṄGHABHEDAKKHANDHAKAVAṆṆANĀ
      [Cv_VII.1:] Saṅghabhedakkhandhake. abhiññātā abiññātā 'ti pākaṭā
 pākaṭā Sakyakumārā nāma Kāḷudāyippabhūtayo[^1274-3] dasabhūtā[^1274-4]
@@ -5425,7 +5425,7 @@ ti mahānāgassa. mahiṃ vikubbato[^1276-8] ti paṭhaviṃ padāsentassa.
 bhiṃsaṃ[^1276-9] ghasānassā 'ti bhiṃsaṃ[^1276-10] khādantassa. nadīsu
 jaggato ti ettha, so kira hatthināgo sāyaṇhasamayaṃ taṃ
 nadināmikaṃ[^1276-11] pokkharaṇiṃ ogāhetvā kīḷanto[^1276-12] sabbarattiṃ
-vītināmesi jāgarikaṃ[^1276-13] karoti. tena vuttaṃ nadīsu jaggato 
+vītināmesi jāgarikaṃ[^1276-13] karoti. tena vuttaṃ nadīsu jaggato
 'ti. sutā 'ti sotā. asandiṭṭho ca akkhātī[^1276-14] 'ti nissandeho
 hutvā akkhātā anusandhivasena yojetvā. apāye nibbattis-
 satī 'ti āpāyiko. evaṃ nerayiko. kappaṃ ṭhassatī 'ti kappaṭṭho.
@@ -5456,7 +5456,7 @@ so pamādam anuciṇṇo ti ettha, pamādaṃ cinātī[^1276-18] 'ti anuciṇṇ
 pamādo appahīno ti attho. āsajja nan ti pāpakena cittena
 patvā, viheṭhetvā[^1277-1] 'ti vā attho. avīcinirayaṃ patto ti idaṃ
 pana āsiṃsāyaṃ[^1277-3] atītavacanaṃ. bhesmā[^1277-3] 'ti bhayānako.
-     [Cv_VII.5:] ekato Upāli eko 'ti dhammavādipakkhe[^1277-4] eko. ekato dve 
+     [Cv_VII.5:] ekato Upāli eko 'ti dhammavādipakkhe[^1277-4] eko. ekato dve
 'ti adhammavādipakkhe dve. catuttho anusāveti[^1277-5] salākaṃ
 gāhetī 'ti saṅghaṃ bhindissāmī 'ti adhammavicatuttho[^1277-6]
 hutvā. anusāvetī[^1277-7] 'ti anunayanto sāveti. na tumhākaṃ
@@ -6035,7 +6035,7 @@ vadati nāma. ambho mahallaka parisāvacara paṃsukūlika
 dhammakathika paṭirūpaṃ tava idan ti vadanto pharusena
 vadati nāma. kāraṇanissitaṃ pana katvā bhante mahalla-
 kattha parisāvacara paṃsukūlika dhammakathikattha paṭi-
-rūpaṃ tumhākaṃ idan ti vadanto saṇhena vadati nāma. 
+rūpaṃ tumhākaṃ idan ti vadanto saṇhena vadati nāma.
 kāraṇanissitaṃ katvā vadanto atthasañhitena vadati nāma.
 mettacitto vakkhāmi no dosantaro ti mettacittaṃ upaṭṭhapetvā
 vakkhāmi na duṭṭhacitto hutvā. ajjhattaṃ manasikaritvā 'ti
@@ -6171,7 +6171,7 @@ daṇḍakammaṃ vuttanayam eva. na bhikkhave bhikkhuniyā
 ovādo na gantabbo ti ādi Bhikkhunīvibhaṅgavaṇṇanāyaṃ
 vuttam eva.
      [Cv_X.10:] phāsuke namentī 'ti gihidārikāyo viya thanapaṭakena[^1293-4]
-kāyabaddhanena[^1293-5] phāsuke namanatthāya bandhanti. eka- 
+kāyabaddhanena[^1293-5] phāsuke namanatthāya bandhanti. eka-
 pariyāyakatan ti ekavāraṃ parikkhipanakaṃ. vilīvena paṭ-
 ṭenā 'ti saṇhehi veḷuvilīvehi katapaṭṭena. dussapaṭṭenā 'ti
 setavatthapaṭṭena. dussaveṇiyā 'ti dussena kataveṇiyā.
@@ -6312,14 +6312,14 @@ katapallaṅkaṃ. heṭṭhāvivaṭe uparipaṭicchanne[^1296-8] 'ti ettha sac
 kūpo khaṇito[^1296-9] upari pana padaramattam eva sabbadisāsu
 paññāyati evarūpe 'pi vaṭṭati. kukkusaṃ mattikan ti
 kuṇḍakañ c' eva mattikañ ca. sesaṃ sabattha[^1296-10] uttānam
-evā 'ti. 
+evā 'ti.
              BHIKKHUNIKKHANDHAKAVAṆṆANĀ NIṬṬHITĀ
                   PAÑCASATIKAKKHANDHAKAVAṆṆANĀ
      [Cv_XI.1:] Pañcasatikakkhandhake. pañcanikāye pucchī 'ti Dīgha-
 nikāyaṃ Majjhimanikāyaṃ Aṅguttaranikāyaṃ Saṃyutta-
 nikāyaṃ Khuddakanikāyan ti. cattāri pārājikāni ṭhapetvā
 avasesāni khuddānukhuddakānī 'ti evam ādi ekaṃ sikkhā-
-padaṃ pi apariccajitvā sabbesaṃ saṅgahetabbabhāvadassa- 
+padaṃ pi apariccajitvā sabbesaṃ saṅgahetabbabhāvadassa-
 natthaṃ pariyāyena vuttaṃ. idaṃ vo samaṇānan ti idaṃ
 samaṇānaṃ. padapūraṇamatte vokāro. dhūmakālikan ti
 yāva samaṇassa[^1296-11] parinibbānacittakadhūmo[^1296-12] paññāyati tāva

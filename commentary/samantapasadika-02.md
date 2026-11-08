@@ -4270,7 +4270,7 @@ duṭṭhapitaṃ disvā sambahulā ekaṃ aṇāpenti[^367-3] gacch' ete
 nānāṭhānan ti pañcannaṃ kulānaṃ pañcasu āpaṇaphala-
 kesu ekekamāsakaṃ duṭṭhapitaṃ[^367-6] disvā sambahulā ekaṃ
 āṇāpenti gacch' ete āharā 'ti pañcamassa māsakassa uddhāre
-sabbesaṃ pārājikan ti. 
+sabbesaṃ pārājikan ti.
 --saṃvidhāvahārakathā[^367-7] niṭṭhitā--.
 
      saṅketakamman ti sañjānanakammaṃ, kālapariccheda-
@@ -4312,7 +4312,7 @@ vutte purebhattam eva harissāmīti vāyamantassa pacchā-
 bhattaṃ hoti, ettha kathan ti. Mahāsummatthero tāva āha,
 purebhattappayogo 'va eso tasmā mūlaṭṭho na muccatīti.
 Mahāpadumatthero panāha, kālaparicchedaṃ atikkantattā
-visaṅketaṃ tasmā mūlaṭṭho muccatīti. 
+visaṅketaṃ tasmā mūlaṭṭho muccatīti.
 --saṅketakammakathā niṭṭhitā--.
 
      nimittakamman ti saññuppādanatthaṃ kassaci nimittassa
@@ -4419,7 +4419,7 @@ jikaṃ. dutiyavāre yasmā taṃ sanikaṃ[^370-7] vā bhaṇanto tassa vā
 badhiratāya mā avaharā[^370-8] 'ti etaṃ vacanaṃ na sāvesi,[^370-9] tasmā
 mūlaṭṭho na mutto, tatiyavāre pana sāvitattā mutto, catuttha-
 vāre[^370-10] tena ca sāvitattā itarena[^370-11] sādhū 'ti sampaṭicchitvā
-oratattā[^370-12] ubho pi mutto 'ti. 
+oratattā[^370-12] ubho pi mutto 'ti.
 --āṇattikathā niṭṭhitā--.
 
      idāni tattha tattha ṭhānācāvanavasena vuttassa adinnā-
@@ -5458,7 +5458,7 @@ kataṃ hoti, taṃ vā tad agghanakaṃ vā dātabbam eva. puna
 āvasissāmā[^390-8] 'ti ālayaṃ acchinditvā vuṭṭhitesu janapadesu
 gaṇasantakaṃ vā puggalikaṃ vā gahitaṃ hoti, te ce anu-
 jānanti, paṭikammena kiccaṃ n' atthi. saṅghikam pana-
-garubhaṇḍaṃ, tasmā paṭikammaṃ kattabbam eva. 
+garubhaṇḍaṃ, tasmā paṭikammaṃ kattabbam eva.
 --vihāraparibhogavatthuṃ[^390-9] uttānattham eva--.
 
      anujānāmi bhikkhave tāvakālikaṃ haritun ti, ettha yo

@@ -1071,7 +1071,7 @@ na-pacchājāte nava   (Na-Pa 9) |
 no-vigate pañca     (No-Vg 5)
 na-āsevane nava      (Na-Ās 9) |  
 Na-hetupaccayā
-     Na-Ā 1         Na-U 1          Na-V 2        Na-Sp 1 
+     Na-Ā 1         Na-U 1          Na-V 2        Na-Sp 1
      Na-A 2         Na-Pu 2        Na-Āh 1        Na-Vpp 2
      Na-An 1        Na-Pa 2        Na-I 1         No-Nat 1
      Na-S 1         Na-Ās 1        Na-Jh 1        No-Vg 1

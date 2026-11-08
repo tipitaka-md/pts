@@ -238,7 +238,7 @@ bhikkhuṃ bhikkhunīādayo sabbasattā anupasampannaṭṭhāne-
 4 Ssp. hatthamuddhā.
 5 Bp. acchindakādi.
 6 Ssp. -vikāya for cikāya.
-7 Ssp. koṭavikā.     
+7 Ssp. koṭavikā.
 8 Ssp. āropetvā.
 9 Ssp. omits this.
 10 Bp.Ssp.omit'ti.
@@ -8084,7 +8084,7 @@ pārājikā na hoti. yā pana āpajjitvā puna pi aññaṃ vatthuṃ
 1 B2 anariye paṇḍake.
 2 Ssp. chejjaṃ.
 3 Bp. vaṇṇāvaṇṇo for vaṇṇo ava-.
-4 Ssp. vanamanuppā-.     
+4 Ssp. vanamanuppā-.
 5 B2 chajjā; Ssp. chejjaṃ.
 6 B2 Bp. -pūrenti.
 7 B2 desitāga-.

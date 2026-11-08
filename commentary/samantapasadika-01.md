@@ -38,7 +38,7 @@
                     kāmañ ca pubbācariyāsabhehi
                     ñāṇambuniddhotamalāsavehi
 --------------------------------------------------------------------------
-1 Sp.B.B1.B2.Bp. -karāni. 
+1 Sp.B.B1.B2.Bp. -karāni.
 2 Sp.-namassanīyaṃ.</p>
 
 
@@ -77,13 +77,13 @@ visuddhavijjāpaṭisambhidehi
                     buddhena dhammo vinayo ca vutto
                     yo tassa puttehi tatheva ñāto,
                     so yehi tesaṃ matim accajantā
-                    yasmā pure aṭṭhakathā akaṃsu,  // Sp_0.13 //  
+                    yasmā pure aṭṭhakathā akaṃsu,  // Sp_0.13 //
 --------------------------------------------------------------------------
 1 S.B.B1.B2.Bp. Sīhaḷa-.
 2 B.B1.B2.Bp. saṅkhata-.
 3 Sp.B.B1.-bhunāti.
 4 S.B.B1.B2.Bp. pāḷi-.
-5 B.sammāra-. 
+5 B.sammāra-.
 6 S.B.B1.B2.Bp. tassā.
 7 B.B1.Bp. -ādīsu.
 8 B. sakkaccaṃ.
@@ -127,7 +127,7 @@ gavato attapaccakkhavacanaṃ[^003-5] na hoti, tasmā vattabbam
      are not found in Pāli.  The general purport is something like this: (I
      expound the meaning of Vinaya) ‘so that the good law may long
      remain in the world and all beings fully enjoy its benefit. By the merit
-     of this I desire to dispel all evils (hatantarāyo).  If  one wishes to 
+     of this I desire to dispel all evils (hatantarāyo).  If  one wishes to
      keep the precept (sīla) one should keep it (until one is) freed from all
      sufferings.' As to vv.4 and 5, only the first half of 4 and the second
      half of 5 are reproduced in Chinese, though not precisely.
@@ -168,11 +168,11 @@ vatā: yo vo mayā Ānanda[^004-19] dhammo ca vinayo ca desito
 2 S.tena.
 3 B.B1. kadā vuttaṃ, kasmā ca vuttan ti; B2. kadā ca vuttaṃ,
      kasmā ca vuttan ti; Bp. kadā vuttaṃ, kasmā vuttan ti.
-4 B2. saṃgiti, sic passim. 
+4 B2. saṃgiti, sic passim.
 5 B.B1.B2.Bp. vuttā.
 6 From here to p. 104 ābhatan ti has been edited by H. Oldenberg
      in his Vinaya, iii, 283 f., London,1881.
-7 Sum. Upavattaṃ. 
+7 Sum. Upavattaṃ.
 8 B.B1. Visākhā-.
 9 B2. paccusa-.
 10 Sp. nibbāṇa-; B.parinibbāna-, sic passim.
@@ -216,28 +216,28 @@ addhānamaggapaṭipanno[^005-21] mahatā bhikkhusaṃghena sad-
 dhiṃ pañcamattehi bhikkhusatehīti sabbaṃ Subhaddakaṇḍaṃ
 vitthārato veditabbaṃ.[^005-22]
 --------------------------------------------------------------------------
-1 S. yo vo. 
+1 S. yo vo.
 2  S.Sp.B1.B2.Sum. yathayidaṃ.
 3 B.B1. cīraṭhītikaṃ; B2. cīraṭṭhitikaṃ.
-4 S.Sp.B2.Bp.Sum. pana me tvaṃ. 
+4 S.Sp.B2.Bp.Sum. pana me tvaṃ.
 5 B.B1.B2.Bp.sāṇāni.
 6 B2. -kulāni.
 7 S.Sp.B2.Bp. omit anuggahito; Sp.Bp. however put c'eva instead.
 8 S.Sp.B.B1.B2.Bp. paṭhamaṃ jhānaṃ.
 9 B.B1.-chaḷābhi- ; B2.-chaḷabhiññāpabhede; Bp.-chaḷabhiññāppa-
      bhede; Sum. -vihārasamāpattichaḷabhiññāppabhede.
-10 Sum. -ṭṭhānena. 
+10 Sum. -ṭṭhānena.
 11 S.Sp. -ggahīto.
 12 Sum.adds before tassa ‘yathā ākāse pāniṃ cāletvā alaggacittatāya
      c' eva candopamapaṭipadāya ca pasaṃsito.'
 13 B.B1.B2.Bp. omit me.
 14 S. ānanyaṃ; B2.Bp.āṇaṇyaṃ.
-15 Sp. sakkacca issari-. 
+15 Sp. sakkacca issari-.
 16 Bp.-ppaṭiṭṭh-.
 17 Sum. omits iti and adds ‘imāya ca uḷārāya pasaṃsāya pasaṃsīti.'
-18 B.Bp. janeti. 
+18 B.Bp. janeti.
 19 S. āmantehi.
-20 S1.(D).Sum.Kusinārāyaṃ. 
+20 S1.(D).Sum.Kusinārāyaṃ.
 21 Bp.-ppaṭipanno.
 22 Sum. adds‘atthaṃ pan'assa mahāparinibbānāvasāne āgataṭṭhāne
      eva kathayissāma.'
@@ -274,16 +274,16 @@ bahūpakārattā[^006-19] therena[^006-20] uccinitabbo assa. atha kasmā[^006-21
 --------------------------------------------------------------------------
 1 S.Sp.B.B2 Bp.saṃgāyeyyāma.
 2 B.B1.B2. dibbati.
-3 B2.Bp. paṭibāhiyyati. 
+3 B2.Bp. paṭibāhiyyati.
 4 B. ahaṃsuṃ.
 5S.Sp.B. omit ca.
 6 Sum. bajjayitvā.
-7 S.Sp.-pabheda-. 
+7 S.Sp.-pabheda-.
 8 Cullavagga xi, 1, 2.
 9 Sp. tena āyas-; B2. tena hi āyas-.   Old. tenāh': āyas-.
 10 B. nāsakkā.
 11 Sum. -gītiṃ.
-12 B.B1.B2.Bp. sekkho. 
+12 B.B1.B2.Bp. sekkho.
 13 B.B2.Bp.sahāpi
 14 B2. dasabalena desitaṃ.
 15 S. suttaṃ geyyādiṃ; Sp. suttageyyādim; B.B1.B2.Bp.Sum. sutta-
@@ -291,12 +291,11 @@ bahūpakārattā[^006-19] therena[^006-20] uccinitabbo assa. atha kasmā[^006-21
 16-16 Sum. omits and has ‘apaccakkhaṃ' instead; S.Sp.paṭiggahītaṃ.
 17 Sum. adds ‘yathāha: dvāsītiṃ Buddhato gaṇhiṃ dvesahassāni
      bhikkhuto |  
-caturāsītisahassāni ye me dhammā pavattino ti||  
-(Thera-
+caturāsītisahassāni ye me dhammā pavattino ti|| (Thera-
      gāthā i,1024).
 18 S.Sp.Sum. omit pi.
-19 B.B2.Bp. bahukārattā; B1. bahupakārattā. 
-20 S. thereṇa, sic passim. 
+19 B.B2.Bp. bahukārattā; B1. bahupakārattā.
+20 S. thereṇa, sic passim.
 21 Sum. omits atha.
 
 
@@ -336,10 +335,10 @@ atha kho[^007-25] therānaṃ bhikkhūnaṃ etad ahosi: Rājagahaṃ
 6 S.(D). adds Ānando; B.B1. c' āyasmā.
 7 S.B.B1.B2.Bp. cūḷa-; Sum. culla-.
 8 Sum.keci  for hi.
-9 B2.bahu-. 
+9 B2.bahu-.
 10 Sp.Bp. asekkha-.
 11 B. -bhīdā-; B1. -bhīda-; Bp.Sum. -bhidā-.
-12 Sp.Bp.sekkha-. 
+12 Sp.Bp.sekkha-.
 13 See note 11.
 14 B.B1.B2. -vajjanto.
 15 B2.saṃgītiṃ.
@@ -347,12 +346,12 @@ atha kho[^007-25] therānaṃ bhikkhūnaṃ etad ahosi: Rājagahaṃ
 17 B.B1.B2.Bp.Sum. omit taṃ.
 18 Sum. adds iti.
 19 Sum. Ānandattherass' aṭṭhāya. 20 Bp. sekkho.
-21 B. ca after abh-. 
+21 B. ca after abh-.
 22 B.B1. bhayā mohāgati gantuṃ; B2.Sum. bhayā mohā agatiṃ
      gantuṃ.
 23 S. bahum ānena; Sp.B2.Bp. bahu cānena; B. bahuñ jānena; B1.
      bahuṃ c' anena; Sum. bahū ca tena; Cullavagga xi, 1, 2. bahu ca tena.
-24 S.kathan nu. 
+24 S.kathan nu.
 25 B. omits kho.
 
 
@@ -388,18 +387,18 @@ naṃ saññāpetvā Jetavanaṃ pavisitvā[^008-16] dasabalena vasita-
 gandhakuṭiyā dvāraṃ vivaritvā mañcapīṭhaṃ[^008-17] nīharitvā
 pappoṭhetvā[^008-18] gandhakuṭiṃ sammajjitvā milātamālākaca-
 --------------------------------------------------------------------------
-1 S1.(D). vassanto. 
+1 S1.(D). vassanto.
 2 S.Sp.B.B1.B2.Bp.Sum. nesaṃ.
-3 B.B1. dhāvara-. 
+3 B.B1. dhāvara-.
 4 B.B1. pavīsitvā.
-5 S.Sp.B.B2.Bp.-dutiyena kammena. 
+5 S.Sp.B.B2.Bp.-dutiyena kammena.
 6 B.B1.B2.Bp. ñātabbaṃ. Sum. gives the kammavāca proceedings in
      full, after which the paragraphs greatly differ from our text.
 7 S.Sp.-kīlana-.
 8 B. gimānaṃ; B1. gimmānaṃ.
 9 S. -tvā ti.
 10 S. Sp. omit pi.
-11 B. adds bhikkhusaṃghaṃ as before. 
+11 B. adds bhikkhusaṃghaṃ as before.
 12 B.-saṃghaṃ pari-.
 13 Bp. pakkami.
 14 S. Sp. B2.Bp. omit ca.
@@ -445,13 +444,13 @@ hoti.
 1 Old. milāna-.
 2 S. chaḍḍhetvā; B.B1. chaṭṭetvā.
 3 B2. adds kho.
-4 B.B1.Bp. pabhuti; B2. pabhūti. 
+4 B.B1.Bp. pabhuti; B2. pabhūti.
 5 S. ṭhāṇa-, sic passim.
 6 B. sammassāsetuṃ; B1. samayāpetuṃ.
 7 Sp. mānavena, sic passim.
 8 Sp.B.B1.B2.Bp. etad.
-9 B.B1.Bp. omit kho. 
-10 B. upakathāya; B1. upakatthāya. 
+9 B.B1.Bp. omit kho.
+10 B. upakathāya; B1. upakatthāya.
 11 B.B1. vassupa-.
 12 S.Sp.B2.Bp. omit ca.
 13 From here the text again agrees roughly with Sum. (18).
@@ -494,24 +493,24 @@ riyā niketam iva ekanipātanatittham[^010-16] iva ca devamanussa-
 nayanavibhaṅgānaṃ[^010-17] lokarāmaṇeyyakam iva[^010-18] sampiṇḍitaṃ
 daṭṭhabbasāramaṇḍaṃ maṇḍapaṃ[^010-19] kārāpetvā, vividhaku-
 --------------------------------------------------------------------------
-1 B.B1.B2.Bp. h' etaṃ. 
+1 B.B1.B2.Bp. h' etaṃ.
 2 B. saṃvaṇṇitaṃ.
-3 Cull. xi, 1-5. 
+3 Cull. xi, 1-5.
 4 Bp. āgatātthā 'ti.
 5 S.Sp.  kattabbaṃ kiccaṃ; B2. kātabbakiccaṃ.
 6 Sp.B.B2.Bp. paṭhamaṃ māsaṃ.
 7 S.Sp.sabbavihārapaṭisaṃkharaṇaṃ kārāpetvā; S1.(D). sabbavi-
      hāre paṭisaṃkharaṇaṃ kārāpetvā; B.B1. sabbe vihāre paṭisaṃkhārā-
-     petvā; B2. sabbavihāre paṭisaṃkharāpetvā. 
+     petvā; B2. sabbavihāre paṭisaṃkharāpetvā.
 8 B. vissaṭṭhā.
 9 Bp. omits me.
 10 B.B1.B2.Bp. omit dhamma.
 11 B. sannisānaṭṭhānaṃ and adds laddhuṃ vaṭṭati after it.
-12 B.B2. sattapaṇṇaguhadvāre; B1. sattapaṇṇagūhadvāre; Bp satta- 
+12 B.B2. sattapaṇṇaguhadvāre; B1. sattapaṇṇagūhadvāre; Bp satta-
      paṇṇaguhādvāre.
 13 B.B1.B2.Bp. Visukammunā.
 14 B2.-sopānanānā-; Bp.Sum.-bhittitthambha-.
-15 S.S1.(D). Sp. apahasantaṃ. 
+15 S.S1.(D). Sp. apahasantaṃ.
 16 S.Sp.B1.B2.Bp.-nipātatitthaṃ.
 17 S.-vihagānaṃ; Sp B1 B2.Bp.-vihaṅgānaṃ.
 18 B.B2. iva ca.
@@ -557,16 +556,16 @@ anupādāya āsavehi cittam vimucci.[^011-16] ayaṃ hi āyasmā
      c' ettha ṭhapetvā.
 5 S.Sp.omit the passage 'tasmiṃ kho' to 'āpajji, ekacce,' about five
      lines.
-6 Sum. divase  for samaye. 
+6 Sum. divase  for samaye.
 7 Sum. vāyyanto.
 8 S. āhaṃsuṃ; Sum. ekacce naṃ āhaṃsu.
 9 B2. āvuso Ānanda saṃghasannipāto.
-10 B.B1.B2.Bp. sekkho, sic passim. 
+10 B.B1.B2.Bp. sekkho, sic passim.
 11 B1. adds bhavissati.
 12 S.S1.(D) Sp. sv āhaṃ; B2. Sum. y'āhaṃ.
-13 S.Sp.kāyagatā satiyā. 
+13 S.Sp.kāyagatā satiyā.
 14 Sum. -samaye.
-15 B.B1.B2.Bp. bibbohanaṃ, sic passim. 
+15 B.B1.B2.Bp. bibbohanaṃ, sic passim.
 16 S. vimucciṃ.
 
 
@@ -598,8 +597,8 @@ nisinnā. tattha kehici pi[^012-23] etam āsanam kassā 'ti vutte,
 Ānandassā 'ti.[^012-24] Ānando pana kuhim gato ti. tasmiṃ samaye
 thero cintesi: idāni mayhaṃ hamanakālo ti. tato attano
 --------------------------------------------------------------------------
-1 S. mayaṃ. 
-2 Mahāpari. v,35. 
+1 S. mayaṃ.
+2 Mahāpari. v,35.
 3 Old. kippaṃ.
 4 S.Spḥohi; B2. hohīsi.
 5 Sum. mamañ ca pana accāraddha-viriyaṃ.
@@ -610,14 +609,14 @@ thero cintesi: idāni mayhaṃ hamanakālo ti. tato attano
 10 B. bibbohaṇaṃ; B2.Bp. sīsañ ca bibbohanaṃ.
 11 Sum. vimmuttaṃ.
 12 Sum. caturiri-; B.-pathavinimuttaṃ.
-13 S.Sp.omit ahosi. 
+13 S.Sp.omit ahosi.
 14 B. anippanno anissinno.
 15 Old. kho.
 16 B.B2.Bp. add kho.
 17 Sum. (24) adds pañcamiyā pakkhassa after this, so Chin.
 18 Sum. (24) sannipatiṃsu.
 19 Sum. alengthy addition here.
-20 Sp.B.B1.Bp.Sum.-ppattiṃ. 
+20 Sp.B.B1.Bp.Sum.-ppattiṃ.
 21 B.B2.Bp. pattāsane.
 22 B. dhapetvā; B1. thapetvā.
 23 S.Sp.kehic' āpi; B.B1.B2.Sum. (26) kehici, omit pi.
@@ -661,13 +660,13 @@ vinayaṃ pucchi: paṭhamaṃ āvuso Upāli pārājikaṃ kattha
 3 Sum. (27) āgate pana.
 4 B. adds pana.
 5 B.B1. āhaṃsuṃ.
-6 Sum. (27) buddhassa sāsanassa. 
+6 Sum. (27) buddhassa sāsanassa.
 7 S1. (D). kiṃ.
 8 S. Upāḷin, sic passim.
 9 S. dharamāṇo; S1.(D). -sambuddho (corrected -ddhe) dharamāne.
-10 S. -dharāṇaṃ. 
+10 S. -dharāṇaṃ.
 11 S. attaṃ.
-12 S.B.B2.Bp.Sum. (28) pāḷi. 
+12 S.B.B2.Bp.Sum. (28) pāḷi.
 13 B.B1 omit pi.
 14 Cullavagga xi, 1, 7.
 15 B.B2.Bp. attanā 'va attānaṃ.
@@ -710,7 +709,7 @@ khāpadāni sekhiyānīti ṭhapesuṃ. satta dhamme adhika-
 1 S.Sp.B2.Sum. (29) omit bhagavatā.
 2 Sum. (29) kiṃ.
 3 Sp.B.B1.B2.Bp. Kalandaputtaṃ.
-4 S.Sp.B.B1.B2.Bp. anupaññ-. 
+4 S.Sp.B.B1.B2.Bp. anupaññ-.
 5-5 Sum. (29) omits.
 6 Sum. āyasmā Upāli.
 7 Sum. inserts two paragraphs (30-31) here; Sum. 32 agrees only in
@@ -763,9 +762,9 @@ majālaṃ āvuso Ānanda kattha bhāsitan ti. antarā ca bhante
 2 Sum. (34) asīti-bhāṇavāraparimāṇaṃ Khandhakaṃ pañcavīsati-
      bhāṇavāraparimāṇaṃ parivārañ ca saṃgahaṃ āropetvā, etc.
 3 B. -visajjanāpariyo-; B2. -visajjanapariyo-.
-4 S. arahatta-. 
+4 S. arahatta-.
 5 S1.(D). ghana.
-6 B.B1.B2.Bp. vuḍḍhe. 
+6 B.B1.B2.Bp. vuḍḍhe.
 7 S. taṃ.
 8 B2. omits puggalaṃ; dhūraṃ  for dhuraṃ.
 9 B2. dhūraṃ.
@@ -814,16 +813,16 @@ tirasam eva hoti. evaṃ rasavasena ekavidhaṃ.
 2 S. mānavan; B.B2.Bp. māṇavan; B1. māṇavaṃ and omits ti.
 3-3 S.Sp.omit; S1.(D). kasmiṃ; B. kiṃsmiṃ vatthusmin ti; B1. kiṃ-
      smiṃ vatthusmiṃ; B2.Bp. kismiṃ vatthusmin ti.
-4 S.Sp.B.B2.Bp.  omit pi. 
+4 S.Sp.B.B2.Bp.  omit pi.
 5 S. -tthereṇa na.
 6 B2. visajjito.
 7 B.B1. add ca.
 8 The above sections roughly correspond with Sum. 38-42.  From
      this section to p. 30, l.5, vavatthapetvā omitted by Oldenberg.
 9 Sum. (43) evam etaṃ.
-10 B. omits pi. 
+10 B. omits pi.
 11 S. adds  hoti.
-12 B. pacchimabuddhavacanavasena. 
+12 B. pacchimabuddhavacanavasena.
 13 Sum. (44) adds tāva.
 14 S.B.B1.B2.Bp. -cattālīsa.
 15 S. anusāsentena.
@@ -872,14 +871,14 @@ vasena tividhaṃ.
 9 Vin., Mahāvagga, i, 1, 3.
 10 Sum (46) vadanti.
 11 S. -ññūvayappatt-; Sp.B.B1.B2. -ññubhāva-.
-12 B.B1. somanassañāṇena. 
+12 B.B1. somanassañāṇena.
 13 B. paccaventassa by mistake.
-14 B. -dhamma-. 
+14 B. -dhamma-.
 15 Mahāparin. vi, 10.
 16 Sum. (46) ubhiṇṇaṃ.
 17 B. taṃ.
 18 B.B1.B2.Bp. -vacanan ti; Sum. (46) -vacanaṃ nāma.
-     I                
+     I
 2
 
 
@@ -914,11 +913,11 @@ vividhā hi ettha pañcavidhaPātimokkhuddesa-Pārājikādi-
 sattāapattikkhandha-Mātikā-Vibhaṅgādippabhedanayā,[^018-12] vi-
 sesabhūtā ca daḷhīkammasithilīkaraṇapayojanā[^018-13] anuppañ-
 --------------------------------------------------------------------------
-1 B.B1. anusaṃgītañ ca. 
+1 B.B1. anusaṃgītañ ca.
 2 Ch. omits dve Vibh-.
 3 B2. Sum. (47) khandhakā.
 4 B. suttā ti  for -suttādi-.
-5 Ch. omits Khuddakapāṭha and puts at the end ‘14 divisions' instead 
+5 Ch. omits Khuddakapāṭha and puts at the end ‘14 divisions' instead
      of 15 of our text. This proves that it is an interpolation later than AḌ. 489.
 6 B.B1.B2. Theragāthā-Therīgāthā.
 7 S. panna-; Sp. paṇṇa-; B.B1.Bp. pannarasappabhedo; B2. panna-
@@ -959,7 +958,7 @@ ten' etam etassa vacanatthakosallatthaṃ vuttaṃ:
      atthānaṃ sūcanato suvuttato savanato[^019-20] ca[^019-21] sūdanato
      suttāṇā suttasabhāgato[^019-22] ca suttaṃ[^019-23] suttan ti akkhātan ti.
 --------------------------------------------------------------------------
-1 B2. kāya-. 
+1 B2. kāya-.
 2 B. ākkhāto, sic passim.
 3 S. vinayanayato, but see above, note 11, p. 18.
 4 Sp. savaṇato.
@@ -968,9 +967,9 @@ ten' etam etassa vacanatthakosallatthaṃ vuttaṃ:
 7 B.B1.B2.Bp.Sum. (49) has one suttan only.
 8 S.B.Sum. (49) suceti.
 9 Sp. -sayānūlomen
-10 B.B2.Bp.Sum. (49) savati. 
+10 B.B2.Bp.Sum. (49) savati.
 11 Sp. kaṃ v' etaṃ.
-12 S. ettha. 
+12 S. ettha.
 13 B2. paggharāpetīti.
 14 B.B1. suttāṇā ti suṭṭhu.  This reading shows that suttāṇā is abl.
      of sutrāṇa (=suṭṭhu tāyati, rakkhati) and ought not to be joined with the
@@ -1023,9 +1022,9 @@ yaṃ pan' ettha avisiṭṭhaṃ, taṃ[^020-14]
 3 B.B1.B2.Bp. me āvuso.
 4 Saṃyutta-nikāya part v, p. 80, it is the word of Mahākassapa; Sp.
      abhikkhamantīti; Suṃ. (50) abhikkhamantīti, both omit no paṭikka-
-     manti.'  So Chin. 
+     manti.'  So Chin.
 5 B.B2.Bp. ādīsu, sic passim.
-6 B.B2. Vuḍḍhiyaṃ. 
+6 B.B2. Vuḍḍhiyaṃ.
 7 S. sakalakkhaṇe; Sum. (50) salakkhaṇo.
 8 Sp.Bp. anujindo.
 9 Sp.B1.B2.Bp.Sum. (50) aññamaññasaṃkara-; B. aññamaññasaṃ-
@@ -1073,7 +1072,7 @@ desitattā paramatthadesanā ti vuccati.
 1 B.Bp. kudāla-; B1. kuḍāla-.
 2 B2. pariyattibbhājanatthato.
 3 B.B1.B2.Bp.Sum. (51) add idāni before tena.
-4 S. duvidhattena. 
+4 S. duvidhattena.
 5 Sum. (51) tassa once only.
 6 B2.. suttantañ ca.
 7 B.B1.B2.Bp. suttantapiṭakaṃ.
@@ -1081,9 +1080,9 @@ desitattā paramatthadesanā ti vuccati.
 9 sum. (51) tesu yeva.
 10 S.B.B1.B2. -bhedan tesu.
 11 B.B1.B2. sikkhāpahāna-; Sum. (51) sikkhappahāna-.
-12 B.B1. sampattivipattiñ. 
+12 B.B1. sampattivipattiñ.
 13 B. yahi.
-14 B.B1.Sum. (51) omit ti. 
+14 B.B1.Sum. (51) omit ti.
 15 Sp. tīni; B.B1. tiṇi.
 16 S. ānā-; B1. āṇāboh-.  17 S. -vinivethana-; B.B1.B2. -vinivedhana.
 18 B.B1.Bp. ti ca instead of cā 'ti.
@@ -1167,12 +1166,12 @@ gambhīrabhāvo[^023-23] veditabbo.
 --------------------------------------------------------------------------
 1 S. candabuddhīhi.
 2 Sum. (53) -ogāḷhā.
-3 B2.Sum. (53) c' ettha. 
+3 B2.Sum. (53) c' ettha.
 4 Sum. (54) omits ti.
 5 Sum. (54) inserts after this: ‘anulomapaṭilomasaṃkhepavitthārādi-
      vasena vā kathanaṃ.'
 6 B.B2.Bp. lokiyalokuttaro; B1. lokīyalokuttaro.
-7 B2. adds ca. 
+7 B2. adds ca.
 8 S.Sum. (54) yathānu-; B.B1. padhānu-.
 9 S. paññatisu.
 10 Sum. (54) adds: ‘tesaṃ tesaṃ vā tattha tattha vuttadhammānaṃ
@@ -1190,7 +1189,7 @@ gambhīrabhāvo[^023-23] veditabbo.
 19 Sum. (54) -ogāḷhaṃ.
 20 B2. patiṭhañ; Sum. (54) alabbhaṇeyyapatiṭṭhañ.
 21 B. adds gambhīrā; B2.Bp. gambhīraṃ.
-22 B2. c' ettha. 
+22 B2. c' ettha.
 23 S. gabhīra-.
 
 
@@ -1229,13 +1228,13 @@ tattā[^024-17] bhikkhave dhammānan ti.[^024-18]
 --------------------------------------------------------------------------
 1 B2. -sāsanā-.
 2 Sp. -pahāṇa-; B.B1.B2. -pahāna-.
-3 B2. adds va. 
+3 B2. adds va.
 4 S. tidhā.
 5 B.B1.B2.Bp. add yā.
 6 Sp. -hītā.
 7 B. -puṭā ayaṃ aladdūpa-; B1. -putā ayaṃ alagad dūpa-; B2.Bp.
      -puṭā ayaṃ alagaddūpa-.
-8 S. tam etaṃ. 
+8 S. tam etaṃ.
 9 B.B2.Bp. parivattitvā.
 10 B.B1.Bp. ḍaṃseyya; B1. aṅgapañcaṅge ḍaṃseyya.
 11 B.B1.Bp. duggahita-.
@@ -1244,7 +1243,7 @@ tattā[^024-17] bhikkhave dhammānan ti.[^024-18]
 14 B2. upārabbhā-.
 15 B. -kkhanisaṃsā.
 16 Sp. va.
-17 B.B1.B2.Bp. duggahita-. 
+17 B.B1.B2.Bp. duggahita-.
 18 Majjhima, i, 133.
 
 
@@ -1283,21 +1282,21 @@ ye me antarāyikā dhammā vuttā bhagavatā te paṭisevato
 nālaṃ antarāyāyā 'ti. tato dussīlabhāvaṃ pāpuṇāti.
 --------------------------------------------------------------------------
 1 B.B1.B2.Bp. suggahitā; sic passim.
-2 B2. pāripūri. 
+2 B2. pāripūri.
 3 B.B2.Bp. pariyāpuṭā; B1. pariyāpunaṇā.
 4 S. yā.
 5 S.B.B2.Bp.Sum. (56) pahīna-; B1. pahina-.
 6 B. -kubbo.
 7 S. paveni-; B2.Bp. paveṇī-.
-8 B. -puññāti. 
+8 B. -puññāti.
 9 S. vinayena.
 10 Sp.B.B1. bhikkhu, so Sum. (56)
 11 Sum. (56) -sampadaṃ.
-12 S. tassañ. 
+12 S. tassañ.
 13 B.B1.B2.Bp.Sum. (56) -kkamena.
 14 B.B1.B2.Bp. vijjattaya-.
 15 B.B2. chaḷābhiññā-.
-16 B. inserts anupādiṇṇa before phassasāma-; Bp. pāvuraṇādi for 
+16 B. inserts anupādiṇṇa before phassasāma-; Bp. pāvuraṇādi for
      pāpuraṇādi.
 17 B. upādiṇṇakapha-; B1. B2.Sum. (57) upādiṇṇapha-.
 18 Comp. Suttavibhaṅga ii, p. 134 (pācittiya 68).
@@ -1335,7 +1334,7 @@ majālādīni catuttiṃsasuttāni.
 kasmā pan' esa Dīghanikāyo ti vuccati. dīghappamāṇā-
 naṃ suttānaṃ[^026-17] samūhato nivāsato ca, samūhanivāsā hi ni-
 --------------------------------------------------------------------------
-1 Sum. (57) nu. 
+1 Sum. (57) nu.
 2 B.B1.B2.Bp. duggahitaṃ, sic passim.
 3 Comp. Cullavagga, i, 32, 33.
 4 B.B2.Bp.Sum. (57) khanati; B1. mūlaṃ khanati.
@@ -1343,9 +1342,9 @@ naṃ suttānaṃ[^026-17] samūhato nivāsato ca, samūhanivāsā hi ni-
      B2.Bp.Sum. (57) dhammacintaṃ atidhā-.
 6 S.Cinteyyā 'ti; B1. cintesi.
 7 S.B1. bhāgi assā 'ti.; Ang. ii, 80.
-8 B. ete. 
+8 B. ete.
 9 B. cittavikkhepa-.
-10 B2. adds ca. 
+10 B2. adds ca.
 11 B2. adds 'va.
 12 B2.Sum. (57) omit pi.
 13 B. vasena taṃ.
@@ -1396,7 +1395,7 @@ vacanan ti.
 8 Sum. (58) adds ti.
 9 B.B1.B2. -paññāsasuttāni; Bp. -paṇṇāsañ ca suttāni; Sum. (58)
      -paññāsañ ca suttāni.
-10 Bp. paṇṇa-. 
+10 Bp. paṇṇa-.
 11 B.B1.B2.Bp. saṅkhyā.
 12 B2. pannarasappabhedā.
 
@@ -1439,12 +1438,12 @@ Cūḷavedalla-Mahāvedalla-Sammādiṭṭhi-Sakkapañha-Saṃ-
 3 B.B1.B2.Bp. Tuvaṭṭaka-; Sum. (59) Tuvaṭaka-suttāni.
 4 B.B1.B2.Bp. add ca.
 5 B.B1.B2.Bp. sagāthāvaggo.
-6 B.B1. omit pi. 
+6 B.B1. omit pi.
 7 B.B1.B2.Bp. -gahitaṃ.
 8 B.B1.Bp.Sum. (59) Therīgāthā. 9 Bp. dvāsīti.
 10 S. -ppamattā.
 11 B.B1.Bp.Sum. (59) dasuttarasataṃ suttantā  for dvādas-.
-12 B. omits 'me. 
+12 B. omits 'me.
 13 B.B1.B2.Bp. abbhutadham-.
 14 Mahāparinib. v, 38.
 15 B. -abbhutaguṇadhaṃ-; B1. -guṇadhaṃ-.
@@ -1488,7 +1487,7 @@ gītaṃ.
 --------------------------------------------------------------------------
 1 S.B2. -bhājanīya-.
 2 S. -puṇṇaca-; Sum. (59) -suttantādayo.
-3 B.B1.B2.Bp.Sum. (60) dvāsīti. 
+3 B.B1.B2.Bp.Sum. (60) dvāsīti.
 4 S. -gananā.
 5 Bp.-pucchānaṃ.
 6 B.B1.B2. -bhājanaṃ.
@@ -1496,7 +1495,7 @@ gītaṃ.
      patti.
 8 S. titikacchedo.
 9 S.B2. vasigaṇena.
-10 B.B1.B2.Bp. Suttantapiṭakaṃ. 
+10 B.B1.B2.Bp. Suttantapiṭakaṃ.
 11 B.B1.B2. idaṃ.
 
 
@@ -1527,7 +1526,7 @@ pi pucchīti ettha nidāne pucchite taṃ[^030-19] nidānaṃ ādito pabhuti[^03
 vitthāretvā yena ca paññattaṃ yasmā ca paññattaṃ sabbam
 etaṃ kathetukāmena āyasmatā Upālittherena vuttaṃ: tena
 --------------------------------------------------------------------------
-1 B.B1.B2.Bp.Sum. (60) add ca. 
+1 B.B1.B2.Bp.Sum. (60) add ca.
 2 S.Sum. (60) imam eva.
 3 S. -saṃgahā; B1. -saṃgahaṃ.
 4 B1. -saṃgahaṃ.
@@ -1544,7 +1543,7 @@ etaṃ kathetukāmena āyasmatā Upālittherena vuttaṃ: tena
 14 Sum. (61) omits ti.
 15 Sum. (61) -vuccate ti.  Here ends the introductory portion of the
      Sumaṅgala vilāsinī.
-16 S.Sp.B. omit pana. 
+16 S.Sp.B. omit pana.
 17 S.Sp.vattamānāya, as in Sum. p. 26.
 18 S.Sp.Upāḷi, sic passim.
 19 S. pucchit' esaṃ.
@@ -1584,7 +1583,7 @@ rehi.
 katvā ācariyaparamparāya yāva tatiyasaṃgīti tāva ābha-
 taṃ.[^031-17]
 --------------------------------------------------------------------------
-1 B.Bp. omit ca. 
+1 B.Bp. omit ca.
 2 S. vuccanti.
 3 B. padāsaṃ.
 4 B.B2. add ca.
@@ -1595,11 +1594,11 @@ taṃ.[^031-17]
 9 S1. (D). c' etaṃ and omits the second etaṃ.
 10 S. vidhin ti.
 11 S. parimaṇḍita-; Sp. patimaṇḍita-.
-12 S. keṇa. 
+12 S. keṇa.
 13 S.Sp.ppatiṭṭhitan ti.
 14 B.B1. aparinibbūte, sic passim.
 15 B.B2. chaḷābhi-.
-16 S. ādikaṃ. 
+16 S. ādikaṃ.
 17 S. āhataṃ.
 
 
@@ -1637,21 +1636,21 @@ puthujjanasotāpannasakadāgāmianāgāmino pi[^032-19] khīṇāsavāpi
 --------------------------------------------------------------------------
 1 B.B1.B2.Bp. Soṇako, sic passim.
 2 B. Jambūsīrivhaye; B1. Jambusarivhaye; S1.(D). Jambusiruvhaye.
-3 S. -maṇaṃ. 
+3 S. -maṇaṃ.
 4 S. paveniṃ.
 5 B. samukhā, sic passim.
 6 B.Bp. bahūnaṃ.
-7 S. omits bhikkhūnaṃ. 
+7 S. omits bhikkhūnaṃ.
 8 B.B1.B2.Bp. vinayavaṃsaṃ.
 9 Sp. -sotāpaṇṇa-.
 10 S. ganana-.
-11 S1.(D). tassa pi. 
+11 S1.(D). tassa pi.
 12 S. ekaṃ.
 13 B.B1.B2.Bp. pi.
 14 B. adds ca.
 15 S.Sp.add therassa,  and omit ‘ahosi.  so pi attano upajjhāyassa
      Sonakattherassa.'
-16 S. arahantasasahassa-. 
+16 S. arahantasasahassa-.
 17 Sp.B2. dhūra-.
 18 Sp. pakaññātaṃ.
 19 S. -gamiṇo pi; Sp. -sotāpaṇṇa . . . anāgāmi and omits pi.
@@ -1696,14 +1695,14 @@ sukko[^033-18] bhaveyyaṃ, handāhaṃ adhammavādino niggahetvā
 6 The Ṭīkā Vimati-vinodanī has va  for ca.
 7 S.B2.Bp. sabbadhi.
 8 Sp. khīṇā-.
-9 S1.(D). ath' anukk-. 
+9 S1.(D). ath' anukk-.
 10 B.B1.B2.Bp. rattidivesu.
 11 Sp. siṅgiḷoṇa-; Bp. singīloṇa-.
 12 B2. amadhita-; S1.(D). amatha-.
 13 B.B2p. jaḷogiṃ pātuṃ; B1. jaḷogī pātuṃ.   Old. jalohi pātuṃ.
      We presume jalogi to be jala-ogha with -in, ‘containing a quantity of
      water'---i.e., the juice of khajjūrī not yet fermented.  Ch. translates:
-     ‘sui' ‘water'--i.e., ‘waterly.' 
+     ‘sui' ‘water'--i.e., ‘waterly.'
 14 S1.(D). adāsakaṃ.
 15 B1.B2.Bp. Kāḷāsoko.
 16 B2. panam etaṃ.
@@ -1745,20 +1744,20 @@ sā panāyaṃ
      yehi therehi saṃgītā saṃgīti tesu vissutā
      Sabbakāmī ca[^034-15] Sāḷho[^034-16] ca Revato Khujjasobhito
 --------------------------------------------------------------------------
-1 B.B1. cintayanto. 
-2 S. yeva. 
+1 B.B1. cintayanto.
+2 S. yeva.
 3 S.Sp.B2. Vesāli.
 4 S.Sp.Vesāliyā.
 5 B1. Vajjīputtakā.
 6 B. āgate āgate; B2.Bp. āgat' āgate.
-7 Sp.B.B1.B2.Bp. vadanti. 
+7 Sp.B.B1.B2.Bp. vadanti.
 8 S. reṇa.
 9 Cullavagga xii, pp. 294-307, is here understood. The following
      ‘imāya pana vinayasaṃgītiyā,'  etc., is the concluding portion of the
      section xii.
 10 Bp. tasmā ayaṃ.
 11 S.Sp.etasmiñ, and omit evaṃ; B2. evaṃ etasmiṃ.
-12 B2. visajjantena. 
+12 B2. visajjantena.
 13 Sp.B. Vālukā-; B1.B2.Bp. Vālikā-.
 14 B2.Bp. sannipatitvā.
 15 S1.(D). Sabbakām' eva.
@@ -1806,7 +1805,7 @@ manussaloke nibbattanatthāya ussāhaṃ kareyyāma, addhā
 7 S.B.B1.Bp. imaṃ.
 8 B2. Pātaliputte.
 9 S.Sp.B.B1.B2.Bp. kāressati and omit iti.
-10 B.B2.Bp. add te. 
+10 B.B2.Bp. add te.
 11 Sp. vupasametuṃ.
 12 B.B1.B2.Bp. sakalaṃ man-.
 13 S. omits cha; B.B1.B2.Bp. chakāmā- but omit ca before.
@@ -1851,21 +1850,21 @@ kaṃ ṭhatvā.
      aggikkhandhā va lokamhi[^036-16] jalitvā parinibbutā.[^036-17]
      dutiyasaṃgahaṃ[^036-18] katvā visodhetvāna sāsanam
 --------------------------------------------------------------------------
-1 B2. -brahmaṇassa. 
+1 B2. -brahmaṇassa.
 2 B.B1.B2.Bp. sakalaṃ bud-.
 3 B.B1.B2.Bp. vinicchitvā.
 4 Sp. omits te.
 5 Sp. omits ca.
 6 S.Sp.omit cha.
 7 B.B1.B2.Bp. kiñci.
-8 S.Sp.B.B1.B2. paggahetuṃ. 
+8 S.Sp.B.B1.B2. paggahetuṃ.
 9 B.B2.Bp. add eva.
 10 S.Sp.paggaṇhitvā dehīti, and omit patiññaṃ.
 11 S.Sp.B.B2.Bp. Caṇḍa-; B1. Caṇḍavajjī-.
-12 Sp.B.B1.B2.Bp. sampāpuṇiṃsu. 
+12 Sp.B.B1.B2.Bp. sampāpuṇiṃsu.
 13 S1.(D). āhuvettha.
 14 B2. mahābrahmā.
-15 S1.(D). mahiddhiko. 
+15 S1.(D). mahiddhiko.
 16 B2. lokimhi.
 17 S1.(D). -nibbuto.
 18 S.Sp.B1.B2.Bp. dutiyaṃ saṃgahaṃ.
@@ -1906,7 +1905,7 @@ paṭisanthāraṃ[^037-12] upādāya evam avocamhā 'ti.
 brāhmaṇo cintesi: ime paṭisanthāramattam[^037-13] pi labhitvā
 labhimhā 'ti pasaṃsanti. aññaṃ kiñci khādaniyaṃ bhoja-
 --------------------------------------------------------------------------
-1 B2.Bp. -lokato. 
+1 B2.Bp. -lokato.
 2 Bp. -ggahaṇato.
 3 Sp. ppabhuti; B.B1.B2. pabhūti, sic passim.
 4 B2. nālatthaṃ.
@@ -1958,7 +1957,7 @@ kassa caṇḍikkabhāve evaṃ āha[^038-18]: kiṃ pana tvaṃ māṇavaka
 2 B2.Bp. kaṭacchumattaṃ bhikkhaṃ.
 3 S.Sp.B.B1.B2.Bp. tadupiyañ ca.
 4 S.Spḍisvā disvā.
-5 B1. anto. 
+5 B1. anto.
 6 B.B1.B2.Bp. thokaṃ thokaṃ.
 7 S.Sp.B.B1.B2.Bp. pāragū.
 8 S. omits nipajjitā vā; B.B1.B2. nippajjitā vā.
@@ -1966,11 +1965,11 @@ kassa caṇḍikkabhāve evaṃ āha[^038-18]: kiṃ pana tvaṃ māṇavaka
 10 S.Sp. me gacchantassa.
 11 S.Sp.B.B1.B2.Bp. na ca kāci; S1.(D). na koci.
 12 B. uppajji.
-13 B.B1. add kathā. 
+13 B.B1. add kathā.
 14 B.B1.B2.Bp. add therassa.
 15 B.B1. taṃkhaṇe yeva; B2.Bp. taṃkhaṇañ ñeva.
 16 B1.Bp. paññapesīti.
-17 S. vupasante; Sp. vupasanto. 
+17 S. vupasante; Sp. vupasanto.
 18 S. āhā.
 
 
@@ -2002,11 +2001,11 @@ adho vā sarituṃ[^039-21] asakkonto, kiṃ nāma bho pabbajita idan ti
 bho mayhaṃ pi dātun ti. sakkā māṇava amhehi gahitaṃ[^039-22]
 pabbajjaṃ gaṇhantassa dātun ti.
 --------------------------------------------------------------------------
-1 All MSS. kiñci. 
+1 All MSS. kiñci.
 2 B.B1.B2.Bp. māṇavako.
 3 S.B2.Bp. puccha māṇavaka; B. pucchi māṇava; B1. māṇavaka,
      and omits puccha.
-4 Bp. māṇavako. 
+4 Bp. māṇavako.
 5 Bp. sanighaṇṭu-; Sp. sanighaṇḍū.
 6 Sp.B1.B2.Bp. sākkhara-; S1.(D). sāakkhara-; B. sakkhara-.
 7 B2. gaṇhi-.
@@ -2015,12 +2014,12 @@ pabbajjaṃ gaṇhantassa dātun ti.
 10 Bp. tesu tesu.
 11 S.B.B1.B2.pāragū.
 12 B.B1. paṭisambhīdāpatto; B2. paṭi (saṃ) bhidappatto; Bp. patisam-
-     bhidāppatto. 
+     bhidāppatto.
 13 Sp.B.B1.Bp. tesaṃ.
 14 S.Sp.B.B1.B2.Bp. vissajjane bhāro.
-15 S.Sp.tesaṃ. 
+15 S.Sp.tesaṃ.
 16 B2. visajjitvā.
-17 B2.Bp. māṇavakaṃ. 
+17 B2.Bp. māṇavakaṃ.
 18 B2.Bp. māṇavaka.
 19 Sp. n' ūppajjissati.
 20 S1.(D). inserts here ‘na' which is superfluous ancorrected by Prof.
@@ -2069,10 +2068,10 @@ pattacīvaraṃ dāni paṭisāmehīti. sādhu bhante ti sāmaṇero
 --------------------------------------------------------------------------
 1 B. gaṇhatu.
 2 S. punāpi gamissatīti; B.B1.B2. puna āgami-.
-3 B2.Bp. uggaṇha. 
+3 B2.Bp. uggaṇha.
 4 B2. cīrass' eva.
 5 B. patiṭṭhati; B1. patiṭṭhāti; B2.Bp. patiṭṭhahi.
-6 S. pāpuneyya. 
+6 S. pāpuneyya.
 7 B2. apposukko.
 8 S.Sp.B.B1.B2.Bp. Caṇḍa-.
 9 Bp. omits naṃ.
@@ -2118,13 +2117,13 @@ upari aṭṭhārasame vasse sakala[^041-17]-Jambudīpe ekarajjābhisekaṃ
      samajjaṭṭhānaṃ; B. sammajjanaṭṭhānaṃ; B2.Bp. sammajjitaṭṭhānaṃ.
 4 B2. brahmā.
 5 B.B1.B2 uggahaṇatthāya; Bp. uggaṇhatthāya.
-6 S1.(D). sāmaṇero ti. 
+6 S1.(D). sāmaṇero ti.
 7 Sp. ppabhuti; B.B1.B2. pabhūti.
 8 S1.(D). 'va vasamāno.
 9 S.S1.(D). -upajjhāyo.
 10 S.Sp.B.B1.B2.Bp. sakalaṃ buddha-.
 11 Sp.B.B2.Bp. patiṭṭhāpetvā.  12 Bp. arahattapatto.
-13 B.B1.B2.Bp. bahūnaṃ. 
+13 B.B1.B2.Bp. bahūnaṃ.
 14 B.B1.B2.Bp. ghātento ca.
 15 Sp. catuṇṇaṃ.
 16 Sp. dviṇṇaṃ.
@@ -2158,18 +2157,18 @@ anuvilepanagandhaṃ,[^042-21] pārupanatthāya[^042-22] asuttamayikaṃ su-
 manapupphapaṭaṃ, mahārahañ ca añjanaṃ[^042-23] nāgabhava-
 nato[^042-24] nāgarājāno āharanti.
 --------------------------------------------------------------------------
-1 S. abhiseko 'nubhāvena. 
+1 S. abhiseko 'nubhāvena.
 2 S. ca tassa.
 3 Sp. paṭhaviyaṃ; B.B1. -pathavīyā; B2.Bp. -pathaviyā.
 4 B.B1.B2.Bp. pavatti.
 5 B.B1. Anodatta-; Bp. Anotattha-.
 6 S.Sp.B2.Bp. pānīya-.
 7 S.Sp.Bp. tipiṭakabhikkhūnaṃ; B2. tipiṭakadharānaṃ bhikkhū-
-     naṃ. 
+     naṃ.
 8 B2. aggamahesiyā.
 9 B. nāṭakiṭṭhisaha-; Bp. nāṭakitthisaha-.
 10 S. -pona-.
-11 B. uppajjati. 
+11 B. uppajjati.
 12 B.B1.B2.Bp. c' assa.
 13 S.Sp.Bp. -harīṭakaṃ; B. akadāharitakaṃ; B1. aggaṭahariṭakaṃ;
      B2. agadahariṭakaṃ.
@@ -2215,21 +2214,21 @@ rīkapatimaṇḍitam[^043-19] iva salilatalaṃ[^043-20] tārāgaṇarasmiṃ[^
 visadavisphuritasobhāsamujjalam[^043-22] iva gaganatalaṃ nī-
 lapītalohitādibhedavicitravaṇṇaraṃsivinaddhabyāmappabhā-
 --------------------------------------------------------------------------
-1 S.Sp.B2.Bp. va for ca. 
+1 S.Sp.B2.Bp. va for ca.
 2 B.B1. sūvakā; B2.Bp. suvakā.
 3 S.Sp.B2.Bp. mūsikā.
 4 S.Sp.B2. nitthūsakaṇe; B. nithūsakaṇaṃ; B1. nidhūsakaṃ.
-5 B.B1. nāhoti. 
+5 B.B1. nāhoti.
 6 S.B.B1.B2. -sālāsu.
-7 S.Sp.karavīka-. 
+7 S.Sp.karavīka-.
 8 S.B.B2. vikujantā-.
-9 B. sampannāgato. 
+9 B. sampannāgato.
 10 B.Bp. Kāḷaṃ.
 11 S.Sp.omit nāma.
 12 S.Sp.add ca.
-13 B2.Bp. nāṭakitthisahas-. 
+13 B2.Bp. nāṭakitthisahas-.
 14 B2. parikkhīpitvā.
-15 B2. ābādhaṃ. 
+15 B2. ābādhaṃ.
 16 B.B1.Bp. -sarira-; B2. -sarīra-.
 17 S. -parimaṇḍita-; Sp. paṭimaṇḍita-; B.Bp. -āsītānuvyañjanapa-
      ṭimaṇḍita-; B1.B2. -āsītānuvyañjanapaṭimaṇḍitaṃ.
@@ -2277,16 +2276,16 @@ chantū 'ti vatvā āgatāgate āha: attano attano patirūpe[^044-18] āsane
      dabyāma-; B1. -bhedavicitravaṇṇaraṃsivinandhabyāma-.
 2 S.Sp.Bp. sañjhā-; B.B2. sañcyā-; B1. sañcā-.
 3 S. -mālāya samujjalita-.
-4 B.B1.B2.Bp. -rasāyatanaṃ. 
+4 B.B1.B2.Bp. -rasāyatanaṃ.
 5 S.B1.B2. add pi.
 6 B. sīhamañcare; B1. sīhapañcare.
 7 S1.(D). bhuñjamāno asaṃnindriye;  Sp. bhuñjamāne asaṃyatin-
-     driye.    
+     driye.  
 8 B.B1. dānañ ca.
 9 Old. amacce āgacchatha by mistake.
-10 S.Sp.bhane. 
+10 S.Sp.bhane.
 11 B. -samate; B1. -sampate.
-12 B.B1.B2. -brahmaṇe. 
+12 B.B1.B2. -brahmaṇe.
 13 Sp. abhiharatha.
 14 B.B1.B2.Bp. paṭissuṇitvā.
 15 Sp.B.B1.Bp. -jīvakanigaṇṭhā-; B2. -jīvakanigandhā-.
@@ -2333,11 +2332,11 @@ vasi.
      khādanīyabhojanīyaṃ.
 5 S.Sp.B2.Bp. add rājā.
 6 B. -mañcare; B1.B2. pañcare.
-7 Sp.B2.Bp. Nigrodha-. 
+7 Sp.B2.Bp. Nigrodha-.
 8 B1. sanvutindriyaṃ.
-9 S. Sumaṇa-, sic passim. 
+9 S. Sumaṇa-, sic passim.
 10 S.Sp.ānupubbikathā.
-11 S.S1.(D).Sp. āgantvāna. 
+11 S.S1.(D).Sp. āgantvāna.
 12 B2.Bp. sabbanagaraṃ.
 13 S.Sp.Sumanaṃ nāma kum-; B.B1.Bp. Sumanarājakum-.
 14 B.B1.B2.Bp.  simply devī.  15 B. aññatrarasmiṃ.
@@ -2381,16 +2380,16 @@ pemaṃ saṇṭhahi.[^046-16]
 kasmā. pubbe pi[^046-17] kira puññakaraṇakāle esa rañño jeṭṭha-
 bhātā[^046-18] vāṇijako[^046-19] ahosi. vuttam pi c' etaṃ[^046-20]:
 --------------------------------------------------------------------------
-1 S.Spḍisvā disvā and omit tattha; B.B2.Bp. disvā rakkhitvā 
+1 S.Spḍisvā disvā and omit tattha; B.B2.Bp. disvā rakkhitvā
      tattha.
 2 B.B1.B2.Bp. jaggitvā.
-3 B2. mātuyā. 
+3 B2. mātuyā.
 4 B.B1.B2.Bp. nivāsana-.
 5 S.Sp.B.B1.B2.Bp. nagaraṃ.
 6 B. sīhamañcare; B1.B2. sīhapañcare, sic passim.
 7 B.B1.B2.Bp. taṅkhaṇañ ñeva.
-8 Bp. adds rājā. 
-9 B.B1.B2.Bp. Nigrodha-. 
+8 Bp. adds rājā.
+9 B.B1.B2.Bp. Nigrodha-.
 10  B2 sandriyaṃ-
 11 See above, p. 45, line 6.
 12 B. disvāna pan' assa.
@@ -2439,7 +2438,7 @@ ayaṃ tāta upajjhāyo nāmā 'ti. vajjāvajjaṃ disvā codetā
 sāretā[^047-14] mahārājā 'ti. aññāni pi te tāta[^047-15] aṭṭha dammīti.
 --------------------------------------------------------------------------
 1 B. upalaṃ.
-2 S1.(D).B.B1.B2.Bp. sambahumāno. 
+2 S1.(D).B.B1.B2.Bp. sambahumāno.
 3 B.B1.B2.Bp. eva.
 4 Bp. pattaggahaṇa-.
 5 B.B1.B2.Bp. yeva.
@@ -2451,7 +2450,7 @@ sāretā[^047-14] mahārājā 'ti. aññāni pi te tāta[^047-15] aṭṭha damm
 11 Dhammapada ii, 1 (21).
 12 B.B1.B2.Bp. add ca.
 13 S.Sp.B2.Bp. dhurabhattāni; B. dhūvabhattāni; B1. dhūvabhat-
-     tāni. 
+     tāni.
 14 B.B1.Bp. sāretā ca; B2. ca sāretā ca.
 15 B2.sādhu tāta aññāni pi te.
 
@@ -2492,21 +2491,21 @@ aṅgato mahārāja navaṅgāni,[^048-11] khandhato[^048-12] caturāsīti-
 dhammakkhandhasahassānīti. rājā dhamme pasīditvā[^048-13] eka-
 mekaṃ[^048-14] dhammakkhandhaṃ ekekavihārena pūjessāmīti,[^048-15]
 --------------------------------------------------------------------------
-1 S.Sp.bhīyyoso-. 
+1 S.Sp.bhīyyoso-.
 2 B.B1.B2. tāta for rājā.
 3 S.Sp.yeva.
 4 Bp. ev' upāyena.
 5 B.B1.B2.Bp. kāretvā.
 6 S.Sp.B.B1.B2.Bp. nagara-.
 7 S.Spḥave -saṅkhassa; B.B1.Bp. omit  saṅkhassa and go on with
-     the next. 
+     the next.
 8 S.Sp.catuhi.
 9 S1.(D). idaṃ.
 10 B2. desito dhammo.
 11 S.Spṇava aṅgāni; S1.(D).; nava ca aṅgāni.
 12 B.B2. dhammakhandhato.
 13 B. passiditvā.
-14 B.B1.B2.Bp. ekekaṃ. 
+14 B.B1.B2.Bp. ekekaṃ.
 15 B2. pūjissāmīti.
 
 
@@ -2545,7 +2544,7 @@ ativiya buddhasāsane pasīdeyyā 'ti.
 --------------------------------------------------------------------------
 1 B2. visajjitvā.
 2 S. ānāpesi.
-3 Sp. bhane. 
+3 Sp. bhane.
 4 B2. kārāpento.
 5 S.Sp.B.B1.B2.Bp. nagara-.
 6 S.Spṃahiddhiyaṃ.
@@ -2597,12 +2596,12 @@ carahi bhante sāsanassa dāyādo hotīti. yo hi[^050-16] koci mahārāja
 --------------------------------------------------------------------------
 1 Sp. paṭihāriyaṃ; S1.(D). pāṭihāriṃ; B.B1. pāṭihāraṃ.
 2 B. catūrāsīti ca; B1. caturāsiti ca; B2.Bp. caturāsīti ca.
-3 S.Sp.B2. omit passati. 
+3 S.Sp.B2. omit passati.
 4 S.B. -mahāpūjāya.
 5 S.Sp.omit loka.
 6 S.Sp.B2. omit pi.
 7 S.Sp.B.B1.B2.Bp. omit iti.  8 B2. Mahindakumārassa.
-9 B.B1.B2.Bp. vuḍḍhi. 
+9 B.B1.B2.Bp. vuḍḍhi.
 10 S.Sp.B.B1.B2.Bp. ettāvatā sāsanassa.
 11 S.Sp.B.B2.Bp. upaṭṭhāko.
 12 B.Bp. saṃkhyaṃ.
@@ -2648,25 +2647,25 @@ bhidāhi arahattaṃ pāpuṇi. Saṃghamittāya pi rājadhītāya
 therī[^051-21] nāma ahosi.
 --------------------------------------------------------------------------
 1 S.Spḍaḷiddo.
-2 B2. dhammarājā. 
+2 B2. dhammarājā.
 3 S.Sp.patto 'siṃ.
 4 B1. oloketvā.
 5 S.Sp.B. Mahindaṃ kuṃāraṃ.
 6 B.B1p. disvān' assa.
 7 B.B1.B2. uparajje.
-8 S.Sp.patiṭṭhapetu-; B.B1.B2.Bp. ṭhapetu-. 
+8 S.Sp.patiṭṭhapetu-; B.B1.B2.Bp. ṭhapetu-.
 9 B2.Bp. sakkhasi.
-10 B.B1.B2.Bp. omit pana. 
+10 B.B1.B2.Bp. omit pana.
 11 Sp.B.B1.B2.Bp. pāmojjajāto.
 12 B2. sāsanassa dāyādā; Bp. sāsanadāyādā.
-13 S. ṭhāṇe. 
-14 S. ṭhito. 
+13 S. ṭhāṇe.
+14 S. ṭhito.
 15 B2. yuvarājena.
 16 B2.Bp. sakkhasīti.
 17 B2. Mahāreva-.
 18 S.Sp.B. pabbajjāpesi.
 19 S.Sp.upasampadamaṇḍale; B.B1.B2.Bp. upasampadasīmamaṇḍale.
-20 S. Āyupāḷi-; B. Āyupālī-. 
+20 S. Āyupāḷi-; B. Āyupālī-.
 21 S. -pāḷi-.
 
 
@@ -2704,7 +2703,7 @@ paccayatthāya upanīyati,[^052-14] saṃghassa satasahassaṃ, catusu
 dvāresu bhesajjatthāya[^052-15] satasahassaṃ. evaṃ sāsane uḷāro
 --------------------------------------------------------------------------
 1 S.Sp.B.B1.Bp. vassā.
-2 S.B.B1.B2. sīmamaṇḍale. 
+2 S.B.B1.B2. sīmamaṇḍale.
 3 Sp. ubhiṇṇaṃ.
 4 B. tipiṭakaṃ saṅgahitaṃ; B1.B2.Bp. tipiṭakasaṅgahitaṃ.
 5 S.Sp.B2.Bp. sāṭṭhaka-; B.B1. sāṭṭhaka-.
@@ -2712,7 +2711,7 @@ dvāresu bhesajjatthāya[^052-15] satasahassaṃ. evaṃ sāsane uḷāro
 7 S.Sp.B1.B2.Bp.  Kontaputtatissatthero.
 8 S.Sp.omit āhiṇḍanto; B.B1. āhindanto.
 9 B2. ovāditvā.
-10 B.B2.Bp. catūsu. 
+10 B.B2.Bp. catūsu.
 11 S.B.B1. kāretvā.
 12 Sp. Pāṭaḷiputtassa; B. Pātaliputtassa.
 13 S.Sp.B.B1.B2. sabhāyaṃ as Oldenberg supposed. S1.(D). sahāyaṃ.
@@ -2754,11 +2753,11 @@ hanto aññe amacce upasaṃkamitvā āha: rājā maṃ vihāraṃ
 gantvā adhikaraṇaṃ vūpasametvā[^053-13] uposathaṃ kārāpehīti
 pahiṇi. kathan nu kho adhikaraṇaṃ vūpasamatīti.[^053-14] te
 --------------------------------------------------------------------------
-1 S1.(D). alabbhamānā pi. 
+1 S1.(D). alabbhamānā pi.
 2 Sp. omits vatthāni.
 3 B2. cīrass'.
 4 B.B2.Bp. kakkhaḷaṃ.
-5 S.Sp.vupasametun. 
+5 S.Sp.vupasametun.
 6 Sp. nīyādetvā.
 7 S.Sp.B.Bp. attanā.
 8 B2. phāsuvihārena.
@@ -2807,9 +2806,9 @@ bhayena devā 'ti. are tvaṃ nāma paricchinnamaraṇaṃ
 2 B.B1.B2.Bp. evaṃ eva.
 3 Bp. māretu-.
 4 B2 adds kho.
-5 B1.B2. omit  āha. 
+5 B1.B2. omit  āha.
 6 B. omits ahaṃ.
-7 S. rañño. 
+7 S. rañño.
 8 S. āhaṃsuṃ.
 9 B2.Bp. atha amacco.
 10 Sp. Bp.  cittakīḷāya kīḷ-; B. cittāya kiḷitāya kiḷ-; B1.=B. except
@@ -2916,13 +2915,13 @@ samattho ti. atthi mahārāja Moggaliputtatissatthero nāma,
 3 S. taṃ taṃ.
 4 S.Sp.B.B2.Bp. anupabbajito uḷāra-.
 5 S.Sp.B.B2.Bp. khattiyajanena; B1. khattiyajananena.
-     Sp. viññeyyā. 
+     Sp. viññeyyā.
 7 Bp. mārāpetuṃ.
 8 S.B.B1.B2.Bp. -gahitaṃ.
 9 B.Bp. tassāsanne.
 10 B2. pātesi.
 11 S.Sp.Bp. eva sarīre and omit assa.
-12 B2 pesemi. 
+12 B2 pesemi.
 13 S. dvelhaka-.
 14 S. dvelhakaṃ.
 
@@ -2964,17 +2963,17 @@ anuppatto ti cammakhaṇḍaṃ gaṇhitvā 'va uṭṭhahi. atha'
 3 S.B.B1.Bp. -parivāre theraṃ.
 4 B2. adds bhante.
 5 S.Sp.B.Bp. nāgacchi; B1.B2. na āgacchi.
-6 S. inserts āgaṇhitvā after 'va; B. omits 'va. 
-7 S.Sp.B.B2.Bp. nāgacchi; B1. na āgacchi. 
+6 S. inserts āgaṇhitvā after 'va; B. omits 'va.
+7 S.Sp.B.B2.Bp. nāgacchi; B1. na āgacchi.
 8 B2. pahiṇi.
 9 S. nāgacchatī; Sp.B2. nāgacchati.
 10 B.B2.Bp. paggahatthāya; B1. paggahanatthāya.
 11 S. solasa.
 12 s.Sp. abhiruhissati.
 13 S.Spṇābhiruhissati; S1.(D). nābhiruhissatīti.
-14 S.Sp.bhane. 
+14 S.Sp.bhane.
 15 B.B1.B2.Bp. tattheva.
-16 S.Sp.B.B1.B2.Bp. pi for ca. 
+16 S.Sp.B.B1.B2.Bp. pi for ca.
 17 Sp. anethāti by mistake.
 18 S.Sp.B.B2.Bp. sutvā yaṃ.
 19 S.Sp.omit 'mhi.
@@ -3026,17 +3025,17 @@ kampanaṃ[^058-15] dukkaran ti. tena hi bhante padesapaṭhavi[^058-16]
 5 B2. kosato.
 6 S1.(D). abbāyiṃsu; B. abāhiṃsu; B1. abbhāhiṃsu.
 7 S1.(D). so.
-8 B2.Bp. gaṇhati. 
+8 B2.Bp. gaṇhati.
 9 Sp.Bp. viraddhakāraṇā;B. viruddhakāraṇaṃ.
 10 S.Sp.B.B1.B2.Bp. assādaṃ.
 11 B2. virujjhitthā.
 12 S.Sp.omit telena.
 13 S.Sp.omit therassa.
 14 Sp. katamaṃ.
-15 B.B1.B2. pathavī; Bp. pathavi-. 
+15 B.B1.B2. pathavī; Bp. pathavi-.
 16 B.B1.B2.Bp. pathavī-.
-17 B2. adds  udāhu. 
-18 S.Sp.omit udāhu. 
+17 B2. adds  udāhu.
+18 S.Sp.omit udāhu.
 19 S.Sp.omit kho.
 
 
@@ -3075,14 +3074,14 @@ yitvā[^059-21] kammaṃ karoti kāyena vācā[^059-22] manasā 'ti. tam eva
 2 S.Sp.Bp. have only one  yojane.
 3 B2. pūratthi-.
 4 S. padehi; B1. dvehi pādehi.
-5 Bp. disāyā. 
+5 Bp. disāyā.
 6 B.B1.B2.Bp. udakapāti.
 7 S.B.B2.Bp. tato vuṭṭhāya; Sp. tato uṭṭhāya.
 8 S1.(D). rājānaṃ.
 9 B.B1.B2.Bp. yojanappamāṇapathavīcalanaṃ.
 10 B.B1.Bp. puratthimadisāya; B2. pūratthi-.
 11 S.Sp.ṭhito 'va pādo cali; B.B2.Bp. ṭhito pādo 'va cali.
-12 S.Sp.Bp. yeva. 
+12 S.Sp.Bp. yeva.
 13 B1.B2.Bp. uttara-disāya.
 14 S.Sp.Bp. ṭhitaupaḍḍhabhāgagatam eva.
 15 B.B2.Bp. sakkhati.
@@ -3091,7 +3090,7 @@ yitvā[^059-21] kammaṃ karoti kāyena vācā[^059-22] manasā 'ti. tam eva
 18 B2. pahini.
 19 S1.(D). paṇete.
 20 Bp. adds  ti.
-21 B1. cetetvā. 
+21 B1. cetetvā.
 22 B.B1.B2.Bp. vācāya.
 
 
@@ -3156,12 +3155,12 @@ ettāvatā ca kenābhatan ti etassa pañhassa vissajjanatthaṃ
 yad[^061-17] avocumha[^061-18]: Jambudīpe tāva Upālittheraṃ ādiṃ katvā
 --------------------------------------------------------------------------
 1 S. nevasaññīnāsaññivādā; Sp. adds  --pe-- ; B. nevasaññināsañ-
-     ñivādā. 
+     ñivādā.
 2 Sp. adds  --pe-- .
 3 Sp.B.B2.Bp. diṭṭhadhammanibbānavādā  diṭṭhadhammanibbāna-
      vādīti, but Sp. -nibbāṇa-; B. diṭṭhā-  for diṭṭha-.
-4 Sp. uggahītattā. 
-5 B.B1.B2.Bp. yime. 
+4 Sp. uggahītattā.
+5 B.B1.B2.Bp. yime.
 6 S.Sp.omit vatthāni.
 7 S.Sp.Bp. uppabbājesi; B.B1.B2. upabbājesi.
 8 B. omits pi.
@@ -3169,11 +3168,11 @@ yad[^061-17] avocumha[^061-18]: Jambudīpe tāva Upālittheraṃ ādiṃ katvā
 10 S.Sp.B.B1.B2.Bp. nagaraṃ.
 11 Sp.B.B1.B2. saṃkhāsu; Bp. saṃkhyāsu.
 12 S. -dharāṇaṃ.
-13 S.Sp.omit Kākaṇḍakaputto. 
+13 S.Sp.omit Kākaṇḍakaputto.
 14 S.Sp.evam evaṃ.
 15 B.B1.B2.Bp. pathavī.
 16 S. sāhassikā.
-17 Bp. yaṃ avocumha. 
+17 Bp. yaṃ avocumha.
 18 B2. avocumhā.
 
 
@@ -3207,9 +3206,9 @@ Nāgatthero ca Buddharakkhito,]
      punar eva[^062-18] Sumano medhāvī vinaye ca visārado,
      bahussuto Cūlanāgo[^062-21] gajo 'va duppadhaṃsiyo.
 --------------------------------------------------------------------------
-1 Sp.B2.Bp. Soṇako. 
+1 Sp.B2.Bp. Soṇako.
 2 S1.(D). -siruvhaye; B1.B2. sīrivhaye.
-3 S. acchijjamāṇaṃ. 
+3 S. acchijjamāṇaṃ.
 4 B2. omits ettāvatā.
 5 S.Sp.B.B1.Bp. add 'va before hoti.
 6 S. saṃgato by mistake.
@@ -3221,7 +3220,7 @@ Nāgatthero ca Buddharakkhito,]
 12 S. c' eva sambalo Bhadda-; B2. Sampalo tathā Bhadda-.
 13 S. sattam eva.
 14 S.Sp.B.B2.Bp. pakaraṇe.
-15 S.Spṃedhāvi, sic passim. 
+15 S.Spṃedhāvi, sic passim.
 16 B.B2.Bp. Kāḷasumano.
 17 S. Dīghanāgo ca.
 18 B.B1.B2.Bp. punad eva.
@@ -3275,7 +3274,7 @@ Mahisakamaṇḍalaṃ[^063-15] pesesi, Rakkhitattheraṃ Vanavāsiṃ,
 9 S.Sp.B.B1.B2.Bp. Cūḷābhayo.
 10 S.Sp.B.B1.B2.Bp. Cūḷadevo.
 11 S.Sp.B.B1.B2.Bp. Sivatthero.
-12 S. ānupubbikathā; Sp. ānupubbīkathā. 
+12 S. ānupubbikathā; Sp. ānupubbīkathā.
 13 S. bhaveyyan ti.
 14 B.B1.B2.Bp. Mahāreva-.
 15 S.Sp.B.B1.Bp. Mahiṃsaka-.
@@ -3318,17 +3317,17 @@ lanti, bhinnaṃ[^064-18] viya gaganaṃ[^064-19] udakaṃ paggharati, bhayā-
 4 B2. Sampala-.
 5 B2. Kasmiṃra-.
 6 S.Sp.B.B1.B2.Bp. Aravāḷo, sic passim.
-7 S. karakavassa nāma. 
+7 S. karakavassa nāma.
 8 B.B1.B2.Bp. omit vassaṃ.
 9 S.Sp.B1.B2.Bp. pāpeti.
 10 S.Sp.Bp. add  pana.
 11 Sp. Pāṭaḷiputtato.
 12 S. nāgamānavikā; S1.(D). nāṅgamanavikā; Sp. nāgamāṇavikā;
-     B.B1.B2.Bp. nāgamāṇavakā. 
+     B.B1.B2.Bp. nāgamāṇavakā.
 13 B.B1.B2.Bp. taṃ disvā.
 14 S.Sp.B.B1.B2.Bp. nāgarāja-, sic passim.
 15 S.B.B1.Bp. bhusā vātā; B2. bhūsā vātā.
-16 Bp. chijjanti. 
+16 Bp. chijjanti.
 17 B.B1.B2.Bp. vijjulatā.
 18 Sp. bhiṇṇaṃ.
 19 B. gaganaṃ  corrected to  gaganatalaṃ; B1.B2. gagaṇaṃ; Bp. ga-
@@ -3371,21 +3370,21 @@ evaṃ āha:
 2 S.B.B2. santajjeti; B1. santejjeti.
 3 B.B1.B2.Bp. hanatha.
 4 Sp. nāgabaḷaṃ.
-5 Sp.B2. vibhiṃsanakaṃ; B. bhisanakaṃ. 
+5 Sp.B2. vibhiṃsanakaṃ; B. bhisanakaṃ.
 6 S. paṭibāhetvā.
 7 S. tāsaye va maṃ; Sp. tāsaye mamaṃ; S1.(D). tāsaye mamā.
-8 S. saṃpabbataṃ. 
+8 S. saṃpabbataṃ.
 9 B2. ukkhīpitvā.
 10 B2. khīpeyyāsi.
 11 S.Sp.B.B1.B2.Bp. tavev' assa.
-12 B2. -dhippā. 
+12 B2. -dhippā.
 13 S.Sp. vigatānubhāvo.
 14 Sp. puts ca after tīsu; B.B1.B1.Bp. omit this ca.
 15 B.B1.B2.Bp. gandhabbā ca kumbhaṇḍā ca.
 16 S. puttasahasatehi; Ch. has Harītī  for bhariyā.
-17 Sp. B2. athāyasmā. 
+17 Sp. B2. athāyasmā.
 18 S. sahassaghātañ ca.
-     I                        
+     I  
 5
 
 
@@ -3428,12 +3427,12 @@ sāne pana[^066-22] saṭṭhisahassānaṃ dhammābhisamayo ahosi,
 8 S.therā.
 9 Bp.Āsīvisopama-; B2.-suttaṃ. S.iv,172.
 10 S.pāna.-
-11 B2. adds ca. 
+11 B2. adds ca.
 12 Sp. ppabhuti ; B.B1.B2.pabhūti.
 13 B.B1.B2.Bp.yāv' ajjatanā.
 14 Sp.Bp.-paṭivātā.
 15 S.Sp.S1.(D).raṭṭhaṃ ; Bḍuṭṭha-nāgaṃ ; B1.B2.Bp. duṭṭhaṃ nāgaṃ.
-16 B.B1.B2.BpṂahāreva-. 
+16 B.B1.B2.BpṂahāreva-.
 17 M.iii,178 ; A.i,138.
 18 S.Sp.B.Bp. Mahiṃsaṃ.
 19 B.B1.B2.BpṂahārevo.
@@ -3531,12 +3530,12 @@ diguṇe[^068-16] attabhāve nimminitvā tehi attabhāvehi taṃ rakkha-
 7 S. Sonatthero; Sp.B.B1.B2.Bp. Soṇatthero.
 8 Sp. āyudhāni.
 9 S.Sp.B.B1.Bp. paharitukāmā.; B2. paharitukāmo.
-10 B.B1.B2.Bp. āgacchanti. 
+10 B.B1.B2.Bp. āgacchanti.
 11 Sp. āyudha-.
 12 S.Sp.rakkhasasahāyakā; B1. rakkhasāsanaṃ sahāyakā.
 13 S.Sp.rakkhasi.
 14 Sp. agacchatīti.
-15B2. bhitā.    
+15B2. bhitā.  
 16 Sp.B.B1. dviguṇe.
 
 
@@ -3626,19 +3625,19 @@ no ti[^070-18] mantayiṃsu. tenāhu porāṇā:
 2 B.B1.S1.(D). atikkamesi.
 3 B2. nivāsana-.
 4 Sp. Veṭīsa-; Bp. Veṭisa-, sic passim.
-5 S1.(D).Sp. omit nāma. 
+5 S1.(D).Sp. omit nāma.
 6 See note 4.
 7 B.B2. Vedisaseṭṭhissa; Bp. Veṭisaseṭṭhissa.
 8 B. athāpubbena; B2.Bp. athānupubbena.
 9 B2. nivāsana-.
 10 S.B.B1.B2.Bp. pādesu.
-11 B2. sīrasā. 
+11 B2. sīrasā.
 12 Sp.B2.Bp. attanā.
 13 Old. pitaro.
 14 S. chaṇatthanagarato.
 15 Sp. abhiruhatu.
 16 S.Sp.B.B2.Bp. vāsaṃ kappesi.
-17 S. -dīpagamanāya. 
+17 S. -dīpagamanāya.
 18 S. ṇo ti.
 19 S.Sp.B2.Bp. ahu.
 20 S.Sp.Iṭṭhiyo; B.B1.B2.Bp. Iṭṭiyo.
@@ -3674,11 +3673,11 @@ pi sañjānanti. tenāhu porāṇā:
      purato puraseṭṭhassa pabbate meghasannibhe
      patiṭṭhahiṃsu[^071-20] kūṭamhi[^071-21] haṃsā va nagamuddhanīti.
 --------------------------------------------------------------------------
-1 B2. chaḷā-. 
+1 B2. chaḷā-.
 2 B.B1.B2.Bp. iti h' ete.
 3 B.B1.B2.Bp. kālaṃ kato.
 4 B. Muṭṭasiva-; B2. Muṭṭhasiva-; Bp. Muṭasiva-.
-5 Sp. karoti; B2. kāresi. 
+5 Sp. karoti; B2. kāresi.
 6 B.B1.B2.Bp. v' oloketvā.
 7 B2. pi 'ssa.
 8 S.Sp.omit ca.
@@ -3689,7 +3688,7 @@ pi sañjānanti. tenāhu porāṇā:
 13 Sp. Veṭīsa-; Bp. Veṭisa-.
 14 Dīpavaṃsa xii, 35, ramme.
 15 B.B1.B2.Bp. kālo va.
-16 Sp. gamaṇa-. 
+16 Sp. gamaṇa-.
 17 Sp.B2.Bp. gacchāma.
 18 S. phalina; S1.(D).Sp.Bp. phalinā; B.B1. paḷhinā; B2. paḷinā.
 19 B2. -dīpato.
@@ -3727,24 +3726,24 @@ sattarasame vasse idha[^072-18] Muṭasīvarājā[^072-19] kālam akāsi, Devā-
 naṃpiyatisso rajjaṃ pāpuṇi. [^072-20]parinibbute ca pana sam-
 buddhe[^072-20] Ajātasattu catuvīsativassāni rajjaṃ kāresi, Udaya-
 --------------------------------------------------------------------------
-1 See p. 70, note 20. 
+1 See p. 70, note 20.
 2 Sp. dviṇṇaṃ, sic passim.
-3 S.Sp.B.B1.B2.Bp. veditabbo. 
+3 S.Sp.B.B1.B2.Bp. veditabbo.
 4 B.B2. add idha.
-5 B.B1.Bp. manussāvāsaṃ. 
+5 B.B1.Bp. manussāvāsaṃ.
 6 Sp. -bhaddassa.
 7 S1.(D). tiṭṭha.
 8 S.Sp.B.B1.B2.Bp. Paṇḍuvāsudevo, so the Chinese.
 9 S.Sp.B.B2.Bp. Nāgadāsaka-.
 10 Sp.B.B1.B2.Bp. -vāsudevo.
-11 S.Sp.B.B1.B2.Bp. Ch. omit tiṃsavassāni rajjaṃ kāretvā. 
+11 S.Sp.B.B1.B2.Bp. Ch. omit tiṃsavassāni rajjaṃ kāretvā.
 12 S.Sp.B.B1. add yeva; B2.Bp. add yeva ca.
 13 S.Sp.omit rājakumāro.
 14 B.B1.B2.Bp. vīsati.
 15 B2.Bp. Kāḷāsokassa.
 16 S.Sp.B2. Pakuṇḍakassa.
 17 B.B1.Bp. Muṭasiva-; B2. Muṭṭasiva-.
-18 S. omits idha. 
+18 S. omits idha.
 19 See note 17.
 20-20 B. parinibbūte ca sammāsambuddhe; B1. parinibbhūte ca sam-
      buddhe; B2. parinibbute ca sambuddhe; Bp. parinibbute ca sammā-
@@ -3785,7 +3784,7 @@ sutvā cintesi: imasmiṃ dīpe jāto man Tissā[^073-22] 'ti nāmaṃ ga-
 1 Sp. -bhaddo and omits ca.
 2 S.Sp.B.B1.B2.Bp. aṭṭha; so also the Chinese; B2. aṭha, sic passim.
 3 S.Sp.B.B2.Bp. Nāgadāsako; B1. Nāgadasako.
-4 B. Kālāsoko; B2.Bp. Kāḷāsoko. 
+4 B. Kālāsoko; B2.Bp. Kāḷāsoko.
 5 B. Kālāsokassa.
 6 S.Sp.B2.Bp. puttakā.
 7 B2. pacchito.
@@ -3794,13 +3793,13 @@ sutvā cintesi: imasmiṃ dīpe jāto man Tissā[^073-22] 'ti nāmaṃ ga-
 10 B.B1. -vassāne.
 11 B. rajjaṃ kāresi.
 12 B2. patiṭhito.
-13 B.B1. ev' etaṃ; S.Sp.B2.Bp. etam. 
+13 B.B1. ev' etaṃ; S.Sp.B2.Bp. etam.
 14 B2. patiṭhahīti.
-15 S.Sp.B.B1.B2.Bp. omit this nakkhattaṃ. 
+15 S.Sp.B.B1.B2.Bp. omit this nakkhattaṃ.
 16 S. amacce 'va; Sp.B2.Bp. amacce ca.
 17 S. ānāpetvā.
 18 S. kīlitukāmo; B.B1.B2. kiḷitukāmo.
-19 S.B. khādamāno. 
+19 S.B. khādamāno.
 20 B.B1.B2.Bp. taṃ disvā.
 21 Sp. jīyaṃ.
 22 B.B2. Tissa Tissā 'ti.
@@ -3846,11 +3845,11 @@ vuttam pi c' etaṃ Dīpavaṃse[^074-13]:
 9 S. jīvaṃjīvakādayo.
 10 B.B1. nānāppa-.
 11 S.Sp.pakkhigaṇāni sajīvāni; B.B2.Bp. ca catuppadāni.
-12 B. sajīvā viya. 
+12 B. sajīvā viya.
 13 Dīp. xi, 15.
-14 Sp.Bp. -yaṭṭhī, sic passim. 
+14 Sp.Bp. -yaṭṭhī, sic passim.
 15 B. veḷuyaṭṭhī tisso ahuṃ.
-16 S.B.B1.Bp. -yaṭṭhīva. 
+16 S.B.B1.Bp. -yaṭṭhīva.
 17 S1.(D). yaṃdisaṃ.
 18 B. pubbaṃ; B1. omits pupphaṃ.  19 B. puppaya-.
 
@@ -3887,21 +3886,21 @@ tam pi c' etaṃ Dīpavaṃse[^075-21]:
 5 S.Sp.B.Bp. so tā ca; B2. so tisso tā ca.
 6 B.B1.B2.Bp. muttā.
 7 B2. bahuratanaṃ.
-8B1. one folio is missing. 
+8B1. one folio is missing.
 9 S. satta by mistake  10 S. pahīṇi; B. pahiṇiṃ.
-11 B. jāmira (ṃ)-; B2. cāmari-. 
+11 B. jāmira (ṃ)-; B2. cāmari-.
 12 B2.Bp. moḷiṃ.
-13 S.Sp.B.B2.Bp. ratanapādukaṃ. 
+13 S.Sp.B.B2.Bp. ratanapādukaṃ.
 14 B2.Bp. seyyath' idaṃ.
 15 B. viṭaṃsakaṃ (B1. a leaf missing).
-16 B2.Bp.  bhiṅgāraṃ. 
+16 B2.Bp.  bhiṅgāraṃ.
 17 B.B2. katacchukaṃ.
 18 S.B2. puñjanaṃ; B. pucchanaṃ.
 19 B. añcanaṃ.
 20 S.Sp.Bp. harīṭaṃ; B2. harīṭukaṃ.
 21 Dīp. xii, 1-6; xvii, 83.
 22 Sp.B2.Bp. vāḷavījani; B. vālavījaniṃ.
-23 B2. veṭṭhanaṃ. 
+23 B2. veṭṭhanaṃ.
 24 B. vaṭaṃsaṃkañ ca.
 25 B.B2.Bp. adhovimaṃ.
 26 S. sovaṇṇapāṇiṃ kaṭacchuṃ; Sp.Bp.-pātiṃ katacchuṃ.
@@ -3941,19 +3940,19 @@ thero itare pi cha jane dassesi. rājā disvā, ime kadā āgatā ti
 --------------------------------------------------------------------------
 1 S.S1.(D). aruṇavatimattikañ ca; Sp. aruṇavatī-; B2. omits ca; so
      Dīp. xii, 3.
-2 B. añcanaṃ. 
+2 B. añcanaṃ.
 3 B.B2. hariṭakaṃ; Sp.Bp. harītakaṃ.
 4 B. amatosataṃ.
 5 Asokavhayo.
 6 B. idaṃ for ca etaṃ; B2.Bp. c' etaṃ.
 7 B. desemi; B2. desesi; Bp. desesiṃ.
-8 S.Sp.uttamesu. 
+8 S.Sp.uttamesu.
 9 S.Spṇaruttama.
-10 S.Sp.B.B2. upehīti. 
+10 S.Sp.B.B2. upehīti.
 11 Sp.B2.Bp. Asokaraññā.
 12 S.Sp.B.B2.Bp. ekamāsābhisitt
 13 B. Visākhāpuṇṇamāyaṃ.; B2.Bp. Visākhapuṇṇamāyaṃ.
-14 Bp. -ppavattiṃ. 
+14 Bp. -ppavattiṃ.
 15 B2. nikkhīpitvā.
 16 S. sammodanīyakathaṃ; B. samodaniyaṃ kathaṃ.
 17 Dīp. xii, 52.
@@ -3996,15 +3995,15 @@ tālīsāya[^077-20] pāṇasahassehi. taṃ khaṇañ ñeva[^077-21] rañño bh
 2 Sp.B2.Bp. -paṭivāto.
 3 B2.Bp. cetopariyakovidā.
 4 S.Sp.B.B2.Bp. arahanto.
-5 S.Sp.bahu. 
-6 S. udanena. 
+5 S.Sp.bahu.
+6 S. udanena.
 7 S1.(D). raññā.
 8 S.Sp.B2.Bp. paññāveyyattiyan ti.
 9 S. vīmaṃnatthāya by mistake.
 10 S.Sp.B.B2.Bp. āsannaṃ.  Mhvs. xiv, 16-23: M. i, 175 f.
-11 S1.(D). ambarukkho ti. 
+11 S1.(D). ambarukkho ti.
 12 B. idaṃ.
-13 S.Sp.B. aññe ambā. 
+13 S.Sp.B. aññe ambā.
 14 S.B. paṇḍito 'sīti.
 15 B.B2.Bp. omit me.
 16 B2. atthi.
@@ -4050,20 +4049,20 @@ pātaṃ disvā Samacittasuttantaṃ[^078-18] kathesi, kathāpariyosāne
 asaṃkheyyānaṃ[^078-19] devatānaṃ dhammābhisamayo ahosi, bahū
 --------------------------------------------------------------------------
 1 B.B2.Bp. rājā ca suttantaṃ.
-2 B.B2.Bp. eva  for yeva evaṃ. 
+2 B.B2.Bp. eva  for yeva evaṃ.
 3 S.Sp.B.B2.Bp. apucchitvā.
 4 B. anuṇuggamanato; S. arunuggamanato; Sp. aruṇuggamaṇato.
 5 B2. paṭhāya.
 6 Bp. majjhanhikasamayā; S1.(D). majjhantikasamaya.
-7 B. rataṃ. 
+7 B. rataṃ.
 8 Sp.Bp. -yyāthā 'ti.
-9 Bp. pakkami. 
+9 Bp. pakkami.
 10 B2. acīra-.
 11 S.B. sakala-.
 12 S. dhammasavanakālaṃ.
 13 S. naṃ.
 14 S.Sp.B1.B2.Bp. omit pi.
-15 B2. bhūmā. 
+15 B2. bhūmā.
 16 S.B1.B2.Bp. abbhuggacchi.
 17 S.Sp.B.B1.B2.Bp. omit ca.
 18 A. i, 61 f.
@@ -4104,18 +4103,18 @@ pathaṃ agamāsi. amaccā paṭhaviyaṃ taddhikaṃ[^079-18] paññā-
 petvā upari kojavakādīni[^079-19] vicitrattharaṇāni[^079-20] paññāpesuṃ.
 uppādapāṭhakā[^079-21] disvā, gahitā[^079-22] dāni imehi paṭhavī,[^079-23] ime
 --------------------------------------------------------------------------
-1 B.B1.B2.Bp. yādiso'va. 
+1 B.B1.B2.Bp. yādiso'va.
 2 Sp.Bp. sārathī.
 3 B.B1.B2.Bp. āgato.
-4 Sp. abhiru-. 
+4 Sp. abhiru-.
 5 S.Sp.B.B1.B2.Bp. Paṭhamakacetiya-.
 6 B. taṃ pi hi cetiyaṃ.
 7 Sp. hīyyo.
 8 S. uccāsanamahāsanaṃ.
-9 S.Spḥi na. 
+9 S.Spḥi na.
 10 Sp.Bp. sārathī.
 11 Bp. tatho.
-12 S1.(D)ṭhera. 
+12 S1.(D)ṭhera.
 13 B2. disvāna.
 14 S.Spṇāruhiṃsū; B. nārūhiṃsu; Bp. nābhirūhiṃsū.
 15 B.B2.Bp. uccāsayanamahāsayanaṃ.
@@ -4123,9 +4122,9 @@ uppādapāṭhakā[^079-21] disvā, gahitā[^079-22] dāni imehi paṭhavī,[^07
 17 B1.Bp. paññapethā 'ti, sic passim.
 18 S.Sp.B.B1.B2.Bp. taṭṭikaṃ.
 19 S. kojavanakādīni; S1.(D). kojavanikādīni.
-20 B.B1.B2.Bp. cittattaraṇāni. 
+20 B.B1.B2.Bp. cittattaraṇāni.
 21 B.B2. upāda-; Bp. uppāta-.
-22 S1.(D). gatitā. 
+22 S1.(D). gatitā.
 23 Sp. paṭhavi, sic passim.
 
 
@@ -4166,21 +4165,21 @@ vanuyyāne[^080-18] āsanaṃ paññāpesuṃ. thero tattha nisīditvā
 1 S.Sp.B1.B2.Bp. patthaṭaṃ; B. pattaṭaṃ.
 2 S. panītena.
 3 Sp.Bp. khādanīyena bhojanīyena, sic passiṃ.
-4 S.Sp.omit sampavāretvā. 
+4 S.Sp.omit sampavāretvā.
 5 S.B.B1.B2.Bp. Anuḷādevī-.
-6 S.Sp.B.B1.B2.Bp. karontū 'ti. 
+6 S.Sp.B.B1.B2.Bp. karontū 'ti.
 7 S.Sp.omit bhattakiccāvasāne.
-8 B2. vassanto. 
+8 B2. vassanto.
 9 B.B1.B2.Bp. sacchākaṃsu.
 10 S1.(D). thesu for te tesu tesu.
 11 S. rājaṅgane.
-12 S.Sp.B.B2.Bp. vilavanti. 
+12 S.Sp.B.B2.Bp. vilavanti.
 13 Sp. bhane.
 14 Sp.B.B1.Bp. valukaṃ; B2. vālukaṃ.
 15 Sp. ceḷavitānaṃ.
 16 See p. 79,  17.
 17 B.B1.B2.Bp. amaccā for rājāmaccā.
-18 S. Nandavanuyyāne by mistake. 
+18 S. Nandavanuyyāne by mistake.
 19 Bp. Āsīvisopamasuttaṃ; S. Āsivisopamasuttantaṃ.
 
 
@@ -4220,7 +4219,7 @@ kathesi. eten' eva upāyena[^081-12] satta divasāni kathesi, aḍḍhana-
 vamānaṃ[^081-13] pāṇasahassānaṃ dhammābhisamayo ahosi. tato
 --------------------------------------------------------------------------
 1 S. kulasuṇhāhī.
-2 B2. uṭṭhāhi. 
+2 B2. uṭṭhāhi.
 3 S.B.B1.B2.Bp. nivāsana-.
 4 B2. Nandanavanauyyānaṃ; Bp. Nandanavan' uyyanaṃ.
 5 B.B1. āvāsanaṭṭhānaṃ; S1.(D). āsanaṭṭhānaṃ.
@@ -4232,7 +4231,7 @@ vamānaṃ[^081-13] pāṇasahassānaṃ dhammābhisamayo ahosi. tato
 11 S. bhīyosomattāya; Sp. bhīyyosomattāya.
 12 Bp. ev' upāyena.
 13 B.B2.Bp. insert desanāpariyosāne before aḍḍha-.
-     I             
+     I  
 6
 
 
@@ -4269,16 +4268,16 @@ lenesu kammaṃ paṭṭhapetvā nagaram eva agamāsi. te pi
 1 B2.Bp. add ca.
 2 B2. labhati; Sp. paṭilabhi.
 3 S.Sp.B2.Bp. ante pure; B.B1. ante pūre.
-4 B.B1.B2.Bp. omit mahā. 
-5 S.Sp.ovadi. 
+4 B.B1.B2.Bp. omit mahā.
+5 S.Sp.ovadi.
 6 S. gaccheyyā.
-7 S1.(D). āyācito. 
+7 S1.(D). āyācito.
 8 S.Sp.omit 'va.
 9 Sp. gamaṇaṃ.
 10 S.Sp.Bp. mahacca-rājānu-; B1. amaccā rājānu-; Dīp. vi, 77,
-     mahatā. 
+     mahatā.
 11 B2.Bp. sayam eva.
-12 B2. adds upasaṅkami. 
+12 B2. adds upasaṅkami.
 13 B.B1.B2.Bp. omit ca.
 14 S.B1.B2.Bp. Pañcapaṇṇāsāya jeṭṭhakaniṭṭhabhātukehi;  Sp.B.
      pañcapaṇṇāsajeṭṭhakaniṭṭhabhātukehi.
@@ -4325,11 +4324,11 @@ parijano[^083-14] uposathaṃ samādiyitvā[^083-15] sabbatālāvacare[^083-16] 
 kāretvā[^083-20] upari c' assa setacchattaṃ ussāpetvā sāyaṇhasa-
 maye[^083-21] Mahānāgavanuyyānābhimukho yāhi, addhā etasmiṃ[^083-22]
 --------------------------------------------------------------------------
-1 S. omits rājakulaṃ. 
+1 S. omits rājakulaṃ.
 2 S.B.B1.B2.Bp. tadāpi; Sp. tadā hi.
-3 B.B1.B2.Bp. paṭhamaṃ. 
+3 B.B1.B2.Bp. paṭhamaṃ.
 4 B2. cīra-.
-5 Sp.B2.Bp. -vāsaṃ. 
+5 Sp.B2.Bp. -vāsaṃ.
 6 B2.Bp. icchāma mayaṃ.
 7 S.Sp.B2.Bp. rājā āha; B. omits rājā.
 8 B2. ukkaṇṭhithā 'ti.
@@ -4337,15 +4336,15 @@ maye[^083-21] Mahānāgavanuyyānābhimukho yāhi, addhā etasmiṃ[^083-22]
      ka-; B1. -paccupaṭṭhānañcalīkammasāmicika-;  Bp. -sāmicika-.
 10 S. 'mhā; S1.(D).Sp. 'mhe; B1. 'mhi.
 11 S. avācuttha.
-12 S. Sumaṇaṃ, sic passim. 
+12 S. Sumaṇaṃ, sic passim.
 13 S.B.B1.B2.Bp. -paṭāka-.
 14 S. saparijane.
 15 S1.(D). samādhiyitvā.
 16 B.B1.B2.Bp. sabbatāḷāvacare.
 17 S.B2.Bp. upaṭṭhāpetvā.
 18 S. maṅgaḷa-.
-19 B1.B2.Bp. -paṭimaṇḍitaṃ. 
-20 Sp.Bp. kārāpetvā. 
+19 B1.B2.Bp. -paṭimaṇḍitaṃ.
+20 Sp.Bp. kārāpetvā.
 21 B.B2.Bp. sāyanha-.
 22 S.Sp.Bp. addhā tasmiṃ; S1.(D). aṭṭhā etasmin; B. yyāhi for yāhi.
 
@@ -4395,9 +4394,9 @@ patiṭṭhāsi. atha kho Mahindapamukhā sabbe pi te mahā-
 7 B.B2.Bp. etam.
 8 B. upaṭṭhetvā; B1. upaṭṭetvā; B2. uppaṭṭetvā; S1.(D). ubbad-
      dhetvā.
-9 S.Sp.omit 'va. 
+9 S.Sp.omit 'va.
 10 S. pamajjīti.
-11 Sp. ppajjāmi by mistake. 
+11 Sp. ppajjāmi by mistake.
 12 S.Sp.-ppamāṇa-.
 13 Sp. mani-.
 14 S.Sp.S1.(D). ugghāṭāpetvā; B. ugghaṭetvā.
@@ -4437,26 +4436,26 @@ raṃ[^085-22] tāva gantvā puratthimadvārena[^085-23] nagaraṃ pavisitvā
 --------------------------------------------------------------------------
 1 S. omits yeva.
 2 B2. āgamaṃsu.
-3 S.Sp.B.B1.B2.Bp. apanamatu. 
+3 S.Sp.B.B1.B2.Bp. apanamatu.
 4 S. maṅgaḷa-, sic passim.
-5 B2. jāṇukehi. 
+5 B2. jāṇukehi.
 6 B2. -caṅkoṭakaṃ.
 7 S.Sp.patiṭṭhahatū 'ti.
 8 B2. maṅgalahatthi jānu-.
-9 B2. -caṅkodakaṃ. 
+9 B2. -caṅkodakaṃ.
 10 B2. patiṭṭhahi.
-11 B.B2.Bp. add viya. 
-12 Sp. kuñca-. 
+11 B.B2.Bp. add viya.
+12 Sp. kuñca-.
 13 B2. paccantenāpi.
 14 Sp. sampamo-.
 15 B2. pītijanayanto.
-16 S.Sp.omit  assa. 
+16 S.Sp.omit  assa.
 17 S1.(D). hatthi so nāgo.
 18 B.B1.B2.Bp. anekatāḷā-.
 19 B.B1.B2.Bp. uḷārena.
 20 B.B1.Bp. pūjāsakkārena sakkariyamāno; B2. pūjāsakkārena sak-
      kāriyamāno; S.Sp.pūjāya sakkarīyamāno.
-21 B.B1.B2.Bp. add 'va. 
+21 B.B1.B2.Bp. add 'va.
 22 B2. pūratthima-, sic passim.
 23 puratthimena dvārena.
 
@@ -4495,14 +4494,14 @@ nāma ahosi, rājā Samiddho[^086-21] nāma, nagaraṃ Vaḍḍhamānaṃ
 3 S.Sp.Pabhejavatthu; S1.(D). Pabheci- corrected to Paheci-; B.B1.
      B2. Mahejja-; Bp. Maheja-.  Mahāvaṃsa (p. 106) Pabhedavatthuṃ.
 4 B1. nāmaṃ.
-5 B.B1.B2.Bp. yeva. 
+5 B.B1.B2.Bp. yeva.
 6 Sp.Bp. paṭi-.
-7 S. Thūpārāmo. 
+7 S. Thūpārāmo.
 8 B2. pūri-.
 9 B2. ahosi.
-10 B2.Bp. omit pana. 
+10 B2.Bp. omit pana.
 11 Sp. adds nāma.
-12 B.Bp. add thero. 
+12 B.Bp. add thero.
 13 B.B1.B2.Bp. tena kho pana samayena.
 14 B.B1.B2. anayabyasanaṃ; Bp. anayavyāsanaṃ; Sp. anayabya-
      sanaṃ.  
@@ -4556,15 +4555,15 @@ paribhogacetiyaṭṭhānaṃ hotīti.[^087-16] tad etaṃ[^087-17] vinaṭṭhe
 4 Sp. anuppavecchi; B2.Bp. anuppavacchi.
 5 Bp. pakkami.
 6 B2. pakkhīpitvā, sic passim.
-7 B.B2.Bp.  addasa. 
+7 B.B2.Bp.  addasa.
 8 B2. volokento.
 9 S.Sp.udakasāṭiyaṃ; B.B1.B2.Bp. udakasāṭakaṃ.
-10 See note 5 above. 
+10 See note 5 above.
 11 S.Sp.B2.Bp. omit pi.  12 B.B1.B2.Bp. omit 'ti.
 13 S. purimikānaṃ; B.B2. pūrimakānaṃ, sic passim.
 14 Sp. tinnaṃ.
 15 S.B.B2.Bp. -dhānena nassanti; B1. -ṭhānena nassanti.
-16 B. hosīti; B2.Bp. ahosīti. 
+16 B. hosīti; B2.Bp. ahosīti.
 17 B1. tattha taṃ.
 
 
@@ -4602,8 +4601,8 @@ pāṭihāriyaṃ dassesi, tehi tehi dhātuppadesehi channaṃ
 vaṇṇānaṃ udakadhārā ca aggikkhandhā ca pavattanti.
 Sāvatthiyaṃ gaṇḍambamūle[^088-16] bhagavatā dassitapāṭihāriya-
 --------------------------------------------------------------------------
-1 B. tiṭṭhahi, taṃ ṭhānaṃ koci; B1. tiṭṭhati taṃ ṭhānaṃ koci; 
-     S1.(D). māṇaṃ koṭi. 
+1 B. tiṭṭhahi, taṃ ṭhānaṃ koci; B1. tiṭṭhati taṃ ṭhānaṃ koci;
+     S1.(D). māṇaṃ koṭi.
 2 Sp. ucci-.
 3 B. mā dūsehīti; B1. na dūsesīti; B2. padusesīti; Bp. padūsehīti.
 4 S.Sp.ath' assa.
@@ -4615,7 +4614,7 @@ Sāvatthiyaṃ gaṇḍambamūle[^088-16] bhagavatā dassitapāṭihāriya-
 10 B2.Bp. na yāva.
 11 B2. rattiyā.
 12 S1.(D). vināpetvā.
-13 B2. kiṃdiso. 
+13 B2. kiṃdiso.
 14 S. omits rājā.
 15 S.B2.Bp. dhātumahadassanatthaṃ.
 16 Sp. -rukkhamūle; B2. kaṇḍambarukkhamūle; Bp. kaṇḍambamūle.
@@ -4654,15 +4653,15 @@ mahājanassa pāṭihāriyaṃ dassetvā otaritvā rañño matthake
 --------------------------------------------------------------------------
 1 S1.(D). dharamāṇe va.
 2 S.Sp.omit mayi parinibbute; B.B1. parinibbūte.
-3 Bp. dakkhiṇadisābhāge. 
+3 Bp. dakkhiṇadisābhāge.
 4 B.B1.B2. acintiye.
 5 S.Sp.omit pi.
 6 S.Sp.Bp. āgamāsi.
 7 B2. yakkhānaṃ dama-.
-8 B. aviñchi; B1. āviñci; B2.Bp. āviñchi. 
+8 B. aviñchi; B1. āviñci; B2.Bp. āviñchi.
 9 B2. damanatthaṃ.
 10 B.B1.B2.Bp. pañcabhikkhusata-.
-11 S. -ṭṭhāṇena ca. 
+11 S. -ṭṭhāṇena ca.
 12 B.B1. omit ca.
 13 B1. dhūtārāmacetīya-.
 14 B. Mahiyaṅgaṇacetīyaṭṭhāne ca Mutuṅgaṇacetīyā ca; B1. Mutuṅ-
@@ -4710,16 +4709,16 @@ sakkhissāmi deva sace[^090-13] pabbajjaṃ anujānissasīti.[^090-14] gaccha
 2 S.Sp.Cetāḷigāmato; B.B1.B2. Cetaraṭṭhagāmato; Bp. Cetaraḍḍha-
      gāmato; S1.(D). Vetālidārakogāmato (dārako expunged); Mahāv. Cetā-
      pigāmato (p. 109).
-3 S.Sp.B.B1.B2.Bp. pañca pañca. 
+3 S.Sp.B.B1.B2.Bp. pañca pañca.
 4 S. omits bahinagarato ca.
-5 S.B1.B2.Bp. Anuḷā; B. Anuḷhā. 
+5 S.B1.B2.Bp. Anuḷā; B. Anuḷhā.
 6 B. Anulā here.
 7 S.Sp.B.B1.B2.Bp. omit iti.
 8 B.B1.B2.Bp. add pana.
 9 S. supurimakāṇaṃ; Sp. purimikānaṃ; B. pūrimakānaṃ; B1. puri-
      makāṇaṃ.
 10 Sp.B2. omit pi.
-11 Bp. gahatvo by a misprint. 
+11 Bp. gahatvo by a misprint.
 12 S.Sp.B.B1.B2.Bp. tvaṃ tāta.
 13 S.Sp.B.B1.B2.Bp. sace me.
 14 Sp. -tīti.
@@ -4761,9 +4760,9 @@ nasāmaṇero maṃ chinnahatthaṃ viya karontā[^091-23] Tambapaṇ-
 2 B.B1.B2.Bp. ekadivasen' eva.
 3 B2. Jamkoḷa-.
 4 B2.Bp. Anuḷāpi; B. Anuḷāpi; B1. Anuḷāpi here.
-5 B2.Bp. omit ca. 
+5 B2.Bp. omit ca.
 6 B2. antepurikasatehi.
-7 S.Sp.omit vatthāni. 
+7 S.Sp.omit vatthāni.
 8 S.Sp.B.B1.B2.Bp. pi for ca.
 9 B.B1.B2.Bp.  omit gantvā.
 10 B2.Bp. sahāyakassa.
@@ -4776,7 +4775,7 @@ nasāmaṇero maṃ chinnahatthaṃ viya karontā[^091-23] Tambapaṇ-
 17 B2. omits ca.
 18 B2. antepurikasatehi.
 19 Bp. pabbajethā 'ti.
-20-20 S.Sp.B.B2.Bp. omit this passage. 
+20-20 S.Sp.B.B2.Bp. omit this passage.
 21 B.B1.B2.Bp. omit ca.
 22 B. nettā ca; B1. netto ca; B2.Bp. nattā ca me.
 23 B.B1.Bp.S1.(D). karonto.
@@ -4818,21 +4817,21 @@ khakadhātu cetiyamhi patiṭṭhānadivase, yamakapāṭihāriyaṃ
 karotū'ti adhiṭṭhāsi. imaṃ[^092-15] catuttham adhiṭṭhānaṃ. Laṅ-
 kādīpamhi yeva me doṇamattadhātuyo[^092-16] Mahācetiyamhi
 --------------------------------------------------------------------------
-1 B2. passantass'eva. 
+1 B2. passantass'eva.
 2 B2. adds tvam.
-3 B.B1.Bp. bhātu-vacanaṃ. 
+3 B.B1.Bp. bhātu-vacanaṃ.
 4 B2. pabbajjapūrekkhārā.
 5 S.Sp.yāhīti.
 6 S.S1.(D). mahābodhiṃ.
-7 S. -gahana-; Bp. -ggahaṇa-. 
+7 S. -gahana-; Bp. -ggahaṇa-.
 8 B.B2.Bp. mahābodhinā.
 9 S. -gahana-; Sp.B.B1.B2. -gahaṇa-; Bp. -ggahaṇa-.
 10 S.Sp.B.B2.Bp. ca for va; B1. omits va.
-11 B2. pavīsitvā. 
+11 B2. pavīsitvā.
 12 B2.Bp. patiṭṭhātū 'ti.
 13 Sp. chabbaṇṇakāra-.
 14 Sp.B2. muñcantū ti.
-15 S.Sp.B.B1.B2.Bp. idaṃ. 
+15 S.Sp.B.B1.B2.Bp. idaṃ.
 16 B2. doṇamattā dhātuyo.
 
 
@@ -4871,11 +4870,11 @@ pāṭihāriyaṃ disvā tuṭṭho mahābodhiṃ sakala-Jambudīpe
 rajjena[^093-19] pūjemīti bhikkhusaṃghassa tvā abhisekaṃ adāsi.
 --------------------------------------------------------------------------
 1 B. abbhugantvā; B1.B2.Bp. abbhuggantvā.
-2 B1.B2.Bp. adhiṭṭhānan ti. 
+2 B1.B2.Bp. adhiṭṭhānan ti.
 3 B2. Visu-.
-4 B2. pūrato, sic passim. 
+4 B2. pūrato, sic passim.
 5 S.Sp.B.B1.B2.Bp. taṃ.
-6 B2. idaṃ. 
+6 B2. idaṃ.
 7 Sp.B.B1.B2.Bp. jānāthā 'ti.
 8 S.Sp.B.B1.B2.Bp. karohīti.
 9 B2.Bp. parimajjitvā.
@@ -4926,22 +4925,22 @@ tiṃsu,[^094-20] bhummaṭṭhakadeve[^094-21] ādim katvā yāva brahmakāyik�
 1 S. pupha-.
 2 B2. omits bhaveyyaṃ.
 3 B2. adds oruyha.
-4 B2. mahābodhi-. 
+4 B2. mahābodhi-.
 5 B2. patiṭṭhāsi.
 6 B2. paṭimaṇḍitā; Bp. paṭimaṇḍitvā.
 7 S.Sp.B.B2.Bp. mūla-lekhāya.
 8 B.B1.B2. tivaṅgulapadese; Bp. tivaṅgula-ppadese.
 9 S.B.B1.B2.Bp. paricchindi; Sp. paricchijji.
 10 B.B1.Bp. bubbuḷakā, sic passim; B2. pubbuḷhakā.
-11 S1.(D). paricchiñji. 
+11 S1.(D). paricchiñji.
 12 S.Sp.B.B1.B2.Bp. tā hi pi.
 13 S1.(D). cūlāni.
 14 B1. itarāpi.
-15 B1. pāṭihāriyaṃ. 
+15 B1. pāṭihāriyaṃ.
 16 B2. adaṃsu.
 17 S.B2. unnādīni.
 18 B2.Bp. ahesuṃ.
-19 Sp.B.B2.Bp. celu-. 
+19 Sp.B.B2.Bp. celu-.
 20 B.B1.B2.Bp. pavattayiṃsu.
 21 B2. bhūma-.
 
@@ -4975,26 +4974,26 @@ tame divase sabbadisāhi himā ca[^095-24] chabbaṇṇaraṃsiyo[^095-25] ca
 hake vippasanne cakkavālagabbhe[^095-26] mahābodhi paripuṇṇa-
 --------------------------------------------------------------------------
 1 Sp. devatā ca.
-2 B2.phuṭṭha-. 
+2 B2.phuṭṭha-.
 3 S. mūle satena.
 4 B.B1. mahāmūlāni.  5 S. suvaṇṇaṃ ka-.
 6-6 Sp. -ḍḍhanakā; B. avasesā navuti khuddakamūḷā anupubbena
      vaḍḍhakā; B1.B2.=text except the last part -vaḍḍhanakā; Bp. avase-
      sāni navuti khuddakamūlāni anapubbena (probably anu-) vaḍḍhana-
      kāni.
-7 B.B1. onīyha. 
+7 B.B1. onīyha.
 8 Bp. ṭhitāni.
 9 S. -puthavi; Sp. puthuvī; B.B1.B2.Bp. -pathavī.
-10 B.B1.B2.Bp. devadudrabhiyo. 
+10 B.B1.B2.Bp. devadudrabhiyo.
 11 B.B1.B2.Bp. devānaṃ.
 12 Sp. bhiṃkārehi; B2. hikārehi.  13 B2. thūtija-.
 14 S.Bp. apphoṭanehi; B.B1. appoṭanehi; B2. āpphoṭanehi.
 15 B.B1. vidutehi; B2. vidūtehi; Bp. rutehi.
-16 S.B.B1.B2.Bp. sabbatāḷā-. 
+16 S.B.B1.B2.Bp. sabbatāḷā-.
 17 B.B1.B2.Bp. pathavī-.
 18 S. has phalato once.
 19 S. nikkhitvā.
-20 B.B1.B2.Bp. -vāḷaṃ. 
+20 B.B1.B2.Bp. -vāḷaṃ.
 21 S. -sivinaddhaṃ.
 22 B2. pavīsitvā.
 23 B2. tadhā before rājā.
@@ -5034,12 +5033,12 @@ gopakakulāni aṭṭha taracchakulāni[^096-14] aṭṭha ca Kāliṅgakulāni[
 datvā udakāsiñcanatthāya[^096-16] aṭṭha[^096-17] suvaṇṇaghaṭe aṭṭha ca
 rajataghaṭe datvā iminā parivārena mahābodhiṃ Gaṅgāya
 --------------------------------------------------------------------------
-1 S. -pāmujjo; Sp.Bp. sañjātapītipāmojjo; B.B2. sañjātapitipāmojjo; 
+1 S. -pāmujjo; Sp.Bp. sañjātapītipāmojjo; B.B2. sañjātapitipāmojjo;
      B1. sañcanitapitipāmujjo.
 2 B. Jambūdīparajjena; B1.B2.Bp. Jambudīparajjena.
 3 B2. pūjissāmīti.
 4 S.Sp.B.B2.Bp. pubbakattikapavāraṇadivase. (B1.=text.)
-5 B.B2.Bp. sāyanha-. 
+5 B.B2.Bp. sāyanha-.
 6 B.B2.Bp. kāḷa-, sic passim.
 7 S.Sp.B.B1.B2.Bp.  suvaṇṇakaṭāhe patiṭṭhita-.
 8 B.B2.Bp. tadā before Sumana.
@@ -5091,22 +5090,22 @@ yācitvā mahābodhiṃ nāgabhavanaṃ atiharitvā sattadivasāni
 2 B.B1.B2.Bp. -dīpamahārajjaṃ.
 3 B.B1.B2.Bp. -dīparajj-.
 4 Sp. magasiramāsassa; S. magasirassa; B2. migasirassa.
-5 B2. patiṭṭhāpetvā. 
+5 B2. patiṭṭhāpetvā.
 6 B1.B2.Bp. sahāyakassa.
-7 B2.Bp. vimuñcanto. 
+7 B2.Bp. vimuñcanto.
 8 B.B1.B2.Bp. vanditvā.
 9 B2.  -rūḷā.
 10 S.Sp.B.B1.B2.Bp. passato passato.
 11 B.B2.Bp. pakkhandā; B1. pakkandā.
 12 B2.Bp. pavajjiṃsu.
 13 S.Sp.ākāsa-jala-; B.B2.Bp. ākāse jala-.
-14 B2.Bp. add pi. 
+14 B2.Bp. add pi.
 15 Sp. samudde.
 16 B. santāpesi.
 17 S.Sp.te samutrastarūpā, as corrected by Oldenberg; S1.(D). te mu-
      trastharūpā; B.B2. te c' utrāsarūpā; B1. te mutrassarūpā; Bp. te ca
      utrastarūpā.  See Mahāvaṃsa, p. 116, line 13.
-     I                                  
+     I  
 7
 
 
@@ -5149,14 +5148,14 @@ mahābodhiṃ uttaradvārena pavesetvā nagaramajjhena ati-
 5 S.Spṃagasiramāsassa; B. migasiramāsassa; B1. migasīramāsassa;
      B2. migasirassa.
 6 B.B2.Bp. add tāva.
-7 Sp.B2. samuddasālava-. 
+7 Sp.B2. samuddasālava-.
 8 S.Sp.antarantarā.
 9 S.B.B1.B2. sabbatāḷā-.
 10 B. pupphadhuma-; B1. pupphadhūma-; B2. pupphadhumagan-
      dhavāsādīhi; Bp. pupphadhūmagandhavāsādīhi.
-11 B2. vissajjako. 
+11 B2. vissajjako.
 12 S.B.B1.B2.Bp. mahābodhirukkho 'ti.
-13 B2.Bp. patiṭṭhāpetvā. 
+13 B2.Bp. patiṭṭhāpetvā.
 14 S.Sp.bodhiṃ.
 15 B.B1.B2.Bp. -dīparajjena.
 16 B. cuddasīdivase; B1.B2.Bp. cātuddasīdivase.
@@ -5199,13 +5198,13 @@ rantā nicchariṃsu, mahābodhissa khandho ca sākhāyo ca
 2 S.Sp.B.B1.B2.Bp. sammāsambuddho.
 3 Sp. mahāsirisa-; B2. mahāsīrisa-.
 4 S.Sp.B1.Bp. Kassapa-sammāsa-.
-5 S.Sp.omit ca. 
+5 S.Sp.omit ca.
 6 B2. adds pana.
 7 B.B1.B2.Bp. omit ca.
 8 S1.(D). mucci, sarasa-; B. muñci, yasmiṃ yo sakaladīpaṃ; B1.
      muñci, atha raṃsiyo sakaladīpaṃ; Bp. muñci, raṃsiyo sakaladīpaṃ.
-9 S. āhaṃsu. 
-10 B1.B2.Bp. sūriyatthaṃgamā. 
+9 S. āhaṃsu.
+10 B1.B2.Bp. sūriyatthaṃgamā.
 11 S.Sp.atthamite.
 12 B.B1.B2.Bp. sūriye.
 13 S. rohinī-; Sp.Bp. rohiṇī-.
@@ -5257,10 +5256,10 @@ sukhāya patiṭṭhite[^100-16] dasabalassa dhammadhajabhūte[^100-16] mahā-
      samaṇa.
 11 B.B1. Bhojanāgāme; B2. BpGocaragāme; S. Kajaragāme; S1.[D].
      Kāmarāgāme [corrected to Kāṭaragāme]; Sp. Kācaragāme; Mahāvaṃsa
-     [p. 120], Kācharagāme; Chinese has Wan-ra. 
+     [p. 120], Kācharagāme; Chinese has Wan-ra.
 12 B2. adds jāte.
 13 S. yojaniyayojaniya ārāmesu; B.B1.B2.Bp. yojaniya ārāmesu.
-14 B.B1.patiṭṭhapesuṃ. 
+14 B.B1.patiṭṭhapesuṃ.
 15 S.Sp.puttanattu-; B. puttanettha-.
 16-16 S.Sp.omit the passage.
 
@@ -5301,11 +5300,11 @@ tāvad eva mahāpaṭhavikampi.[^101-13] rājā kasmā bhante paṭhavi
 kampihā 'tiucc. imasmiṃ mahārāja okāse anāgate
 buddhassa bhagavato asadiso mahāthūpo bhavissati, tass'
 --------------------------------------------------------------------------
-1 B.B1.B2.Bp. Anuḷā. 
+1 B.B1.B2.Bp. Anuḷā.
 2 B2. antepurika-.
-3 B2. cīrass', sic passim. 
+3 B2. cīrass', sic passim.
 4 B2.Bp. tassa.
-5 B.B2.Bp. bhūmiyaṃ. 
+5 B.B2.Bp. bhūmiyaṃ.
 6 Bp. aho asi.
 7 S.Bp.B2. -gandhasampannaṃ; Sp. -gandhasampaṇṇaṃ.
 8 S.B.B1.B2.Bp. ropethā 'ti; Sp. ropāpehīti.
@@ -5351,20 +5350,20 @@ patiṃsu. Mahāmahindattherassa āsanaṃ dakkhiṇābhimu-
 2 S.Sp. Duṭṭhagāminī;  B.B1.B2.Bp. Duṭṭhagāmaṇi, sic passim;
      Chinese Mokkhagāmaṇi.
 3 B2. omits rājā.
-4 S. pāsāna-. 
+4 S. pāsāna-.
 5 B2.Bp. -tissassa rañño.
 6 S.Sp.B.B1.B2.Bp. akkharāni likhāpetvā.
 7 B2.Bp. add vanditvā.
 8 B. -pītūnaṃ; B1.B2.Bp. -pitūnaṃ.
 9 B2. has always Tampa- for Tamba-.
-10 B2. adds yeva. 
+10 B2. adds yeva.
 11 S.Sp.B.B1.B2.Bp. Mahā-ariṭṭho.
-12 S.Sp.B.B2.Bp. kamme 'ti. 
+12 S.Sp.B.B2.Bp. kamme 'ti.
 13 S.Sp.B.B2. Bp. omit kiṃ.
 14 S.Sp.B.B2.Bp. insert kiṃ here.15 B.B1.Bp. kattabban ti.
 16 S.Sp.Bp.  -maṇḍapappakāraṃ;   B.B1.  -maṇḍappapakāraṃ;  B2.
      -maṇḍapapakāraṃ.
-17 S.Sp.B.B1.B2. Bp. retvā. 
+17 S.Sp.B.B1.B2. Bp. retvā.
 18 B2. sabbatāḷā-.
 19 B.B1.B2.Bp. -sippesu.
 20 S. saṭṭhi, so Chinese.
@@ -5401,7 +5400,7 @@ tāyukaṃ tiṭṭhamāno bahunnaṃ[^103-15] vācetvā bahunnaṃ[^103-15] had
 patiṭṭhāpetvā[^103-16] anupādisesāya nibbānadhātuyā parinibbāyi.
 te pi kho Mahāmahindattherapamukhā[^103-17] tasmiṃ samāgame
 --------------------------------------------------------------------------
-1 S. vattānukkamena. 
+1 S. vattānukkamena.
 2 Sp.B2.Bp. mahātherā.
 3 B2. dhūraggāho.
 4 B.B2.Bp. uggaṇhissāmīti.
@@ -5458,7 +5457,7 @@ attano sīlakhandho sugutto hoti surakkhito kukkuccapaka-
 tānaṃ[^104-16] paṭisaraṇaṃ hoti, visārado saṅghamajjhe voharati,
 paccatthike sahadhammena suniggahītaṃ[^104-17] niggaṅhāti, sad-
 --------------------------------------------------------------------------
-1 B2. dhūraggāhā. 
+1 B2. dhūraggāhā.
 2 S.Sp.B1. parinibbiṃsu; B2.Bp. nibbāyiṃsu.
 3 B2. Kāḷa-.
 4 S.Sp.omit this first antevāsikā.
@@ -5467,7 +5466,7 @@ paccatthike sahadhammena suniggahītaṃ[^104-17] niggaṅhāti, sad-
 7 B.B1.B2.Bp. kiñci.
 8 B.B1.B2.Bp. paramparabhūtāya.
 9 Oldenberg's text:  ‘Historical Introduction' ends here.
-10 B.B1.B2.Bp. pāḷito. 
+10 B.B1.B2.Bp. pāḷito.
 11 B1. -dhīti-.
 12 S.B. lajjisu ku-; B1.B2.Bp. lajjīsu ku-.
 13 B2. bhikkhūnā.
@@ -5505,7 +5504,7 @@ pitā, tattha
 imissā tāva gāthāya attho pakāsito, vinayassa ca bāhirani-
 dānavaṇṇanā[^105-3] yathādhippāyaṃ saṃvaṇṇitā hotīti.
 --------------------------------------------------------------------------
-1 B.B2.Bp. pāmojjatthāya pāmojjaṃ. 
+1 B.B2.Bp. pāmojjatthāya pāmojjaṃ.
 2 S. ayogo.
 3 B2. bāhīra-.
 
@@ -5543,7 +5542,7 @@ vacanassa attho. samayenā 'ti ettha pana samayasaddo[^106-13]
 1 S. -vannanan ti.
 2 S. ādīṇaṃ.
 3 B. tattha-.
-4 B2.Bp. seyyathidaṃ. 
+4 B2.Bp. seyyathidaṃ.
 5 Bp. avuttena pi. 6 Bp. aparabhāge.
 7 B2. veditabbo; Bp. kātabbo.
 8 S. -paññattiyā vacanahetubhūto.
@@ -5591,7 +5590,7 @@ Brahmajālādīni suttantāni desesi accantam eva taṃ sama-
 yaṃ karuṇāvihārena vihāsi, tasmā tadatthajotanatthaṃ
 tattha upayoganiddeso[^107-14] kato. abhidhamme ca adhikaraṇat-
 --------------------------------------------------------------------------
-1 B2. hetudiṭṭhīsu. 
+1 B2. hetudiṭṭhīsu.
 2 S.Sp. pahāṇe.
 3 S. B2.Bp. omit yāva.
 4 B2.Bp.-ādīsu, sic passim.
@@ -5643,7 +5642,7 @@ aññena iriyāpathena vicchinditvā aparipaṭantaṃ[^108-9] attabhā-
 vaṃ harati pavatteti, tasmā viharatīti vuccati. Naḷerupu-
 cimandamūle[^108-10] ti, ettha Naḷeru nāma yakkho,[^108-11] pucimando
 --------------------------------------------------------------------------
-1 S. khaṇasamayavāya-. 
+1 S. khaṇasamayavāya-.
 2 B2.Bp. lakkhiyati.
 3 S. avekkhamāṇo; B2.Bp. apekkhamāno.
 4 Bp. ekaṃ.
@@ -5653,7 +5652,7 @@ cimandamūle[^108-10] ti, ettha Naḷeru nāma yakkho,[^108-11] pucimando
 8 B2. ṭhānagamananisajjasayanappabhedesu; Bp. ṭhānagamanani-
      sajjāsayanappabhedesu.
 9 Bp. aparipatantaṃ.
-10 S1. (D). Naleru-, sic passim. 
+10 S1. (D). Naleru-, sic passim.
 11 S. yakkhā.
 
 
@@ -5699,11 +5698,11 @@ pacchimena vivekādhimuttiṃ, purimena karuṇāya upaga-
 3 S. majjhattike; Bp. majjhanhike.
 4 S. pabatti; Bp. patanti.
 5 B2.Bp. adhiggahitassa.
-6 S.B2.Bp. -sampanne. 
+6 S.B2.Bp. -sampanne.
 7 B2. avocumhā.
 8 B2.Bp. samīpatthe.
 9 B2. goyudhāni.
-10 S.B2.Bp. Upāli-, sic passim. 
+10 S.B2.Bp. Upāli-, sic passim.
 11 Bp. -ggahaṇato.
 12 S. attakiḷa-.
 13 B2.pūrimena, sic passim.
@@ -5750,15 +5749,15 @@ bhikkhusaṅghassa saṅkhyāmahattaṃ dassitaṃ hoti. parato
 3 S. -bahuḷataṃ.
 4 B2.Bp. saṃvaḍḍha-.
 5 S. lokānukampakāya.
-6 S. tadatthaṃ pari-. 
+6 S. tadatthaṃ pari-.
 7 S.Bp. Lumbinī-.
 8 S. bodhimaṇḍale.
 9 B2.Bp. atthayo-.
 10 S. guṇamahantena pi; B2.Bp. guṇamahattena pi.
 11 S. -mahantena pi; B2.Bp. -mahattena pi.
-12 B2. -saṅkhyattā. 
+12 B2. -saṅkhyattā.
 13 S. omits bhikkhusaṅghena.
-14 B2.Bp. pañcamattāni. 
+14 B2.Bp. pañcamattāni.
 15 Bp. pañcappamāṇan ti.
 
 
@@ -5798,9 +5797,9 @@ kenaci pārijuññena[^111-16] anabhibhūto aparikkhīṇaṃ yeva taṃ
 kulaṃ pahāya saddhāya pabbajito ti vuttaṃ hoti. tato
 paraṃ vuttattham eva. taṃ kho panā' ti itthambhūtakkhyā-
 --------------------------------------------------------------------------
-1 B2.Bp. -kāḷako. 
+1 B2.Bp. -kāḷako.
 2 B2. āvībhavissati.
-3 S. savana-. 
+3 S. savana-.
 4 S. -siliṭṭhā nāmattam.
 5 S. Verañjaṃ.
 6 S. matāpituhi.
@@ -5852,7 +5851,7 @@ saṅkhārānaṃ paccayo hoti. tathā[^112-13] rūpabhave avijjā rūpa-
 bhave saṅkhārānaṃ paccayo hoti. arūpabhave avijjā arū-
 pabhave saṅkhārānaṃ pacca hoti. kāmabhave saṅkhārā
 --------------------------------------------------------------------------
-1 S.B2.Bp. -bhūtākhyānatthe. 
+1 S.B2.Bp. -bhūtākhyānatthe.
 2 B2.Bp. omit iti.
 3 Sḥas iminā once.
 4 B2. vaṇṇanaṃ.
@@ -5904,20 +5903,20 @@ muditaṃ upekkhaṃ bhāveti, bhāvanā pāripūriyā brahma-
 loke nibbattati. tatth' assa nibbattihetubhūtaṃ kammaṃ
 kammabhavo ti so yeva nayo. aparo arūpabhave sampattiṃ[^113-13]
 --------------------------------------------------------------------------
-1 Sp. ārūpabve by mistake. 
+1 Sp. ārūpabve by mistake.
 2 B2.Bp. insert tassa tassa after taṇhā.
 3 B2.Bp. add paccayo after upādānassa.
-4 B2 adds paccayā honti. 
+4 B2 adds paccayā honti.
 5 S.B2.Bp. kāmupādāna-.
-6 B2.Bp. upapajjati. 
+6 B2.Bp. upapajjati.
 7 B2.Bp. upapatti-, sic passim.
-8 B2ṃaraṇan ti. 
+8 B2ṃaraṇan ti.
 9 Bp. upapajjati.
 10 S. kammabhāvo.
 11 B2.Bp. kāmupādāna-.
-12 S. metaṃ. 
+12 S. metaṃ.
 13 B2.Bp. arūpabhavasaṃpattiṃ.
-     I                            
+     I  
 8
 
 
@@ -5959,15 +5958,15 @@ tesu nibbindanto virajjanto vimuccanto vuttappakārassa
 imassa saṃsāracakkassa are hani vihani viddhaṃsesi, evam
 pi arānaṃ hatattā arahaṃ. aggadakkhiṇeyyattā ca cīvarā-
 --------------------------------------------------------------------------
-1 B2.Bp. has one tattha only. 
+1 B2.Bp. has one tattha only.
 2 B2.Bp. sesu-.
-3 B2. omits ti. 
+3 B2. omits ti.
 4 B2.Bp. -ñāṇan ti.
 5 S. -salāyatana-.
 6 B2.Bp. taṇhupa-.
 7 B2. pūrima-, sic passim.
 8 B2.Bp. -ggahaṇena, sic passim.
-9 B2.Bp. pañca dhammā. 
+9 B2.Bp. pañca dhammā.
 10 S. -maraṇapadesena.
 11 S. akārato.
 12 S.-viññāṇaṃ.
@@ -6013,17 +6012,17 @@ khusamphassajādayo cha vedanā, rūpasaññādayo cha saññā,
 rūpasañcetanādayo cha cetanā, rūpataṇhādayo cha taṇhā-
 kāyā, rūpavitakkādayo cha vitakkā, rūpavicārādayo cha
 --------------------------------------------------------------------------
-1 B2.Bp. add ca. 
+1 B2.Bp. add ca.
 2 S.B2.Bp. Sinerumatte.
 3 B2.Bp. add pi.
-4 Bp. ti evaṃ. 
+4 Bp. ti evaṃ.
 5 B2. ekeci for keci.
 6 S. muṇi.
 7 B2.Bp. sammā sāmañ ca buddho.
 8 B2.Bp. add dhamme.
 9 B2. ten' evāha.  Sutta-Nip. ver. 558.  10 B2.Bp. cakkhu.
 11 B2.Bp. insert taṃ after -bhāvena.
-12 Bp. nirodhappajānanā. 
+12 Bp. nirodhappajānanā.
 13 B2.Bp. add pi.
 
 
@@ -6067,9 +6066,9 @@ sobhanagamanattā[^116-11] sundaraṃ ṭhānaṃ gatattā sammā
 gatattā sammā ca gadattā[^116-12] sugato, gamanam pi hi gatan ti
 vuccati tañ ca bhagavato sobhanaṃ[^116-11] parisuddham anavajjaṃ.
 --------------------------------------------------------------------------
-1 Bp. nirodhappajānā. 
+1 Bp. nirodhappajānā.
 2 B2.Bp. paṭivuddho.  3 B2. adds pi.
-4 B2.Bp. tisso vijjā. 
+4 B2.Bp. tisso vijjā.
 5 B2.Bp. -nayen'eva
 6 B2.Bp. aṭṭha vijjā.
 7 B2. -vacarajhānānīti.  8 B2.omits ca.
@@ -6118,10 +6117,10 @@ sabbathā viditalokattā[^117-10] lokavidū, so hi bhagavā sabhāvato
 samudayato nirodhato nirodhūpāyato ti sabbathā lokaṃ
 avedi abhiññāsi[^117-11] paṭivijjhi, yathāha: yattha kho āvuso na
 --------------------------------------------------------------------------
-1 B2.Bp. add ṭhānam after sundaraṃ. 
-2 S. pahīnakilese; B2.Bp. pahīne kilese. 
+1 B2.Bp. add ṭhānam after sundaraṃ.
+2 S. pahīnakilese; B2.Bp. pahīne kilese.
 3 S.B2. pahīnā.
-4-4 B2.Bp. put pe for this sentence. 
+4-4 B2.Bp. put pe for this sentence.
 5 B2.Bp. add sugato ti.
 6 Bp. āgato.
 7-7 B2.Bp. na taṃ tathāgato vācaṃ bhāsati.
@@ -6170,14 +6169,14 @@ dvākāre suviññāpaye duviññāpaye bhabbe abhabbe satte
 jānāti, tasmāssa[^118-15] sattaloko pi sabbathā vidito; yathā ca satta-
 --------------------------------------------------------------------------
 1 B2.Bp. upapajjati.
-2 .Bp. diṭṭheyyaṃ. 
+2 .Bp. diṭṭheyyaṃ.
 3 B2. ca for va.
 4 B2.Bp. kaḷebare.
-5 B2.Bp. sasaññimhi. 
+5 B2.Bp. sasaññimhi.
 6 B2. lokaṃ niro-.
 7 B2.Bp. lokantagū vūsita-. 8 B2.Bp. nāsīsatī. 9 S. i,62; A. ii,48.
 10 B2. Bp. tattha.
-11 B2.Bp. -sūriyā. 
+11 B2.Bp. -sūriyā.
 12 B2.Bp. virocamānā.
 13 S. vattatīti.
 14 M. i,328; A. i.227.  15 B2.Bp. omit assa.
@@ -6227,13 +6226,13 @@ pañcasatapañcasataparittadīpaparivāro, taṃ sabbam pi ekaṃ
 5 S. mahannave.
 6 S.B2.Bp. Sineru-.
 7 B2.Bp. -ratanavicittā.
-8 B2. Isindharo. 
+8 B2. Isindharo.
 9 S. devayakkhānisevitā.
-10 S. tīni. 
+10 S. tīni.
 11 B2. āyāmavitthato.
 12 S.-vitthinna.
-13 S.Sp.Bp. Jambudīpo. 
-14 S. cakkavāla-. 
+13 S.Sp.Bp. Jambudīpo.
+14 S. cakkavāla-.
 15 B2.Bp. sūriya.
 16 B2. -videham.
 17 B2.Bp. -yojano.
@@ -6278,18 +6277,18 @@ athavā[^120-22] anuttaro purisadammasārathīti ekam ev' idaṃ
 5 B2.Bp. pajāya attano.
 6 S.B2.Bp. sīlasampanna-.
 7 S. i, 139.  8 Vin., Mahāv., i, 8.
-9 S.B2. Apalālo. 
+9 S.B2. Apalālo.
 10 Bp. Mahādaro.
 11 S.B2.Bp. Dhanapālako
-12 B2. -gandhiputta. 
+12 B2. -gandhiputta.
 13 B2.Bp. Ambaṭṭhamānavakā-.
-14 B2.Bp. Soṇadanta. 
+14 B2.Bp. Soṇadanta.
 15 B2. Kuṭa-. 16 S.B2.Bp. Āḷavaka.
-17 Bp. Sūciloma. 
+17 Bp. Sūciloma.
 18 Sp. Khararoma-.
 19 S. Kesiyaṃ purisadamme;  B2. keci purisadamme;   Chinese
      'Chi-su'; Bp. Kesī purisadamme.  
-20 S. parusena pi. 
+20 S. parusena pi.
 21 A. ii, 112.
 22 Bp. has the following passage after athavā:  visuddhasīlādīnaṃ
      paṭhamajjhānādīnaṃ sotāpannādīnañ ca uttarimaggapaṭipadaṃ ācik
@@ -6330,24 +6329,24 @@ accharāsaṅghaparivutaṃ attānaṃ disvā: are aham pi nāma
 idha nibbatto[^121-17] kin nu kho kammaṃ akāsiṃ ti āvajjento[^121-18] nāñ-
 ñaṃ[^121-19] kiñci addasa[^121-20] aññatra bhagavato sare nimittaggāhā,
 --------------------------------------------------------------------------
-1 S. vuccatīti. 
+1 S. vuccatīti.
 2 B2.Bp. add tāreti each time.
 3 S.Bp. niruda-; B2. niroda-.  4 S.B2.Bp. khemantabhūmiṃ.
 5 B2.Bp. evam eva.
 6 B2. sattha.
 7 S. sabba-.
 8 B2. adds vā.
-9 Sp.Bp. Maṇḍūka-. 
+9 Sp.Bp. Maṇḍūka-.
 10 B2. adds hi.
-11 B2. dhamme desiyamāne. 
+11 B2. dhamme desiyamāne.
 12 Sp.B2.Bp. maṇḍūko.
 13 B2.Bp. tassa sīse.
 14 S. sannirumhitvā; B1. sannirujjhitvā.
 15 B2.Bp. kana-.
 16 B2. omits ca.
-17 B2.Bp. add 'smi. 
+17 B2.Bp. add 'smi.
 18 B2. āvajjanto.
-19 S.B2.Bp. na aññaṃ. 
+19 S.B2.Bp. na aññaṃ.
 20 Bp. adassaṃ.
 
 
@@ -6389,9 +6388,9 @@ pan' etaṃ nāmaṃ na mātarā kataṃ[^122-22] --pe-- vimokkhanti-
 --------------------------------------------------------------------------
 1 B2. sīrasā.  
 2 B2.Bp. maṇḍūko.
-3 S. sunantassa avadhī vacchapāḷako. 
+3 S. sunantassa avadhī vacchapāḷako.
 4 V.V. 51, 1, 2.
-5 S. desehi. 
+5 S. desehi.
 6 S. Omits desanāvasāne; B2. desanāpariyosāne.
 7 Bp. pakkamīti.
 8 B2.Bp. ñeyyaṃ.
@@ -6401,8 +6400,8 @@ pan' etaṃ nāmaṃ na mātarā kataṃ[^122-22] --pe-- vimokkhanti-
 13 B2.Bp. omit ca.
 14 B2.Bp. vuccatīti.
 15 B2.Bp. hi for vā.
-16 S. adhimucca-. 
-17 B2. yādicchakan. 
+16 S. adhimucca-.
+17 B2. yādicchakan.
 18 B2. chaḷā-.
 19 B2.Bp. omit ti.
 20 Bp. vuttañ h' etaṃ. 21 S. -patīnā.
@@ -6447,16 +6446,16 @@ bhagavā ti vuccati, āha c' ettha:
      bhaggarāgo[^123-15] bhaggadoso bhaggamoho anāsavo,
      bhaggāssa pāpakā dhammā bhagavā tena pavuccatīti.[^123-16]
 --------------------------------------------------------------------------
-1 B2. bhāgī. 
+1 B2. bhāgī.
 2 Nid. 142.
 3 Sp. bhagavā.
-4 B2.Bp. vaṇṇavipariyāyo ti. 
+4 B2.Bp. vaṇṇavipariyāyo ti.
 5 S. ādikaṃ etaṃ.
 6 Sp. gagetvā by mistake. 7 B2. makkhapaḷāsa. 8 S. tambha-.
 9 B2. āsavagandha.  10 B2.Bp. taṇhupādāna-.11 B2.Bp. -nandana-.
 12 S. parilāha-.  13 S. bandha-; Bp. kilesa-abhisaṃkhāra-khandha-.
 14 Sp. bhagavā ti.
-15 S. bhaggarāge. 
+15 S. bhaggarāge.
 16 B2.Bp. vuccatīti.
 
 
@@ -6492,9 +6491,9 @@ amataṭṭhena[^124-19] nirodhaṃ, nīyyānikahetudassanādhipateyyaṭ-
 ṭhena[^124-20] maggaṃ, vibhattavā vibhajitvā vivaritvā desitavā
 ti vuttaṃ hoti, tasmā vibhattavā ti vattabbe bhagavā ti
 --------------------------------------------------------------------------
-1 B2.Bp. bhāgyavantatāya. 
+1 B2.Bp. bhāgyavantatāya.
 2 Bp. satapuññajalakkhaṇa.
-3 B2. -sampattiṃ. 
+3 B2. -sampattiṃ.
 4 S.B2.Bp. dīpitā hoti.
 5 S. -parikkhakāṇaṃ; B2.Bp. lokiya-. 6 B2.Bp. nesaṃ.
 7 B2. saṃyojana-; Bp. sampayojana-.  8 B2.Bp. -payattesu.
@@ -6506,9 +6505,9 @@ ti vuttaṃ hoti, tasmā vibhattavā ti vattabbe bhagavā ti
 13 B2.Bp. icchitaṃ pa-.
 14 B2.Bp. abhinipphannattā.
 15 B2. icchitatthanipphattisaññito; p. icchiticchitatthanipphat-
-     tisaññito. 
+     tisaññito.
 16 B2.Bp. payatto ca atthi.
-17 S. pīḷanasaṃkhāta-. 
+17 S. pīḷanasaṃkhāta-.
 18 B2.Bp. -pali-.
 19 S.B2.Bp. -vivekā-.
 20 S.B2.Bp. niyyānika-.
@@ -6553,13 +6552,13 @@ chakāmāvacarissaro vasavatti[^125-10] kiṃ so pi etena sacchikato ti,
 tesaṃ vimatiṃ vidhamanto samārakan ti abbhuggato, yesaṃ
 pana siyā brahmā mahānubhāvo ekaṅguliyā ekasmiṃ cakka-
 --------------------------------------------------------------------------
-1 S.B2.Bp. brahmunā. 
+1 S.B2.Bp. brahmunā.
 2 B2.Bp. -brāhmaṇī.
 3 Bp. -ggahaṇaṃ, sic passim.  4 S. adds veditabbaṃ.
 5 B2.Bp. sabrahmaka-.
 6 B2.Bp. sassamaṇabrahmaṇīva-.
 7 B2.Bp. -vacaradevaloko.
-8 B2. -brahmaṇā-. 
+8 B2. -brahmaṇā-.
 9 B2.Bp. sādhento.
 10 S.Sp.vasavattī.
 
@@ -6605,9 +6604,9 @@ pannena adhigantabbāya abhisambodhiyā vā ādikalyāṇo
 paccekabodhiyā majjhe -kalyāṇo sāvakabodhiyā pariyo-
 sānakalyāṇo, suyyamāno c' esa nīvaranāṇi vikkhambhaṇato[^126-5]
 --------------------------------------------------------------------------
-1 B2. -brahmaṇā. 
+1 B2. -brahmaṇā.
 2 B2. -brahmaṇi.
-3 B2.Bp. -kalyāṇā. 
+3 B2.Bp. -kalyāṇā.
 4 S. inserts vā before majj-.
 5 B2.Bp. nivaraṇavikkhaṃbhaṇato.
 
@@ -6674,7 +6673,7 @@ vahaṃ sukhāvahan ti vuttaṃ hoti. tathārūpānaṃ arahatan
 ti yathārūpo so bhavaṃ Gotamo evarūpānaṃ yathābhuc-
 caguṇādhigamena[^128-3] loke arahanto ti laddhasaddānam[^128-4] ara-
 hataṃ. dassanaṃ hotīti pasādasommāni akkhīni ummīletvā
-dassanamattam pi sādhu hotīti. ||1||  
+dassanamattam pi sādhu hotīti. ||1||
 
 evaṃ ajjhāsayaṃ katvā, atha kho Verañjo brāhmaṇo yena
 bhagavā ten' upasaṅkami.[^128-5] yenā 'ti bhūmmatthe[^128-6] karaṇava-
@@ -6701,10 +6700,10 @@ modanīyaṃ, atthabyañjanamadhuratāya suciram[^128-13] pi kālaṃ
 1 B2. -paccekabuddhasāvakānaṃ.
 2 B2.Bp. cariyato.
      S. yathā bhumma-.  See p. 124, note 10.
-4 B2.Bp. laddhasaddhānaṃ. 
+4 B2.Bp. laddhasaddhānaṃ.
 5 B2.Bp. add iti.
 6 S.Bp. bhummatthe.  7 S.B2.Bp. dijagaṇehi.  8 B2. -paridīpanaṃ.
-9 B2.Bp. add pi. 
+9 B2.Bp. add pi.
 10 B2.Bp. put ca after Gotamassa.
 11 B2.Bp. omit Gotama before sāvakānañ.
 12 B2.Bp. pītipāmojjasaṃkhātaṃ sammodaṃ jananato.
@@ -6750,20 +6749,20 @@ anuttānapadavaṇṇanā: brāhmaṇe ti jātibrāhmaṇe,[^129-15] jiṇṇe t
 --------------------------------------------------------------------------
 1 B2.Bp. sāraṇīyaṃ, sic passim.
 2 Bp. vā.
-3 B2. adds ca. 
+3 B2. adds ca.
 4 Bp. omits sārāṇīyaṃ.
 5 B2.Bp. -sūriyā.
 6 S. pavattantīti.
 7 B2.Bp. ādīsu.
 8 B2.Bp. omit pana.
-9 B2.Bp. ekamantaṃ. 
+9 B2.Bp. ekamantaṃ.
 10 S. nisidi.
 11 S. garuṭṭhāṇīyaṃ; B2.Bp. garuṭṭhāniyaṃ.
-12 B2. brahmaṇo. 
+12 B2. brahmaṇo.
 13 B2. avoca, omits ti.
 14 B2. gottavasena.
-15 S. brāhmaṇo ti jātibrāhmaṇo; B2. brahmaṇe ti jātibrahmaṇe. 
-     I                      
+15 S. brāhmaṇo ti jātibrāhmaṇo; B2. brahmaṇe ti jātibrahmaṇe.
+     I  
 9
 
 
@@ -6801,20 +6800,20 @@ tam[^130-19] eva. ath' assa bhagavā attukkaṃsanaparavambhana-
 dosaṃ anupagamma karuṇāsītalahadayena taṃ aññāṇaṃ
 vidhamitvā[^130-20] yuttabhāvaṃ dassetukāmo āha: nāhan taṃ brah-
 --------------------------------------------------------------------------
-1 S. jiṇṇo ti jajjaribhūte. 
+1 S. jiṇṇo ti jajjaribhūte.
 2 Bp. khaṇḍiccādi-.
-3 Bp. vuḍḍhe, sic passim. 
+3 Bp. vuḍḍhe, sic passim.
 4 Bp. vuḍḍhi-, sic passim.
-5 B2.Bp. cīrakāla-. 
+5 B2.Bp. cīrakāla-.
 6 S. jiṇṇo ti.
-7 B2.cīrakala-. 
+7 B2.cīrakala-.
 8 S. -yutto.
-9 B2.Bp. -mahattatāya. 
+9 B2.Bp. -mahattatāya.
 10 S. samannāgato.
-11 B2. brahma-. 
+11 B2. brahma-.
 12 S. caramāno.
 13 B2.Bp. add pi; Bp. jātivuḍḍha-.
-14 S. na vāsaddo. 
+14 S. na vāsaddo.
 15 S.B2.Bp. vibhāvane.
 16 B2.Bp. atthe.
 17 S. bho Gotamo.
@@ -6860,21 +6859,21 @@ asahamāno āha: arasarūpo bhavaṃ Gotamo ti. ayaṃ kir' assa
 adhippāyo: yaṃ loke abhivādanapaccuṭṭhānāñjalikammasā-
 mīcikammaṃ[^131-15] sāmaggiraso ti vuccati taṃ bhoto Gotamassa
 --------------------------------------------------------------------------
-1 Bp. -ññānacakkhunā. 
+1 Bp. -ññānacakkhunā.
 2 B2.Bp. yadāpāhaṃ.
 3 S. sampattijāto 'va uttarena mukho; B2. sampatijāto 'va uttarena
-     mukho. 
+     mukho.
 4 B2.Bp. -hārena.
 5 B2.Bp. dasasahassi-.
 6 B2. nicchāresi.
 7 B2. tathāgato; Bp. tathāgate.
-8 B2.Bp. nipaccakāraṃ. 
+8 B2.Bp. nipaccakāraṃ.
 9 B2. vaṇḍāpamutta-; Bp. vaṇṭāpavutta-.
 10 S. sahayeva; B2.Bp. sahasā 'va.
-11 B2. vipateyya, omits ti. 
+11 B2. vipateyya, omits ti.
 12 B2. brahmaṇo.
 13 B2. ca loke jeṭṭhakabhā-; Bp. loke jeṭṭha-bhā-.
-14 B2. asaṃlakkhanto. 
+14 B2. asaṃlakkhanto.
 15 B2.Bp. -sāmicikammaṃ.
 
 
@@ -6915,19 +6914,19 @@ nesaṃ vatthu katan ti tālā vatthukatā,[^132-17] yathā hi talarukkhaṃ
 --------------------------------------------------------------------------
 1 S.Bp. ujuvipaccanīka-.
 2 B2. -brahmaṇa sic passim.
-3 M. i, 114. 
+3 M. i, 114.
 4 S. tvenam.  tveva naṃ for ti-eva naṃ.
 5 M. iii, 270.
 6 S. ācikkhitu. Loc. cit.?
 7 B2.Bp. saṅkhyaṃ.
 8 B2.Bp. pahīnā, sic passim.
-9 B2.Bp. insert vā here. 
+9 B2.Bp. insert vā here.
 10 B2.Bp. upapattivasena.
 11-11 B2.Bp. rūparasasaddagandharasapoṭṭhabbarasā.
 12 B2.Bp. āviñchanti.
 13 B2.Bp. pahīnā ti, sic passim.
 14 Bp. mamākarena.
-15 B2.anukkhipento. 
+15 B2.anukkhipento.
 16 S. pan' etthe.
 17 S1.(D). vatthukathā; Bp. tālavatthukatā.
 
@@ -6968,7 +6967,7 @@ evaṃ brāhmaṇo attanā adhippetaṃ arasarūpataṃ ārope-
 tuṃ asakkonto athāparaṃ nibbhogo bhavaṃ[^133-10] ti ādim āha.
 sabbapariyāyesu c' ettha vuttanayen' eva yojanākkamaṃ[^133-11]
 --------------------------------------------------------------------------
-1 S1.(D). uddharetvā. 
+1 S1.(D). uddharetvā.
 2 S. arūḷhi-.
 3 B2.Bp. anabhāvaṃ katā.
 4 S1.(D). anubhāvaṃ katā ti; Sp. anabhāvagatā ti; B2.Bp. anabhā-
@@ -6977,7 +6976,7 @@ sabbapariyāyesu c' ettha vuttanayen' eva yojanākkamaṃ[^133-11]
 6 After this some 48 leaves of S. are missing.
 7 B2.Bp. anabhāvaṃ gatā.
 8 Bp. tassa attani.
-9 B2.Bp. etaṃ for taṃ. 
+9 B2.Bp. etaṃ for taṃ.
 10 Bp. adds Gotamo before ti.
 11 Bp. yojanakkamaṃ.
 
@@ -7074,7 +7073,7 @@ tatrāyaṃ padattho: tapantīti tapā, akusalānaṃ dhammānam
 4 B2.Bp. sāmici-, sic passim.
 5 B2.Bp. doseti.
 6 B2.Bp. sāmici-.
-7 B2.Bp. omit hi. 
+7 B2.Bp. omit hi.
 8 B2.Bp. saṅkhyaṃ.
 9 B2.Bp. add pi.
 
@@ -7120,11 +7119,11 @@ tuṃ paṭivijjhitvā desanāvilāsappatto hoti tassā dhammadhā-
 --------------------------------------------------------------------------
 1 B2. pacca.
 2 Dhammapada, v. 17.
-3 B2.Bp. tathā. 
+3 B2.Bp. tathā.
 4 B2.Bp. vidhaṃsesīti.
-5 Bp. -kucchiṃhi. 
+5 Bp. -kucchiṃhi.
 6 B2.Bp. aparam pi.
-7 B2.Bp. vihatakāraṇattā. 
+7 B2.Bp. vihatakāraṇattā.
 8 B2.Bp. add ti.
 9 B2.Bp. omit pi.
 10 B2.Bp. anukampāya sītaleneva.
@@ -7169,13 +7168,13 @@ allasineho so pariyādānaṃ gacchati, kapālaṃ tanukaṃ hoti,
 pādanakhasikhā[^137-8] ca mukhatuṇḍakañ ca kharaṃ hoti, kuk-
 kuṭapotakā pariṇāmaṃ[^137-9] gacchanti, kapālassa tanukattā
 --------------------------------------------------------------------------
-1 B2.Bp. saradakāle sūriyo. 
+1 B2.Bp. saradakāle sūriyo.
 2 B2.Bp. paṭiladha-.
 3 B2.Bp. pathavī-.
 4 Bp. abbhāhaṭaṃ.
-5 B2.Bp. pana ussāhena. 
+5 B2.Bp. pana ussāhena.
 6 B2. seyyathā 'ti; Bp. seyyathāpi.
-7 B2,Bp. siliṭṭhavacanaṃ. 
+7 B2,Bp. siliṭṭhavacanaṃ.
 8 B2. khasīkhā.
 9 B2.Bp. paripākaṃ.
 
@@ -7215,11 +7214,11 @@ tattā aṇḍabhūtā ti vuccati. pariyonaddhāyā 'ti tena avijjaṇ-
 jaṇḍakosaṃ padāḷetvā[^138-18] ti taṃ avijjāmayaṃ aṇḍakosaṃ chin-
 --------------------------------------------------------------------------
 1 B2.Bp. saṅkuṭitahatthāpādā.  2 B2.Bp. nesaṃ.
-3 B2.Bp. jeṭṭhaka-. 
+3 B2.Bp. jeṭṭhaka-.
 4 Bp. pucchi.
-5 B2.Bp. sv assa. 
+5 B2.Bp. sv assa.
 6 B2.Bp. tatta.
-7 Bp. kin ti. 
+7 Bp. kin ti.
 8 B2.Bp. bho Gotama so jeṭṭho.
 9 Bp. kasmā ti.
 10 B2.Bp. omit ti.
@@ -7227,9 +7226,9 @@ jaṇḍakosaṃ padāḷetvā[^138-18] ti taṃ avijjāmayaṃ aṇḍakosaṃ 
 12 Bp. kho ahaṃ.
 13 B2. brahmaṇā 'ti ādi; Bp. brāhmaṇā 'ti ādi.
 14 B2.Bp. insert here jeṭṭho ti saṅkhyaṃ gacchati.
-15 B2.Bp. pajāya, and omit ti ādi, tattha. 
+15 B2.Bp. pajāya, and omit ti ādi, tattha.
 16 B2.avijjākosassa.
-17 B2. vedhitāya. 
+17 B2. vedhitāya.
 18 B2.Bp. padāletvā, sic passim.
 
 
@@ -7274,9 +7273,9 @@ passanāsampādanena vipassanāñāṇassa aparihāni. kukku-
 2 B2.Bp. ca antarā ca Gayaṃ antarā ca Bodhin ti ca.
 3 B2.Bp. omit bodhi.
 4 B2.Bp. put bodhi vuccati again before catūsu.
-5 Bp. pāramiñāṇaṃ. 
+5 Bp. pāramiñāṇaṃ.
 6 B2.Bp. saddhiṃ saṃsanditvā.
-7 B2.Bp. adhisayamānādi. 
+7 B2.Bp. adhisayamānādi.
 8 Bp. -kuriyā, sic passim.
 9 B2.Bp. cittasantāne.
 
@@ -7320,14 +7319,14 @@ kho pana me brāhmaṇā 'ti ādim āha. imaṃ vā bhagavato
 --------------------------------------------------------------------------
 1 B2. pādanakhasīkhātuṇḍakānaṃ;  Bp. pādanakhasikhatuṇḍa-
      kānaṃ.
-2 Bp. paripākakālo. 
+2 Bp. paripākakālo.
 3 Bp. omits ti.
 4 B2. -khasīkhāya.
 5 B2.Bp. padāletvā.
 6 B2. abhinibbidākālo; Bp. abhinibbhidākālo.
 7 B2.Bp. bodhisattabhūtassa instead of  tassa.
 8 B2. vipassanāñānassa gabbhaṃ; Bp. vipassanāñānagabbhaṃ.
-9 B2.Bp. padāletvā. 
+9 B2.Bp. padāletvā.
 10 B2. abhinibbido; Bp. abhinibbhido.
 11 B2.Bp. vuḍḍhataro.
 12 B2.Bp. saṅkhyaṃ.
@@ -7369,17 +7368,17 @@ kāmo, saṅkapparāgo kāmo, ime vuccanti kāmā, tattha katame
 akusalā dhammā kāmacchando --pe-- vicikicchā, ime vuccanti
 akusalā dhammā, iti imehi[^141-13] kāmehi imehi ca akusalehi dham-
 --------------------------------------------------------------------------
-1 B2.Bp. eva. 
+1 B2.Bp. eva.
 2 B2.Bp. tattha.
 3 Bp. vīriyaṃ, sic passim.
 4 B2.Bp. paggahitaṃ.
 5 Bp. yeva.
 6 B2. asaṃmuṭṭhā; Bp. asammuṭṭhā.
-7 B2.Bp. add pi. 
+7 B2.Bp. add pi.
 8 B2.Bp. suṭṭhuṭhapitaṃ.
 9 B2.Bp. nipphandanan ti.
 10 B2. paṭhamajhānaṃ; Bp. paṭhamajjhānaṃ.
-11 B2.Bp. vijjattaya-. 
+11 B2.Bp. vijjattaya-.
 12 B2.Bp. so ca kho ahaṃ.
 13 B2.Bp. add ca.
 
@@ -7429,7 +7428,7 @@ nayena vatthukāmā vuttā yeva,[^142-10] tatth' eva Vibhaṅge ca,
 4 B2.Bp. kariya-.
 5 B2.Bp. nanv imassa.
 6 Bp. -pariccāgen' eva.
-7 B2.Bp add esa. 
+7 B2.Bp add esa.
 8 B2.Bp. paṭhamo samaṇo.
 9 B2.Bp. akusalehi dhammehi.
 10 B2.Bp. ye ca.
@@ -7475,11 +7474,11 @@ cannam pi nīvaraṇānaṃ, agahitagahaṇena[^143-8] paṭhamena kā-
 macchandassa, dutiyena sesanīvaraṇānaṃ, tathā paṭhamena
 tīsu akusalamūlesu pañcakāmaguṇabhedavisayassa lobhassa,
 --------------------------------------------------------------------------
-1 Bp. dhammehi vā. 
+1 Bp. dhammehi vā.
 2 B2ḷoḷabhāvassa.
 3 Bp. paccanīka-, sic passim.
 4 B2.Bp. paṭipakkhāni.
-5 B2.Bp. omit vighātakāni. 
+5 B2.Bp. omit vighātakāni.
 6 B2.Bp. thinamiddhassa.
 7 B2.Bp. vivicca akusalehi.
 8 B2.Bp. add pana.
@@ -7526,7 +7525,7 @@ Vibhaṅge pana iminā ca vitakkena iminā ca vicārena upeto
 --------------------------------------------------------------------------
 1 Bp. oghādīsu.
 2 B2. -gandha-  for -gantha-.
-3 B2. uhanan ti. 
+3 B2. uhanan ti.
 4 B2. anubandha-.
 5 B2.Bp. nesaṃ.
 6 B2. ghaṇḍā-.
@@ -7579,10 +7578,10 @@ ten' eva upanijjhāyanalakkhaṇan[^145-9] ti vuccati. tad etaṃ
 4 B2.Bp. vanantodaka-.
 5 B2.Bp. vanacchāyappavesanaudaka-.
 6 B2. vivivekajam.
-7 B2.Bp. add pi. 
+7 B2.Bp. add pi.
 8 Bp. paccanīka-, sic passim.
 9 Bp. upanijjhāna-.
-1                     
+1
 10
 
 
@@ -7675,9 +7674,9 @@ masmiṃ pana atthavikappe cetaso ti etaṃ ekodibhāvena
 saddhiṃ yojetabbaṃ. tatrāyaṃ atthayojanā: eko udetīti
 ekodi, vitakkavicārehi anajjhārūḷhattā aggo seṭṭho hutvā
 --------------------------------------------------------------------------
-1 B2.Bp. iriyaṃ. 
+1 B2.Bp. iriyaṃ.
 2 B2.Bp. iriyati, sic passim.
-3 B2.Bp. viharatīti. 
+3 B2.Bp. viharatīti.
 4 B2.Bp. pathavī-.
 5 Vism. p. 122 f.
 6 B2.Bp. pāḷiyā.
@@ -7725,12 +7724,12 @@ vuccate: evam etaṃ siddho vāyam attho na pan' etaṃ tad
 atthadīpakaṃ nanu avocumha, oḷārikassa oḷārikassa pana[^148-8]
 aṅgassa samatikkamā paṭhamajjhānato paresaṃ dutiyajjhā-
 --------------------------------------------------------------------------
-1 B2. -virahito. 
+1 B2. -virahito.
 2 B2.Bp. ti pi vattuṃ vaṭṭati.
 3 B2.Bp. vuttan ti.
 4 B2. paṭhamajhānaṃ; Bp. paṭhamajjhānaṃ.
 5 Bp. omits pi.
-6 B2.Bp. add ca. 
+6 B2.Bp. add ca.
 7 B2. pana tena.
 8 B2.Bp. oḷārikassa pana oḷārikassa.
 
@@ -7774,12 +7773,12 @@ sampiṇḍanattho, so[^149-8] vūpasamaṃ vā sampiṇḍeti vitakkavi-
 cāravūpasam vā, tattha yadā vūpasamam eva sampiṇḍeti
 tadā pītiyā virāgā ca kiñca bhīyyo[^149-9] vūpasamā cā 'ti evaṃ
 --------------------------------------------------------------------------
-1 B2.Bp. -ppahānā. 
+1 B2.Bp. -ppahānā.
 2 Bp. -bhaṇatthaṃ.
-3 B2.Bp. add pi. 
+3 B2.Bp. add pi.
 4 B2. paṭhamaṃ jhānaṃ.
 5 Bp. cittass' ekaggatā 'ti, sic passim.
-6 B2.Bp. ceso. 
+6 B2.Bp. ceso.
 7 B2.Bp. sampasādanaṃ.
 8 B2.Bp. so hi.
 9 B2.Bp. bhiyyo, sic passim.
@@ -7821,9 +7820,9 @@ haekakkhaṇakusalattikasaṅkhepavasena ca[^150-15] Atthasāliniyā
 --------------------------------------------------------------------------
 1 B2.Bp. omit ca.
 2 B2.Bp. na nu.
-3 B2.Bp. vicāravūpasamo. 
+3 B2.Bp. vicāravūpasamo.
 4 B2.Bp. appahīnānam.
-5 B2.Bp. add evaṃ pahānaṃ. 
+5 B2.Bp. add evaṃ pahānaṃ.
 6 B2. -jananatthaṃ.
 7 B2. evam eva.
 8 B2.Bp. uppapattito.
@@ -7875,13 +7874,13 @@ upagaccheyya, pītisampayuttam eva siyā, sukhe cāpi[^151-11] sattā
 rajjanti idaṃ ca atimadhuraṃ sukhaṃ tato paraṃ sukha-
 --------------------------------------------------------------------------
 1 B2.Bp. -nayen' eva.
-2 B2. abyāpāda-. 
+2 B2. abyāpāda-.
 3 B2.Bp. aparibyatta-, sic passim.
 4 B2.Bp. omit this  ca.
 5 B2. asammussa-; Bp. asaṃmussa-.
 6 B2. upacārajhānamattam; Bp. upacārajjhanamattam.
 7 B2.Bp. abyattaṃ.
-8 B2. -pako. 
+8 B2. -pako.
 9 B2.Bp. apanītam pi, and omit taṃ.
 10 B2.Bp. -jaññārakkhena.
 11 B2.Bp. vāpi.
@@ -7925,12 +7924,12 @@ tassa ekaggatā ti, pariyāyo 'va[^152-9] c' eso, upekkhā satisaṃpajañ-
 ñāni[^152-10] ṭhapetvā nippariyāyena duvaṅgikam eva[^152-11] taṃ hoti.
 yathāha: katamaṃ tasmiṃ samaye duvaṅgikaṃ jhānaṃ
 --------------------------------------------------------------------------
-1 B2.Bp. sukhābhāvā. 
+1 B2.Bp. sukhābhāvā.
 2 B2. sukhaṃ pati-.
 3 B2. paññāpenti.
 4 B2. -pāramī-.
 5 B2.Bp. asaṅkiliṭṭhaṃ sukhaṃ.
-6 B2. pakāsento. 
+6 B2. pakāsento.
 7 B2.Bp. pi tatiyaṃ.
 8 B2.Bp. omit pi.
 9 B2.Bp. pariyāyo yeva.
@@ -8075,15 +8074,15 @@ evam ayam pi tatra majjhattupekkhā candalekhā vitakkādi-
 paccanīkadhammatejābhibhavā[^155-11] sabhāgāya ca upekkhā ve-
 danā rattiyā alābhā vijjamānāpi paṭhamādijhānabhede[^155-12] apa-
 --------------------------------------------------------------------------
-1 B2.Bp. catutthaṃ jhānaṃ. 
+1 B2.Bp. catutthaṃ jhānaṃ.
 2 B2. etassa  for p' etassa.
-3 B2.Bp. add pi. 
+3 B2.Bp. add pi.
 4 Bp. te sappaccayā.
-5 B2.Bp. add ti. 
+5 B2.Bp. add ti.
 6 B2. eten' v' ettha.
-7 Bp. sukhadukkhanirodha-. 
+7 Bp. sukhadukkhanirodha-.
 8 B2.Bp. imasmiñ hi.
-9 B2.Bp. -pārisuddhin ti. 
+9 B2.Bp. -pārisuddhin ti.
 10 Bp. -pārisuddhin ti.
 11 B2.Bp. vitakkavicārādipaccanīka-.
 12 B2.Bp. bhedesu.
@@ -8134,7 +8133,7 @@ naṃ patvā sukhaṃ viharissāmā 'ti nibbattenti, tesaṃ niro-
 5 B2.Bp. parisuddhacandalekhāya pabhā.
 6 Bp. gaṇanānupubbatā.
 7 B2.Bp. add pi.
-8 B2.Bp. satiṃ. 
+8 B2.Bp. satiṃ.
 9 B2.Bp. duvaṅgikam ev' etaṃ.
 10 B2. visamissāmā.
 11 B2.Bp. acittakā.
@@ -8180,13 +8179,13 @@ avijjāya na iñjati, obhāsagataṃ kilesandhakārena na iñjati,
 --------------------------------------------------------------------------
 1 B2.Bp. hutvā brahma-.
 2 B2.Bp. kamena.
-3 B2.Bp. eva ca. 
+3 B2.Bp. eva ca.
 4 Bp. vasīvasena.
 5 B2.Bp. kammanīy-.
 6 Bp. mudu ca.
 7 B2. -dīsu.
 8 B2.Bp. āneñjapatte, sic passim; Old.  has  ānañjappatte.
-9 S1.(D). niccale ti. 
+9 S1.(D). niccale ti.
 10 Bp. vīriyaparigahitam, sic passim.
 
 
@@ -8228,7 +8227,7 @@ nantarātītaṃ bhavaṃ ādiṃ katvā tattha tattha nivutthasan-
 tānaṃ. anussarāmīti ekam pi jātiṃ dve pi jātiyo ti evaṃ
 jātipaṭipātiṃ[^158-11] anugantvā anugantvā sarāmi, anudeva vā[^158-12]
 --------------------------------------------------------------------------
-1 B2p. add cittaṃ. 
+1 B2p. add cittaṃ.
 2 Bp. -paccanīyānaṃ.
 3 B2p. anaṅgaṇavatthusu-.
 4 B2.Bp. -vūpagamanena.
@@ -8284,10 +8283,10 @@ bhāvo pavattati. visayakkhettaṃ[^159-9] anantam aparimāṇaṃ,
 1 B2.Bp. add vā.  2 B2.Bp. -nayen'eva.
 3 B2.Bp. pakārappabhedaṃ.
 4 B2. vaḍḍhamānokappo; Bp. vaḍḍhamānakappo.
-5 B2.Bp. asaṅkhyeyyāni. 
+5 B2.Bp. asaṅkhyeyyāni.
 6 B2.Bp. add pathavī.
 7 B2.Bp. āṇākkhettaṃ, sic passim.
-8 B2. āṭānādiya-. 
+8 B2. āṭānādiya-.
 9 Bp. adds pana.
 
 
@@ -8330,34 +8329,34 @@ sandhāyā 'ti[^160-16] veditabbo.[^160-17] tatrāp'āsim evaṃ nāmo ti tatrā
 --------------------------------------------------------------------------
 1 Bp. akaṅkhyeyyā 'ti.
 2 B2p. saṇṭhahantaṃ pi.
-3 Bp. saṇṭhāhanañ ca. 
-4 Vism. 414. 
+3 Bp. saṇṭhāhanañ ca.
+4 Vism. 414.
 5 B2.Bp. pan' ete.
 6 B2. sariṃ.
 7 B2. -dukkhaṃ paṭisaṃvedin ti.
-8 B2. -vediṃ. 
+8 B2. -vediṃ.
 9 B2.Bp. add vā.
 10 B2.Bp. udapādin ti.
 11 B2.Bp. ahaṃ.
 12 B2.Bp. omit vā.
 13 B2.Bp. udapādiṃ, sic passim.
-14 B2.Bp. imissā. 
+14 B2.Bp. imissā.
 15 B2. Tussita-.
 16 B2.Bp. sandhāyāhā 'ti
 17 Bp. veditabbaṃ.
      .p
 161
-1 B2. Tussita. 
-2. B2. -vedin ti. 
+1 B2. Tussita.
+2. B2. -vedin ti.
 3 B2. -vediṃ
-4 B2.Bp. kucchimhi. 5 B2.Bp. add datto. 
+4 B2.Bp. kucchimhi. 5 B2.Bp. add datto.
 6 B2.Bp. uddisiyati.
 7 B2. gottauddeso.  8 B2.Bp. yeva.
-9 B2.Bp. kappasatasahassaṃ. 
+9 B2.Bp. kappasatasahassaṃ.
 10 B2.Bp. asaṅkhyeyyaṃ, sic passim.
-11 B2.Bp. paccekabuddhā. 
+11 B2.Bp. paccekabuddhā.
 12 B2.Bp. tapaṭicchā-.
-     I                               
+     I
 11
 
 
@@ -8488,18 +8487,18 @@ kho sañjānāmi na ca rūpāni passāmi, rūpāni hi kho passāmi
 na ca obhāsaṃ sañjānāmīti evam ādi, tad evaṃ ekādasūpak-
 --------------------------------------------------------------------------
 1 B2. pisemharuhi-; Bp. pittasemharuhi-.
-2 Bp. apali-. 
+2 Bp. apali-.
 3 B2.Bp. upakkilesavinimu-.
 4 B2.Bp. -cakkhu hoti.
-5 B2.Bp. -cakkhu. 
+5 B2.Bp. -cakkhu.
 6 B2. -karaṇaṭṭhena.
 7 B2.Bp. ativattati.
 8 B2.Bp. -bhayañ ca.
 9 B2.Bp. ekādasaupakkilesa-.  10 B2.Bp. Anuruddha. M.iii, 162.
-11 B2.Bp. add upakkileso. 
+11 B2.Bp. add upakkileso.
 12 B2.Bp. thinamiddhaṃ.
 13 Bp. uppilavaṃ; B2. uppillaṃ.
-14 Bp. Anuruddha. 
+14 Bp. Anuruddha.
 15 B2.Bp. ātāpī.
 
 
@@ -8547,12 +8546,12 @@ katvā ime sattā etaṃ sampattiṃ anubhavantīti. ath' assa
 4 B2.Bp. -mānussakaṃ, sic passim.
 5 B2.Bp. upapajja-.
 6 B2.Bp. upapatti-.
-7 B2. uññāte; Bp. oññāte. 
-8 B2. -kantāmanāpa-. 
+7 B2. uññāte; Bp. oññāte.
+8 B2. -kantāmanāpa-.
 9 B2.Bp. abhirūpe virūpe ti.
-10 B2.Bp. dalidde. 
+10 B2.Bp. dalidde.
 11 Bp. -gaññāṇa-.
-12 B2.Bp. so heṭṭhā. 
+12 B2.Bp. so heṭṭhā.
 13 B2.Bp. etaṃ.
 
 
@@ -8597,7 +8596,7 @@ avacaṃ taṃ me khamāhīti khamāpetabbo, sace navakataro
 --------------------------------------------------------------------------
 1 B2.Bp. omit  kammaṃ.
 2 B2. kammupa-; Bp. -pagaññāṇaṃ.
-3 B2.Bp. saññāṇassāpi. 
+3 B2.Bp. saññāṇassāpi.
 4 B2.Bp. duṭṭhuṃ.
 5 B2.Bp. gihiso-.
 6 B2.Bp. atibhāriyaṃ.
@@ -8646,7 +8645,7 @@ saggamokkhahetubhūtā puññasammatā ayā apetattā su-
 --------------------------------------------------------------------------
 1 B2. paggahitvā.
 2 B2.Bp. tumhe.
-3 B2. khamati. 
+3 B2. khamati.
 4 B2.Bp. omit khamapetabbaṃ.
 5 Bp. -tabbo.
 6 B2.Bp. sivathikaṃ.
@@ -8697,12 +8696,12 @@ khayo ti vuccati, tatra c' taṃ ñāṇaṃ tattha[^167-10] pariyāpannattā
 2 B2.Bp. apetattā.
 3 B2. avinipātattā.
 4 B2.Bp. upapannā.
-5 B2. -gatiṃ pi. 
+5 B2. -gatiṃ pi.
 6 B2.Bp. omit ti.
 7 B2.Bp. omit this sentence.  8 B2.Bp. padāletvā, sic passim.
 9 B2.Bp. add ti.  dibbacakkhuñāṇakathā niṭṭhitā.
 10 B2.Bp. tappariyā- for  tattha pariyā-.
-     .pa            
+     .pa  
 168
 1 B2.Bp. vimuttamhīti.
 2 B2.Bp. ādīni.
@@ -8789,9 +8788,9 @@ cakkhuṇā paccuppannānāgataṃsañāṇaṃāsavakkhayena
 sakalalokiyalokuttaraguṇan ti evaṃ tīhi vijjāhi sabbe pi
 sabbaññuguṇe pakāsetvā attano ariyāya jātiyā jeṭṭha-
 seṭṭhabhāvaṃ brāhmaṇassa dassesi.[^169-11] āsavakkhayakathā[^169-12]
-niṭṭhitā. ||8||  
+niṭṭhitā. ||8||
 --------------------------------------------------------------------------
-1 B2.Bp. etaṃ. 
+1 B2.Bp. etaṃ.
 2 B2. brahma-.
 3 See above, p. 162, note 5.  4 B2. brahmaṇa, sic passim.
 5 B2. -paricchādakaṃ.
@@ -8847,7 +8846,7 @@ desanaṃ āgamma mama pasādo.[^170-6] bhagavato yeva vā vacanaṃ
 2 B2.Bp. vijjattayapakāsitāya.
 3 B2 -jeṭṭhaṃ, and omits seṭṭhaṃ; Bp. -jeṭṭhaseṭṭhasabba-.
 4 B2 omits  pana.
-5 B2.Bp. omit  atikantaṃ. 
+5 B2.Bp. omit  atikantaṃ.
 6 B2.Bp. add ti.
 
 
@@ -8890,14 +8889,14 @@ Gotamaṃ saraṇan ti gacchāmi bhavaṃ me Gotamo saraṇaṃ
 parāyanaṃ aghassa tātā[^171-10] hitassa ca vidhātā ti iminā adhip-
 pāyena bhavantaṃ Gotamaṃ gacchāmi bhajāmi sevāmi
 --------------------------------------------------------------------------
-1 B2.Bp. catūhi. 
+1 B2.Bp. catūhi.
 2 B2. -cātūddasī.
-3 B2.Bp. caturaṅga-. 
+3 B2.Bp. caturaṅga-.
 4 B2.Bp. vuṭṭhāpentena.
 5 B2. paṭicchanna-.
 6 B2 -kāra-.
 7 B2.Bp. -ratanattayarūpāni.  8 B2.Bp. and pi.
-9 B2.Bp. bhavantaṃ. 
+9 B2.Bp. bhavantaṃ.
 10 B2.Bp. hatā (tātā=trāt0r).
 
 
@@ -8940,7 +8939,7 @@ gahetabbo ti. upāsakaṃ maṃ bhavaṃ Gotamo dhāretū 'ti
 maṃ bhavaṃ Gotamo, upāsako ayaṃ ti evaṃ dhāretū 'ti
 attho. upāsakavidhikosallatthaṃ pan' ettha ko upāsako,
 --------------------------------------------------------------------------
-1 B2. payirūpāsāmi. 
+1 B2. payirūpāsāmi.
 2. B2. ca  for catusu.
 3 dhammā-asaṅkhatā; Ch. Fa-put-so.
 4 B2. eva.
@@ -8991,13 +8990,13 @@ acopetvā abbhantare yeva khantiṃ cāretvā[^173-12] tuṇhībhāvena
 adhivāsesi, brāhmaṇassa anuggahatthaṃ manasā 'va, sam-
 --------------------------------------------------------------------------
 1 B2.Bp. idaṃ.
-2 B2.Bp. add etta. 
+2 B2.Bp. add etta.
 3 B2. nigandhānaṃ.
 4 B2ṇigandhīnaṃ.  5 B2.Bp. veḷa-.
 6 B2.Bp. dvipadā.
-7 A. v, 21. 
+7 A. v, 21.
 8 B2. chindeyyaṃ; Bp. chindeyya.
-9 B2.Bp. attasanniyyātanaṃ. 
+9 B2.Bp. attasanniyyātanaṃ.
 10 B2.Bp. niyyā-.
 11 B2.Bp. vāsaṃ.
 12 B2. vicāretvā; Bp. dhāretvā.
@@ -9040,9 +9039,9 @@ irīyanaṃ[^174-16] pavattanam jīvitan ti ādīni pi padāni ekatthāni,
 tasmā dukkhena īhitaṃ ettha pavattatīti[^174-17] dvīhitikā[^174-9] ti ayam
 --------------------------------------------------------------------------
 1 B2. apaṭikkhīpitvā; Bp. appaṭikkhipitvā.
-2 B2. vicāresi; Bp. dhāresi. 
+2 B2. vicāresi; Bp. dhāresi.
 3 B2.Bp. vanditvā.
-4 Sic. 
+4 Sic.
 5 Bp. patiṭṭhāpetvā.
 6 B2. -metvā.
 7 B2.Bp. atisamagghe.
@@ -9050,11 +9049,11 @@ tasmā dukkhena īhitaṃ ettha pavattatīti[^174-17] dvīhitikā[^174-9] ti aya
 9 S1.(D). dvīhītikā.
 10 S1.(D). īhītikā.
 11 S1.(D). B2.Bp. īhitaṃ.
-12 S1.(D). omits cittairiyā. 
+12 S1.(D). omits cittairiyā.
 13 S1.(D). adds pi.
-14 S1.(D). B2.Bp. dujjīvikā. 
+14 S1.(D). B2.Bp. dujjīvikā.
 15 S1.(D). īhīti; B2.Bp. īhitaṃ.
-16 S1.(D). iriyānipa-. 
+16 S1.(D). iriyānipa-.
 17 S1.(D). pavattīti.
 
 
@@ -9090,7 +9089,7 @@ yaṃ ariyā uñchaṃ karonti, bhikkhācariyaṃ caranti, tena
 uñchena yāpetuṃ na sukarā ti vuttaṃ hoti. tadā kira tattha
 sattaṭṭhagāme piṇḍāya caritvā ekadivasam pi yāpanamattaṃ
 na labhanti.
-tena kho pana samayena uttarāpathakā[^175-9] assavāṇijā --pe-- 
+tena kho pana samayena uttarāpathakā[^175-9] assavāṇijā --pe--
 assosi kho bhagavā udukkhalasaddan ti, tenā 'ti yasmiṃ samaye
 bhagavā Verañjaṃ upanissāya vassāvāsaṃ upagato tena
 samayena. uttarāpathavāsikā uttarāpathato vā āgatattā
@@ -9100,12 +9099,12 @@ evaṃ laddhavohārā assavāṇijā uttarāpathe[^175-10] assānaṃ uṭṭhā
      sānaṃ.
 2 B2.Bp. aṭṭhīhi.
 3 B2.Bp. paṇḍaraṃ paṇḍaraṃ.
-4 B2.Bp. jīvitaṃ vattentīti. 
+4 B2.Bp. jīvitaṃ vattentīti.
 5 Bp. -vikkayikānaṃ.
 6 Bp. kayikesu.
 7 Bp. -ssā 'vaṃ.
-8 Bp. -yikā. 
-9 Sp. uttara-. 
+8 Bp. -yikā.
+9 Sp. uttara-.
 10 B2. repeats uttarā.
 
 
@@ -9150,9 +9149,9 @@ patthapatthapulakaṃ dadeyyāma, evaṃ ayyā ca na kila-
 1 B2. parikkhī-.
 2 B2.Bp. -mūlakaṃ.
 3 S1.(D). B2.Bp. mūlakaṃ, sic passim.
-4 S1.(D). nāli-. 
+4 S1.(D). nāli-.
 5 B2. nāla-; Bp. nāḷi-.
-6 B2.Bp. add assaddhā. 
+6 B2.Bp. add assaddhā.
 7 B2. pavīsantā.
 8 Sp. mayañ c' amhā āgantukā; Bp. mayañ c' a' āgantukā.
 
@@ -9199,7 +9198,7 @@ eva hoti. atha naṃ piṃsitvā sappiādīhi samāyojetvā bhaga-
 1 B2. paññāvapesuṃ; Bp. paññapesuṃ.
 2 B2.Bp. -sen' etaṃ.  3 B2.Bp. kāyena.
 4 B2.Bp. -paṭicchādetvā.
-5 B2.Bp. add vā. 
+5 B2.Bp. add vā.
 6 B2.Bp. pakkamantī.
 7 Bp. aṭṭha aṭṭha-.
 8 Generally  tadūp-.  See Muller, Pāli Grammar, p. 12.
@@ -9251,7 +9250,7 @@ Campā-Sāvatthi-Rājagahādīni, sace pi bhagavā tasmiṃ saṃ-
 7 B2.Bp. repeat tesu.
 8 B2.Bp. omit ca.
 9 Bp. adds pana.
-10 B2.Bp. pisitvā. 
+10 B2.Bp. pisitvā.
 11 Bp. adaṃsu.
 12 B2. āvaṭṭitvā.
 13 B2. mohitvā.
@@ -9294,16 +9293,16 @@ parihāradassanatthaṃ vuttaṃ. tatrāyaṃ saṅkhepavaṇṇanā:
 tathāgatā nāma jānantāpi sace tādisaṃ pucchākāraṇaṃ hoti
 pucchanti, sace pana tādisaṃ pucchākāraṇaṃ n' atthi jānan-
 --------------------------------------------------------------------------
-1 B2.Bp. upagacchi. 
-2 B2.Bp. āvattita- for mārāvaṭṭita-. 
+1 B2.Bp. upagacchi.
+2 B2.Bp. āvattita- for mārāvaṭṭita-.
 3 B2. nāvaṭṭesīti; Bp. nāvaṭṭetīti.
-4 B2.Bp. avisahatāya. 
+4 B2.Bp. avisahatāya.
 5 B2.Bp. antarāyaṃ.
 6 B2.Bp. nibaddhadānāppitavattasaṅkhepena.
 7 B2.Bp. asītiyā anu-.
 8 B2.Bp. -sūriya-.
 9 B2.Bp. vihatānu-.
-10 Bp. adds ti. 
+10 Bp. adds ti.
 11 B2.Bp. paribhuñjatīti.
 12 B2. omits ti.
 13 B2. -janitaudu-.
@@ -9350,10 +9349,10 @@ khaṃ vijitaṃ abhibhūtaṃ attano vase vattitaṃ. kathaṃ
 lobho vijito. ayaṃ Verañjā dubbhikkhā samantato pana
 antarā[^180-8] gāmanigamā phalabhāranamitasassā subhikkhā su-
 --------------------------------------------------------------------------
-1 Bp. -nissataṃ. 
+1 Bp. -nissataṃ.
 2 Bp. atthasannissitaṃ.
 3 B2. desissāmā.
-4 B2.Bp. add hi. 
+4 B2.Bp. add hi.
 5 B2. has one pattha.
 6 Bp. -lābha-.
 7 B2.Bp. sāmapāka-.
@@ -9400,11 +9399,11 @@ mā avoca. thero kira pabbajitvā sattame divase sāvaka-
 --------------------------------------------------------------------------
 1 B2. pacchimakāya.
 2 B2.Bp. upagacchāmā.
-3 B2.Bp. kismiñci. 
+3 B2.Bp. kismiñci.
 4 B2.Bp. guṇavānijjaṃ.
 5 B2.Bp. paṭhamassa jhānassa.
 6 B2.chaḷā-.
-7 B2. nisinno. 
+7 B2. nisinno.
 8 B2.Bp. aloṇaṃ.
 9 B2. akiloṇaṃ; Bp. atiloṇam.  10 B2. uññātaṃ.
 11 Bp. sabrahmacārī-.
@@ -9448,23 +9447,23 @@ theraṃ sīhanādaṃ nadāpetuṃ pucchi: ye pana te[^182-18] Moggal-
 lāna puthavinissitā pāṇā te kathaṃ karissasīti, ye puthavinis-
 sitā gāmanigamādisu pāṇā te paṭhaviyā parivattiyamānāya[^182-19]
 --------------------------------------------------------------------------
-1 A. i, 23.  2 B2.Bp. pathaviṃ. 
+1 A. i, 23.  2 B2.Bp. pathaviṃ.
 3 Bp. adds ti.
-4 B2.Bp. heṭṭhimatalaṃ. 
+4 B2.Bp. heṭṭhimatalaṃ.
 5 B2.Bp. paṭhavī-.
-6 B2.Bp. upapanna-. 
+6 B2.Bp. upapanna-.
 7 S1.(D). B2.Bp. khudda-.
-8 B2. anīla-. 
+8 B2. anīla-.
 9 B2. pan' assā.
 10 Bp. -madhu.
 11 Bp. madhu.
-12 B2.Bp. khuddamadhuṃ. 
+12 B2.Bp. khuddamadhuṃ.
 13 B2. anīlakaṃ.
-14 B2.Bp. pathavī-, sic passim. 
+14 B2.Bp. pathavī-, sic passim.
 15 B2.Bp. heṭṭhima-.
-16 B2.Bp. paṭhavī-. 
+16 B2.Bp. paṭhavī-.
 17 Bp. ananujānātu-.
-18 B2. ye pan' ete. 
+18 B2. ye pan' ete.
 19 B2. parivattaya-.
 
 
@@ -9506,15 +9505,15 @@ vattetun ti.
 atha thero imaṃ yācanaṃ alabhamāno aññaṃ yācanto
 sādhu bhante ti ādim āha. tam pi'ssa bhagavā paṭikkhipanto[^183-11]
 --------------------------------------------------------------------------
-1 B2.Bp. add tato. 
+1 B2.Bp. add tato.
 2 B2. -kkhīpento.
-3 B2. idānimeva. 
+3 B2. idānimeva.
 4 B2.Bp. omit ca.
 5 B2. -pūri-.
 6 B2.Bp. na before amhākaṃ.
 7 B2.Bp. omit na.
 8 B2. idaṃ for  imaṃ.
-9 B2. se  for te. 
+9 B2. se  for te.
 10 Bp. pathavī.
 11 B2. paṭikkhīpento.
 
@@ -9560,11 +9559,11 @@ bhante hetū'ti ādim āha. tattha ko nu kho bhante ti kāraṇapuc-
 --------------------------------------------------------------------------
 1 B2. -hetvā.
 2 B2.Bp. -kuruṃ.
-3 B2.Bp. add ca. 
+3 B2.Bp. add ca.
 4 B2.Bp. salīnassa.
 5 Bp. ekī-.
 6 B2. cīraṃ, sic passim.
-7 B2. chaṭṭetvā. 
+7 B2. chaṭṭetvā.
 8 B2.Bp. add ti.
 9 B2. adds  taṃ.
 10 Bp. omits pucchaṃ.
@@ -9607,19 +9606,19 @@ vuttam eva. apaññattaṃ sāvakānaṃ sikkhāpadan ti sāva-
 kānaṃ niddosatāya dosānurūpato paññāpetabbaṃ[^185-17] sattā-
 pattikkhandhavasena āṇāsikkhāpadaṃ apaññattaṃ. anud-
 --------------------------------------------------------------------------
-1 B2.Bp. add ca. 
+1 B2.Bp. add ca.
 2 B2.Bp. uttānattham eva.
-3 B2.Bp. have one bhagavā. 
+3 B2.Bp. have one bhagavā.
 4 B2.Bp. kilā-.
-5 B2.Bp. -kila-. 
+5 B2.Bp. -kila-.
 6 B2.Bp. omit ahesuṃ.
 7 Bp. -vīri-.
 8 B2.Bp. add dhammaṃ.
-9 B2. pariyāya. 
+9 B2. pariyāya.
 10 B2.Bp. add hi.
-11 B2.Bp. -diseneva. 
+11 B2.Bp. -diseneva.
 12 B2. padhāvati; Bp. dhāvati.
-13 B2. pe  for me. 
+13 B2. pe  for me.
 14 Sp. buddhaṃ.
 15 B2.Bp. parisāya.
 16 B2.Bp. nesaṃ.
@@ -9668,9 +9667,9 @@ vadanti buddhā:
 3 B2. -ṭṭhānūpo-.
 4 B2.Bp. vīsati-.
 5 B2. -citā; Bp. -cikā.
-6 B2. āgāmaniya. 
+6 B2. āgāmaniya.
 7 B2.Bp. -māsiyā.
-8 B2.Bp. add vā. 
+8 B2.Bp. add vā.
 9 Bp. Vipassiṃ.
 10 B2.Bp. add na; Dhammapada 184 -ghātī.
 
@@ -9715,12 +9714,12 @@ khamma pabbajitā. te taṃ brahmacariyan ti te pacchimasā-
 --------------------------------------------------------------------------
 1 For the verses see Dhammapada 183, 184, 185.  Sp.Bp. panthañ  for
      patthañ.
-2 B2.pa. 
+2 B2.pa.
 3 B2.Bp. add va.
 4 B2.Bp. add pana.
 5 B2.Bp. pacchimā-.
 6 B2.Bp. vividhanāmā.
-7 B2.Bp. vividhagottā. 
+7 B2.Bp. vividhagottā.
 8 Sp. -kūlā.
 
 
@@ -9760,19 +9759,19 @@ attā subhan ti mā manasi akattha.[^188-15] idaṃ pajahathā 'ti aku-
 salaṃ pajahatha. idaṃ upasampajja viharathā 'ti kusalaṃ
 upasampajja paṭilabhitvā nipphādetvā viharatha.[^188-16] anupā-
 --------------------------------------------------------------------------
-1 B2.Bp. pacchimā. 
+1 B2.Bp. pacchimā.
 2 B2. sāsana-.
 3 B2. vihedhentā.
 4 B2.Bp. taṃ.
-5 B2.Bp. khippañ ñeva. 
+5 B2.Bp. khippañ ñeva.
 6 B2. vikkhīpati.
 7 B2.Bp. -gahitattā.
 8-8 B2.Bp. suttena asaṅgahitattā agandhitattā abandhattā.
-9 B2.Bp. vikiriya-. 
+9 B2.Bp. vikiriya-.
 10 B2.Bp. sāvake.
-11 B2.Bp. addaṃsu. 
+11 B2.Bp. addaṃsu.
 12 B2. bhisana-, sic passim.
-13 B2.Bp. bhayajananake. 
+13 B2.Bp. bhayajananake.
 14 B2.Bp. manas' ākaritthā.
 15 B2.Bp. -akarittha.
 16 Sp. virahatha.
@@ -9822,7 +9821,7 @@ naṃ haṃsanti appakānaṃ atisūrapurisānaṃ na haṃsanti.
 4 B2. arahattaṃ pattā; Bp. arahattaṃ patvā.
 5 B2. pūrima-.
 6 B2. bhisanakakiriyāya; Bp. bhiṃsanakriyāya.
-7 Sp. bhūmmam. 
+7 Sp. bhūmmam.
 8 B2. omit sudaṃ.
 9 B2.Bp. -ssāmī-.
 10 Bp. adds ti.
@@ -9874,8 +9873,8 @@ Kassapassa bhagavato upaḍḍhāyuppamāṇe[^190-7] dasavassasa-
 --------------------------------------------------------------------------
 1 B2. evaṃ yv āyaṃ; Bp. evam assa yv āyaṃ.
 2 B2.Bp. cattālīsa-.
-3 B2. -tikakāraṇaṃ. 
-4 B2.Bp. sutvā. 
+3 B2. -tikakāraṇaṃ.
+4 B2.Bp. sutvā.
 5 B2.Bp. cattālīsa-.
 6 B2. Konā-, corrected to Koṇā-; Bp. Koṇā-.
 7 B2. -yupamāṇe; Bp. -yukappamāṇe.
@@ -9920,16 +9919,16 @@ samparāyikā parūpavādavippaṭisāravadhabandhanādayo[^191-13] c'
 eva apāyadukkhavisesabhūtā ca āsavā tiṭṭhanti yeva, yasmā
 --------------------------------------------------------------------------
 1 Bp. omits eka.
-2 B2. omits pi. 
+2 B2. omits pi.
 3 B2.Bp. na ciraṭṭhi-.
 4 The Chinese translation (Tokyo ed.), folio 27a.
 5 B2.-tikakāraṇaṃ.
 6 B2. -vidhiṃ.
 7 B2. paṭikkhīpi-.
-8 B2. āvīkaronto. 
-9 Sp. bhūmma-. 
+8 B2. āvīkaronto.
+9 Sp. bhūmma-.
 10 B2.Bp. omit tayā.
-11 Bp. paññape-. 
+11 Bp. paññape-.
 12 B2. eva.
 13 Bp. inserts  dukkhāsavā kilesāsavā ca before parū-.
 
@@ -9973,14 +9972,14 @@ kira me iminā rogo tikicchito nanu me ayaṃ dukkhañ ca
 janesi[^192-14] lohitakkhayañ ca pāpesīti, evaṃ upavadeyya c' eva
 --------------------------------------------------------------------------
 1 Bp. panñape-.
-2 B2. paññā-. 
+2 B2. paññā-.
 3 B2. palivedhissati.
-4 B2.Bp. add ca. 
+4 B2.Bp. add ca.
 5 B2.Bp. upacchindissati.
 6 B2.Bp. jīvitaṃ.
-7 B2.Bp. kiñci. 
+7 B2.Bp. kiñci.
 8 Bp. pakkosāpetvā.
-9 B2. Bp. ehi bho. 
+9 B2. Bp. ehi bho.
 10 B2. tikicchāhīti.
 11 B2.Bp. vutte.
 12 B2.Bp. add taṃ.
@@ -9998,7 +9997,7 @@ evam evaṃ[^193-2] yadi anuppanne vītikkamadose satthā sāvakānaṃ
 sikkhāpadaṃ paññapeyya parūpavādādīhi ca na parimuc-
 ceyya na c' āssa thāmaṃ vā balaṃ vā sattā jāneyyuṃ pañ-
 ñattam pi sikkhāpadaṃ kuppeyya na yathāṭṭhāne tiṭṭheyya,
-tasmā vuttaṃ na tāva Sāriputta satthā sāvakānaṃ --pe-- 
+tasmā vuttaṃ na tāva Sāriputta satthā sāvakānaṃ --pe--
 pātubhavantīti.
  evaṃ akālaṃ dassetvā puna kālaṃ dassetuṃ yato ca kho
 Sāriputtā 'ti ādim āha. tattha yato ti yadā yasmiṃ kāle ti
@@ -10037,7 +10036,7 @@ mahantabhāvan ti attho. tatra rattaññumahattaṃ[^193-12] patte
 10 B2.Bp. -ññū.
 11 B2.Bp. bahukā rattiyo.
 12 B2. rattaññū-.
-     I                
+     I
 13
 
 
@@ -10078,15 +10077,15 @@ pajjanti, patte pana uppajjanti. atha satthā[^194-19] sikkhāpadaṃ
 --------------------------------------------------------------------------
 1 B2.Bp. -rikaṃ.
 2 B2.Bp. omit kho.
-3 B2. paññā-. 
+3 B2. paññā-.
 4 Vin., Mahā-vagga, i, 31.
 5 Bp. -vassāmhā.
-6 Sp. -amhā. 
+6 Sp. -amhā.
 7 B2.Bp. omit  dasavassena.
-8 Mahāvagga, i, 31. 
+8 Mahāvagga, i, 31.
 9 B2. rattaññū-.
 10 B2.Bp. satthāsāvakānaṃ   for satthā 'va.
-11 B paññāpesi. 
+11 B paññāpesi.
 12 B2.Bp. uttaridiratta-.
 13 Pācittiya, 5 (Vin., vol. iv, p. 16).
 14 B2. eka-.
@@ -10137,14 +10136,14 @@ bhāvo evaṃ veditabbo ti dassento imesaṃ hi Sāriputtā 'ti
 1 B2. paññā-.
 2 B2.Bp. -nīyaṃ vā bhojanīyaṃ.
 3 Pācittiya, 41 (vin., vol. iv, p. 92).
-4 Bp. bāhussacca-. 
+4 Bp. bāhussacca-.
 5 B2.Bp. -ditvā.
 6 Pācittiya, 68 (Vin., vol. iv, p. 135).
 7 B2. asamaṇā va.
 8 B2. -paṭiññātāya.
 9 Bp. adds ti.
 10 B2. nirūpasaggo; Bp. nirupasaggo.
-11 B2.Bp. -navavirahito. 
+11 B2.Bp. -navavirahito.
 12 B2.Bp. add apahatakāḷako.
 13 B2. sāro ti vuccanti; Bp. sāro vuccanti.
 
@@ -10193,7 +10192,7 @@ mamaṇḍalan ti, imesaṃ tiṇṇaṃ maṇḍalānaṃ aññatarasmiṃ
 --------------------------------------------------------------------------
 1 Bp. adds iti.  S. v, 347.
 2 B2. parikkharā.
-3 Bp. vinipatanaṃ. 
+3 Bp. vinipatanaṃ.
 4 B2. pan' ettan ti.
 
 
@@ -10243,7 +10242,7 @@ vassānañ ca adhigataguṇārocanatthaṃ uparikammaṭṭhāna-
 7 B2.Bp. nibbānaṃ ārammaṇaṃ.
 8 B2.Bp. add devasikaṃ.
 9 B2.Bp. add vuṭṭhahitvā.
-10 B2.Bp. -sattasamavalokanaṃ. 
+10 B2.Bp. -sattasamavalokanaṃ.
 11 B2.Bp. -sandhāra-.
 12 B2. pūre.
 
@@ -10343,10 +10342,10 @@ deyyadhammo sve ekadivasen' eva dātuṃ sakkā hotīti. tato
 4 B2.Bp. evam ettha.
 5 B2. adds va.
 6 B2.Bp. -pāmojjañ.
-7 B2.Bp. sace ahaṃ. 
+7 B2.Bp. sace ahaṃ.
 8 B2.Bp. garahitvā.
-9 B2. nesaṃ. 
-10 B2. vassitvā. 
+9 B2. nesaṃ.
+10 B2. vassitvā.
 11 Bp. pakkami.
 
 
@@ -10389,15 +10388,15 @@ bahunā catusu paccayesu na koci parikkhāro samaṇapari-
 --------------------------------------------------------------------------
 1 Bp. parisaṃ for divasaṃ.
 2 B2. alaṅkarāpetvā.
-3 Bp. paññapetvā. 
+3 Bp. paññapetvā.
 4 Bp. -vicitraṃ mahā-.
 5 B2. suṭṭhuṃ.
 6 B2.Bp. omit alaṃ.
-7 B2. mūkha-. 
+7 B2. mūkha-.
 8 B2. paṭikkhī-.
 9 B2.Bp. bhuttāvin.
 10 B2.Bp. add ca.
-11 B2. pattaṇṇa-. 
+11 B2. pattaṇṇa-.
 12 Bp. -paṭṭa-.
 13 B2.Bp. phāletvā  twice.
 14 B2. -aṃsabandhaka-; Bp. -aṃsabaddhaka-.
@@ -10427,7 +10426,7 @@ gahetvā gantukāmo Soreyyādīni anupagamma Payāgapatiṭ-
 tad avasari. tena avasari tad avasari. tatrāpi yathājjhā-
 sayaṃ yathārucitaṃ vā[^201-8] viharitvā Vesāliṃ agamasi. tena
 vuttaṃ: anupagamma Soreyyaṃ --pe-- Vesāliyaṃ viharati
-Mahāvane Kūṭāgārasālāyan ti.[^201-9] ||4||  
+Mahāvane Kūṭāgārasālāyan ti.[^201-9] ||4||
 
        Samantapāsādikāya vinayasaṃvaṇṇanāya
           Verañjakaṇḍavaṇṇanā niṭṭhitā.[^201-10]
@@ -10446,7 +10445,7 @@ viññūnam ayaṃ tasmā Samantapāsādikā tv' eva.
 3 B2.Bp. omit  'va.
 4 Bp. anubandhitvā.
 5 B2.Bp. add ti.
-6 B2.Bp. -cārikāya caraṇa-. 
+6 B2.Bp. -cārikāya caraṇa-.
 7 B2.Bp. Gaṅgaṃ nadiṃ.
 8 B2.Bp. omit yathārucitaṃ vā.
 9 Chinese translation (Tokyo ed.),  folio 29b.
@@ -10493,15 +10492,15 @@ yan nūnāham[^202-12] pi dhammaṃ suṇeyyan ti, tattha yan nūnā[^202-12]
 uppanno yam ayaṃ parisā ekaggacittā dhammaṃ suṇāti,
 aho vatāham pi taṃ suṇeyyan ti.
 --------------------------------------------------------------------------
-1 B2,Bp.  yebhuyyena. 
+1 B2,Bp.  yebhuyyena.
 2 B2.sampahūlehīti.
-3 B2. pahukehi; Bp. bahukehi. 
+3 B2. pahukehi; Bp. bahukehi.
 4 B2. adds ca.
-5 Bp. -kīḷā-. 
+5 Bp. -kīḷā-.
 6 Sp. addasā.
-7 B2. suṭṭhumālā. 
+7 B2. suṭṭhumālā.
 8 B2.Bp. kva.
-9 Sp. āgacchāmīti. 
+9 Sp. āgacchāmīti.
 10 B2. catubbīdhāya.
 11 B2.Bp. parivutaṃ.
 12 B2. yaṃ nunāham.
@@ -10544,14 +10543,14 @@ pabbajjaṃ. pabbajeyyan ti parivajeyyaṃ[^203-12] aciravuṭṭhitāya
 parisāya yena bhagavā ten' upasaṅkamīti Sudinno aciravuṭ-
 ṭhitāya[^203-13] parisāya na bhagavantaṃ pabbajjaṃ yāci. kasmā.
 --------------------------------------------------------------------------
-1 Bp. mahatī-. 
+1 Bp. mahatī-.
 2 B2.Bp. -kamanto.
 3 B2. sikkhattayupasañhitaṃ; Bp. sikkhattayūpasaṃhitaṃ.
-4 Bp. amalīnaṃ. 
+4 Bp. amalīnaṃ.
 5 B2 adds ti.  6 B2. yaṃ nunāhaṃ.
-7 B2. kāsāya-. 
+7 B2. kāsāya-.
 8 B2 Bp. agārasmā.
-9 B2. anāgāriyaṃ. 
+9 B2. anāgāriyaṃ.
 10 B2.Bp. -yyan ti.
 11 B2. kasivāṇijādi-; Bp. kasivānijjādi-.
 12 B2. paṭipajjeyyaṃ; Bp. paribbajeyyaṃ.
@@ -10602,13 +10601,13 @@ nusārena ñātabbaṃ. maraṇena pi mayaṃ te akāmakā vinā
 3 B2. mātāpītūnaṃ; Bp. mātāpitūnaṃ.
 4 B2.Bp. uṭṭhahitvā.
 5 B2.Bp. pabbajitato.
-6 B2.Bp. naṃ for taṃ. 
+6 B2.Bp. naṃ for taṃ.
 7 B2. -pītūhi.
-8 B2. dhūra-. 
+8 B2. dhūra-.
 9 Bp. adds ti.
-10 Bp. -ppayojana-. 
+10 Bp. -ppayojana-.
 11 B2. -kiḷāyaṃ; Bp. -kīḷayaṃ.
-12 B2. anukampavasena. 
+12 B2. anukampavasena.
 13 B2. aṅgato aṅgaṃ.  14 Sp. samana-.
 
 
@@ -10652,16 +10651,16 @@ taṃ[^205-8] gahetvā piṇḍāya caritabbaṃ ekaseyyā[^205-9] ekabhattaṃ
 brahmacariyaṃ atidukkaraṃ ayañ ca sukhumālo nāgariya-
 jātiyo[^205-10] so taṃ[^205-11] asakkonto na[^205-12] cirass' eva āgamissati, hand'
 --------------------------------------------------------------------------
-1 B2.Bp. omit  vā. 
-2 B2. -pītaro. 
+1 B2.Bp. omit  vā.
+2 B2. -pītaro.
 3 B2.Bp. -kādīni.
-4 B2.Bp. -paṭṭhapetvā. 
+4 B2.Bp. -paṭṭhapetvā.
 5 B2.Bp. add tattha.
-6 Bp. -maggasodhakāni. 
+6 Bp. -maggasodhakāni.
 7 B2. nillāpasallāpo.
-8 B2. mattikapattaṃ. 
+8 B2. mattikapattaṃ.
 9 B2.Bp. ekaseyyaṃ.
-10 B2.Bp. nāgarikajā-. 
+10 B2.Bp. nāgarikajā-.
 11 B2.Bp add carituṃ.
 12 B2.Bp. puna idh' eva for na cirass' eva.
 
@@ -10704,16 +10703,16 @@ vattati carati viharati. āraññiko[^206-9] hotīti gāmantasenāsanaṃ
 paṭikkhipitvā[^206-10] āraññakadhutaṅgavasena[^206-11] araññavāsiko[^206-12] hoti.
 piṇḍapātiko ti atirekalābhapaṭikkhepena cuddasabhattāni
 --------------------------------------------------------------------------
-1 Old.  Vin.  gahetvā. 
+1 Old.  Vin.  gahetvā.
 2 B2.Bp. ucchādananhānādīhi.
 3 B2. assumūkhaṃ.
 4 B2.paṭisuṇitvā; Bp. paṭissuṇitvā.
-5 S. Vin. 330. 
+5 S. Vin. 330.
 6 B2. acīr-.
 7 B2. cīra-; Bp. cirakāle yevā. 8 Suttavibhaṅga has dhūtaguṇe.
-9 B2. āraññako. 
+9 B2. āraññako.
 10 B2. paṭikkhīpitvā, sic passim.
-11 B2. -dhūtaṅga-. 
+11 B2. -dhūtaṅga-.
 12 B2. ārañña-.
 
 
@@ -10757,19 +10756,19 @@ kena na kilamissāmīti, etad attham eva āgato. tasmā attano
 --------------------------------------------------------------------------
 1 B2.Bp. -pātika-.
 2 B2. -dhūtaṅga-.
-3 Bp. sappadāna-, sic passim. 
+3 Bp. sappadāna-, sic passim.
 4 B2. loḷuppa-.
-5 Bp. -cārika-. 
+5 Bp. -cārika-.
 6 B2. pavīsati.
 7 B2.Bp. omit this vā.
 8 B2. -bhogupa-.
-9 B2.Bp. -mahattatāya. 
+9 B2.Bp. -mahattatāya.
 10 B2. pahuta-.
 11 B2.Bp. -pāmojja-.
 12 B2. -vittupa-.
 13 B2. abhihariyyati; Bp. abhihariyati.  14 B2. abhimūkhā.
-15 B2.Bp. gahetvā. 
-16 Sp. tassa. 
+15 B2.Bp. gahetvā.
+16 Sp. tassa.
 17 B2. visejjetvā.
 
 
@@ -10818,9 +10817,9 @@ taraṃ etad avocā 'ti atigarunāmapabbajjūpagatena[^208-11] sāmiput-
 4 Old. V.P. chaddanīya-.
 5 B2. bhaginī.
 6 B2.Bp. etaṃ sace for sace etaṃ.
-7 B2.Bp. add taṃ before idha. 
+7 B2.Bp. add taṃ before idha.
 8 B2.Bp. -ggahitaṃ.
-9 B2. -jjādi taṃ; Bp. -jjādikaṃ taṃ. 
+9 B2. -jjādi taṃ; Bp. -jjādikaṃ taṃ.
 10 B2. sace for  sacetaṃ.
 11 B2.Bp. atigarunā pabbajjupa-; Bp. atigarunā pabbajjūpa-.
 
@@ -10866,14 +10865,14 @@ nāma --pe--  paribhuñjissasīti idaṃ paccakkham pi[^209-11] ahaṃ na
 2 B2.Bp. -natthe.
 3 B2. dāsījanaṃ.
 4 B2. tvaṃ bho dāsī; Bp. tvaṃ bho ti dāsī.
-5 B2.Bp add hi. 
+5 B2.Bp add hi.
 6 B2. kumāsaṃ, sic passim.
-7 B2.Bp. paribhuñji-. 
+7 B2.Bp. paribhuñji-.
 8 B2. -vaddhito.
 9 B2.Bp. -neyyaṃ.
 10 B2. -nāparisanatthavasen' etaṃ; Bp. -nāparisahanatthavasen'etaṃ.
 11 B2.Bp. asi for pi.
-     I                              
+     I
 14
 
 
@@ -10916,7 +10915,7 @@ sambhataṃ,[^210-13] api ca[^210-14] itthikāya itthidhanaṃ yaṃ itthikāya
 1 Sp. marisayāmīti; Bp. parisahāmīti.
 2 B2. kumāso.
 3 B2.Bp. nātidigho nātirasso.
-4 B2. -karaṇīyan. 
+4 B2. -karaṇīyan.
 5 B2. bhūmaṃ.
 6 B2.Bp. -karaṇīyaṃ.
 7 B2.Bp. -pūraṇamatte.
@@ -10927,7 +10926,7 @@ sambhataṃ,[^210-13] api ca[^210-14] itthikāya itthidhanaṃ yaṃ itthikāya
 12 B2. vāṇijāya; Bp. vāṇijjāya.13 B2. sambhavati; Bp. sambhūtaṃ.
 14 B2.Bp. add kho.
 15 B2. sāmakakulaṃ; Bpsāmikakulaṃ.
-16 B2.Bp. nhāna-. 
+16 B2.Bp. nhāna-.
 17 B2.Bp. evam ettha.
 
 
@@ -10969,13 +10968,13 @@ dutiyikaṃ pubbe gihīkāle[^211-9] dutiyikaṃ gehasitasukhūpabho-
 gasahāyikaṃ.[^211-10] bhūtapubbabhariyan ti attho. tena hī ti yena
 kāraṇena mātugāmasadisaṃ bandhanaṃ n' atthi. pādesu
 --------------------------------------------------------------------------
-1 B2. -bahuṃ. 
+1 B2. -bahuṃ.
 2 B2.Bp. gihibhā-.
 3 B2. na alabhanta, bhuñjituṃ; Bp. na alabbhā bhuñjituṃ.
 4 B2.Bp. palibuddho hutvā.
 5 B2.Bp. samāse.
 6 Sp. tālopābhāvo; B2.Bp. as the text--i.e., to-lopa-abhāvo.
-7 B2. -karaṇaṃ. 
+7 B2. -karaṇaṃ.
 8 B2.Bp. attangihi.
 9 B2.Bp. gihi-.
 10 B2.Bp. -sukhumabho-.
@@ -11022,19 +11021,19 @@ sukhaṃ sumaṇadhammaṃ karissāmīti iti[^212-17] imaṃ nayaṃ pas-
 1 B2. bhūma-.
 2 B2.Bp. taṃ  for naṃ.
 3 B2. kiṃdisā.
-4 B2. sambahūle. 
+4 B2. sambahūle.
 5 B2. paṭikkhipento.
 6 B2.Bp. naṃ for taṃ.
 7 B2.Bp. mayi.
 8 B2. pajāpati.
 9 B2. vihedhayitthā.
-10 B2.Bp. caritvā. 
+10 B2.Bp. caritvā.
 11 B2.Bp. -pesun.
-12 B2.Bp. add amhākaṃ. 
+12 B2.Bp. add amhākaṃ.
 13 B2.Bp. -dhana rakkha-.
-14 B2.Bp. -peyyun. 
+14 B2.Bp. -peyyun.
 15 B2. -natthāya.
-16 B2. nicca anu-. 
+16 B2. nicca anu-.
 17 B2.Bp. omit iti.
 
 
@@ -11077,14 +11076,14 @@ gaṇhi, na aññathā. kim pana aññathāpi gabbhagahaṇaṃ
 --------------------------------------------------------------------------
 1 Bp. bahu.
 2 B2.Bp. sandhi.
-3 B2.Bp. omit saṃyogalopo. 
-4 Bp. paññapesi. 
+3 B2.Bp. omit saṃyogalopo.
+4 Bp. paññapesi.
 5 B2.Bp. -kkhandhe eva.
-6 B2. paññapesi. 
+6 B2. paññapesi.
 7 Bp. pañña-.
-8 B2.Bp. dassessati. 
+8 B2.Bp. dassessati.
 9 B2. mulacchajjāya.
-10 Bp. anādīnadasso. 
+10 Bp. anādīnadasso.
 11 B2. bhūma-.
 12 B2p. -ṭṭhānam.
 
@@ -11131,7 +11130,7 @@ pātā gabbhassāvakkanti hotīti.
 --------------------------------------------------------------------------
 1 Bp. -ggaha-.  2 Bp. hatthaggāhaveniggāha-.
 3 Sp. cola-.
-4 B2. -pītūnaṃ; infra pītaro; Bp. pitūnaṃ. 
+4 B2. -pītūnaṃ; infra pītaro; Bp. pitūnaṃ.
 5 Bp. -jitāmhā.
 6 B2.Bp. Sāmatāpasa-.
 7 Sp. gāvo yeva.
@@ -11179,17 +11178,17 @@ ahud evā 'ti ahu eva dakāro padasandhikaro, ahosi evā 'ti attho.
 kukkuccan ti ajjhācārahetuko pacchānutāpo. vippaṭisāro ti
 --------------------------------------------------------------------------
 1 B2. bhūmā.
-2 B2.Bp. pakrubbato. 
+2 B2.Bp. pakrubbato.
 3 B2.Bp. attanā.
-4 B2.Bp. bhūmānaṃ. 
+4 B2.Bp. bhūmānaṃ.
 5 B2.Bp. cātumahā-.
 6 B2.Bp. -saṭṭha.
 7 B2.Bp. 'va  for ca.
-8 Bp. -ggacchīti abhiuggacchi. 
+8 Bp. -ggacchīti abhiuggacchi.
 9 B2.Bp. -uggañchi.
 10 B2.Bp. abbhū-.
 11 B2.Bp. -lam.
-12 Bp. mātāmahiyā. 
+12 Bp. mātāmahiyā.
 13 Bp. adds  pana.
 14 B2. -pītūnaṃ; Bp. -pitūnaṃ.
 
@@ -11231,14 +11230,14 @@ pīṇitindriyo[^216-11] ti pasādapatiṭṭhānokāsassa sampuṇṇattā pari
 puṇṇacakkhādi[^216-12] indriyo. so dāni tvan ti ettha dānīti nipā-
 to, so pana tvan ti vuttaṃ hoti. kacci no tvan ti kacci nu
 --------------------------------------------------------------------------
-1 Bp. -kuriya-. 
+1 Bp. -kuriya-.
 2 Bp. alīnattā.
 3 B2.Bp. yo 'haṃ; Old. Vin. yv āhaṃ.
 4 B2.Bp. -gahitam magga-.
 5 B2.Bp. pavattana-.             B2.Bp. antomano.
 7 B2.Bp. vattapaṭipatti-
 8 B2. -dhūro.
-9 B2. saṃkuṭito. 
+9 B2. saṃkuṭito.
 10 Bp. domanassātibhūtatāya.
 11 B2. piṇindriyo; Bp. pīṇindriyo; Old. Vin. pīnindriyo.
 12 B2.Bp. -cakkhuādi.
@@ -11283,7 +11282,7 @@ virajjati na hoti tasmā rāgavirāgo ti vuccati. yasmā pana
 taṃ āgamma mānamadapurisamadādayo madā nimmadā
 amadā honti vinassanti tasmā madanimmadanan ti vuccati.
 --------------------------------------------------------------------------
-1 B2.Bp. gihi-. 
+1 B2.Bp. gihi-.
 2 B2. paṭikkhīpento.
 3 B2.Bp. va ahan ti.
 4 B2.Bp. pāpa-.
@@ -11291,7 +11290,7 @@ amadā honti vinassanti tasmā madanimmadanan ti vuccati.
 6 B2. alañ hi.
 7 B2.Bp. rajja-.
 8 B2.Bp. sa upādā-.
-9 B2.Bp. saharāgena. 
+9 B2.Bp. saharāgena.
 10 B2.Bp. evam eva.
 
 
@@ -11334,7 +11333,7 @@ bhagavato etam
 atthaṃ ārocesun ti bhagavato etaṃ attham ācikkhiṃsu paṭi-
 vedayiṃsu, ārocayamānā ca n' eva piyakamyatāya,[^218-9] na
 --------------------------------------------------------------------------
-1 B2.Bp. ca for vā. 
+1 B2.Bp. ca for vā.
 2 B2.Bp. upacchijjati.
 3 Bp. taṇhākkhayo.
 4 B2.Bp. nava ca sattāvāse.
@@ -11382,13 +11381,13 @@ vilomapaccanīkabhāve[^219-12] ṭhitaṃ; ananulomikattā eva ca appa-
 tirūpaṃ patirūpaṃ sadisaṃ paṭibhāgaṃ na hoti, atha kho asa-
 disam appaṭibhāgam eva. appatirūpattā eva ca assāmaṇakaṃ
 --------------------------------------------------------------------------
-1 B2. -pūre-. 
-2 Bp. -sāsanāropa-. 
+1 B2. -pūre-.
+2 Bp. -sāsanāropa-.
 3 Bp. patiṭṭhaṃ.
-4 B2. paññā-. 
+4 B2. paññā-.
 5 B2.Bp. -vaṇṇārahānaṃ.
 6 Bp. -vītikkamakaraṃ.
-7 B2. gandhena. 
+7 B2. gandhena.
 8 B2. dhūtaṇgena.
 9 B2.Bp. -nibbānānaṃ sāsanānaṃ vā na anuccha-.
 10 B2.Bp. add dhammehi.
@@ -11435,8 +11434,8 @@ hāsāvajjataṃ passanto taṃ garahi na tassa dukkhāgamaṃ
 icchamāno. tattha nāma tvan ti tasmiṃ nāma evarūpe kamme
 --------------------------------------------------------------------------
 1 B2. samaṇānaṃ yaṃ kappati taṃ na karonti; Bp. samaṇānaṃ yaṃ
-     na kappati taṃ karonti. 
-2 B2. -vikaṃ. 
+     na kappati taṃ karonti.
+2 B2. -vikaṃ.
 3 B2.Bp. pāpa-.
 4 B2. āsuṃ siṃghaṃ.
 5 B2.Bp. tu eva varaṃ.
@@ -11485,15 +11484,15 @@ bhāsitvā ti attho. yasmā hi asaṃvare ṭhitassa puggalassa
 attā dubharatañ[^221-13] c' eva dupposatañ ca āpajjati tasmā asaṃ-
 varo dubharatā[^221-11] dupposatā ti ca vuccati. yasmā pana asaṃ-
 --------------------------------------------------------------------------
-1 Bp. -raṇakaṃ dhammaṃ. 
+1 Bp. -raṇakaṃ dhammaṃ.
 2 Bp. duṭṭhu.
-3 B2.Bp. kilesadūsitaṃ. 
+3 B2.Bp. kilesadūsitaṃ.
 4 B2.Bp. anipuṇan.
 5 S1.(D). -pattivan.
 6 S1.(D). dvayasamā-.
 7 S1.(D). B2.Bp. dayaṃ samāpa-.8 B2.Bp. bahūnaṃ.
 9 B2. dato.
-10 B2.Bp. add pi. 
+10 B2.Bp. add pi.
 11 B2.Bp. dubbhara-, sic passim.
 12 B2. nindiṃ.
 13 B2.Bp. -dubbharatan.
@@ -11537,12 +11536,12 @@ naṃ yaṃ idāni sikkhāpadaṃ paññapessati[^222-13] tassa anucchavi-
 kañ c' eva anulomikañ ca. yo vā ayaṃ subharatādīhi saṃ-
 varo vutto tassa anucchavikañ c' eva anulomikañ ca saṃ-
 --------------------------------------------------------------------------
-1 B2.Bp. catūsu. 
+1 B2.Bp. catūsu.
 2 B2. -rabbhassa; Bp. vīriyāraṃ-.
 3 B2.Bp. omit ca.
 4 B2.Bp. catūsu ca pa-.
 5 B2.Bp. -ṭṭhitāyā.
-6 Old. Vin. suposatā-. 
+6 Old. Vin. suposatā-.
 7 B2.Bp. kilesa-.
 8 Bp. saṃlekho.
 9 B2.Bp. add c' eva.
@@ -11591,9 +11590,9 @@ taṃ hoti. idāni te dasa atthavase dassento saṅghasuṭṭhutāyā
 bhāvo, suṭṭhu devā 'ti āgataṭṭhāne viya suṭṭhu bhante ti
 vacanasampaṭicchanabhāvo; yo ca tathāgatassa vacanaṃ
 --------------------------------------------------------------------------
-1 B2. -vaṇṇaṃ kusu-. 
+1 B2. -vaṇṇaṃ kusu-.
 2 B2.Bp. add ca.
-3 B2. patikkhī-. 
+3 B2. patikkhī-.
 4 Bp. -parābhikena.
 5 B2.Bp. -kāram ādīnavaṃ.
 6 B2.Bp. patiṭṭhapento.
@@ -11640,18 +11639,18 @@ evaṃ pesalānaṃ bhikkhūnaṃ phāsuvihārāyā 'ti ettha dvidhā
 1 B2. paññā-.
 2 Bp. ādīnavaṃ.
 3 B2. -kunāma.
-4 B2. dummaṅkutaṃ. 
-5 B2. vitikkamaṃ. 
-6 B2.Bp. katarasmiṃ. 
+4 B2. dummaṅkutaṃ.
+5 B2. vitikkamaṃ.
+6 B2.Bp. katarasmiṃ.
 7 B2.Bp. -ropetvā.
-8 B2. vihedhessanti. 
+8 B2. vihedhessanti.
 9 B2.Bp. sikkhatta-.
 10 B2. ghaṭantā.
-11 Bp. omits ca. 
+11 Bp. omits ca.
 12 Bp. ghaṭamānā.
 13 B2.Bp. nesaṃ.
 14 B2.Bp. -paññāpanā.
-15 B2. -kunaṃ. 
+15 B2. -kunaṃ.
 16 B2.Bp. add na.
 17 Bp. sāmaggī.
 
@@ -11746,12 +11745,12 @@ makkaṭīvatthuṃ[^226-6] udapādi. tassuppattidīpanattham etaṃ
 vuttaṃ: evañ c' idaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ
 paññattaṃ hotīti. tass' attho bhagavatā bhikkhūnaṃ idaṃ
 sikkhāpadaṃ evaṃ paññattaṃ hoti ca idañ ca aññaṃ vatthuṃ
-udapādīti. paṭhamapaññattikathā niṭṭhitā. ||11||5||  
+udapādīti. paṭhamapaññattikathā niṭṭhitā. ||11||5||
 --------------------------------------------------------------------------
-1 B2. cīraṭṭhītiko. 
+1 B2. cīraṭṭhītiko.
 2 B2.Bp. pahāna-.
-3 Bp. pañña-. 
-4 B2. paññā-. 
+3 Bp. pañña-.
+4 B2. paññā-.
 5 B2. āvībha-.
 6 B2.Bp. -vatthu.
 
@@ -11796,10 +11795,10 @@ asaṃvāso ti tiracchānagatāya pi methunaṃ dhammaṃ patise-
 vitvā pārājiko eva hotīti daḷhataraṃ sikkhāpadam akāsi.
 --------------------------------------------------------------------------
 1 B2.Bp. vatthu.
-2 B1.Bp. tatra. 
+2 B1.Bp. tatra.
 3 B2.Bp. paṭiseva-.
 4 Bp. adds hi.
-5 B2. āgantā. 
+5 B2. āgantā.
 6 B2.Bp. attano.
 7 B2.Bp. -bhikkhusseva.
 8 B2. oṭṭīti.
@@ -11846,15 +11845,15 @@ labhitvā saṅghaṃ bhindi. Vajjiputtakā eva ca vassasatapari-
 nibbute bhagavati uddhammaṃ ubbinayaṃ satthusāsanaṃ
 dīpesuṃ. ime pi tesaṃ yeva ekaccā.[^228-14] evaṃ paññatte pi
 --------------------------------------------------------------------------
-1 Bp. -ntī. 
-2 Bp. aññatara-. 
+1 Bp. -ntī.
+2 Bp. aññatara-.
 3 Bp. mocentī.
-4 B2.Bp. omit ca. 
-5 B2.Bp. add pi. 
+4 B2.Bp. omit ca.
+5 B2.Bp. add pi.
 6 B2. -patti.
-7 B2.Bp. uppajji. 
+7 B2.Bp. uppajji.
 8 B2. -piṇḍitvā.
-9 B2.Bp. vatthu. 
+9 B2.Bp. vatthu.
 10 B2. paññattiṃ.
 11 B2.Bp. aññaṃ pi vatthu.
 12 B2.Bp. makkaṭī-.  13 Bp. Vesālī-.
@@ -11899,15 +11898,15 @@ dāyattavuttibhāvena phalaṃ tiṭṭhati yasmā c' assa taṃ
 okāso hoti tadāyattavuttibhāvena, tasmā ṭhānañ ca avakāso
 cā 'ti vuccati, taṃ paṭikkhipanto[^229-13] āha: aṭṭhānam etaṃ
 --------------------------------------------------------------------------
-1 B2.Bp. nhāyiṃsu. 
+1 B2.Bp. nhāyiṃsu.
 2 B2. ārogyaṃ vi-.
-3 B2. adds byasanaṃ. 
+3 B2. adds byasanaṃ.
 4 B2. vikkhīpati.
 5 B2.Bp. omit pi.
 6 B2.Bp. omit tāya.
-7 B2. na before buddhaṃ. 
+7 B2. na before buddhaṃ.
 8 B2.Bp. dema.
-9 B2.Bp. va for ca. 
+9 B2.Bp. va for ca.
 10 B2.Bp. gihipali-.
 11 B2.Bp. -pali-.
 12 B2. ubhayam etaṃ.
@@ -11956,11 +11955,11 @@ cattāro mahāpadesā, ye bhagavatā evaṃ vuttā: yaṃ
 1 B2.Bp. add vā.
 2 B2.Bp. add ca.  3 Bp. omits va.
 4 B2.Bp. omit yadi hi.
-5 B2. cīra-. 
+5 B2. cīra-.
 6 B2.Bp. add ñatvā.
-7 Bp. paññā-. 
+7 Bp. paññā-.
 8 Bp. uddiseyyathā ti.
-9 B2.Bp. -vādaṃ. 
+9 B2.Bp. -vādaṃ.
 10 Milinda-pañha, p. 148.
 
 
@@ -12006,7 +12005,7 @@ garahaṃ vā akatvā ācariyavādo sutte otāretabbo. sace otarati
 sameti gahetabbo; anotaranto asamento ca gārayhācari-
 yavādo na gahetabbo. suttasmiṃ yeva ṭhātabbaṃ. athāyaṃ
 --------------------------------------------------------------------------
-1 Sp. anuññātaṃ. 
+1 Sp. anuññātaṃ.
 2 B2.Bp. okkantavini-.
 3 Sp. va.
 4 B2.Bp. -sanditvā.
@@ -12140,8 +12139,8 @@ thāya vā paripucchiyamāno vitthanati[^234-13] vipphandati[^234-12] santiṭ-
 nāti sakavādaṃ chaḍḍetvā[^234-14] paravādaṃ gaṇhāti.[^234-15] yo vā[^234-16] pana
 pāḷiyaṃ vā aṭṭhakathāya[^234-17] vā heṭṭhupariyena vā padapaṭi-
 --------------------------------------------------------------------------
-1 B2.Bp. -nato. 
-2 B2.Bp. suggahitā. 
+1 B2.Bp. -nato.
+2 B2.Bp. suggahitā.
 3 B2.Bp. supa-.
 4 B2.Bp. tañ c' assa.  5 B2.Bp. hotīti.
 6 B2.Bp. kaṅkha-.
@@ -12157,7 +12156,7 @@ pāḷiyaṃ vā aṭṭhakathāya[^234-17] vā heṭṭhupariyena vā padapaṭ
 13 B.Bp. vutthunati.
 14 B2. chaṭṭetvā.
 15 B2.Bp. gaṇhati.
-16 B2.Bp. omit vā. 
+16 B2.Bp. omit vā.
 17 B2.Bp. -kathāyaṃ.
 
 
@@ -12199,13 +12198,13 @@ māni cha. vatthuṃ[^235-10] oloketabbaṃ mātikā oloketabbā pa-
 dabhājaniyaṃ oloketabbaṃ tikaparicchedo oloketabbo anta-
 rāpatti oloketabbā anāpatti oloketabbā ti. vatthuṃ olo-
 --------------------------------------------------------------------------
-1 B2.Bp. vitthunati. 
+1 B2.Bp. vitthunati.
 2 B2. āga-.
 3 B2.Bp. suggahitā, sic passim.
 4 Bp. c' assa.
 5 B2.Bp. supa-.
 6 B2. -paratheravādaṅgaṃ; Bp. -paraṃ theravādaṅgaṃ.
-7 B2. vatthuṃ vini-. 
+7 B2. vatthuṃ vini-.
 8 B2.Bp. omit ca.
 9 B2. avinicchinditvā.
 10 B2.Bp. vatthu.
@@ -12250,9 +12249,9 @@ hoti anāpattīti vattabbaṃ, sace panāpatti hoti āpattīti vattab-
 baṃ, sā desanāgāminī ce desanāgāminīti vattabbaṃ uṭṭhāna-
 gāminī[^236-8] ce uṭṭhānagāminīti[^236-8] vattabbaṃ, ath' assa pārājikac-
 --------------------------------------------------------------------------
-1 Old. Vin. vol. iii., p. 212. 
+1 Old. Vin. vol. iii., p. 212.
 2 Old. Vin. vol. iv., p. 2.
-3 B2.Bp. khayite sarīre methunaṃ. 
+3 B2.Bp. khayite sarīre methunaṃ.
 4 Old. Vin. vol. iii., p. 29.
 5 B2. ukkhīpati.
 6 Old. Vin. vol. iv., p. 116.
@@ -12300,15 +12299,15 @@ todābhituṇṇaṃ[^237-12] viya cittaṃ vikampati vippaṭisāragginā
 --------------------------------------------------------------------------
 1 B2.Bp. add tāva.
 2 B2.Bp. hi for  ca.
-3 B2.Bp. anena. 
+3 B2.Bp. anena.
 4 Bp. saha.
-5 B2. asukaṃ da-. 
+5 B2. asukaṃ da-.
 6 B2.Bp.bhedaṃ.
-7 B2.Bp. ghaṭiyati. 
+7 B2.Bp. ghaṭiyati.
 8 B2.Bp. add pi.
-9 B2.Bp. atikkantam. 
+9 B2.Bp. atikkantam.
 10 B2. kiṃdisā.
-11 B2. adds ca. 
+11 B2. adds ca.
 12 B2.Bp. -tunnaṃ.
 13 Bp. taṅkhaṇañ ñeva.
 
@@ -12352,8 +12351,8 @@ vihāresu pi yathāvihārī vā tathāvihārī vā hotu, navakammavi-
 hārī vā uddesavihārī vā vāsadhuravihārī vā ti attho. yathā-
 gocaro ti gocaresu pi yathāgocaro vā tathāgocaro vā hotu,
 --------------------------------------------------------------------------
-1 B1.Bp. cittappava-. 
-2 B2.Bp. pakrubbato. 
+1 B1.Bp. cittappava-.
+2 B2.Bp. pakrubbato.
 3 B2.Bp. devā.
 4 B2.Bp. catubbidhā-.
 5 B2.Bp. -tabbapadaṃ.
@@ -12406,9 +12405,9 @@ ko etthā 'ti ahaṃ āvuso bhikkhū 'ti evamādisu sambhavo
 --------------------------------------------------------------------------
 1 B2.Bp. vayovuddhādīsu.
 2 B2.Bp. ajjhupa-, sic passim.
-3 B2. anāgāriyaṃ. 
+3 B2. anāgāriyaṃ.
 4 B2.Bp. atisukha-.
-5 B2.Bp. supari-. 
+5 B2.Bp. supari-.
 6 Sp.Bp. samaññāya.
 7 B2. sahassa.
 
@@ -12453,14 +12452,14 @@ taparivāro Selo brāhmaṇo sahassaparivāro Mahākappino
 1 Bp. abhūttāya.
 2 B2. ehibhikkhu upa-.
 3 Vin. i. 17.
-4 B2.Bp. -kāsāyavasano. 
+4 B2.Bp. -kāsāyavasano.
 5 B2. vāmāṃsa-.
-6 B2.Bp. buddhupa-. 
+6 B2.Bp. buddhupa-.
 7 Bp. -bhikkhūpa-.
 8 Bp. -pannā.
 9 B2.Bp. sahassupari.
 10 B2.Bp. seyyathidaṃ.
-11 B2.Bp. pañcapañcavaggiya-. 
+11 B2.Bp. pañcapañcavaggiya-.
 12 B2.Bp. sahassa pūrāṇā-.
 13 B2.Bp. h' etaṃ.
 14 B2.Bp. punāparo.
@@ -12503,7 +12502,7 @@ pākassa anuññātaupasampadā. bhagavā kira Pubbārāme
 anucaṅkamantaṃ Sopākaṃ[^241-15] sāmaṇeraṃ: uddhumātakasaññā
 ti vā Sopāka rūpasaññā ti vā ime dhammā nānaṭṭhānā[^241-16] nā-
 --------------------------------------------------------------------------
-1 B2.Bp. -sahassa. 
+1 B2.Bp. -sahassa.
 2 Bp. -bhikkhūpa.
 3 Bp. -gamanūpa-.
 4 Bp. -haṇūpa-.
@@ -12511,15 +12510,15 @@ ti vā Sopāka rūpasaññā ti vā ime dhammā nānaṭṭhānā[^241-16] nā-
 6 B2. dutena  upa-; Bp. dūtenūpa-.
 7 Bp. -vācikūpa-.
 8 Bp. -kammūpa-.
-9 Bp. bhikkhūpa-. 
+9 Bp. bhikkhūpa-.
 10 Bp.  -gamanūpa-.
 11 B2.Bp. sossāmi.
 12 B2. atthiṃ katvā; Bp. aṭṭhiṃ katvā.
-13 B2.Bp. sabbaṃ cetasā. 
+13 B2.Bp. sabbaṃ cetasā.
 14 B2.Bp. satiṃ.
-15 B2.Bp. Sopākā-. 
+15 B2.Bp. Sopākā-.
 16 B2.Bp. nānaṭṭhā.
-     I                    
+     I
 16
 
 
@@ -12567,11 +12566,11 @@ kamme samaggabhāvaṃ upagatena saṅghena.[^242-13] ñatticatut-
 5 B2.Bp. -dhammassa  paṭiggahanena.
 6 See p. 241, note 6.
 7 See p. 241, note 7.
-8 B2.Bp. bhikkhuni-. 
+8 B2.Bp. bhikkhuni-.
 9 See p. 241, note 8.
 10 B2.Bp. anuññātā.
 11 B2.Bp. add vā.
-12 B2.Bp. uttari-. 
+12 B2.Bp. uttari-.
 13 B2.Bp. omit saṅghena.
 
 
@@ -12620,7 +12619,7 @@ ti ādim āha. tattha sikkhitabbā ti sikkhā. tisso ti gaṇana-
 2 B2.Bp. add ca.
 3 B2.Bp. kātabbena.
 4 B2.Bp. -tañ ca.
-5 Old. Vin. sāmaññāya. 
+5 Old. Vin. sāmaññāya.
 6 B2.Bp. idaṃ.
 
 
@@ -12664,10 +12663,10 @@ dhippetaṃ, na hi taṃ samāpanno bhikkhu methunaṃ dham-
 maṃ patisevati. atthi dinnaṃ atthi yiṭṭhan ti ādinayappavat-
 taṃ pana kammassakatañānaṃ paññā; sā hi buddhe uppanne
 --------------------------------------------------------------------------
-1 B2. adds ca. 
-2 Bp. cakkavattī. 
+1 B2. adds ca.
+2 Bp. cakkavattī.
 3 B2.Bp. mahārājāno.
-4 Bp. sūriyo. 
+4 Bp. sūriyo.
 5 B2.Bp. -dvārājjhā-.
 6 B2. paññāpenti; Bp. paññapenti.
 7 B2.Bp. -pādakam aṭṭha-.
@@ -12713,15 +12712,15 @@ sati sikkhāsājīvasamāpanno ti etassa padassa padabhājanaṃ[^245-15]
 1 B2.Bp. buddhasāvakā for sāvakā.  2 B2. adds ca.  3 Bp. -vattī.
 4 B2.Bp. -rājāno.
 5 B2.Bp. paṇḍitā sattā.
-6 B2.Bp. -viṃsu. 
+6 B2.Bp. -viṃsu.
 7 B2.Bp. tilakkhaṇākārapari-.
-8 B2.Bp. add ca. 
+8 B2.Bp. add ca.
 9 B2.Bp. sabhāgajīvikā.
 10 B2.Bp. omit kiñcāpi.
-11 B2.Bp. omit eva. 
-12 B2.Bp. etasmiṃ. 
+11 B2.Bp. omit eva.
+12 B2.Bp. etasmiṃ.
 13 B2.Bp. ayam for evam.
-14 B2.Bp. -padass'eva. 
+14 B2.Bp. -padass'eva.
 15 B2.Bp. add pi.
 
 
@@ -12769,9 +12768,9 @@ idāni sikkhāpaccakkhānadubbalyāvikammānaṃ[^246-10] visesāvi-
 3 B2.Bp. add ca.
 4 B2. āvī-.
 5 B2.Bp. diratta-.
-6 B2.Bp. vohāravasena. 
+6 B2.Bp. vohāravasena.
 7 B2. anāvī-.
-8 B2. -vīkammaṃ. 
+8 B2. -vīkammaṃ.
 9 Bp. naṃ for taṃ.
 10 B2. -vikamma-.
 
@@ -12868,11 +12867,11 @@ sambandhena pavattāni. sabbapadesu ca vadati viññāpetīti
 vacanassa ayam attho: vacībhedaṃ katvā ca[^248-8] vadati yassa ca
 vadati taṃ ten' eva vacībhedena ayaṃ sāsanaṃ jahitukāmo
 --------------------------------------------------------------------------
-1 B2.Bp. paccakkhā-. 
+1 B2.Bp. paccakkhā-.
 2 B2. asamaṇo.
 3 Bp. -diṃ.
 4 B2.Bp. omit tiṇa; Bp. -paṇṇā-.
-5 B2.Bp. -sata-. 
+5 B2.Bp. -sata-.
 6 B2. -vīkamma-.
 7 B2.Bp. ādi  for ādim āha.
 8 B2.Bp. omit  ca.
@@ -12918,9 +12917,9 @@ añño vā samayaññūpuriso sutvā, ukkaṇṭhito ayaṃ samaṇo
 1 B2. muñcitu-.
 2 B2.Bp. cajitukāmo.
 3 B2. milakkhubhāsādīsu; Bp. milakkhabhāsāsu.
-4 B2. -dhammaṃ vibhaṅge. 
+4 B2. -dhammaṃ vibhaṅge.
 5 B2.Bp. paṭhamaṃ jhānaṃ.
-6 B2.Bp. dutiyaṃ jhānan. 
+6 B2.Bp. dutiyaṃ jhānan.
 7 B2. adds ca.
 8 B2. etthakam attaṃ pi; Bp. ettakam att pi.
 9 B2.Bp. pahiṇati.
@@ -12967,7 +12966,7 @@ attho ti n' atthi mama attho. sumutt' āhan ti sumutto
 ahaṃ. sesam ettha vuttanayam eva. evaṃ imāni ca chap-
 paññāsa purimāni ca dvāvīsatīti aṭṭhasattatipadāni sarūpen'
 --------------------------------------------------------------------------
-1 B2.Bp. pattheti. 
+1 B2.Bp. pattheti.
 2 B2.Bp. omit  va.
 3 B2.Bp. atha aparabhāge.
 4 Sp. omits  ca.
@@ -13022,8 +13021,8 @@ saṅghaṃ aṭṭhapurisapuggalaṃ saṅghaṃ āhuneyyaṃ[^251-9] pāhu-
 neyyaṃ[^251-9] dakkhiṇeyyaṃ[^251-9] [^251-10]añjalikaraṇīyaṃ[^251-9] anuttaraṃ puñ-
 ñakkhettaṃ saṅghaṃ paccakkhāmīti, evaṃ saṅghavevaca-
 --------------------------------------------------------------------------
-1 Bp. pāḷiyaṃ. 
-2 B2.Bp. omit ti. 
+1 Bp. pāḷiyaṃ.
+2 B2.Bp. omit ti.
 3 B2.Bp. opaneyikaṃ.
 4 B2.Bp. omit paccakkhāmi.  5 Sp. -kkhāmi.
 6 B2. caturāsītiyādha-.
@@ -13074,9 +13073,9 @@ haṃ mūlena yo pabbajito mayhaṃ mūlena yo upasampanno
 mayhaṃ mūlikā yassa pabbajjā mayhaṃ mūlikā yassa
 upasampadā, tāhaṃ paccakkhāmīti evaṃ saddhivihārika-
 --------------------------------------------------------------------------
-1 B2.Bp. omit paccakkhāmi. 
+1 B2.Bp. omit paccakkhāmi.
 2 B2.Bp. ādi.
-3 B2. omits pāti-. 
+3 B2. omits pāti-.
 4 B2.Bp. pabhinna-.
 
 
@@ -13123,7 +13122,7 @@ ceṭako monigallo[^253-5] samanuddeso ti maṃ dhārehīti evaṃ sāma-
 --------------------------------------------------------------------------
 1 Bp. omits  yaṃ upasampādesi.
 2 B2.Bp. okallako.
-3 Bp. moḷibandho. 
+3 Bp. moḷibandho.
 4 Bp. adds upāsako.
 5 B2. moḷigallo; Bp. moḷikatto.
 
@@ -13169,10 +13168,10 @@ bhikkhave apaccakkhātā ti ādim āha. tattha yehi ākārehīti
 ādi vuttanayam eva. ummattako ti yakkhummattako vā
 pittummattako vā yo koci viparītasañño; so sace paccakkhāti
 --------------------------------------------------------------------------
-1 B2. nigandho. 
-2 B2. nigandha-. 
+1 B2. nigandho.
+2 B2. nigandha-.
 3 Sp. -jako paṇḍa-.
-4 B2. kasambukajāto. 
+4 B2. kasambukajāto.
 5 B2.Bp. koṇṭho.
 6 B2.Bp. ākārāni.
 7 Bp. appacca-, sic passim.
@@ -13218,10 +13217,10 @@ tukāmo sahasā buddhaṃ paccakkhāmīti bhaṇati. ravāyā
 'ti ravā bhaññena, aññaṃ bhaṇissāmīti aññaṃ bhaṇanto,
 --------------------------------------------------------------------------
 1 B2. adds va.
-2 B2.Bp. add va. 
+2 B2.Bp. add va.
 3 B2.Bp. add pi.
 4 B2.Bp. sikkhaṃ paccakkhāti appaccakkhātā 'va hoti.
-5 B2.Bp. vilap-. 
+5 B2.Bp. vilap-.
 6 B2.Bp. tihetuka-.
 7 B2.Bp. Māgada-.
 8 S1.(D). milakkhukaṃ.
@@ -13266,7 +13265,7 @@ taṃ kammaṃ duṭṭhullaṃ. yaṃ taṃ duṭṭhullaṃ so methu-
 nadhammo. udakaṃ assa ante suddhatthaṃ ādiyissatīti[^256-9]
 udakantaṃ udakantam eva odakantikaṃ. yaṃ taṃ odakan-
 --------------------------------------------------------------------------
-1 Bp. añña-. 
+1 Bp. añña-.
 2 B2.Bp. pāḷiṃ.
 3 B2. yena kenaci for yena yena.
 4 B2. sāvetīti.
@@ -13318,10 +13317,10 @@ pasādaṃ matacammaṃ vā sukkhapiḷakaṃ[^257-8] vā paveseti
 --------------------------------------------------------------------------
 1 B2. -tabbabhāvato.
 2 Bp. paṭi-. sic passim; Old. Vin. sic.
-3 B2. ettha kena. 
+3 B2. ettha kena.
 4 B2.Bp. upari cā 'ti.
 5 B2. samiñchi-; Bp. samañchitaṅguliṃ.
-6 B2.Bp. tulā-. 
+6 B2.Bp. tulā-.
 7 B2.Bp. uparibhāga-.
 8 Bp. pīḷakaṃ; Cc. tilakaṃ.
 
@@ -13364,15 +13363,15 @@ chedo:
 3 B2. paṭhapetvā-; Bp. -paṭṭhapetvā.
 4 B2.Bp. asamakāruṇikassa.
 5 B2.Bp. -tabbaṃ.
-6 B2.Bp. -ddayāyalo-. 
+6 B2.Bp. -ddayāyalo-.
 7 B2. sikkhāpadaṃ paññā-.
-8 B2.Bp. āvajjetvā. 
+8 B2.Bp. āvajjetvā.
 9 B2. yadi pi.
 10 B2.Bp. -tena.
 11 B2. bījanakena; Bp. bījakena. 12 B2. mukha.
-13 B2.Bp.  omit na. 
+13 B2.Bp.  omit na.
 14 B2. gabbitena.
-15 Bp. adds pi. 
+15 Bp. adds pi.
 16 Bp. -gatitthī.
 17 Bp. ahī.
 18 B2. mañjārī; Bp. majjārī.
@@ -13419,11 +13418,11 @@ ajjhāpajjati taṃ parājeti tasmā pārājikā ti vuccati. puggalo
 3 B2.Bp. add pi.
 4 B2.Bp. -vatthu.
 5 B2. paṭaṅgamūkhamaṇḍūkā; Bp. pataṅgamukhamaṇḍūkā.
-6 B2. mūkha-. 
+6 B2. mūkha-.
 7 B2. inserts sace pana.
 8 B2.Bp. kukkuṭi-.
 9 B2. pakkhī-.
-10 B2. mañjārī-; majjārigga-. 
+10 B2. mañjārī-; majjārigga-.
 11 B2.Bp. -maṅgusa-.
 12 See note 4.
 13 B2. -pada āpatti.
@@ -13525,7 +13524,7 @@ vasena[^261-7] vā idaṃ amhākaṃ kiccaṃ karohīti vatvā kiñci ma-
 --------------------------------------------------------------------------
 1 B2.Bp. and Old. Vin. upaṭṭhite ti.
 2 B2. bhūmatthe; Bp. bhummatthe.
-3 B2.Bp. āpattiṃ. 
+3 B2.Bp. āpattiṃ.
 4 B2.Bp. attupakkamen' eva.
 5 B2.Bp. atthayanti.
 6 B2.Bp. bhikkhussa.
@@ -13570,10 +13569,10 @@ nisīdenti, atha kho passāvamaggena pi mukhena[^262-8] pi. itthiṃ
 keci ummattaṃ, keci pamattaṃ, aññavihitaṃ[^262-9] vikkhittacittan
 --------------------------------------------------------------------------
 1 B2.Bp. upaṭṭhapeti, sic passim.
-2 Bp. paṭisevana-. 
+2 Bp. paṭisevana-.
 3 B2.Bp. catūsu.
 4 B2. -mūkham; Bp. āsīvisamukhaṃ.
-5 B2.Bp. ca for va. 
+5 B2.Bp. ca for va.
 6 BP. inserts upaṭṭhahantaṃ.
 7 Chinese translation (Tokyo ed.,) folio 39a.
 8 B2. mūkhena.
@@ -13619,14 +13618,14 @@ thero[^263-8] navakkhattuṃ Vinayapiṭakaṃ assosi. Mahāpadumat-
 thero tena saddhiṃ navakkhattuṃ visuñ ca ekako 'va navak-
 khattun ti aṭṭhārasakkhattuṃ assosi. ayam[^263-9] etesu byatta-
 --------------------------------------------------------------------------
-1 B2.Bp. sonasiṅgālādīhi. 
+1 B2.Bp. sonasiṅgālādīhi.
 2 B2.Bp. omit vā.
-3 B2. bahu. 
+3 B2. bahu.
 4 B2.Bp. pāḷiyā.
 5 B2. saṅkhyato; Bp. saṅkhyāto.
 6 B2.Bp. Phusareva-.
 7 B2.Bp. omit uppanne.
-8 B2.Bp. Mahāsuma-. 
+8 B2.Bp. Mahāsuma-.
 9 B2.Bp. ayam eva tesu for  ayam etesu.
 
 
@@ -13670,11 +13669,11 @@ patitāya maṃsapesiyā upakkamantassa dukkaṭaṃ. matasa-
 rīre pana yadi pi sabbaṃ[^264-7] sarīraṃ khayitaṃ hoti, yadi pi
 akkhayitaṃ, tayo pana maggā akkhayitā, tesu upakkaman-
 --------------------------------------------------------------------------
-1 B2.Bp. Mahāsuma-. 
+1 B2.Bp. Mahāsuma-.
 2 B2. saṃvaṇṇento.
 2 Bp.pañña,-sicpassim.
 4 B2.Bp. insert eva.
-5 Bp. inserts pi. 
+5 Bp. inserts pi.
 6 B2.Bp. nhā-.
 7 B2. sabba-.
 
@@ -13717,14 +13716,14 @@ vuttaṃ: na ca bhikkhave rattacittena aṅgajātaṃ chupitab-
 baṃ, yo chupeyya āpatti thullaccayassā 'ti. taṃ sabbam
 pi saṃsandetvā[^265-12] yathā na virujjhati, tathā gahetabbaṃ.
 --------------------------------------------------------------------------
-1 B2. -kaṇṇachidda-. 
+1 B2. -kaṇṇachidda-.
 2 B2. kudhitaṃ.
 3 Bp. kīmi-.
-4 B2.Bp. gaḷita-. 
+4 B2.Bp. gaḷita-.
 5 B2.Bp. gona ... mahimsā-.
 6 B2.Bp. -kaṇṇavanesu.
 7 B2.Bp. insert pi.
-8 B2. kudhita-. 
+8 B2. kudhita-.
 9 B2.Bp. add vā.
 10 B2.Bp. Aciravatiyā nadi-.
 11 B2.Bp. aṭṭhuppattiyā.
@@ -13769,15 +13768,15 @@ nayena yojanā veditabbā. tattha santhatā[^265-13] nāma yassā
 1 B2.Bp. methunupa-.
 2 B2.Bp. abhirūhantā.
 3 B2. mūkhe-.
-4 Bp. chupanaṃ. 
+4 Bp. chupanaṃ.
 5 B2.Bp. oḷā-.
 6 B2.Bp. add vā.
 7 B2.Bp. paṭipanna-.
-8 B2. -natthaṃ. 
+8 B2. -natthaṃ.
 9 B2. diṇṇa-, sic passim.
 10 B2.Bp. phusati.
 11 B2.Bp. bhikkhupa-.
-12 B2. mūkhena. 
+12 B2. mūkhena.
 13 Bp. santhataṃ.
 
 
@@ -13817,15 +13816,15 @@ dassento bhikkhupaccatthikā bhikkhuṃ manussitthiyā santike
 ti ādinā nayena sabbāni tāni catukkāni puna pi nīharitvā
 dassesi. tesu vinicchayo vuttanayen' eva veditabbo.[^267-10]
 bhikkhupaccatthikavasena catukkabhedavaṇṇanā[^267-7] niṭ-
-ṭhitā.[^267-6] ||6||  
+ṭhitā.[^267-6] ||6||
 --------------------------------------------------------------------------
 1 B2. palivedhetvā; Bp. paliveṭhetvā.
-2 B2.Bp. pavesentassa. 
+2 B2.Bp. pavesentassa.
 3 B2.Bp. eka-.
-4 B2.Bp. tale. 
+4 B2.Bp. tale.
 5 B2. -kkappabheda-.
 6 Chinese translation (Tokyo ed.), folio 39b.
-7 B2. -kkappabhe-. 
+7 B2. -kkappabhe-.
 8 Bp. adds eva.
 9 Bp. tappabhedaṃ.
 10 B2.Bp. add ti.
@@ -13870,11 +13869,11 @@ tassa sāmanta-vaṇena[^268-14] nīharati. amaggena maggan ti mag-
 1 B2.Bp. rājacorapacca-.
 2 B2.Bp. pabhedaṃ.
 3 B2.Bp. eva.
-4 B2.Bp. methunupasaṃhitā. 
+4 B2.Bp. methunupasaṃhitā.
 5 B2.Bp. nāgarikake-.
-6 B2. -vānijā-; Bp. -vānijjā-. 
+6 B2. -vānijā-; Bp. -vānijjā-.
 7 B2.Bp. devatānaṃ.
-8 B2.Bp. āyācetvā. 
+8 B2.Bp. āyācetvā.
 9 B2.Bp. -kāle.
 10 B2.Bp. catūsu.
 11 B2.Bp. pāḷiyaṃ.
@@ -13972,16 +13971,16 @@ taṃ saññāvimokkhaṃ. itaraṃ no saññāvimokkhaṃ. puna
 atthi sacittakaṃ,[^270-12] atthi acittakaṃ. yaṃ sah' eva cittena
 āpajjati taṃ sacittakaṃ, yaṃ vināpi cittena āpajjati taṃ
 --------------------------------------------------------------------------
-1 Bp. -labhatīti. 
+1 Bp. -labhatīti.
 2 B2.Bp. add va.
 3 From here onward we have S. text again.
-4 Bp. idaṃ. 
+4 Bp. idaṃ.
 5 Bp. kriyā.
-6 Bp. cā 'ti. 
+6 Bp. cā 'ti.
 7 B2. -gāhikā-; Bp. -gāhaka-.
 8 B2. āvībha-.
 9 Sp. phala- by mistake.
-10 B2.Bp. add ti. 
+10 B2.Bp. add ti.
 11 Bp. kriyato, sic passim.
 12 S. acitta- atthi sacitta-.
 
@@ -14023,16 +14022,16 @@ aṅgamattaṃ hoti, na tassa vasena kammabhāvo labbhati.
 lobhacittena āpajjitabbato akusalacittaṃ, sukhasamaṅgī vā
 upekkhāsamaṅgī[^271-7] vā taṃ āpajjatīti dvivedanan ti veditabbaṃ.
 sabbañ c' etaṃ āpattiyaṃ yujjati. sikkhāpadasīsena pana
-aṭṭhakathāsu[^271-8] desanā ārūḷhā,tasmā evam vuttan ti.[^271-9] ||8||9||  
+aṭṭhakathāsu[^271-8] desanā ārūḷhā,tasmā evam vuttan ti.[^271-9] ||8||9||
 --------------------------------------------------------------------------
-1 B2. -kiriyā-. 
+1 B2. -kiriyā-.
 2 S. imaṃ.
 3 B2.Bp. ekasamuṭṭhānaṃ; S. ekasamuṭṭhānato ekasamuṭṭhānaṃ.
 4 S.Bp. duka-; B2. dukka-.
 5 S.B2.Bp. etaṃ for  eva taṃ.
-6 S. taṃ. 
+6 S. taṃ.
 7 S. upekkhā-.
-8 B2.Bp. sabbāṭṭha-. 
+8 B2.Bp. sabbāṭṭha-.
 9 Bp. omits ti.
 
 
@@ -14068,7 +14067,7 @@ terasame vatthumhi, Uppalavaṇṇā ti sā therī Sāvatthiyaṃ
 seṭṭhidhītā satasahassakappe abhinīhārasampannā tassā paka-
 tiyāpi atidassaniyā[^272-22] nīlūppalavaṇṇakāyacchavi[^272-23] abbhantare
 --------------------------------------------------------------------------
-1 S. miho. 
+1 S. miho.
 2 S.Sp.imā vinītavatthūnaṃ.
 3 Bp. udāna-.
 4 B2.Bp. ṭhapitāni.
@@ -14082,7 +14081,7 @@ tiyāpi atidassaniyā[^272-22] nīlūppalavaṇṇakāyacchavi[^272-23] abbhanta
 12 B2.Bp. add vatthūsu.
 13 B2. gandhitvā; Bp. ganthetvā.
 14 S. ti for nāma.
-15 S. phaṇaka-. 
+15 S. phaṇaka-.
 16 B2.Bp. sibbitvā.
 17 B2. -kampalo.
 18 B2.Bp. vāla-.
@@ -14130,17 +14129,17 @@ jhaṃ[^273-18] na gahetabbaṃ,[^273-19] upasampadā na kātabbā ti attho.
 1 S.B2.Bp. gihi-.
 2 B2. bāhīrato.
 3-3 S. omits paṭhamaṃ; B2.Bp. nisīdi, paṭhamanisinnānañ hi.
-4 Bp. andhakāro. 
+4 Bp. andhakāro.
 5 Bp. omits taṃ.
-6 B2.Bp. -yantī. 
+6 B2.Bp. -yantī.
 7 S.B2.Bp. nisīdi.
-8 B2.Bp. silāthambha-. 
+8 B2.Bp. silāthambha-.
 9 S.B2. tassā.
-10 S.B2.Bp. asakkontī. 
+10 S.B2.Bp. asakkontī.
 11 S. taṃkhaṇaṃ yeva.
-12 S. lippati. 
+12 S. lippati.
 13 Dhammapada, ver. 401.
-14 B2.Bp. massudādhi-. 
+14 B2.Bp. massudādhi-.
 15 S.B2.Bp. tam eva.
 16 S. gahitam up-;  Bp. -upajjhāyaṃ.
 17 B2.Bp. omit  ca.
@@ -14188,17 +14187,17 @@ dvāraṃ dinnaṃ bhikkhu vā hotu bhikkhunī vā anāvaṭo
 1 B2.Bp. bhikkhu upa-.
 2 S. pabhuti, sic passim.
 3 S. yā for yāva.
-4 S.B2.Bp. omit  ca. 
+4 S.B2.Bp. omit  ca.
 5 B2.Bp. omit c' assā.
 6 B2.Bp. dāni 'ssā.
 7 S. B2.Bp. vuṭṭhā-.
-8 S.Bp. -ṭṭhi ādikā. 
+8 S.Bp. -ṭṭhi ādikā.
 9 B2.Bp. anāpatti.
 10 S. -vattena.
 11 S.B2.Bp. vuṭṭhitā va.
-12 B2. yeva. 
+12 B2. yeva.
 13 B2.Bp. pāḷi-.
-14 S.B2.Bp. pāḷi-. 
+14 S.B2.Bp. pāḷi-.
 15 S. okkantaka-.
 16 S. sace.
 
@@ -14239,14 +14238,14 @@ nissayo gahetabbo. mātikā vā vinayo vā uggahito sugga-
 hito puna uggaṇhanakāraṇaṃ[^275-17] n' atthi. sace bhikkhubhāve
 parisāvacaro tassa santike ye[^275-18] upasampannā sūpasampannā[^275-19]
 --------------------------------------------------------------------------
-1 B2. va for ca. 
-2 Bp. bhikkhunupa-. 
+1 B2. va for ca.
+2 Bp. bhikkhunupa-.
 3 B2.Bp. te for vo.
 4 S. idānim eva; B2.Bp. omit  yena.
 5 B2.Bp. add paṭhamaṃ.
-6 B2. ekakena na for na ekakena. 
+6 B2. ekakena na for na ekakena.
 7 B2.Bp. asukaṃ.
-8 S. omits ti. 
+8 S. omits ti.
 9 Bp. ohīyanā-.
 10 S.Bp. bhikkhunupassayaṃ; B2. bhikkhuniupassayaṃ.
 11 B2.Bp. add ti.
@@ -14255,7 +14254,7 @@ parisāvacaro tassa santike ye[^275-18] upasampannā sūpasampannā[^275-19]
 14 S. sangāhitāyo.  15 B2. adds aññā ñātikā; Bp. aññā ñātikāyo.
 16 B2 Bp. paṭijagganikā.
 17 S. uggaṇha-kāraṇaṃ.
-18 B2.Bp. yeva. 
+18 B2.Bp. yeva.
 19 S.Bp. supa-; B2. sūpa-.
 
 
@@ -14295,19 +14294,19 @@ vā ṭhapitaṃ, sabbassa sāva issarā, āharāpetvā gahetabbaṃ.
 yaṃ pan' ettha thāvaraṃ[^276-16] tassā santakaṃ senāsanaṃ vā
 uparopakā vā, te yass' icchati tassa dātabbā. terasasu
 --------------------------------------------------------------------------
-1 B2.Bp. aññassa. 
+1 B2.Bp. aññassa.
 2 Bp. adds yeva.
 3 S. -tabbo.
 4 B2. saṅkacchikā.
-5 B2.Bp. sabbaṃ pi. 
+5 B2.Bp. sabbaṃ pi.
 6 S. -pphānitā-.
-7 Bp. omits pi. 
+7 Bp. omits pi.
 8 S. omits taṃ.
-9 B2.Bp. add pi. 
+9 B2.Bp. add pi.
 10 S. madhu.
-11 B2.Bp. kālaṃ kiriyāya. 
+11 B2.Bp. kālaṃ kiriyāya.
 12 B2.Bp. gahaṇena.
-13 B2. haritaka-. 
+13 B2. haritaka-.
 14 B2.Bp. kiñci 'ssa.
 15 B2.Bp. appaṭi-.
 16 B2. add vā.
@@ -14356,14 +14355,14 @@ so kira bhikkhu naṭapubbako[^277-16] tassa sippakosallatthaṃ pari-
 3 Bp. -ggāho.
 4 S. bhikkhusaṅgho.
 5 S. uppannalābho.
-6 B2. dātabbaṃ. 
+6 B2. dātabbaṃ.
 7 B2. adds puna.
-8 B2.Bp. chārattam mānattam. 
+8 B2.Bp. chārattam mānattam.
 9 S. ciṇṇa-.
-10 S.B2.Bp. chārattam mā-. 
+10 S.B2.Bp. chārattam mā-.
 11 B2. liṅga.
 12 B2.Bp. na ten' attho for tato tattheva.
-13 Bp. puna. 
+13 Bp. puna.
 14 S.B2.Bp. abbhānakammaṃ.
 15 S. bhikkhubhāve.
 16 S. navapubbako.
@@ -14377,8 +14376,7 @@ so kira bhikkhu naṭapubbako[^277-16] tassa sippakosallatthaṃ pari-
 kammakatā piṭṭhi mudukā ahosi, tasmā evaṃ kātuṃ asakkhi.
 lambīvatthumhi[^278-1] tassa bhikkhussa aṅgajātaṃ dīghaṃ hoti
 lambati tasmā lambīti vutto. ito parāni dve vaṇavatthūni
-uttānān' eva. ||8-9||  
-lepacittavatthumhi lepacittaṃ nāma
+uttānān' eva. ||8-9|| lepacittavatthumhi lepacittaṃ nāma
 cittakammarūpaṃ.[^278-2] dārudhītalikavatthumhi, dārudhītalikā
 nāma kaṭṭharūpaṃ. yathā ca imesu dvīsu evaṃ[^278-3] aññesu pi
 dantarūpapotthakarūpaloharūpādīsu anupādinnakesu itthi-
@@ -14412,15 +14410,15 @@ kamantassa thullaccayaṃ. yo pi danto bahi nikkhamitvā
 --------------------------------------------------------------------------
 1 S. ambi-.
 2 S. cittaṃ kamma-.
-3 S. omits evaṃ. 
+3 S. omits evaṃ.
 4 S. samuppana-.
 5 B2. sādīyi.
 6 B2.Bp. catūsu vatthūsu.
-7 B2.Bp. akkhayi-. 
+7 B2.Bp. akkhayi-.
 8 B2. mūkhe.
 9 S.B2.Bp. -passehi.
 10 B2.Bp. catūhi pi.
-11 S. taḷukaṃ. 
+11 S. taḷukaṃ.
 12 S.B2.Bp. dantā suphussitā.
 13 Bp. okāse.
 14 S.B2.Bp. pavesentassa.
@@ -14463,16 +14461,16 @@ yati. avediyantassāpi sevanacittavasena āpatti. ||15||
 chu-
 pitamattavatthumiṃ[^279-19] yo methunaṃ[^279-20] sevissāmīti mātugā-
 --------------------------------------------------------------------------
-1 B2.Bp. -mānakasarīre. 
+1 B2.Bp. -mānakasarīre.
 2 B2.Bp. jīvhāya simply.
 3 S.Bp. paliveṭhetvā; B2. palivedhetvā.
 4 B2.Bp. paveseti.
 5 S. tāḷukaṃ.
 6 B2. sakaḍḍha-.
 7 B2.Bp. omit  ghaṭṭentassāpi.
-8 S. -saggena rāgena. 
+8 S. -saggena rāgena.
 9 S. adds  muccatu vā after vā.
-10 B2. adds pi. 
+10 B2. adds pi.
 11 B2.Bp. add eva.
 12 B2.Bp. nāgī-.
 13 S. omits pi.
@@ -14480,7 +14478,7 @@ pitamattavatthumiṃ[^279-19] yo methunaṃ[^279-20] sevissāmīti mātugā-
 15 Bp. petī-.
 16 S. najjhāma-.
 17 S. kālapekkha-akus-; Bp. kāḷapakkhe.
-18 S. kāṇukaṇḍaṃ. 
+18 S. kāṇukaṇḍaṃ.
 19 B2. -vatthumhi.
 20 B2.Bp. methunaṃ dhammaṃ paṭise-.
 
@@ -14527,13 +14525,13 @@ atthāpatti divā āpajjati no rattin[^280-12] ti imināpi c' etaṃ siddhaṃ.
 2 S. omits hoti so and puts yo instead.
 3 S.B2.Bp. vattati.
 4 S. -paṭisaṃyuttāni.
-5 S.B2. -vattuñ. 
+5 S.B2. -vattuñ.
 6 B2.Bp. -vatthūsu.
-7 Bp. āsīvisena. 
+7 Bp. āsīvisena.
 8 S. pavaṭṭento.
 9 S. omits parivaṭ-.
 10 S. loṭhento; B2. vihedhento; Bp. viheṭhento.
-11 S. pāḷiyaṃ. 
+11 S. pāḷiyaṃ.
 12 S. rattan ti.
 
 
@@ -14577,16 +14575,16 @@ mātugāmaṃ vā āpucchituṃ na vaṭṭatīti vuttaṃ. atha
 3 B2. -kaṇḍaka-; Bp. -sūci-.
 4 B2.Bp. omit gāme.
 5 S. cakkaḷa-.
-6 S. venu-; B2. veḷu-. 
+6 S. venu-; B2. veḷu-.
 7 B2. goppetvā.
-8 B2.Bp. nipannassa. 
+8 B2.Bp. nipannassa.
 9 S. -ghaṭikāsu; Bp. sūci-.
-10 Bp. saṃvutam. 
+10 Bp. saṃvutam.
 11 Bp. sūci-.
 12 B2. ghaṭikamatte; Bp. ghaṭikatte.
 13 B2.Bp. phusitvā.
 14 B2.Bp. aphusite.
-15 S.B2.Bp. vaṭṭatīti. 
+15 S.B2.Bp. vaṭṭatīti.
 16 B2.Bp. bahūnaṃ.
 17 S. -ṭṭhānaṃ.
 18 S.B2.Bp. add pi.
@@ -14630,17 +14628,17 @@ saṃ bahunnaṃ[^282-15] otaraṇaṭṭhānaṃ, yattha dvāraṃ saṃvutam p
 saṃvutaṭṭhāne na tiṭṭhati, dvāraṃ alabhantā pākāraṃ āru-
 hitvāpi pavisanti,[^282-16] tattha saṃvaraṇakiccaṃ n' atthi. rattiṃ
 --------------------------------------------------------------------------
-1 B2.Bp. add vā. 
+1 B2.Bp. add vā.
 2 S. sakkhati.
 3 B2. rāsim.
 4 S. sakkāti.
-5 Bp. adds  sati. 
+5 Bp. adds  sati.
 6 B2. nippajj-, sic passim.
-7 Bp. adds pi. 
-8 S. vaḷañj-. 
+7 Bp. adds pi.
+8 S. vaḷañj-.
 9 S. -make ti.
-10 S. bahu-. 
-11 S. mā. 
+10 S. bahu-.
+11 S. mā.
 12 S. -vutadvāre.
 13 S. omits vā.
 14 B2.Bp. omit hi.
@@ -14690,18 +14688,18 @@ ito
 2 S.B2. omit ca.
 3 S. uṭṭhāti.
 4 B2.Bp. āpatti.
-5 B2.Bp. add pi. 
+5 B2.Bp. add pi.
 6 B2.Bp. jaggitvā.
 7 S.B2.Bp. tassāpi.
 8 S. pādena pana.
-9 B2.Bp. omit pi. 
+9 B2.Bp. omit pi.
 10 B2.Bp. visaññī-.
 11-11 S. omits; B2.Bp. add pana after  Kurundaṭṭhakathāyaṃ.
 12 S. tassa pi.
 13 S.B2.Bp. avisayattā.
 14 B2.Bp. idaṃ.
 15 Bp. vatthu.
-16 B2.Bp. vinicchindi. 
+16 B2.Bp. vinicchindi.
 17 A. i, 25.
 
 
@@ -14710,8 +14708,7 @@ ito
 
 ##### *[PTS Page 284]*
 
-parāni[^284-1] supabbādīni vatthūni uttānatthān' eva. ||23-24||  
-bhik-
+parāni[^284-1] supabbādīni vatthūni uttānatthān' eva. ||23-24|| bhik-
 khunīsampayojanādīsu te Licchavikumārakā[^284-2] khiḍḍāpasutā
 attano anācārena[^284-3] evaṃ akaṃsu. tato paṭṭhāya ca Liccha-
 vīnaṃ vināso eva udapādi. ||25||  
@@ -14738,7 +14735,7 @@ tatr' idaṃ Samantapāsādikāya Samantapāsādikattasmiṃ:
      vuttassa lokanāthena lokam anukampamānenā 'ti.
 --------------------------------------------------------------------------
 1 S. parāṇi.
-2 B2.Bp. Licchavī kumārā. 
+2 B2.Bp. Licchavī kumārā.
 3 B2.Bp. anādarena.
 4 S.B2.Bp. ath' assa sā.
 5 B2. nānāppa-.

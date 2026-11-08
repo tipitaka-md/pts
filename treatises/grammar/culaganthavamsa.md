@@ -18,13 +18,11 @@
 
 
 tikkhattuṃ pattalaṅko yo patiṭṭhāpesi sāsanaṃ |  
-vanditvā lokanāthaṃ taṃ dhammañ cassa gaṇuttamaṃ ||  
-saddhammaṭṭhitikāmena yācito dhammacārinā saniddesaṃ karissāmi kaccānasuttavaṇṇanaṃ ||  
+vanditvā lokanāthaṃ taṃ dhammañ cassa gaṇuttamaṃ || saddhammaṭṭhitikāmena yācito dhammacārinā saniddesaṃ karissāmi kaccānasuttavaṇṇanaṃ ||
 
 porāṇehi kato nekā santi yā pana vaṇṇanā |  
-tā jahitvāna niddeso vitthāranayadīpakā  ||  
-tasmā kiñci avasiṭṭhaṃ karissaṃ suttavaṇṇanaṃ |  
-kiñcimattaṃ avekkhatha sāsanassa hitatthikā ti ||  
+tā jahitvāna niddeso vitthāranayadīpakā  || tasmā kiñci avasiṭṭhaṃ karissaṃ suttavaṇṇanaṃ |  
+kiñcimattaṃ avekkhatha sāsanassa hitatthikā ti ||
 
 tattha attho akkharasaññāto ti ādiṃ avatvā seṭṭhaṃ tilokamahitan ti ādigāthādvayaṃ kaccāyanācariyena kasmā vuttan ti. ratanattayapaṇāmapubbaṅgamaṃ pubbapañcakaṃ dassetuṃ gāthādvayam āha. vuttañ ca
 

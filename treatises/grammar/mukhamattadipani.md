@@ -16,9 +16,9 @@
 <title> Mahayasa Thera: Kaccayanabheda </title>
 <style type="text/css">
   <!--
-td {font-family:'Arial Unicode MS', 'Arial Unicode MS Standard', 'Gentium', 'Gandhari Unicode', 
-'Lucida Grande', 'CyberBit', 'Bitstream CyberBase', 'Bitstream CyberCJK', 
-'Code2000', 'Courier New', 'Doulos SIL', 'Fixedsys Excelsio', 'Free Monospaced', 
+td {font-family:'Arial Unicode MS', 'Arial Unicode MS Standard', 'Gentium', 'Gandhari Unicode',
+'Lucida Grande', 'CyberBit', 'Bitstream CyberBase', 'Bitstream CyberCJK',
+'Code2000', 'Courier New', 'Doulos SIL', 'Fixedsys Excelsio', 'Free Monospaced',
 'Free Serif', 'Everson Mono Unicode', 'Arial', 'CN-Arial', 'CN-Times';}  -->
  </style></HEAD><BODY><FONT Size=3 Face="Arial Unicode MS, Arial Unicode MS Standard">
 
@@ -126,9 +126,9 @@ atha nibbindati dukkhe esamaggo visuddhiyā  // MKacbh_12 //
 sakiṃ eva mahārāja sabbhikubbetha sandhavaṃ /  
 iccādīsu ca vaṇṇena buavaṭṭhānaṃ vijāniyā  // MKacbh_13 //  
 puññenānena bhaveyyaṃ sukhumacchaviko ahaṃ /  
-vācāsiliṭṭhatā cāpi pesuññavigato pica  // MKacbh_14 //  
+vācāsiliṭṭhatā cāpi pesuññavigato pica  // MKacbh_14 //
 
-sappayogaṃ sandhibhedaṃ samattaṃ ||  
+sappayogaṃ sandhibhedaṃ samattaṃ ||
 
 atthaṃnamanti nāmenti itināmāni yāni vā /  
 evaṃnamanabhāvena nāmaṃekavidhaṃmataṃ  // MKacbh_15 //  
@@ -181,9 +181,9 @@ tīsupidvevasatipi ekaṃva sambandhaṃ kare  // MKacbh_48 //
 nāmavacanapuññena namanaṃnāmanaṃbhave /  
 svācārānañca viññūnaṃ saṃsaranto bhavābhave  // MKacbh_49 //  
 liṅgavacanapuññena līnattho pākaṭo bhave /  
-līnapañhākathanoca satimāsīlatejasā  // MKacbh_50 //  
+līnapañhākathanoca satimāsīlatejasā  // MKacbh_50 //
 
-sappayogaṃnāmabhedaṃsamattaṃ ||  
+sappayogaṃnāmabhedaṃsamattaṃ ||
 
 nipphādeti padattho yo gamanapacanādikaṃ /  
 itiso kārakonāma kārakaññūhi jāniyo  // MKacbh_51 //  
@@ -286,9 +286,9 @@ tasmāchakārakā tattha pāpuṇanti yathārahaṃ  // MKacbh_98 //
 kārakāamaccānāma suddānāma akārakā /  
 tasmā akārakā cha pi kārakesu yathārahaṃ  // MKacbh_99 //  
 aṭṭhārasahisippehi sampanno iminā ahaṃ /  
-kāraṇehi sammānehi vatthūhupagato bhave  // MKacbh_100 //  
+kāraṇehi sammānehi vatthūhupagato bhave  // MKacbh_100 //
 
-sappayogaṃ kārakabhedaṃ samattaṃ ||  
+sappayogaṃ kārakabhedaṃ samattaṃ ||
 
 samāsīyanti nāmāni nāmānaṃ samāsanaṃtathā /  
 samāso nāma viññeyyo samāsanavasekadhā  // MKacbh_101 //  
@@ -343,9 +343,9 @@ tayo parapade liṅgaṃ bahubbīhi padantare  // MKacbh_125 //
 digu abyayībhāvo ca napuṃsakeva niyato /  
 vācakopana viññeyyo vibhatti padarūpato  // MKacbh_126 //  
 puññ[e]nānena saṃsāra saṅkhepakārako bhave /  
-abhejjapariso pañño satimā ca bhavābhave  // MKacbh_127 //  
+abhejjapariso pañño satimā ca bhavābhave  // MKacbh_127 //
 
-sappayogaṃ samāsabhedaṃ samattaṃ ||  
+sappayogaṃ samāsabhedaṃ samattaṃ ||
 
 tesaṃ saddasamūhāhaṃ hitānukūlakaṃ thavā /  
 tesaṃ sissasamūhānaṃ taddhitanti pavuccati  // MKacbh_128 //  
@@ -388,9 +388,9 @@ bhāvekādasa tiṭṭhanti pañcāsīti samūhato  // MKacbh_145 //
 bhāvetu bhāvattho nāma jātiguṇa kriyātathā /  
 nāmaṃ dabbo ti pañcete saddamantā vijāniyā  // MKacbh_146 //  
 labheyyaṃ nena puññena anukūlamittādikaṃ /  
-kareyyaṃ pasatthaṃkammaṃ saddhādindriyako bhave  // MKacbh_147 //  
+kareyyaṃ pasatthaṃkammaṃ saddhādindriyako bhave  // MKacbh_147 //
 
-sappayogaṃ taddhitabhedaṃ samattaṃ ||  
+sappayogaṃ taddhitabhedaṃ samattaṃ ||
 
 jotanti paccayācettha ākhyāyanti vibhattiyo /  
 bhāvakammañca kattāraṃ āuhyātanti pavuccati  // MKacbh_148 //  
@@ -424,9 +424,9 @@ pañcete kāriteyeva sesā akārite ṭhitā  // MKacbh_161 //
 jotakā paccayā teci vikaraṇāpakāsitā /  
 niggahītañcivaṇṇoti āgamā dve pakāsitā  // MKacbh_162 //  
 bhaveyyanenapuññena svākhyātadhammiko ahaṃ /  
-bālānaṃ jotako ceva saddhabalādiko pica  // MKacbh_163 //  
+bālānaṃ jotako ceva saddhabalādiko pica  // MKacbh_163 //
 
-sappayogaṃ ākhyātabhedaṃ samattaṃ ||  
+sappayogaṃ ākhyātabhedaṃ samattaṃ ||
 
 saṅkhaṃ kirati sissānaṃ hitaṃvā yaṃ pakāsati /  
 ñāṇassa hetubhūtaṃ taṃ kitakanti pavuccati  // MKacbh_164 //  
@@ -462,10 +462,10 @@ sapadā sapadato dve buddho eva pakāsito  // MKacbh_178 //
 nāmānurūpato ceva dassetabbā vāccāpi ca /  
 te kita vācake sveva dassetabbā vijānatā  // MKacbh_179 //  
 bhaveyyaṃ nena puññena kaṅkhaṃ vitaraṇā sakkā /  
-lobhodosoca moho ca tanukāca bhavābhave  // MKacbh_180 //  
+lobhodosoca moho ca tanukāca bhavābhave  // MKacbh_180 //
 
-sappayogaṃ kitabhedaṃ samattaṃ ||  
+sappayogaṃ kitabhedaṃ samattaṃ ||
 
-kaccāyanabhedapakaraṇaṃ samattaṃ ||  
+kaccāyanabhedapakaraṇaṃ samattaṃ ||
 
 </html>

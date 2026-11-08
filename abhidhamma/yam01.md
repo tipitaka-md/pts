@@ -13851,7 +13851,7 @@ t. avijj. ca mān. ca diṭṭh. ca vici. ca paj., no ca t. kāma.
 ca paṭi. ca paj.; kāmadhātuyā dvīsu vedanāsu. t. avijj. ca
 kāma. ca mān. ca diṭṭh. ca vici. ca paj., no ca t. paṭi paj.;
 dukkhāya vedanāya t. avijj. ca paṭi. ca diṭṭ. ca vici ca
-paj., no ca t. kāma. ca mān. ca pajahati.                          
+paj., no ca t. kāma. ca mān. ca pajahati.
 --------------------------------------------------------------------------
 
 
@@ -14564,7 +14564,7 @@ nappaj.; so va puggalo rūpadhātuyā arūpadhātuyā apari-
 yāpanne so t. bhava. ca nappaj., kāma. ca . . . vici. ca
 nappaj.; aggamaggasamaṅgī kāmadhātuyā dvīsu vedanāsu
 so t. bhava. ca kāma. ca paṭi. ca diṭṭh. ca vici. ca nappaj.,
-no ca so t. mān. nappaj.; so va puggalo dukkhāya veda-            
+no ca so t. mān. nappaj.; so va puggalo dukkhāya veda-
 --------------------------------------------------------------------------
 
 
@@ -16005,7 +16005,7 @@ bhava. app- ti? Na vattabbo . . . (as for 1,2). Y. y. paṭi.
 app-, t. t. avijj. app- ti? Āmantā. Y. v. p. y. avijj. . . .
 Anāgāmissa kāmadhātuyā dvīsu vedanāsu rūpa- arūpa-
 dhātuyā t. t. avijj. app-, paṭi. na vattabbo . . .; tass' eva
-puggalassa dukkhāya vedanāya t. t. avijj. app-, no ca t.t.            
+puggalassa dukkhāya vedanāya t. t. avijj. app-, no ca t.t.
 --------------------------------------------------------------------------
 
 

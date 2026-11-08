@@ -979,7 +979,7 @@ vāsako hoti. itaresaṃ nānāsaṃvāsako. sattāpattiyo sattā-
 pattikkhandhā 'ti āpajjitabbato āpattiyo. rāsaṭṭhena khandhā
 'ti evaṃ dve yeva nāmāni hontī ti nāmavasena dukaṃ
 dassitaṃ. kammena vā salākaggāhena vā ti ettha uddeso c' eva
-kammañ ca ekaṃ. vohāro c eva anusāvanā ca salākaggāho 
+kammañ ca ekaṃ. vohāro c eva anusāvanā ca salākaggāho
 ca ekaṃ. [^1323-1]vohārānusāvana-salākaggāhā pubbabhāgā. kammañ
 c'eva uddeso ca pamāṇaṃ.[^1323-1] addhānahīno nāma ūnavī-
 sativasso. aṅgahīno nāma hatthacchindādibhedo. vatthu-
@@ -1273,7 +1273,7 @@ ekassa puggalassa ekam eva payogaṃ sandhāya āpattiṃ
 āpajjanto desetī ti idaṃ catukkaṃ vuttan ti veditabbaṃ.
 kammacatukke pāpikāya diṭṭhiyā appaṭinissaggāpattiṃ
 kammena āpajjati. desento akammena vuṭṭhāti. vissaṭṭhi-
-ādikaṃ akammena āpajjati parivāsādinā kammena vuṭṭhāti. 
+ādikaṃ akammena āpajjati parivāsādinā kammena vuṭṭhāti.
 samanubhāsakammen,[^1329-1] eva āpajjati kammena vuṭṭhāti. sesaṃ
 akammena āpajjati akammena vuṭṭhāti. parikkhāracatukke
 --------------------------------------------------------------------------
@@ -1697,7 +1697,7 @@ na jānāti. pātimokkhan ti dve mātikā na jānāti. pāti-
 mokkhuddesan ti sabbam pi navavidhaṃ pātimokkhuddesaṃ
 na jānāti. pavāraṇan ti navavidhaṃ pavāraṇaṃ na jānāti-
 pavāraṇakammaṃ uposathakamma-sadisam eva. apā-
-sādikapañcake apāsādikan ti kāyaducaritādi akusalakammaṃ 
+sādikapañcake apāsādikan ti kāyaducaritādi akusalakammaṃ
 vuccati. pāsādikan ti kāyasucaritādi kusalakammaṃ vuccati.
 ativelan ti velaṃ atikkamma bahutaraṃ kālaṃ kulesu
 appaṃ vihāre ti attho. otāro ti kilesānaṃ anto otaraṇaṃ.
@@ -1729,7 +1729,7 @@ ekaratta-chāratta-sattāhātikkamādīsu āpattiṃ satisammo-
 
 sena āpajjati. sesaṃ vuttanayam eva. cha ānisaṃsā vina-
 yadhare 'ti pañcake vuttā pañca tass' ādheyyo[^1340-1] uposatho ti
-iminā saddhiṃ cha. cha paramānī ti dasāha-paramaṃ 
+iminā saddhiṃ cha. cha paramānī ti dasāha-paramaṃ
 atirekacīvaraṃ dhāretabbaṃ, māsaparamaṃ tena bhikkhunā
 taṃ cīvaraṃ nikkhipitabbaṃ, santaruttaraparamaṃ tena
 bhikkhunā tato cīvaraṃ sāditabbaṃ, chakkhattuparamaṃ

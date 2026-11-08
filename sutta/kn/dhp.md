@@ -16,14 +16,14 @@
 
 1. Yamakavagga manopubbaṅgamā dhammā manoseṭṭhā manomayā, /  
 manasā ce paduṭṭhena bhāsatī vā karoti vā /  
-tato naṃ dukkham anveti cakkaṃ va vahato padaṃ.[^001-1]  // Dhp_1 //  
+tato naṃ dukkham anveti cakkaṃ va vahato padaṃ.[^001-1]  // Dhp_1 //
 
 manopubbaṅgamā dhammā manoseṭṭhā manomayā, /  
 manasā ce pasannena bhāsatī vā karoti vā /  
-tato naṃ sukham anveti chāyā va anapāyinī.[^001-2]  // Dhp_2 //  
+tato naṃ sukham anveti chāyā va anapāyinī.[^001-2]  // Dhp_2 //
 
 "akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me", /  
-ye taṃ upanayhanti veraṃ tesaṃ na sammati.[^001-3]  // Dhp_3 //  
+ye taṃ upanayhanti veraṃ tesaṃ na sammati.[^001-3]  // Dhp_3 //
 
 
 <!-- PTS Page 002 -->
@@ -32,17 +32,17 @@ ye taṃ upanayhanti veraṃ tesaṃ na sammati.[^001-3]  // Dhp_3 //
 ##### *[PTS Page 002]*
 
 "akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me", /  
-ye taṃ na upanayhanti veraṃ tes'; ūpasammati.[^002-1]  // Dhp_4 //  
+ye taṃ na upanayhanti veraṃ tes'; ūpasammati.[^002-1]  // Dhp_4 //
 
 na hi verena verāni sammant'; idha kudācana /  
-averena ca sammanti, esa dhammo sanantano.[^002-2]  // Dhp_5 //  
+averena ca sammanti, esa dhammo sanantano.[^002-2]  // Dhp_5 //
 
 pare ca na vijānanti: "mayam ettha yamāmase", /  
-ye ca tattha vijānanti tato sammanti medhagā.[^002-3]  // Dhp_6 //  
+ye ca tattha vijānanti tato sammanti medhagā.[^002-3]  // Dhp_6 //
 
 subhānupassiṃ viharantaṃ indriyesu asaṃvutaṃ /  
 bhojanamhi cāmattaññuṃ kusītaṃ hīnavīriyaṃ /  
-taṃ ve pasahatī Māro vāto rukkhaṃ va dubbalaṃ.[^002-4]  // Dhp_7 //  
+taṃ ve pasahatī Māro vāto rukkhaṃ va dubbalaṃ.[^002-4]  // Dhp_7 //
 
 
 <!-- PTS Page 003 -->
@@ -52,19 +52,19 @@ taṃ ve pasahatī Māro vāto rukkhaṃ va dubbalaṃ.[^002-4]  // Dhp_7 //
 
 asubhānupassiṃ viharantaṃ indriyesu susaṃvutaṃ /  
 bhojanamhi ca mattaññuṃ saddhaṃ āraddhavīriyaṃ /  
-taṃ ve na-ppasahatī Māro vāto selaṃ va pabbataṃ.[^003-1]  // Dhp_8 //  
+taṃ ve na-ppasahatī Māro vāto selaṃ va pabbataṃ.[^003-1]  // Dhp_8 //
 
 anikkasāvo kāsāvaṃ yo vatthaṃ paridahessati /  
-apeto damasaccena na so kāsāvam arahati.[^003-2]  // Dhp_9 //  
+apeto damasaccena na so kāsāvam arahati.[^003-2]  // Dhp_9 //
 
 yo ca vantakasāv'; assa sīlesu susamāhito /  
-upeto damasaccena sa ve kāsāvam arahati.[^003-3]  // Dhp_10 //  
+upeto damasaccena sa ve kāsāvam arahati.[^003-3]  // Dhp_10 //
 
 asāre sāramatino sāre cāsāradassino /  
-te sāraṃ nādhigacchanti micchāsaṃkappagocarā.[^003-4]  // Dhp_11 //  
+te sāraṃ nādhigacchanti micchāsaṃkappagocarā.[^003-4]  // Dhp_11 //
 
 sārañ ca sārato ñatvā asārañ ca asārato /  
-te sāraṃ adhigacchanti sammāsaṃkappagocarā.[^003-1]  // Dhp_12 //  
+te sāraṃ adhigacchanti sammāsaṃkappagocarā.[^003-1]  // Dhp_12 //
 
 
 <!-- PTS Page 004 -->
@@ -73,16 +73,16 @@ te sāraṃ adhigacchanti sammāsaṃkappagocarā.[^003-1]  // Dhp_12 //
 ##### *[PTS Page 004]*
 
 yathā agāraṃ ducchannaṃ vuṭṭhi samativijjhati /  
-evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati.[^004-2]  // Dhp_13 //  
+evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati.[^004-2]  // Dhp_13 //
 
 yathā agāraṃ succhannaṃ vuṭṭhi na samativijjhati /  
-evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati.[^004-3]  // Dhp_14 //  
+evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati.[^004-3]  // Dhp_14 //
 
 idha socati pecca socati pāpakārī ubhayattha socati, /  
-so socati so vihaññati disvā kammakiliṭṭham attano.[^004-4]  // Dhp_15 //  
+so socati so vihaññati disvā kammakiliṭṭham attano.[^004-4]  // Dhp_15 //
 
 idha modati pecca modati katapuñño ubhayattha modati, /  
-so modati so pamodati disvā kammavisuddhim attano.[^004-1]  // Dhp_16 //  
+so modati so pamodati disvā kammavisuddhim attano.[^004-1]  // Dhp_16 //
 
 
 <!-- PTS Page 005 -->
@@ -91,13 +91,13 @@ so modati so pamodati disvā kammavisuddhim attano.[^004-1]  // Dhp_16 //
 ##### *[PTS Page 005]*
 
 idha tappati pecca tappati pāpakārī ubhayattha tappati, /  
-"pāpaṃ me katan" ti tappati. bhiyyo tappati duggatiṃ gato.[^005-2]  // Dhp_17 //  
+"pāpaṃ me katan" ti tappati. bhiyyo tappati duggatiṃ gato.[^005-2]  // Dhp_17 //
 
 idha nandati pecca nandati katapuñño ubhayattha nandati, /  
-"puññaṃ me katan" ti nandati. bhiyyo nandati suggatiṃ gato.[^005-3]  // Dhp_18 //  
+"puññaṃ me katan" ti nandati. bhiyyo nandati suggatiṃ gato.[^005-3]  // Dhp_18 //
 
 bahum pi ce sahitaṃ bhāsamāno na takkaro hoti naro pamatto /  
-gopo va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti.[^005-4]  // Dhp_19 //  
+gopo va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti.[^005-4]  // Dhp_19 //
 
 
 <!-- PTS Page 006 -->
@@ -107,7 +107,7 @@ gopo va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti.[^005-4]  //
 
 appam pi ce sahitaṃ bhāsamāno dhammassa hoti anudhammacārī /  
 rāgañ ca dosañ ca pahāya mohaṃ sammappajāno suvimuttacitto /  
-anupādiyāno idha vā huraṃ vā sa bhāgavā sāmaññassa hoti.[^006-1]  // Dhp_20 //  
+anupādiyāno idha vā huraṃ vā sa bhāgavā sāmaññassa hoti.[^006-1]  // Dhp_20 //
 
 Yamakavaggo paṭhamo
 
@@ -118,16 +118,16 @@ Yamakavaggo paṭhamo
 ##### *[PTS Page 007]*
 
 2. Appamādavagga appamādo amatapadaṃ pamādo maccuno padaṃ, /  
-appamattā na mīyanti ye pamattā yathā matā.[^007-1]  // Dhp_21 //  
+appamattā na mīyanti ye pamattā yathā matā.[^007-1]  // Dhp_21 //
 
 etaṃ visesato ñatvā appamādamhi paṇḍitā /  
-appamāde pamodanti ariyānaṃ gocare ratā.[^007-2]  // Dhp_22 //  
+appamāde pamodanti ariyānaṃ gocare ratā.[^007-2]  // Dhp_22 //
 
 te jhāyino sātatikā niccaṃ daḷhaparakkamā /  
-phusanti dhīrā nibbānaṃ yogakkhemaṃ anuttaraṃ.[^007-3]  // Dhp_23 //  
+phusanti dhīrā nibbānaṃ yogakkhemaṃ anuttaraṃ.[^007-3]  // Dhp_23 //
 
 uṭṭhānavato satīmato sucikammassa nisammakārino /  
-saññatassa ca dhammajīvino appamattassa yaso 'bhivaḍḍhati.[^007-4]  // Dhp_24 //  
+saññatassa ca dhammajīvino appamattassa yaso 'bhivaḍḍhati.[^007-4]  // Dhp_24 //
 
 
 <!-- PTS Page 008 -->
@@ -136,17 +136,17 @@ saññatassa ca dhammajīvino appamattassa yaso 'bhivaḍḍhati.[^007-4]  // Dh
 ##### *[PTS Page 008]*
 
 uṭṭhānen'; appamādena saññamena damena ca /  
-dīpaṃ kayirātha medhāvī yaṃ ogho nābhikīrati.[^008-1]  // Dhp_25 //  
+dīpaṃ kayirātha medhāvī yaṃ ogho nābhikīrati.[^008-1]  // Dhp_25 //
 
 pamādam anuyuñjanti bālā dummedhino janā /  
-appamādañ ca medhāvī dhanaṃ seṭṭhaṃ va rakkhati.[^008-2]  // Dhp_26 //  
+appamādañ ca medhāvī dhanaṃ seṭṭhaṃ va rakkhati.[^008-2]  // Dhp_26 //
 
 mā pamādam anuyuñjetha mā kāmaratisanthavaṃ, /  
-appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ.[^008-3]  // Dhp_27 //  
+appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ.[^008-3]  // Dhp_27 //
 
 pamādaṃ appamādena yadā nudati paṇḍito /  
 paññāpāsādaṃ āruyha asoko sokiniṃ pajaṃ /  
-pabbataṭṭho va bhummaṭṭhe dhīro bāle avekkhati.[^008-4]  // Dhp_28 //  
+pabbataṭṭho va bhummaṭṭhe dhīro bāle avekkhati.[^008-4]  // Dhp_28 //
 
 
 <!-- PTS Page 009 -->
@@ -155,16 +155,16 @@ pabbataṭṭho va bhummaṭṭhe dhīro bāle avekkhati.[^008-4]  // Dhp_28 //
 ##### *[PTS Page 009]*
 
 appamatto pamattesu suttesu bahujāgaro /  
-abalassaṃ va sīghasso hitvā yāti sumedhaso.[^009-1]  // Dhp_29 //  
+abalassaṃ va sīghasso hitvā yāti sumedhaso.[^009-1]  // Dhp_29 //
 
 appamādena Maghavā devānaṃ seṭṭhataṃ gato, /  
-appamādaṃ pasaṃsanti pamādo garahito sadā.[^009-2]  // Dhp_30 //  
+appamādaṃ pasaṃsanti pamādo garahito sadā.[^009-2]  // Dhp_30 //
 
 appamādarato bhikkhu pamāde bhayadassivā /  
-saññojanaṃ aṇuṃthūlaṃ ḍahaṃ aggī va gacchati.[^009-3]  // Dhp_31 //  
+saññojanaṃ aṇuṃthūlaṃ ḍahaṃ aggī va gacchati.[^009-3]  // Dhp_31 //
 
 appamādarato bhikkhu pamāde bhayadassivā /  
-abhabbo parihānāya nibbānass'; eva santike.[^009-4]  // Dhp_32 //  
+abhabbo parihānāya nibbānass'; eva santike.[^009-4]  // Dhp_32 //
 
 Appamādavaggo dutiyo
 
@@ -175,16 +175,16 @@ Appamādavaggo dutiyo
 ##### *[PTS Page 010]*
 
 3. Cittavagga phandanaṃ capalaṃ cittaṃ dūrakkhaṃ dunnivārayaṃ /  
-ujuṃ karoti medhāvī usukāro va tejanaṃ.[^010-1]  // Dhp_33 //  
+ujuṃ karoti medhāvī usukāro va tejanaṃ.[^010-1]  // Dhp_33 //
 
 vārijo va thale khitto okamokata ubbhato /  
-pariphandat'; idaṃ cittaṃ Māradheyyaṃ pahātave.[^010-2]  // Dhp_34 //  
+pariphandat'; idaṃ cittaṃ Māradheyyaṃ pahātave.[^010-2]  // Dhp_34 //
 
 dunniggahassa lahuno yatthakāmanipātino /  
-cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ.[^010-3]  // Dhp_35 //  
+cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ.[^010-3]  // Dhp_35 //
 
 sududdasaṃ sunipuṇaṃ yatthakāmanipātinaṃ /  
-cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ.[^010-4]  // Dhp_36 //  
+cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ.[^010-4]  // Dhp_36 //
 
 
 <!-- PTS Page 011 -->
@@ -193,16 +193,16 @@ cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ.[^010-4]  // Dhp_3
 ##### *[PTS Page 011]*
 
 dūraṅgamaṃ ekacaraṃ asarīraṃ guhāsayaṃ /  
-ye cittaṃ saññamessanti mokkhanti Mārabandhanā.[^011-1]  // Dhp_37 //  
+ye cittaṃ saññamessanti mokkhanti Mārabandhanā.[^011-1]  // Dhp_37 //
 
 anavaṭṭhitacittassa saddhammaṃ avijānato /  
-pariplavapasādassa paññā na paripūrati.[^011-2]  // Dhp_38 //  
+pariplavapasādassa paññā na paripūrati.[^011-2]  // Dhp_38 //
 
 anavassutacittassa ananvāhatacetaso /  
-puññapāpapahīnassa n'; atthi jāgarato bhayaṃ.[^011-3]  // Dhp_39 //  
+puññapāpapahīnassa n'; atthi jāgarato bhayaṃ.[^011-3]  // Dhp_39 //
 
 kumbhūpamaṃ kāyam imaṃ viditvā nagarūpamaṃ cittam idaṃ ṭhapetvā /  
-yodhetha Māraṃ paññāvudhena jitañ ca rakkhe anivesano siyā.[^011-4]  // Dhp_40 //  
+yodhetha Māraṃ paññāvudhena jitañ ca rakkhe anivesano siyā.[^011-4]  // Dhp_40 //
 
 
 <!-- PTS Page 012 -->
@@ -211,13 +211,13 @@ yodhetha Māraṃ paññāvudhena jitañ ca rakkhe anivesano siyā.[^011-4]  // 
 ##### *[PTS Page 012]*
 
 aciraṃ vat'; ayaṃ kāyo paṭhaviṃ adhisessati /  
-chuddho apetaviññāṇo niratthaṃ va kaliṅgaraṃ.[^012-1]  // Dhp_41 //  
+chuddho apetaviññāṇo niratthaṃ va kaliṅgaraṃ.[^012-1]  // Dhp_41 //
 
 diso disaṃ yan taṃ kayirā verī vā pana verinaṃ, /  
-micchāpaṇihitaṃ cittaṃ pāpiyo naṃ tato kare.[^012-2]  // Dhp_42 //  
+micchāpaṇihitaṃ cittaṃ pāpiyo naṃ tato kare.[^012-2]  // Dhp_42 //
 
 na taṃ mātā pitā kayirā aññe vāpi ca ñātakā, /  
-sammāpaṇihitaṃ cittaṃ seyyaso naṃ tato kare.[^012-3]  // Dhp_43 //  
+sammāpaṇihitaṃ cittaṃ seyyaso naṃ tato kare.[^012-3]  // Dhp_43 //
 
 Cittavaggo tatiyo
 
@@ -228,13 +228,13 @@ Cittavaggo tatiyo
 ##### *[PTS Page 013]*
 
 4. Pupphavagga ko imaṃ paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ ? /  
-ko dhammapadaṃ sudesitaṃ kusalo puppham iva-ppacessati ?[^013-1]  // Dhp_44 //  
+ko dhammapadaṃ sudesitaṃ kusalo puppham iva-ppacessati ?[^013-1]  // Dhp_44 //
 
 sekho paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ. /  
-sekho dhammapadaṃ sudesitaṃ kusalo puppham iva-ppacessati.[^013-2]  // Dhp_45 //  
+sekho dhammapadaṃ sudesitaṃ kusalo puppham iva-ppacessati.[^013-2]  // Dhp_45 //
 
 pheṇūpamaṃ kāyam imaṃ viditvā marīcidhammaṃ abhisambudhāno /  
-chetvāna Mārassa papupphakāni adassanaṃ maccurājassa gacche.[^013-3]  // Dhp_46 //  
+chetvāna Mārassa papupphakāni adassanaṃ maccurājassa gacche.[^013-3]  // Dhp_46 //
 
 
 <!-- PTS Page 014 -->
@@ -243,16 +243,16 @@ chetvāna Mārassa papupphakāni adassanaṃ maccurājassa gacche.[^013-3]  // D
 ##### *[PTS Page 014]*
 
 pupphāni h'; eva pacinantaṃ vyāsattamanasaṃ naraṃ /  
-suttaṃ gāmaṃ mahogho va maccu ādāya gacchati.[^014-1]  // Dhp_47 //  
+suttaṃ gāmaṃ mahogho va maccu ādāya gacchati.[^014-1]  // Dhp_47 //
 
 pupphāni h'; eva pacinantaṃ vyāsattamanasaṃ naraṃ /  
-atittaṃ yeva kāmesu antako kurute vasaṃ.[^014-2]  // Dhp_48 //  
+atittaṃ yeva kāmesu antako kurute vasaṃ.[^014-2]  // Dhp_48 //
 
 yathāpi bhamaro pupphaṃ vaṇṇagandhaṃ aheṭhayaṃ /  
-paleti rasam ādāya evaṃ gāme munī care.[^014-3]  // Dhp_49 //  
+paleti rasam ādāya evaṃ gāme munī care.[^014-3]  // Dhp_49 //
 
 na paresaṃ vilomāni, na paresaṃ katākataṃ /  
-attano va avekkheyya katāni akatāni ca.[^014-4]  // Dhp_50 //  
+attano va avekkheyya katāni akatāni ca.[^014-4]  // Dhp_50 //
 
 
 <!-- PTS Page 015 -->
@@ -261,16 +261,16 @@ attano va avekkheyya katāni akatāni ca.[^014-4]  // Dhp_50 //
 ##### *[PTS Page 015]*
 
 yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ /  
-evaṃ subhāsitā vācā aphalā hoti akubbato.[^015-1]  // Dhp_51 //  
+evaṃ subhāsitā vācā aphalā hoti akubbato.[^015-1]  // Dhp_51 //
 
 yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ /  
-evaṃ subhāsitā vācā saphalā hoti sakubbato.[^015-2]  // Dhp_52 //  
+evaṃ subhāsitā vācā saphalā hoti sakubbato.[^015-2]  // Dhp_52 //
 
 yathāpi puppharāsimhā kayirā mālāguṇe bahū /  
-evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ.[^015-3]  // Dhp_53 //  
+evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ.[^015-3]  // Dhp_53 //
 
 na pupphagandho paṭivātam eti na candanaṃ tagaramallikā vā /  
-satañ ca gandho paṭivātam eti sabbā disā sappuriso pavāti.[^015-4]  // Dhp_54 //  
+satañ ca gandho paṭivātam eti sabbā disā sappuriso pavāti.[^015-4]  // Dhp_54 //
 
 
 <!-- PTS Page 016 -->
@@ -279,19 +279,19 @@ satañ ca gandho paṭivātam eti sabbā disā sappuriso pavāti.[^015-4]  // Dh
 ##### *[PTS Page 016]*
 
 candanaṃ tagaraṃ vāpi uppalaṃ atha vassikī /  
-etesaṃ gandhajātānaṃ sīlagandho anuttaro.[^016-1]  // Dhp_55 //  
+etesaṃ gandhajātānaṃ sīlagandho anuttaro.[^016-1]  // Dhp_55 //
 
 appamatto ayaṃ gandho yāyaṃ tagaracandanī /  
-yo ca sīlavataṃ gandho vāti devesu uttamo.[^016-2]  // Dhp_56 //  
+yo ca sīlavataṃ gandho vāti devesu uttamo.[^016-2]  // Dhp_56 //
 
 tesaṃ sampannasīlānaṃ appamādavihārinaṃ /  
-sammadaññāvimuttānaṃ Māro maggaṃ na vindati.[^016-3]  // Dhp_57 //  
+sammadaññāvimuttānaṃ Māro maggaṃ na vindati.[^016-3]  // Dhp_57 //
 
 yathā saṃkāradhānasmiṃ ujjhitasmiṃ mahāpathe /  
-padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ,[^016-4]  // Dhp_58 //  
+padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ,[^016-4]  // Dhp_58 //
 
 evaṃ saṃkārabhūtesu andhabhūte puthujjane /  
-atirocati paññāya sammāsambuddhasāvako.[^016-5]  // Dhp_59 //  
+atirocati paññāya sammāsambuddhasāvako.[^016-5]  // Dhp_59 //
 
 pupphavaggo catuttho
 
@@ -302,16 +302,16 @@ pupphavaggo catuttho
 ##### *[PTS Page 017]*
 
 5. Bālavagga dīghā jāgarato rattī dīghaṃ santassa yojanaṃ /  
-dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ.[^017-1]  // Dhp_60 //  
+dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ.[^017-1]  // Dhp_60 //
 
 carañ ce nādhigaccheyya seyyaṃ sadisam attano /  
-ekacariyaṃ daḷhaṃ kayirā n'; atthi bāle sahāyatā.[^017-2]  // Dhp_61 //  
+ekacariyaṃ daḷhaṃ kayirā n'; atthi bāle sahāyatā.[^017-2]  // Dhp_61 //
 
 "puttā m'; atthi dhanaṃ m'; atthi" iti bālo vihaññati /  
-attā hi attano n'; atthi kuto puttā kuto dhanaṃ.[^017-3]  // Dhp_62 //  
+attā hi attano n'; atthi kuto puttā kuto dhanaṃ.[^017-3]  // Dhp_62 //
 
 yo bālo maññatī balyaṃ paṇḍito vāpi tena so, /  
-bālo ca paṇḍitamānī sa ve bālo ti vuccati.[^017-1]  // Dhp_63 //  
+bālo ca paṇḍitamānī sa ve bālo ti vuccati.[^017-1]  // Dhp_63 //
 
 
 <!-- PTS Page 018 -->
@@ -320,19 +320,19 @@ bālo ca paṇḍitamānī sa ve bālo ti vuccati.[^017-1]  // Dhp_63 //
 ##### *[PTS Page 018]*
 
 yāvajīvam pi ce bālo paṇḍitaṃ payirupāsati /  
-na so dhammaṃ vijānāti dabbī sūparasaṃ yathā.[^018-2]  // Dhp_64 //  
+na so dhammaṃ vijānāti dabbī sūparasaṃ yathā.[^018-2]  // Dhp_64 //
 
 muhuttam api ce viññū paṇḍitaṃ payirupāsati /  
-khippaṃ dhammaṃ vijānāti jivhā sūparasaṃ yathā.[^018-3]  // Dhp_65 //  
+khippaṃ dhammaṃ vijānāti jivhā sūparasaṃ yathā.[^018-3]  // Dhp_65 //
 
 caranti bālā dummedhā amitteneva attanā /  
-karontā pāpakaṃ kammaṃ yaṃ hoti kaṭukapphalaṃ.[^018-4]  // Dhp_66 //  
+karontā pāpakaṃ kammaṃ yaṃ hoti kaṭukapphalaṃ.[^018-4]  // Dhp_66 //
 
 na taṃ kammaṃ kataṃ sādhu yaṃ katvā anutappati /  
-yassa assumukho rodaṃ vipākaṃ paṭisevati.[^018-5]  // Dhp_67 //  
+yassa assumukho rodaṃ vipākaṃ paṭisevati.[^018-5]  // Dhp_67 //
 
 tañ ca kammaṃ kataṃ sādhu yaṃ katvā nānutappati /  
-yassa patīto sumano vipākaṃ paṭisevati.[^018-6]  // Dhp_68 //  
+yassa patīto sumano vipākaṃ paṭisevati.[^018-6]  // Dhp_68 //
 
 
 <!-- PTS Page 019 -->
@@ -341,13 +341,13 @@ yassa patīto sumano vipākaṃ paṭisevati.[^018-6]  // Dhp_68 //
 ##### *[PTS Page 019]*
 
 madhuvā maññatī bālo yāva pāpaṃ na paccati /  
-yadā ca paccatī pāpaṃ atha bālo dukkhaṃ nigacchati.[^019-1]  // Dhp_69 //  
+yadā ca paccatī pāpaṃ atha bālo dukkhaṃ nigacchati.[^019-1]  // Dhp_69 //
 
 māse māse kusaggena bālo bhuñjetha bhojanaṃ /  
-na so saṃkhatadhammānaṃ kalaṃ nāgghati soḷasiṃ.[^019-2]  // Dhp_70 //  
+na so saṃkhatadhammānaṃ kalaṃ nāgghati soḷasiṃ.[^019-2]  // Dhp_70 //
 
 na hi pāpaṃ kataṃ kammaṃ sajju khīraṃ va mucchati /  
-ḍahantam bālam anveti bhasmācchanno va pāvako.[^019-3]  // Dhp_71 //  
+ḍahantam bālam anveti bhasmācchanno va pāvako.[^019-3]  // Dhp_71 //
 
 
 <!-- PTS Page 020 -->
@@ -356,18 +356,18 @@ na hi pāpaṃ kataṃ kammaṃ sajju khīraṃ va mucchati /
 ##### *[PTS Page 020]*
 
 yāvad eva anatthāya ñattaṃ bālassa jāyati /  
-hanti bālassa sukkaṃsaṃ muddham assa vipātayaṃ.[^020-1]  // Dhp_72 //  
+hanti bālassa sukkaṃsaṃ muddham assa vipātayaṃ.[^020-1]  // Dhp_72 //
 
 asataṃ bhāvanam iccheyya purekkhārañ ca bhikkhusu /  
-āvāsesu ca issariyaṃ pūjā parakulesu ca.  [^020-2]  // Dhp_73 //  
+āvāsesu ca issariyaṃ pūjā parakulesu ca.  [^020-2]  // Dhp_73 //
 
 "mam'; eva kata maññantu gihī pabbajitā ubho, /  
 mam'; evātivasā assu kiccākiccesu kismici", /  
-iti bālassa saṃkappo, icchā māno ca vaḍḍhati.[^020-3]  // Dhp_74 //  
+iti bālassa saṃkappo, icchā māno ca vaḍḍhati.[^020-3]  // Dhp_74 //
 
 aññā hi lābhūpanisā aññā nibbānagāminī, /  
 evam etaṃ abhiññāya bhikkhu Buddhassa sāvako /  
-sakkāraṃ nābhinandeyya vivekam anubrūhaye.[^020-1]  // Dhp_75 //  
+sakkāraṃ nābhinandeyya vivekam anubrūhaye.[^020-1]  // Dhp_75 //
 
 
 <!-- PTS Page 021 -->
@@ -385,18 +385,18 @@ Bālavaggo pañcamo
 
 6. Paṇḍitavagga nidhīnaṃ va pavattāraṃ yaṃ passe vajjadassinaṃ /  
 niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje, /  
-tādisaṃ bhajamānassa seyyo hoti na pāpiyo.[^022-1]  // Dhp_76 //  
+tādisaṃ bhajamānassa seyyo hoti na pāpiyo.[^022-1]  // Dhp_76 //
 
 ovadeyyānusāseyya asabbhā ca nivāraye, /  
-sataṃ hi so piyo hoti asataṃ hoti appiyo.[^022-2]  // Dhp_77 //  
+sataṃ hi so piyo hoti asataṃ hoti appiyo.[^022-2]  // Dhp_77 //
 
 na bhaje pāpake mitte na bhaje purisādhame, /  
-bhajetha mitte kalyāṇe bhajetha purisuttame.[^022-3]  // Dhp_78 //  
+bhajetha mitte kalyāṇe bhajetha purisuttame.[^022-3]  // Dhp_78 //
 
 dhammapīti sukhaṃ seti vipasannena cetasā, /  
-ariyappavedite dhamme sadā ramati paṇḍito.[^022-4]  // Dhp_79 //  
+ariyappavedite dhamme sadā ramati paṇḍito.[^022-4]  // Dhp_79 //
 
-udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ  /  
+udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ  /
 
 
 <!-- PTS Page 023 -->
@@ -404,16 +404,16 @@ udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ  /
 
 ##### *[PTS Page 023]*
 
-dāruṃ namayanti tacchakā attānaṃ damayanti paṇḍitā.[^023-1]  // Dhp_80 //  
+dāruṃ namayanti tacchakā attānaṃ damayanti paṇḍitā.[^023-1]  // Dhp_80 //
 
 selo yathā ekaghano vātena na samīrati /  
-evaṃ nindāpasaṃsāsu na samiñjanti paṇḍitā.[^023-2]  // Dhp_81 //  
+evaṃ nindāpasaṃsāsu na samiñjanti paṇḍitā.[^023-2]  // Dhp_81 //
 
 yathāpi rahado gambhīro vipasanno anāvilo /  
-evaṃ dhammāni sutvāna vippasīdanti paṇḍitā.[^023-3]  // Dhp_82 //  
+evaṃ dhammāni sutvāna vippasīdanti paṇḍitā.[^023-3]  // Dhp_82 //
 
 sabbattha ve sappurisā vajanti, na kāmakāmā lapayanti santo, /  
-sukhena phuṭṭhā athavā dukhena na uccāvacaṃ paṇḍitā dassayanti.[^023-4]  // Dhp_83 //  
+sukhena phuṭṭhā athavā dukhena na uccāvacaṃ paṇḍitā dassayanti.[^023-4]  // Dhp_83 //
 
 
 <!-- PTS Page 024 -->
@@ -422,16 +422,16 @@ sukhena phuṭṭhā athavā dukhena na uccāvacaṃ paṇḍitā dassayanti.[^0
 ##### *[PTS Page 024]*
 
 na attahetu na parassa hetu na puttam icche na dhanaṃ na raṭṭhaṃ /  
-na iccheyya adhammena samiddhim attano sa sīlavā paññavā dhammiko siyā.[^024-1]  // Dhp_84 //  
+na iccheyya adhammena samiddhim attano sa sīlavā paññavā dhammiko siyā.[^024-1]  // Dhp_84 //
 
 appakā te manussesu ye janā pāragāmino, /  
-athāyaṃ itarā pajā tīram evānudhāvati.[^024-2]  // Dhp_85 //  
+athāyaṃ itarā pajā tīram evānudhāvati.[^024-2]  // Dhp_85 //
 
 ye ca kho sammadakkhāte dhamme dhammānuvattino /  
-te janā pāram essanti, maccudheyyaṃ suduttaraṃ.[^024-3]  // Dhp_86 //  
+te janā pāram essanti, maccudheyyaṃ suduttaraṃ.[^024-3]  // Dhp_86 //
 
 kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito, /  
-okā anokaṃ āgamma viveke yattha dūramaṃ.[^024-4]  // Dhp_87 //  
+okā anokaṃ āgamma viveke yattha dūramaṃ.[^024-4]  // Dhp_87 //
 
 
 <!-- PTS Page 025 -->
@@ -440,11 +440,11 @@ okā anokaṃ āgamma viveke yattha dūramaṃ.[^024-4]  // Dhp_87 //
 ##### *[PTS Page 025]*
 
 tatrābhiratim iccheyya, hitvā kāme akiñcano /  
-pariyodapeyya attānaṃ cittaklesehi paṇḍito.[^025-1]  // Dhp_88 //  
+pariyodapeyya attānaṃ cittaklesehi paṇḍito.[^025-1]  // Dhp_88 //
 
 yesaṃ sambodhi-aṅgesu sammā cittaṃ subhāvitaṃ /  
 ādānapaṭinissagge anupādāya ye ratā /  
-khīṇāsavā jutīmanto te loke parinibbutā.2[^025-ḥ3]  // Dhp_89 //  
+khīṇāsavā jutīmanto te loke parinibbutā.2[^025-ḥ3]  // Dhp_89 //
 
 Paṇḍitavaggo chaṭṭho
 
@@ -455,18 +455,18 @@ Paṇḍitavaggo chaṭṭho
 ##### *[PTS Page 026]*
 
 7. Arahantavagga gataddhino visokassa vippamuttassa sabbadhi /  
-sabbaganthappahīnassa pariḷāho na vijjati.[^026-1]  // Dhp_90 //  
+sabbaganthappahīnassa pariḷāho na vijjati.[^026-1]  // Dhp_90 //
 
 uyyuñjanti satīmanto na nikete ramanti te /  
-haṃsā va pallalam hitvā okamokaṃ jahanti te.[^026-2]  // Dhp_91 //  
+haṃsā va pallalam hitvā okamokaṃ jahanti te.[^026-2]  // Dhp_91 //
 
 yesaṃ sannicayo n'; atthi ye pariññātabhojanā /  
 suññato animitto ca vimokho yesaṃ gocaro /  
-ākāse va sakuntānaṃ gati tesaṃ durannayā.[^026-3]  // Dhp_92 //  
+ākāse va sakuntānaṃ gati tesaṃ durannayā.[^026-3]  // Dhp_92 //
 
 yassāsavā parikkhīṇā āhāre ca anissito /  
 suññato animitto ca vimokho yassa gocaro /  
-ākāse va sakuntānaṃ padaṃ tassa durannayaṃ.4[^026-ḥ1]  // Dhp_93 //  
+ākāse va sakuntānaṃ padaṃ tassa durannayaṃ.4[^026-ḥ1]  // Dhp_93 //
 
 
 <!-- PTS Page 027 -->
@@ -475,16 +475,16 @@ suññato animitto ca vimokho yassa gocaro /
 ##### *[PTS Page 027]*
 
 yass'; indriyāni samathaṃ gatāni assā yathā sārathinā sudantā /  
-pahīnamānassa anāsavassa     devāpi tassa pihayanti tādino.[^027-2]  // Dhp_94 //  
+pahīnamānassa anāsavassa     devāpi tassa pihayanti tādino.[^027-2]  // Dhp_94 //
 
 paṭhavīsamo no virujjhati indakhīlūpamo tādi subbato /  
-rahado va apetakaddamo saṃsārā na bhavanti tādino.[^027-3]  // Dhp_95 //  
+rahado va apetakaddamo saṃsārā na bhavanti tādino.[^027-3]  // Dhp_95 //
 
 santaṃ tassa manaṃ hoti santā vācā ca kamma ca /  
-sammadaññāvimuttassa upasantassa tādino.[^027-4]  // Dhp_96 //  
+sammadaññāvimuttassa upasantassa tādino.[^027-4]  // Dhp_96 //
 
 assaddho akataññū ca sandhicchedo ca yo naro /  
-hatāvakāso vantāso sa ve uttamaporiso.[^027-1]  // Dhp_97 //  
+hatāvakāso vantāso sa ve uttamaporiso.[^027-1]  // Dhp_97 //
 
 
 <!-- PTS Page 028 -->
@@ -493,10 +493,10 @@ hatāvakāso vantāso sa ve uttamaporiso.[^027-1]  // Dhp_97 //
 ##### *[PTS Page 028]*
 
 gāme vā yadi vāraññe ninne vā yadi vā thale /  
-yatth'; arahanto viharanti taṃ bhūmiṃ rāmaṇeyyakaṃ.[^028-2]  // Dhp_98 //  
+yatth'; arahanto viharanti taṃ bhūmiṃ rāmaṇeyyakaṃ.[^028-2]  // Dhp_98 //
 
 ramaṇīyāni araññāni, yattha na ramatī jano /  
-vītarāgā ramissanti, na te kāmagavesino.[^028-3]  // Dhp_99 //  
+vītarāgā ramissanti, na te kāmagavesino.[^028-3]  // Dhp_99 //
 
 Arahantavaggo sattamo
 
@@ -507,16 +507,16 @@ Arahantavaggo sattamo
 ##### *[PTS Page 029]*
 
 8. Sahassavagga sahassam api ce vācā anatthapadasaṃhitā /  
-ekam atthapadaṃ seyyo yaṃ sutvā upasammati.[^029-1]  // Dhp_100 //  
+ekam atthapadaṃ seyyo yaṃ sutvā upasammati.[^029-1]  // Dhp_100 //
 
 sahassam api ce gāthā anatthapadasaṃhitā /  
-ekaṃ gāthāpadaṃ seyyo yaṃ sutvā upasammati.[^029-2]  // Dhp_101 //  
+ekaṃ gāthāpadaṃ seyyo yaṃ sutvā upasammati.[^029-2]  // Dhp_101 //
 
 yo ca gāthāsataṃ bhāse anatthapadasaṃhitā /  
-ekaṃ dhammapadaṃ seyyo yaṃ sutvā upasammati.[^029-3]  // Dhp_102 //  
+ekaṃ dhammapadaṃ seyyo yaṃ sutvā upasammati.[^029-3]  // Dhp_102 //
 
 yo sahassaṃ sahassena saṅgāme mānuse jine /  
-ekañ ca jeyya-m-attānaṃ sa ve saṅgāmajuttamo.[^029-4]  // Dhp_103 //  
+ekañ ca jeyya-m-attānaṃ sa ve saṅgāmajuttamo.[^029-4]  // Dhp_103 //
 
 
 <!-- PTS Page 030 -->
@@ -525,18 +525,18 @@ ekañ ca jeyya-m-attānaṃ sa ve saṅgāmajuttamo.[^029-4]  // Dhp_103 //
 ##### *[PTS Page 030]*
 
 attā have jitaṃ seyyo yā cāyaṃ itarā pajā, /  
-attadantassa posassa niccaṃ saññatacārino.[^030-1]  // Dhp_104 //  
+attadantassa posassa niccaṃ saññatacārino.[^030-1]  // Dhp_104 //
 
 n'; eva devo na gandhabbo na Māro saha Brahmunā /  
-jitaṃ apajitaṃ kayirā tathārūpassa jantuno.[^030-2]  // Dhp_105 //  
+jitaṃ apajitaṃ kayirā tathārūpassa jantuno.[^030-2]  // Dhp_105 //
 
 māse māse sahassena yo yajetha sataṃsamaṃ /  
 ekañ ca bhāvitattānaṃ muhuttam api pūjaye, /  
-sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ.[^030-3]  // Dhp_106 //  
+sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ.[^030-3]  // Dhp_106 //
 
 yo ca vassasataṃ jantu aggiṃ paricare vane /  
 ekañ ca bhāvitattānaṃ muhuttam api pūjaye, /  
-sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ.[^030-4]  // Dhp_107 //  
+sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ.[^030-4]  // Dhp_107 //
 
 
 <!-- PTS Page 031 -->
@@ -545,16 +545,16 @@ sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ.[^030-4]  // Dhp_107 //
 ##### *[PTS Page 031]*
 
 yaṃ kiñci yiṭṭhañ ca hutañ ca loke saṃvaccharaṃ yajetha puññapekho /  
-sabbam pi taṃ na catubhāgam eti, abhivādanā ujjugatesu seyyo.[^031-1]  // Dhp_108 //  
+sabbam pi taṃ na catubhāgam eti, abhivādanā ujjugatesu seyyo.[^031-1]  // Dhp_108 //
 
 abhivādanasīlissa niccaṃ vaddhāpacāyino /  
-cattāro dhammā vaḍḍhanti: āyu vaṇṇo sukhaṃ balaṃ.[^031-2]  // Dhp_109 //  
+cattāro dhammā vaḍḍhanti: āyu vaṇṇo sukhaṃ balaṃ.[^031-2]  // Dhp_109 //
 
 yo ca vassasataṃ jīve dussīlo asamāhito /  
-ekāhaṃ jīvitaṃ seyyo sīlavantassa jhāyino.[^031-3]  // Dhp_110 //  
+ekāhaṃ jīvitaṃ seyyo sīlavantassa jhāyino.[^031-3]  // Dhp_110 //
 
 yo ca vassasataṃ jīve duppañño asamāhito /  
-ekāhaṃ jīvitaṃ seyyo paññāvantassa jhāyino.[^031-4]  // Dhp_111 //  
+ekāhaṃ jīvitaṃ seyyo paññāvantassa jhāyino.[^031-4]  // Dhp_111 //
 
 
 <!-- PTS Page 032 -->
@@ -563,16 +563,16 @@ ekāhaṃ jīvitaṃ seyyo paññāvantassa jhāyino.[^031-4]  // Dhp_111 //
 ##### *[PTS Page 032]*
 
 yo ca vassasataṃ jīve kusīto hīnavīriyo /  
-ekāhaṃ jīvitaṃ seyyo viriyam ārabhato daḷhaṃ.[^032-1]  // Dhp_112 //  
+ekāhaṃ jīvitaṃ seyyo viriyam ārabhato daḷhaṃ.[^032-1]  // Dhp_112 //
 
 yo ca vassasataṃ jīve apassaṃ udayavyayaṃ /  
-ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ.[^032-2]  // Dhp_113 //  
+ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ.[^032-2]  // Dhp_113 //
 
 yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ /  
-ekāhaṃ jīvitaṃ seyyo passato amataṃ padaṃ.[^032-3]  // Dhp_114 //  
+ekāhaṃ jīvitaṃ seyyo passato amataṃ padaṃ.[^032-3]  // Dhp_114 //
 
 yo ca vassasataṃ jīve apassaṃ dhammam uttamaṃ /  
-ekāhaṃ jīvitaṃ seyyo passato dhammam uttamam.[^032-4]  // Dhp_115 //  
+ekāhaṃ jīvitaṃ seyyo passato dhammam uttamam.[^032-4]  // Dhp_115 //
 
 Sahassavaggo aṭṭhamo
 
@@ -583,16 +583,16 @@ Sahassavaggo aṭṭhamo
 ##### *[PTS Page 033]*
 
 9. Pāpavagga abhittharetha kalyāṇe pāpā cittaṃ nivāraye, /  
-dandhaṃ hi karoto puññaṃ pāpasmiṃ ramatī mano.[^033-1]  // Dhp_116 //  
+dandhaṃ hi karoto puññaṃ pāpasmiṃ ramatī mano.[^033-1]  // Dhp_116 //
 
 pāpañ ce puriso kayirā na taṃ kayirā punappunaṃ, /  
-na tamhi chandaṃ kayirātha, dukkho pāpassa uccayo.[^033-2]  // Dhp_117 //  
+na tamhi chandaṃ kayirātha, dukkho pāpassa uccayo.[^033-2]  // Dhp_117 //
 
 puññañ ce puriso kayirā kayirāth'; enaṃ punappunaṃ, /  
-tamhi chandaṃ kayirātha, sukho puññassa uccayo.[^033-3]  // Dhp_118 //  
+tamhi chandaṃ kayirātha, sukho puññassa uccayo.[^033-3]  // Dhp_118 //
 
 pāpo pi passatī bhadraṃ yāva pāpaṃ na paccati, /  
-yadā ca paccatī pāpaṃ atha pāpo pāpāni passati.[^033-1]  // Dhp_119 //  
+yadā ca paccatī pāpaṃ atha pāpo pāpāni passati.[^033-1]  // Dhp_119 //
 
 
 <!-- PTS Page 034 -->
@@ -601,15 +601,15 @@ yadā ca paccatī pāpaṃ atha pāpo pāpāni passati.[^033-1]  // Dhp_119 //
 ##### *[PTS Page 034]*
 
 bhadro pi passatī pāpaṃ yāva bhadraṃ na paccati, /  
-yadā ca paccatī bhadraṃ atha bhadro bhadrāni passati.[^034-2]  // Dhp_120 //  
+yadā ca paccatī bhadraṃ atha bhadro bhadrāni passati.[^034-2]  // Dhp_120 //
 
 māppamaññetha pāpassa "na man taṃ āgamissati", /  
 udabindunipātena udakumbho pi pūrati, /  
-bālo pūrati pāpassa thokathokam pi ācinaṃ.[^034-3]  // Dhp_121 //  
+bālo pūrati pāpassa thokathokam pi ācinaṃ.[^034-3]  // Dhp_121 //
 
 māppamaññetha puññassa "na man taṃ āgamissati", /  
 udabindunipātena udakumbho pi pūrati, /  
-dhīro pūrati puññassa thokathokam pi ācinaṃ.[^034-1]  // Dhp_122 //  
+dhīro pūrati puññassa thokathokam pi ācinaṃ.[^034-1]  // Dhp_122 //
 
 
 <!-- PTS Page 035 -->
@@ -618,16 +618,16 @@ dhīro pūrati puññassa thokathokam pi ācinaṃ.[^034-1]  // Dhp_122 //
 ##### *[PTS Page 035]*
 
 vāṇijo va bhayaṃ maggaṃ appasattho mahaddhano /  
-visaṃ jīvitukāmo va pāpāni parivajjaye.[^035-2]  // Dhp_123 //  
+visaṃ jīvitukāmo va pāpāni parivajjaye.[^035-2]  // Dhp_123 //
 
 pāṇimhi ce vaṇo nāssa hareyya pāṇinā visaṃ, /  
-nābbaṇaṃ visam anveti, n'; atthi pāpaṃ akubbato.[^035-3]  // Dhp_124 //  
+nābbaṇaṃ visam anveti, n'; atthi pāpaṃ akubbato.[^035-3]  // Dhp_124 //
 
 yo appaduṭṭhassa narassa dussati suddhassa posassa anaṅgaṇassa /  
-tam eva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto.[^035-4]  // Dhp_125 //  
+tam eva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto.[^035-4]  // Dhp_125 //
 
 gabbham eke upapajjanti nirayaṃ pāpakammino, /  
-saggaṃ sugatino yanti parinibbanti anāsavā.[^035-1]  // Dhp_126 //  
+saggaṃ sugatino yanti parinibbanti anāsavā.[^035-1]  // Dhp_126 //
 
 
 <!-- PTS Page 036 -->
@@ -636,10 +636,10 @@ saggaṃ sugatino yanti parinibbanti anāsavā.[^035-1]  // Dhp_126 //
 ##### *[PTS Page 036]*
 
 na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa /  
-na vijjatī so jagatippadeso yatthaṭṭhito muñceyya pāpakammā.[^036-2]  // Dhp_127 //  
+na vijjatī so jagatippadeso yatthaṭṭhito muñceyya pāpakammā.[^036-2]  // Dhp_127 //
 
 na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa /  
-na vijjatī so jagatippadeso yatthaṭṭhitaṃ na-ppasahetha maccu.[^036-3]  // Dhp_128 //  
+na vijjatī so jagatippadeso yatthaṭṭhitaṃ na-ppasahetha maccu.[^036-3]  // Dhp_128 //
 
 Pāpavaggo navamo
 
@@ -650,16 +650,16 @@ Pāpavaggo navamo
 ##### *[PTS Page 037]*
 
 10. Daṇḍavagga sabbe tasanti daṇḍassa sabbe bhāyanti maccuno, /  
-attānaṃ upamaṃ katvā na haneyya na ghātaye.[^037-1]  // Dhp_129 //  
+attānaṃ upamaṃ katvā na haneyya na ghātaye.[^037-1]  // Dhp_129 //
 
 sabbe tasanti daṇḍassa sabbesaṃ jīvitaṃ piyaṃ, /  
-attānaṃ upamaṃ katvā na haneyya na ghātaye.[^037-2]  // Dhp_130 //  
+attānaṃ upamaṃ katvā na haneyya na ghātaye.[^037-2]  // Dhp_130 //
 
 sukhakāmāni bhūtāni yo daṇḍena vihiṃsati /  
-attano sukham esāno pecca so na labhate sukhaṃ.[^037-3]  // Dhp_131 //  
+attano sukham esāno pecca so na labhate sukhaṃ.[^037-3]  // Dhp_131 //
 
 sukhakāmāni bhūtāni yo daṇḍena na hiṃsati /  
-attano sukham esāno pecca so labhate sukhaṃ.[^037-4]  // Dhp_132 //  
+attano sukham esāno pecca so labhate sukhaṃ.[^037-4]  // Dhp_132 //
 
 
 <!-- PTS Page 038 -->
@@ -668,19 +668,19 @@ attano sukham esāno pecca so labhate sukhaṃ.[^037-4]  // Dhp_132 //
 ##### *[PTS Page 038]*
 
 mā voca pharusaṃ kañci vuttā paṭivadeyyu taṃ, /  
-dukkhā hi sārambhakathā paṭidaṇḍā phuseyyu taṃ.[^038-1]  // Dhp_133 //  
+dukkhā hi sārambhakathā paṭidaṇḍā phuseyyu taṃ.[^038-1]  // Dhp_133 //
 
 sace neresi attānaṃ kaṃso upahato yathā /  
-esa patto si nibbānaṃ sārambho te na vijjati.[^038-2]  // Dhp_134 //  
+esa patto si nibbānaṃ sārambho te na vijjati.[^038-2]  // Dhp_134 //
 
 yathā daṇḍena gopālo gāvo pāceti gocaraṃ /  
-evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ.[^038-3]  // Dhp_135 //  
+evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ.[^038-3]  // Dhp_135 //
 
 atha pāpāni kammāni karaṃ bālo na bujjhati, /  
-sehi kammehi dummedho aggidaḍḍho va tappati.[^038-4]  // Dhp_136 //  
+sehi kammehi dummedho aggidaḍḍho va tappati.[^038-4]  // Dhp_136 //
 
 yo daṇḍena adaṇḍesu appaduṭṭhesu dussati /  
-dasannam aññataraṃ ṭhānaṃ khippam eva nigacchati.[^038-1]  // Dhp_137 //  
+dasannam aññataraṃ ṭhānaṃ khippam eva nigacchati.[^038-1]  // Dhp_137 //
 
 
 <!-- PTS Page 039 -->
@@ -689,15 +689,15 @@ dasannam aññataraṃ ṭhānaṃ khippam eva nigacchati.[^038-1]  // Dhp_137 /
 ##### *[PTS Page 039]*
 
 vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ /  
-garukaṃ vāpi ābādhaṃ cittakkhepaṃ va pāpuṇe.[^039-2]  // Dhp_138 //  
+garukaṃ vāpi ābādhaṃ cittakkhepaṃ va pāpuṇe.[^039-2]  // Dhp_138 //
 
 rājato va upassaggaṃ abbhakkhānaṃ va dāruṇaṃ /  
-parikkhayaṃ va ñātinaṃ bhogānaṃ va pabhaṅguṇaṃ.[^039-3]  // Dhp_139 //  
+parikkhayaṃ va ñātinaṃ bhogānaṃ va pabhaṅguṇaṃ.[^039-3]  // Dhp_139 //
 
 athav'; assa agārāni aggī ḍahati pāvako, /  
-kāyassa bhedā duppañño nirayaṃ sopapajjati.[^039-4]  // Dhp_140 //  
+kāyassa bhedā duppañño nirayaṃ sopapajjati.[^039-4]  // Dhp_140 //
 
-na naggacariyā na jaṭā na paṃkā nānāsakā thaṇḍilasāyikā vā  /  
+na naggacariyā na jaṭā na paṃkā nānāsakā thaṇḍilasāyikā vā  /
 
 
 <!-- PTS Page 040 -->
@@ -705,15 +705,15 @@ na naggacariyā na jaṭā na paṃkā nānāsakā thaṇḍilasāyikā vā  /
 
 ##### *[PTS Page 040]*
 
-rajo va jallaṃ ukkuṭikappadhānaṃ sodhenti maccaṃ avitiṇṇakaṃkhaṃ.[^040-1]  // Dhp_141 //  
+rajo va jallaṃ ukkuṭikappadhānaṃ sodhenti maccaṃ avitiṇṇakaṃkhaṃ.[^040-1]  // Dhp_141 //
 
 alaṃkato ce pi samaṃ careyya santo danto niyato brahmacārī /  
-sabbesu bhūtesu nidhāya daṇḍaṃ so brāhmaṇo so samaṇo sa bhikkhu.[^040-2]  // Dhp_142 //  
+sabbesu bhūtesu nidhāya daṇḍaṃ so brāhmaṇo so samaṇo sa bhikkhu.[^040-2]  // Dhp_142 //
 
 hirīnisedho puriso koci lokasmi vijjati /  
-yo nindaṃ appabodhati asso bhadro kasām iva.[^040-3]  // Dhp_143a //  
+yo nindaṃ appabodhati asso bhadro kasām iva.[^040-3]  // Dhp_143a //
 
-asso yathā bhadro kasāniviṭṭho ātāpino saṃvegino bhavātha.[^040-1]  // Dhp_143b //  
+asso yathā bhadro kasāniviṭṭho ātāpino saṃvegino bhavātha.[^040-1]  // Dhp_143b //
 
 
 <!-- PTS Page 041 -->
@@ -722,10 +722,10 @@ asso yathā bhadro kasāniviṭṭho ātāpino saṃvegino bhavātha.[^040-1]  /
 ##### *[PTS Page 041]*
 
 saddhāya sīlena ca viriyena ca samādhinā dhammavinicchayena ca /  
-sampannavijjācaraṇā patissatā pahassatha dukkham idaṃ anappakaṃ.[^041-2]  // Dhp_144 //  
+sampannavijjācaraṇā patissatā pahassatha dukkham idaṃ anappakaṃ.[^041-2]  // Dhp_144 //
 
 udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ /  
-dāruṃ namayanti tacchakā attānaṃ damayanti subbatā.[^041-3]  // Dhp_145 //  
+dāruṃ namayanti tacchakā attānaṃ damayanti subbatā.[^041-3]  // Dhp_145 //
 
 Daṇḍavaggo dasamo
 
@@ -736,16 +736,16 @@ Daṇḍavaggo dasamo
 ##### *[PTS Page 042]*
 
 11. Jarāvagga ko nu hāso kim ānando niccaṃ pajjalite sati, /  
-andhakārena onaddhā padīpaṃ na gavessatha.[^042-1]  // Dhp_146 //  
+andhakārena onaddhā padīpaṃ na gavessatha.[^042-1]  // Dhp_146 //
 
 passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ /  
-āturaṃ bahusaṃkappaṃ yassa n'; atthi dhuvaṃ ṭhiti.[^042-2]  // Dhp_147 //  
+āturaṃ bahusaṃkappaṃ yassa n'; atthi dhuvaṃ ṭhiti.[^042-2]  // Dhp_147 //
 
 parijiṇṇaṃ idaṃ rūpaṃ roganiḍḍaṃ pabhaṅguṇaṃ, /  
-bhijjati pūtisandeho maraṇantaṃ hi jīvitaṃ.[^042-3]  // Dhp_148 //  
+bhijjati pūtisandeho maraṇantaṃ hi jīvitaṃ.[^042-3]  // Dhp_148 //
 
 yān'; imāni apatthāni alāpūn'; eva sārade /  
-kāpotakāni aṭṭhīni tāni disvāna kā rati.[^042-1]  // Dhp_149 //  
+kāpotakāni aṭṭhīni tāni disvāna kā rati.[^042-1]  // Dhp_149 //
 
 
 <!-- PTS Page 043 -->
@@ -754,16 +754,16 @@ kāpotakāni aṭṭhīni tāni disvāna kā rati.[^042-1]  // Dhp_149 //
 ##### *[PTS Page 043]*
 
 aṭṭhīnaṃ nagaraṃ kataṃ maṃsalohitalepanaṃ /  
-yattha jarā ca maccu ca māno makkho ca ohito.[^043-2]  // Dhp_150 //  
+yattha jarā ca maccu ca māno makkho ca ohito.[^043-2]  // Dhp_150 //
 
 jīranti ve rājarathā sucittā atho sarīram pi jaraṃ upeti /  
-satañ ca dhammo na jaraṃ upeti santo have sabbhi pavedayanti.[^043-3]  // Dhp_151 //  
+satañ ca dhammo na jaraṃ upeti santo have sabbhi pavedayanti.[^043-3]  // Dhp_151 //
 
 appassutāyaṃ puriso balivaddo va jīrati, /  
-maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati.[^043-4]  // Dhp_152 //  
+maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati.[^043-4]  // Dhp_152 //
 
 anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ /  
-gahakārakaṃ gavesanto, dukkhā jāti punappunaṃ.[^043-1]  // Dhp_153 //  
+gahakārakaṃ gavesanto, dukkhā jāti punappunaṃ.[^043-1]  // Dhp_153 //
 
 
 <!-- PTS Page 044 -->
@@ -773,13 +773,13 @@ gahakārakaṃ gavesanto, dukkhā jāti punappunaṃ.[^043-1]  // Dhp_153 //
 
 gahakāraka diṭṭḥo si puna gehaṃ na kāhasi, /  
 sabbā ete phāsukā bhaggā gahakūṭaṃ visaṃkhitaṃ, /  
-visaṃkhāragataṃ cittaṃ taṇhānaṃ khayam ajjhagā.[^044-2]  // Dhp_154 //  
+visaṃkhāragataṃ cittaṃ taṇhānaṃ khayam ajjhagā.[^044-2]  // Dhp_154 //
 
 acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ /  
-jiṇṇakoñcā va jhāyanti khīṇamacche va pallale.[^044-3]  // Dhp_155 //  
+jiṇṇakoñcā va jhāyanti khīṇamacche va pallale.[^044-3]  // Dhp_155 //
 
 acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ /  
-senti cāpātikhīṇā va purāṇāni anutthunaṃ.[^044-4]  // Dhp_156 //  
+senti cāpātikhīṇā va purāṇāni anutthunaṃ.[^044-4]  // Dhp_156 //
 
 Jarāvaggo ekādasamo
 
@@ -790,18 +790,18 @@ Jarāvaggo ekādasamo
 ##### *[PTS Page 045]*
 
 12. Attavagga attānañ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ, /  
-tiṇṇaṃ aññataraṃ yāmaṃ paṭijaggeyya paṇḍito.[^045-1]  // Dhp_157 //  
+tiṇṇaṃ aññataraṃ yāmaṃ paṭijaggeyya paṇḍito.[^045-1]  // Dhp_157 //
 
 attānam eva paṭhamaṃ patirūpe nivesaye, /  
-ath'; aññam anusāseyya, na kilisseyya paṇḍito.[^045-2]  // Dhp_158 //  
+ath'; aññam anusāseyya, na kilisseyya paṇḍito.[^045-2]  // Dhp_158 //
 
 attānañ ce tathā kayirā yath'; aññam anusāsati /  
-sudanto vata dametha, attā hi kira duddamo.[^045-3]  // Dhp_159 //  
+sudanto vata dametha, attā hi kira duddamo.[^045-3]  // Dhp_159 //
 
 attā hi attano nātho, ko hi nātho paro siyā; /  
-attanā hi sudantena nāthaṃ labhati dullabhaṃ.[^045-4]  // Dhp_160 //  
+attanā hi sudantena nāthaṃ labhati dullabhaṃ.[^045-4]  // Dhp_160 //
 
-attanā va kataṃ pāpaṃ attajaṃ attasambhavaṃ  /  
+attanā va kataṃ pāpaṃ attajaṃ attasambhavaṃ  /
 
 
 <!-- PTS Page 046 -->
@@ -809,17 +809,17 @@ attanā va kataṃ pāpaṃ attajaṃ attasambhavaṃ  /
 
 ##### *[PTS Page 046]*
 
-abhimatthati dummedhaṃ vajiraṃ v'; amhamayaṃ maṇiṃ.[^046-1]  // Dhp_161 //  
+abhimatthati dummedhaṃ vajiraṃ v'; amhamayaṃ maṇiṃ.[^046-1]  // Dhp_161 //
 
 yassa accantadussīlyaṃ māluvā sālam iv'; otataṃ /  
-karoti so tath'; attānaṃ yathā naṃ icchatī diso.[^046-2]  // Dhp_162 //  
+karoti so tath'; attānaṃ yathā naṃ icchatī diso.[^046-2]  // Dhp_162 //
 
 sukarāni asādhūni attano ahitāni ca, /  
-yaṃ ve hitañ ca sādhuñ ca taṃ ve paramadukkaraṃ.[^046-3]  // Dhp_163 //  
+yaṃ ve hitañ ca sādhuñ ca taṃ ve paramadukkaraṃ.[^046-3]  // Dhp_163 //
 
 yo sāsanaṃ arahataṃ ariyānaṃ dhammajīvinaṃ /  
 paṭikkosati dummedho diṭṭhiṃ nissāya pāpikaṃ /  
-phalāni kaṭṭhakasseva attaghaññāya phallati.[^046-4]  // Dhp_164 //  
+phalāni kaṭṭhakasseva attaghaññāya phallati.[^046-4]  // Dhp_164 //
 
 
 <!-- PTS Page 047 -->
@@ -829,10 +829,10 @@ phalāni kaṭṭhakasseva attaghaññāya phallati.[^046-4]  // Dhp_164 //
 
 attanā va kataṃ pāpaṃ attanā saṃkilissati, /  
 attanā akataṃ pāpaṃ attanā va visujjhati, /  
-suddhī asuddhī paccattaṃ nāñño aññaṃ visodhaye.[^047-1]  // Dhp_165 //  
+suddhī asuddhī paccattaṃ nāñño aññaṃ visodhaye.[^047-1]  // Dhp_165 //
 
 attadatthaṃ paratthena bahunā pi na hāpaye, /  
-attadattham abhiññāya sadatthapasuto siyā.[^047-2]  // Dhp_166 //  
+attadattham abhiññāya sadatthapasuto siyā.[^047-2]  // Dhp_166 //
 
 Attavaggo dvādasamo
 
@@ -843,16 +843,16 @@ Attavaggo dvādasamo
 ##### *[PTS Page 048]*
 
 13. Lokavagga hīnaṃ dhammaṃ na seveyya pamādena na saṃvase /  
-micchādiṭṭhiṃ na seveyya na siyā lokavaḍḍhano.[^048-1]  // Dhp_167 //  
+micchādiṭṭhiṃ na seveyya na siyā lokavaḍḍhano.[^048-1]  // Dhp_167 //
 
 uttiṭṭhe na-ppamajjeyya dhammaṃ sucaritaṃ care, /  
-dhammacārī sukhaṃ seti asmiṃ loke paramhi ca.[^048-2]  // Dhp_168 //  
+dhammacārī sukhaṃ seti asmiṃ loke paramhi ca.[^048-2]  // Dhp_168 //
 
 dhammaṃ care sucaritaṃ na naṃ duccaritaṃ care, /  
-dhammacārī sukhaṃ seti asmiṃ loke paramhi ca.[^048-3]  // Dhp_169 //  
+dhammacārī sukhaṃ seti asmiṃ loke paramhi ca.[^048-3]  // Dhp_169 //
 
 yathā bubbulakaṃ passe yathā passe marīcikaṃ /  
-evaṃ lokaṃ avekkhantaṃ maccurājā na passati.[^048-4]  // Dhp_170 //  
+evaṃ lokaṃ avekkhantaṃ maccurājā na passati.[^048-4]  // Dhp_170 //
 
 
 <!-- PTS Page 049 -->
@@ -861,19 +861,19 @@ evaṃ lokaṃ avekkhantaṃ maccurājā na passati.[^048-4]  // Dhp_170 //
 ##### *[PTS Page 049]*
 
 etha passath'; imaṃ lokaṃ cittaṃ rājarathūpamaṃ /  
-yattha bālā visīdanti, n'; atthi saṅgo vijānataṃ.[^049-1]  // Dhp_171 //  
+yattha bālā visīdanti, n'; atthi saṅgo vijānataṃ.[^049-1]  // Dhp_171 //
 
 yo ca pubbe pamajjitvā pacchā so na-ppamajjati /  
-so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā.[^049-2]  // Dhp_172 //  
+so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā.[^049-2]  // Dhp_172 //
 
 yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati /  
-so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā.[^049-3]  // Dhp_173 //  
+so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā.[^049-3]  // Dhp_173 //
 
 andhabhūto ayaṃ loko tanuk'; ettha vipassati, /  
-sakunto jālamutto va appo saggāya gacchati.[^049-4]  // Dhp_174 //  
+sakunto jālamutto va appo saggāya gacchati.[^049-4]  // Dhp_174 //
 
 haṃsādiccapathe yanti ākāse yanti iddhiyā /  
-nīyanti dhīrā lokamhā jetvā Māraṃ savāhanaṃ.[^049-1]  // Dhp_175 //  
+nīyanti dhīrā lokamhā jetvā Māraṃ savāhanaṃ.[^049-1]  // Dhp_175 //
 
 
 <!-- PTS Page 050 -->
@@ -882,13 +882,13 @@ nīyanti dhīrā lokamhā jetvā Māraṃ savāhanaṃ.[^049-1]  // Dhp_175 //
 ##### *[PTS Page 050]*
 
 ekaṃ dhammaṃ atītassa musāvādissa jantuno /  
-vitiṇṇaparalokassa n'; atthi pāpaṃ akāriyaṃ.[^050-2]  // Dhp_176 //  
+vitiṇṇaparalokassa n'; atthi pāpaṃ akāriyaṃ.[^050-2]  // Dhp_176 //
 
 na ve kadariyā devalokaṃ vajanti bālā have na-ppasaṃsanti dānaṃ, /  
-dhīro ca dānaṃ anumodamāno ten'; eva so hoti sukhī parattha.[^050-3]  // Dhp_177 //  
+dhīro ca dānaṃ anumodamāno ten'; eva so hoti sukhī parattha.[^050-3]  // Dhp_177 //
 
 pathavyā ekarajjena saggassa gamanena vā /  
-sabbalokādhipaccena sotāpattiphalaṃ varaṃ.[^050-4]  // Dhp_178 //  
+sabbalokādhipaccena sotāpattiphalaṃ varaṃ.[^050-4]  // Dhp_178 //
 
 Lokavaggo terasamo
 
@@ -899,15 +899,15 @@ Lokavaggo terasamo
 ##### *[PTS Page 051]*
 
 14. Buddhavagga yassa jitaṃ nāvajīyati jitaṃ assa no yāti koci loke, /  
-tam buddham anantagocaraṃ apadaṃ kena padena nessatha.[^051-1]  // Dhp_179 //  
+tam buddham anantagocaraṃ apadaṃ kena padena nessatha.[^051-1]  // Dhp_179 //
 
 yassa jālinī visattikā taṇhā n'; atthi kuhiñci netave /  
-tam buddham anantagocaraṃ apadaṃ kena padena nessatha.[^051-2]  // Dhp_180 //  
+tam buddham anantagocaraṃ apadaṃ kena padena nessatha.[^051-2]  // Dhp_180 //
 
 ye jhānapasutā dhīrā nekkhammūpasame ratā /  
-devāpi tesaṃ pihayanti sambuddhānaṃ satīmataṃ.[^051-3]  // Dhp_181 //  
+devāpi tesaṃ pihayanti sambuddhānaṃ satīmataṃ.[^051-3]  // Dhp_181 //
 
-kiccho manussapaṭilābho kicchaṃ maccāna jīvitaṃ,  /  
+kiccho manussapaṭilābho kicchaṃ maccāna jīvitaṃ,  /
 
 
 <!-- PTS Page 052 -->
@@ -915,17 +915,17 @@ kiccho manussapaṭilābho kicchaṃ maccāna jīvitaṃ,  /
 
 ##### *[PTS Page 052]*
 
-kicchaṃ saddhammasavanaṃ kiccho Buddhānam uppādo.[^052-1]  // Dhp_182 //  
+kicchaṃ saddhammasavanaṃ kiccho Buddhānam uppādo.[^052-1]  // Dhp_182 //
 
 sabbapāpassa akaraṇaṃ kusalassa upasampadā /  
-sacittapariyodapanaṃ etaṃ Buddhāna sāsanaṃ.[^052-2]  // Dhp_183 //  
+sacittapariyodapanaṃ etaṃ Buddhāna sāsanaṃ.[^052-2]  // Dhp_183 //
 
 khantī paramaṃ tapo titikkhā, nibbānaṃ paramaṃ vadanti Buddhā, /  
-na hi pabbajito parūpaghātī samaṇo hoti paraṃ viheṭhayanto.[^052-3]  // Dhp_184 //  
+na hi pabbajito parūpaghātī samaṇo hoti paraṃ viheṭhayanto.[^052-3]  // Dhp_184 //
 
 anupavādo anupaghāto pātimokkhe ca saṃvaro /  
 mattaññutā ca bhattasmiṃ pantañ ca sayanāsanaṃ /  
-adhicitte ca āyogo etaṃ Buddhāna sāsanaṃ.[^052-1]  // Dhp_185 //  
+adhicitte ca āyogo etaṃ Buddhāna sāsanaṃ.[^052-1]  // Dhp_185 //
 
 
 <!-- PTS Page 053 -->
@@ -934,16 +934,16 @@ adhicitte ca āyogo etaṃ Buddhāna sāsanaṃ.[^052-1]  // Dhp_185 //
 ##### *[PTS Page 053]*
 
 na kahāpaṇavassena titti kāmesu vijjati, /  
-"appassādā dukhā kāmā" iti viññāya paṇḍito,[^053-2]  // Dhp_186 //  
+"appassādā dukhā kāmā" iti viññāya paṇḍito,[^053-2]  // Dhp_186 //
 
 api dibbesu kāmesu ratiṃ so nādhigacchati, /  
-taṇhakkhayarato hoti sammāsambuddhasāvako.[^053-3]  // Dhp_187 //  
+taṇhakkhayarato hoti sammāsambuddhasāvako.[^053-3]  // Dhp_187 //
 
 bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca /  
-ārāmarukkhacetyāni manussā bhayatajjitā,[^053-4]  // Dhp_188 //  
+ārāmarukkhacetyāni manussā bhayatajjitā,[^053-4]  // Dhp_188 //
 
 n'; etaṃ kho saraṇaṃ khemaṃ, n'; etaṃ saraṇam uttamaṃ, /  
-n'; etaṃ saraṇaṃ āgamma, sabbadukkhā pamuccati.[^053-1]  // Dhp_189 //  
+n'; etaṃ saraṇaṃ āgamma, sabbadukkhā pamuccati.[^053-1]  // Dhp_189 //
 
 
 <!-- PTS Page 054 -->
@@ -952,13 +952,13 @@ n'; etaṃ saraṇaṃ āgamma, sabbadukkhā pamuccati.[^053-1]  // Dhp_189 //
 ##### *[PTS Page 054]*
 
 yo ca Buddhañ ca Dhammañ ca Saṃghañ ca saraṇaṃ gato /  
-cattāri ariyasaccāni sammapaññāya passati:[^054-2]  // Dhp_190 //  
+cattāri ariyasaccāni sammapaññāya passati:[^054-2]  // Dhp_190 //
 
 dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ /  
-ariyañ c'; aṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ.[^054-3]  // Dhp_191 //  
+ariyañ c'; aṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ.[^054-3]  // Dhp_191 //
 
 etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇam uttamaṃ /  
-etaṃ saraṇaṃ āgamma sabbadukkhā pamuccati.[^054-4]  // Dhp_192 //  
+etaṃ saraṇaṃ āgamma sabbadukkhā pamuccati.[^054-4]  // Dhp_192 //
 
 
 <!-- PTS Page 055 -->
@@ -967,15 +967,15 @@ etaṃ saraṇaṃ āgamma sabbadukkhā pamuccati.[^054-4]  // Dhp_192 //
 ##### *[PTS Page 055]*
 
 dullabho purisājañño na so sabbattha jāyati, /  
-yattha so jāyatī dhīro taṃ kulaṃ sukham edhati.[^055-1]  // Dhp_193 //  
+yattha so jāyatī dhīro taṃ kulaṃ sukham edhati.[^055-1]  // Dhp_193 //
 
 sukho Buddhānaṃ uppādo sukhā saddhammadesanā /  
-sukhā saṃghassa sāmaggī samaggānaṃ tapo sukho.[^055-2]  // Dhp_194 //  
+sukhā saṃghassa sāmaggī samaggānaṃ tapo sukho.[^055-2]  // Dhp_194 //
 
 pūjārahe pūjayato Buddhe yadi va sāvake /  
 papañcasamatikkante tiṇṇasokapariddave,  // Dhp_195 //  
 te tādise pūjayato nibbute akutobhaye /  
-na sakkā puññaṃ saṃkhātuṃ im'; ettam api kenaci.3 ḥ4[^055-ḥ5]  // Dhp_196 //  
+na sakkā puññaṃ saṃkhātuṃ im'; ettam api kenaci.3 ḥ4[^055-ḥ5]  // Dhp_196 //
 
 Buddhavaggo cuddasamo
 
@@ -988,16 +988,16 @@ Paṭhamakabhāṇavāraṃ
 ##### *[PTS Page 056]*
 
 15. Sukhavagga susukhaṃ vata jīvāma verinesu averino, /  
-verinesu manussesu viharāma averino.[^056-1]  // Dhp_197 //  
+verinesu manussesu viharāma averino.[^056-1]  // Dhp_197 //
 
 susukhaṃ vata jīvāma āturesu anāturā, /  
-āturesu manussesu viharāma anāturā.[^056-2]  // Dhp_198 //  
+āturesu manussesu viharāma anāturā.[^056-2]  // Dhp_198 //
 
 susukhaṃ vata jīvāma ussukesu anussukā, /  
-ussukesu manussesu viharāma anussukā.[^056-3]  // Dhp_199 //  
+ussukesu manussesu viharāma anussukā.[^056-3]  // Dhp_199 //
 
 susukhaṃ vata jīvāma yesan no n'; atthi kiñcanaṃ, /  
-pītibhakkhā bhavissāma devā ābhassarā yathā.[^056-4]  // Dhp_200 //  
+pītibhakkhā bhavissāma devā ābhassarā yathā.[^056-4]  // Dhp_200 //
 
 
 <!-- PTS Page 057 -->
@@ -1006,16 +1006,16 @@ pītibhakkhā bhavissāma devā ābhassarā yathā.[^056-4]  // Dhp_200 //
 ##### *[PTS Page 057]*
 
 jayaṃ veraṃ pasavati dukkhaṃ seti parājito, /  
-upasanto sukhaṃ seti hitvā jayaparājayaṃ.[^057-1]  // Dhp_201 //  
+upasanto sukhaṃ seti hitvā jayaparājayaṃ.[^057-1]  // Dhp_201 //
 
 n'; atthi rāgasamo aggi, n'; atthi dosasamo kali, /  
-n'; atthi khandhādisā dukkhā, n'; atthi santiparaṃ sukhaṃ.[^057-2]  // Dhp_202 //  
+n'; atthi khandhādisā dukkhā, n'; atthi santiparaṃ sukhaṃ.[^057-2]  // Dhp_202 //
 
 jighacchāparamā rogā, saṃkhārā paramā dukhā, /  
-etaṃ ñatvā yathābhūtaṃ nibbānaṃ paramaṃ sukhaṃ.[^057-3]  // Dhp_203 //  
+etaṃ ñatvā yathābhūtaṃ nibbānaṃ paramaṃ sukhaṃ.[^057-3]  // Dhp_203 //
 
 ārogyaparamā lābhā, santuṭṭhiparamaṃ dhanaṃ, /  
-vissāsaparamā ñātī, nibbānaṃ paramaṃ sukhaṃ.[^057-4]  // Dhp_204 //  
+vissāsaparamā ñātī, nibbānaṃ paramaṃ sukhaṃ.[^057-4]  // Dhp_204 //
 
 
 <!-- PTS Page 058 -->
@@ -1024,17 +1024,17 @@ vissāsaparamā ñātī, nibbānaṃ paramaṃ sukhaṃ.[^057-4]  // Dhp_204 //
 ##### *[PTS Page 058]*
 
 pavivekarasaṃ pītvā rasaṃ upasamassa ca /  
-niddaro hoti nippāpo dhammapītirasaṃ pivaṃ.[^058-1]  // Dhp_205 //  
+niddaro hoti nippāpo dhammapītirasaṃ pivaṃ.[^058-1]  // Dhp_205 //
 
 sādhu dassanam ariyānaṃ sannivāso sadā sukho, /  
-adassanena bālānaṃ niccam eva sukhī siyā.[^058-2]  // Dhp_206 //  
+adassanena bālānaṃ niccam eva sukhī siyā.[^058-2]  // Dhp_206 //
 
 bālasaṅgatacārī hi dīgham addhāna socati, /  
 dukkho bālehi saṃvāso amitteneva sabbadā, /  
-dhīro ca sukhasaṃvāso ñātīnaṃ va samāgamo.[^058-3]  // Dhp_207 //  
+dhīro ca sukhasaṃvāso ñātīnaṃ va samāgamo.[^058-3]  // Dhp_207 //
 
 dhīrañ ca paññañ ca bahussutañ ca dhoreyyasīlaṃ vatavantam āriyaṃ /  
-taṃ tādisaṃ sappurisaṃ sumedhaṃ bhajetha nakkhattapathaṃ va candimā.[^058-1]  // Dhp_208 //  
+taṃ tādisaṃ sappurisaṃ sumedhaṃ bhajetha nakkhattapathaṃ va candimā.[^058-1]  // Dhp_208 //
 
 
 <!-- PTS Page 059 -->
@@ -1051,16 +1051,16 @@ Sukhavaggo pannarasamo
 ##### *[PTS Page 060]*
 
 16. Piyavagga ayoge yuñjaṃ attānaṃ yogasmiñ ca ayojayaṃ /  
-atthaṃ hitvā piyaggāhī pihet'; attānuyoginaṃ.[^060-1]  // Dhp_209 //  
+atthaṃ hitvā piyaggāhī pihet'; attānuyoginaṃ.[^060-1]  // Dhp_209 //
 
 mā piyehi samāgañchi appiyehi kudācanaṃ, /  
-piyānaṃ adassanaṃ dukkhaṃ appiyānañ ca dassanaṃ.[^060-2]  // Dhp_210 //  
+piyānaṃ adassanaṃ dukkhaṃ appiyānañ ca dassanaṃ.[^060-2]  // Dhp_210 //
 
 tasmā piyaṃ na kayirātha piyāpāyo hi pāpako, /  
-ganthā tesaṃ na vijjanti yesaṃ n'; atthi piyāppiyam.[^060-3]  // Dhp_211 //  
+ganthā tesaṃ na vijjanti yesaṃ n'; atthi piyāppiyam.[^060-3]  // Dhp_211 //
 
 piyato jāyatī soko piyato jāyatī bhayaṃ, /  
-piyato vippamuttassa n'; atthi soko kuto bhayaṃ.[^060-1]  // Dhp_212 //  
+piyato vippamuttassa n'; atthi soko kuto bhayaṃ.[^060-1]  // Dhp_212 //
 
 
 <!-- PTS Page 061 -->
@@ -1069,16 +1069,16 @@ piyato vippamuttassa n'; atthi soko kuto bhayaṃ.[^060-1]  // Dhp_212 //
 ##### *[PTS Page 061]*
 
 pemato jāyatī soko pemato jāyatī bhayaṃ, /  
-pemato vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-2]  // Dhp_213 //  
+pemato vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-2]  // Dhp_213 //
 
 ratiyā jāyatī soko ratiyā jāyatī bhayaṃ, /  
-ratiyā vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-3]  // Dhp_214 //  
+ratiyā vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-3]  // Dhp_214 //
 
 kāmato jāyatī soko kāmato jāyatī bhayaṃ, /  
-kāmato vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-4]  // Dhp_215 //  
+kāmato vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-4]  // Dhp_215 //
 
 taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ, /  
-taṇhāya vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-5]  // Dhp_216 //  
+taṇhāya vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-5]  // Dhp_216 //
 
 
 <!-- PTS Page 062 -->
@@ -1087,16 +1087,16 @@ taṇhāya vippamuttassa n'; atthi soko kuto bhayaṃ.[^061-5]  // Dhp_216 //
 ##### *[PTS Page 062]*
 
 sīladassanasampannaṃ dhammaṭṭhaṃ saccavādinaṃ /  
-attano kamma kubbānaṃ taṃ jano kurute piyaṃ.[^062-1]  // Dhp_217 //  
+attano kamma kubbānaṃ taṃ jano kurute piyaṃ.[^062-1]  // Dhp_217 //
 
 chandajāto anakkhāte manasā ca phuṭo siyā /  
-kāmesu ca appaṭibaddhacitto uddhaṃsoto ti vuccati.[^062-2]  // Dhp_218 //  
+kāmesu ca appaṭibaddhacitto uddhaṃsoto ti vuccati.[^062-2]  // Dhp_218 //
 
 cirappavāsiṃ purisaṃ dūrato sotthim āgataṃ /  
-ñātimittā suhajjā ca abhinandanti āgataṃ.[^062-3]  // Dhp_219 //  
+ñātimittā suhajjā ca abhinandanti āgataṃ.[^062-3]  // Dhp_219 //
 
 tath'; eva katapuññam pi asmā lokā paraṃ gataṃ /  
-puññāni paṭigaṇhanti piyaṃ ñātīva āgataṃ.4[^062-ḥ5]  // Dhp_220 //  
+puññāni paṭigaṇhanti piyaṃ ñātīva āgataṃ.4[^062-ḥ5]  // Dhp_220 //
 
 Piyavaggo soḷasamo
 
@@ -1107,16 +1107,16 @@ Piyavaggo soḷasamo
 ##### *[PTS Page 063]*
 
 17. Kodhavagga kodhaṃ jahe vippajaheyya mānaṃ saññojanaṃ sabbam atikkameyya /  
-taṃ nāmarūpasmim asajjamānaṃ akiñcanaṃ nānupatanti dukkhā.[^063-1]  // Dhp_221 //  
+taṃ nāmarūpasmim asajjamānaṃ akiñcanaṃ nānupatanti dukkhā.[^063-1]  // Dhp_221 //
 
 yo ve uppatitaṃ kodhaṃ rathaṃ bhantaṃ va dhāraye /  
-tam ahaṃ sārathiṃ brūmi, rasmiggāho itaro jano.[^063-2]  // Dhp_222 //  
+tam ahaṃ sārathiṃ brūmi, rasmiggāho itaro jano.[^063-2]  // Dhp_222 //
 
 akkodhena jine kodhaṃ asādhuṃ sādhunā jine, /  
-jine kadariyaṃ dānena saccenālikavādinaṃ.[^063-3]  // Dhp_223 //  
+jine kadariyaṃ dānena saccenālikavādinaṃ.[^063-3]  // Dhp_223 //
 
 saccam bhaṇe na kujjheyya dajjā appasmi yācito /  
-etehi tīhi ṭhānehi gacche devāna santike.[^063-1]  // Dhp_224 //  
+etehi tīhi ṭhānehi gacche devāna santike.[^063-1]  // Dhp_224 //
 
 
 <!-- PTS Page 064 -->
@@ -1125,14 +1125,14 @@ etehi tīhi ṭhānehi gacche devāna santike.[^063-1]  // Dhp_224 //
 ##### *[PTS Page 064]*
 
 ahiṃsakā ye munayo niccaṃ kāyena saṃvutā /  
-te yanti accutaṃ ṭhānaṃ yattha gantvā na socare.[^064-2]  // Dhp_225 //  
+te yanti accutaṃ ṭhānaṃ yattha gantvā na socare.[^064-2]  // Dhp_225 //
 
 sadā jāgaramānānaṃ ahorattānusikkhinaṃ /  
-nibbānaṃ adhimuttānaṃ atthaṃ gacchanti āsavā.[^064-3]  // Dhp_226 //  
+nibbānaṃ adhimuttānaṃ atthaṃ gacchanti āsavā.[^064-3]  // Dhp_226 //
 
 porāṇam etaṃ Atula n'; etaṃ ajjatanām iva: /  
 nindanti tuṇhiṃ āsīnaṃ nindanti bahubhāṇinaṃ /  
-mitabhāṇinam pi nindanti, n'; atthi loke anindito.[^064-4]  // Dhp_227 //  
+mitabhāṇinam pi nindanti, n'; atthi loke anindito.[^064-4]  // Dhp_227 //
 
 
 <!-- PTS Page 065 -->
@@ -1141,19 +1141,19 @@ mitabhāṇinam pi nindanti, n'; atthi loke anindito.[^064-4]  // Dhp_227 //
 ##### *[PTS Page 065]*
 
 na cāhu na ca bhavissati na c'; etarahi vijjati /  
-ekantaṃ nindito poso ekantaṃ vā pasaṃsito.[^065-1]  // Dhp_228 //  
+ekantaṃ nindito poso ekantaṃ vā pasaṃsito.[^065-1]  // Dhp_228 //
 
 yañ ce viññū pasaṃsanti anuvicca suve suve /  
-acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ.[^065-2]  // Dhp_229 //  
+acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ.[^065-2]  // Dhp_229 //
 
 nekkhaṃ jambonadasseva ko taṃ ninditum arahati, /  
-devā pi naṃ pasaṃsanti, Brahmunā pi pasaṃsito.[^065-3]  // Dhp_230 //  
+devā pi naṃ pasaṃsanti, Brahmunā pi pasaṃsito.[^065-3]  // Dhp_230 //
 
 kāyappakopaṃ rakkheyya kāyena saṃvuto siyā, /  
-kāyaduccaritaṃ hitvā kāyena sucaritaṃ care.[^065-4]  // Dhp_231 //  
+kāyaduccaritaṃ hitvā kāyena sucaritaṃ care.[^065-4]  // Dhp_231 //
 
 vacīpakopaṃ rakkheyya vācāya saṃvuto siyā, /  
-vacīduccaritaṃ hitvā vācāya sucaritaṃ care.[^065-5]  // Dhp_232 //  
+vacīduccaritaṃ hitvā vācāya sucaritaṃ care.[^065-5]  // Dhp_232 //
 
 
 <!-- PTS Page 066 -->
@@ -1162,10 +1162,10 @@ vacīduccaritaṃ hitvā vācāya sucaritaṃ care.[^065-5]  // Dhp_232 //
 ##### *[PTS Page 066]*
 
 manopakopaṃ rakkheyya manasā saṃvuto siyā, /  
-manoduccaritaṃ hitvā manasā sucaritaṃ care.[^066-1]  // Dhp_233 //  
+manoduccaritaṃ hitvā manasā sucaritaṃ care.[^066-1]  // Dhp_233 //
 
 kāyena saṃvutā dhīrā atho vācāya saṃvutā /  
-manasā saṃvutā dhīrā te ve suparisaṃvutā.[^066-2]  // Dhp_234 //  
+manasā saṃvutā dhīrā te ve suparisaṃvutā.[^066-2]  // Dhp_234 //
 
 Kodhavaggo sattarasamo
 
@@ -1176,15 +1176,15 @@ Kodhavaggo sattarasamo
 ##### *[PTS Page 067]*
 
 18. Malavagga paṇḍupalāso va dāni si Yamapurisā pi ca taṃ upaṭṭhitā, /  
-uyyogamukhe ca tiṭṭhasi pātheyyam pi ca te na vijjati.[^067-1]  // Dhp_235 //  
+uyyogamukhe ca tiṭṭhasi pātheyyam pi ca te na vijjati.[^067-1]  // Dhp_235 //
 
 so karohi dīpam attano khippaṃ vāyama paṇḍito bhava, /  
-niddhantamalo anaṅgaṇo dibbaṃ ariyabhūmim ehisi.[^067-2]  // Dhp_236 //  
+niddhantamalo anaṅgaṇo dibbaṃ ariyabhūmim ehisi.[^067-2]  // Dhp_236 //
 
 upanītavayo va dāni si sampayāto si Yamassa santike, /  
-vāso pi ca te n'; atthi antarā pātheyyam pi ca te na vijjati.[^067-3]  // Dhp_237 //  
+vāso pi ca te n'; atthi antarā pātheyyam pi ca te na vijjati.[^067-3]  // Dhp_237 //
 
-so karohi dīpam attano khippaṃ vāyama paṇḍito bhava,  /  
+so karohi dīpam attano khippaṃ vāyama paṇḍito bhava,  /
 
 
 <!-- PTS Page 068 -->
@@ -1192,16 +1192,16 @@ so karohi dīpam attano khippaṃ vāyama paṇḍito bhava,  /
 
 ##### *[PTS Page 068]*
 
-niddhantamalo anaṅgaṇo na punaṃ jātijaraṃ upehisi.[^068-1]  // Dhp_238 //  
+niddhantamalo anaṅgaṇo na punaṃ jātijaraṃ upehisi.[^068-1]  // Dhp_238 //
 
 anupubbena medhāvī thokathokaṃ khaṇe khaṇe /  
-kammāro rajatasseva niddhame malam attano.[^068-2]  // Dhp_239 //  
+kammāro rajatasseva niddhame malam attano.[^068-2]  // Dhp_239 //
 
 ayasā va malaṃ samuṭṭhitaṃ taduṭṭhāya tam eva khādati /  
-evaṃ atidhonacārinaṃ sakakammāni nayanti duggatiṃ.[^068-3]  // Dhp_240 //  
+evaṃ atidhonacārinaṃ sakakammāni nayanti duggatiṃ.[^068-3]  // Dhp_240 //
 
 asajjhāyamalā mantā, anuṭṭhānamalā gharā, /  
-malaṃ vaṇṇassa kosajjaṃ, pamādo rakkhato malaṃ.[^068-4]  // Dhp_241 //  
+malaṃ vaṇṇassa kosajjaṃ, pamādo rakkhato malaṃ.[^068-4]  // Dhp_241 //
 
 
 <!-- PTS Page 069 -->
@@ -1210,19 +1210,19 @@ malaṃ vaṇṇassa kosajjaṃ, pamādo rakkhato malaṃ.[^068-4]  // Dhp_241 /
 ##### *[PTS Page 069]*
 
 mal'; itthiyā duccaritaṃ, maccheraṃ dadato malaṃ, /  
-malā ve pāpakā dhammā asmiṃ loke paramhi ca.[^069-1]  // Dhp_242 //  
+malā ve pāpakā dhammā asmiṃ loke paramhi ca.[^069-1]  // Dhp_242 //
 
 tato malā malataraṃ avijjā paramaṃ malaṃ, /  
-etaṃ malaṃ pahatvāna nimmalā hotha bhikkhavo.[^069-2]  // Dhp_243 //  
+etaṃ malaṃ pahatvāna nimmalā hotha bhikkhavo.[^069-2]  // Dhp_243 //
 
 sujīvaṃ ahirīkena kākasūrena dhaṃsinā /  
-pakkhandinā pagabbhena saṃkiliṭṭhena jīvitaṃ.[^069-3]  // Dhp_244 //  
+pakkhandinā pagabbhena saṃkiliṭṭhena jīvitaṃ.[^069-3]  // Dhp_244 //
 
 hirīmatā ca dujjīvaṃ niccaṃ sucigavesinā /  
-alīnen'; appagabbhena suddhājīvena passatā.[^069-4]  // Dhp_245 //  
+alīnen'; appagabbhena suddhājīvena passatā.[^069-4]  // Dhp_245 //
 
 yo pāṇaṃ atimāpeti musāvādañ ca bhāsati /  
-loke adinnaṃ ādiyati paradārañ ca gacchati,[^069-5]  // Dhp_246 //  
+loke adinnaṃ ādiyati paradārañ ca gacchati,[^069-5]  // Dhp_246 //
 
 
 <!-- PTS Page 070 -->
@@ -1231,17 +1231,17 @@ loke adinnaṃ ādiyati paradārañ ca gacchati,[^069-5]  // Dhp_246 //
 ##### *[PTS Page 070]*
 
 surāmerayapānañ ca yo naro anuyuñjati /  
-idh'; eva-m-eso lokasmiṃ mūlaṃ khanati attano.[^070-1]  // Dhp_247 //  
+idh'; eva-m-eso lokasmiṃ mūlaṃ khanati attano.[^070-1]  // Dhp_247 //
 
 evaṃ bho purisa jānāhi: pāpadhammā asaññatā, /  
-mā taṃ lobho adhammo ca ciraṃ dukkhāya randhayuṃ.[^070-2]  // Dhp_248 //  
+mā taṃ lobho adhammo ca ciraṃ dukkhāya randhayuṃ.[^070-2]  // Dhp_248 //
 
 dadanti ve yathāsaddhaṃ yathāpasādanaṃ jano, /  
 tattha yo maṅku bhavati paresaṃ pānabhojane /  
-na so divā vā rattiṃ vā samādhiṃ adhigacchati.[^070-3]  // Dhp_249 //  
+na so divā vā rattiṃ vā samādhiṃ adhigacchati.[^070-3]  // Dhp_249 //
 
 yassa c'; etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ /  
-sa ve divā vā rattiṃ vā samādhiṃ adhigacchati.[^070-4]  // Dhp_250 //  
+sa ve divā vā rattiṃ vā samādhiṃ adhigacchati.[^070-4]  // Dhp_250 //
 
 
 <!-- PTS Page 071 -->
@@ -1250,19 +1250,19 @@ sa ve divā vā rattiṃ vā samādhiṃ adhigacchati.[^070-4]  // Dhp_250 //
 ##### *[PTS Page 071]*
 
 n'; atthi rāgasamo aggi n'; atthi dosasamo gaho /  
-n'; atthi mohasamaṃ jālaṃ n'; atthi taṇhāsamā nadī.[^071-1]  // Dhp_251 //  
+n'; atthi mohasamaṃ jālaṃ n'; atthi taṇhāsamā nadī.[^071-1]  // Dhp_251 //
 
 sudassaṃ vajjam aññesaṃ attano pana duddasaṃ, /  
 paresaṃ hi so vajjāni opunāti yathā bhusaṃ, /  
-attano pana chādeti kaliṃ va kitavā saṭho.[^071-2]  // Dhp_252 //  
+attano pana chādeti kaliṃ va kitavā saṭho.[^071-2]  // Dhp_252 //
 
 paravajjānupassissa niccaṃ ujjhānasaññino /  
-āsavā tassa vaḍḍhanti ārā so āsavakkhayā.[^071-3]  // Dhp_253 //  
+āsavā tassa vaḍḍhanti ārā so āsavakkhayā.[^071-3]  // Dhp_253 //
 
 ākāse ca padaṃ n'; atthi samaṇo n'; atthi bāhiro, /  
-papañcābhiratā pajā nippapañcā tathāgatā.[^071-4]  // Dhp_254 //  
+papañcābhiratā pajā nippapañcā tathāgatā.[^071-4]  // Dhp_254 //
 
-ākāse ca padaṃ n'; atthi samaṇo n'; atthi bāhiro  /  
+ākāse ca padaṃ n'; atthi samaṇo n'; atthi bāhiro  /
 
 
 <!-- PTS Page 072 -->
@@ -1270,7 +1270,7 @@ papañcābhiratā pajā nippapañcā tathāgatā.[^071-4]  // Dhp_254 //
 
 ##### *[PTS Page 072]*
 
-saṃkhārā sassatā n'; atthi n'; atthi buddhānam iñjitaṃ.[^072-1]  // Dhp_255 //  
+saṃkhārā sassatā n'; atthi n'; atthi buddhānam iñjitaṃ.[^072-1]  // Dhp_255 //
 
 Malavaggo aṭṭhārasamo
 
@@ -1281,22 +1281,22 @@ Malavaggo aṭṭhārasamo
 ##### *[PTS Page 073]*
 
 19. Dhammaṭṭhavagga na tena hoti dhammaṭṭho yen'; atthaṃ sahasā naye, /  
-yo ca atthaṃ anatthañ ca ubho niccheyya paṇḍito.[^073-1]  // Dhp_256 //  
+yo ca atthaṃ anatthañ ca ubho niccheyya paṇḍito.[^073-1]  // Dhp_256 //
 
 asāhasena dhammena samena nayatī pare /  
 dhammassa gutto medhāvī dhammaṭṭho ti pavuccati.  // Dhp_257 //  
 na tena paṇḍito hoti yāvatā bahu bhāsati, /  
-khemī averī abhayo paṇḍito ti pavuccati.[^073-2]  // Dhp_258 //  
+khemī averī abhayo paṇḍito ti pavuccati.[^073-2]  // Dhp_258 //
 
 na tāvatā dhammadharo yāvatā bahu bhāsati, /  
 yo ca appam pi sutvāna dhammaṃ kāyena passati /  
-sa ve dhammadharo hoti yo dhammaṃ na-ppamajjati.[^073-3]  // Dhp_259 //  
+sa ve dhammadharo hoti yo dhammaṃ na-ppamajjati.[^073-3]  // Dhp_259 //
 
 na tena thero hoti yen'; assa phalitaṃ siro, /  
-paripakko vayo tassa moghajiṇṇo ti vuccati.[^073-4]  // Dhp_260 //  
+paripakko vayo tassa moghajiṇṇo ti vuccati.[^073-4]  // Dhp_260 //
 
 yamhi saccañ ca dhammo ca ahiṃsā saññamo damo /  
-sa ve vantamalo dhīro thero ti pavuccati.[^073-1]  // Dhp_261 //  
+sa ve vantamalo dhīro thero ti pavuccati.[^073-1]  // Dhp_261 //
 
 
 <!-- PTS Page 074 -->
@@ -1305,16 +1305,16 @@ sa ve vantamalo dhīro thero ti pavuccati.[^073-1]  // Dhp_261 //
 ##### *[PTS Page 074]*
 
 na vākkaraṇamattena vaṇṇapokkharatāya vā /  
-sādhurūpo naro hoti issukī maccharī saṭho,[^074-2]  // Dhp_262 //  
+sādhurūpo naro hoti issukī maccharī saṭho,[^074-2]  // Dhp_262 //
 
 yassa c'; etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ /  
-sa vantadoso medhāvī sādhurūpo ti vuccati.[^074-3]  // Dhp_263 //  
+sa vantadoso medhāvī sādhurūpo ti vuccati.[^074-3]  // Dhp_263 //
 
 na muṇḍakena samaṇo abbato alikaṃ bhaṇaṃ /  
-icchālobhasamāpanno samaṇo kiṃ bhavissati,[^074-4]  // Dhp_264 //  
+icchālobhasamāpanno samaṇo kiṃ bhavissati,[^074-4]  // Dhp_264 //
 
 yo ca sameti pāpāni aṇuṃthūlāni sabbaso /  
-samitattā hi pāpānaṃ samaṇo ti pavuccati.[^074-5]  // Dhp_265 //  
+samitattā hi pāpānaṃ samaṇo ti pavuccati.[^074-5]  // Dhp_265 //
 
 
 <!-- PTS Page 075 -->
@@ -1323,19 +1323,19 @@ samitattā hi pāpānaṃ samaṇo ti pavuccati.[^074-5]  // Dhp_265 //
 ##### *[PTS Page 075]*
 
 na tena bhikkhu hoti yāvatā bhikkhate pare, /  
-vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā,[^075-1]  // Dhp_266 //  
+vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā,[^075-1]  // Dhp_266 //
 
 yo 'dha puññañ ca pāpañ ca bāhetvā brahmacariyavā /  
-saṃkhāya loke carati sa ve bhikkhū ti vuccati.[^075-2]  // Dhp_267 //  
+saṃkhāya loke carati sa ve bhikkhū ti vuccati.[^075-2]  // Dhp_267 //
 
 na monena munī hoti mūḷharūpo aviddasu, /  
-yo ca tulaṃ va paggayha varam ādāya paṇḍito[^075-3]  // Dhp_268 //  
+yo ca tulaṃ va paggayha varam ādāya paṇḍito[^075-3]  // Dhp_268 //
 
 pāpāni parivajjeti sa munī tena so muni, /  
-yo munāti ubho loke munī tena pavuccati.[^075-4]  // Dhp_269 //  
+yo munāti ubho loke munī tena pavuccati.[^075-4]  // Dhp_269 //
 
 na tena ariyo hoti yena pāṇāni hiṃsati, /  
-ahiṃsā sabbapāṇānaṃ ariyo ti pavuccati.[^075-5]  // Dhp_270 //  
+ahiṃsā sabbapāṇānaṃ ariyo ti pavuccati.[^075-5]  // Dhp_270 //
 
 
 <!-- PTS Page 076 -->
@@ -1344,10 +1344,10 @@ ahiṃsā sabbapāṇānaṃ ariyo ti pavuccati.[^075-5]  // Dhp_270 //
 ##### *[PTS Page 076]*
 
 na sīlabbatamattena bāhusaccena vā puna /  
-atha vā samādhilābhena viviccasayanena vā[^076-1]  // Dhp_271 //  
+atha vā samādhilābhena viviccasayanena vā[^076-1]  // Dhp_271 //
 
 phusāmi nekkhammasukhaṃ aputhujjanasevitaṃ; /  
-bhikkhu vissāsa māpādi appatto āsavakkhayaṃ.[^076-2]  // Dhp_272 //  
+bhikkhu vissāsa māpādi appatto āsavakkhayaṃ.[^076-2]  // Dhp_272 //
 
 Dhammaṭṭhavaggo ekūnavīsatimo[^076-3]
 
@@ -1358,16 +1358,16 @@ Dhammaṭṭhavaggo ekūnavīsatimo[^076-3]
 ##### *[PTS Page 077]*
 
 20. Maggavagga maggān'; aṭṭhaṅgiko seṭṭho saccānaṃ caturo padā, /  
-virāgo seṭṭho dhammānaṃ dipadānañ ca cakkhumā.[^077-1]  // Dhp_273 //  
+virāgo seṭṭho dhammānaṃ dipadānañ ca cakkhumā.[^077-1]  // Dhp_273 //
 
 es'; eva maggo n'; atth'; añño dassanassa visuddhiyā, /  
-etaṃ hi tumhe paṭipajjatha, Mārass'; etaṃ pamohanaṃ.[^077-2]  // Dhp_274 //  
+etaṃ hi tumhe paṭipajjatha, Mārass'; etaṃ pamohanaṃ.[^077-2]  // Dhp_274 //
 
 etaṃ hi tumhe paṭipannā dukkhass'; antaṃ karissatha, /  
-akkhāto ve mayā maggo aññāya sallasanthanaṃ.[^077-3]  // Dhp_275 //  
+akkhāto ve mayā maggo aññāya sallasanthanaṃ.[^077-3]  // Dhp_275 //
 
 tumhehi kiccaṃ ātappaṃ, akkhātāro tathāgatā, /  
-paṭipannā pamokkhanti jhāyino Mārabandhanā.[^077-1]  // Dhp_276 //  
+paṭipannā pamokkhanti jhāyino Mārabandhanā.[^077-1]  // Dhp_276 //
 
 
 <!-- PTS Page 078 -->
@@ -1376,16 +1376,16 @@ paṭipannā pamokkhanti jhāyino Mārabandhanā.[^077-1]  // Dhp_276 //
 ##### *[PTS Page 078]*
 
 "sabbe saṃkhārā aniccā" ti yadā paññāya passati /  
-atha nibbindatī dukkhe, esa maggo visuddhiyā.[^078-2]  // Dhp_277 //  
+atha nibbindatī dukkhe, esa maggo visuddhiyā.[^078-2]  // Dhp_277 //
 
 "sabbe saṃkhārā dukkhā" ti yadā paññāya passati /  
-atha nibbindatī dukkhe, esa maggo visuddhiyā.[^078-3]  // Dhp_278 //  
+atha nibbindatī dukkhe, esa maggo visuddhiyā.[^078-3]  // Dhp_278 //
 
 "sabbe dhammā anattā" ti yadā paññāya passati /  
-atha nibbindatī dukkhe, esa maggo visuddhiyā.[^078-4]  // Dhp_279 //  
+atha nibbindatī dukkhe, esa maggo visuddhiyā.[^078-4]  // Dhp_279 //
 
 uṭṭhānakālamhi anuṭṭhahāno yuvā balī ālasiyaṃ upeto /  
-saṃsannasaṃkappamano kusīto paññāya maggaṃ alaso na vindati.[^078-1]  // Dhp_280 //  
+saṃsannasaṃkappamano kusīto paññāya maggaṃ alaso na vindati.[^078-1]  // Dhp_280 //
 
 
 <!-- PTS Page 079 -->
@@ -1394,14 +1394,14 @@ saṃsannasaṃkappamano kusīto paññāya maggaṃ alaso na vindati.[^078-1]  
 ##### *[PTS Page 079]*
 
 vācānurakkhī manasā susaṃvuto kāyena ca akusalaṃ na kayirā /  
-ete tayo kammapathe visodhaye, ārādhaye maggam isippaveditaṃ.[^079-2]  // Dhp_281 //  
+ete tayo kammapathe visodhaye, ārādhaye maggam isippaveditaṃ.[^079-2]  // Dhp_281 //
 
 yogā ve jāyati bhūrī ayogā bhūrisaṃkhayo /  
 etaṃ dvedhāpathaṃ ñatvā bhavāya vibhavāya ca /  
-tath'; attānaṃ niveseyya yathā bhūrī pavaḍḍhati.[^079-3]  // Dhp_282 //  
+tath'; attānaṃ niveseyya yathā bhūrī pavaḍḍhati.[^079-3]  // Dhp_282 //
 
 vanaṃ chindatha, mā rukkhaṃ, vanato jāyatī bhayaṃ, /  
-chetvā vanaṃ vanathañ ca nibbanā hotha bhikkhavo.[^079-1]  // Dhp_283 //  
+chetvā vanaṃ vanathañ ca nibbanā hotha bhikkhavo.[^079-1]  // Dhp_283 //
 
 
 <!-- PTS Page 080 -->
@@ -1410,13 +1410,13 @@ chetvā vanaṃ vanathañ ca nibbanā hotha bhikkhavo.[^079-1]  // Dhp_283 //
 ##### *[PTS Page 080]*
 
 yāvaṃ hi vanatho na chijjati aṇumatto pi narassa nārisu /  
-paṭibaddhamano va tāva so vaccho khīrapako va mātari.[^080-2]  // Dhp_284 //  
+paṭibaddhamano va tāva so vaccho khīrapako va mātari.[^080-2]  // Dhp_284 //
 
 ucchinda sineham attano kumudaṃ sāradikaṃ va pāṇinā, /  
-santimaggam eva brūhaya nibbānaṃ sugatena desitaṃ.[^080-3]  // Dhp_285 //  
+santimaggam eva brūhaya nibbānaṃ sugatena desitaṃ.[^080-3]  // Dhp_285 //
 
 idha vassaṃ vasissāmi idha hemantagimhisu /  
-iti bālo vicinteti antarāyaṃ na bujjhati.[^080-4]  // Dhp_286 //  
+iti bālo vicinteti antarāyaṃ na bujjhati.[^080-4]  // Dhp_286 //
 
 
 <!-- PTS Page 081 -->
@@ -1425,13 +1425,13 @@ iti bālo vicinteti antarāyaṃ na bujjhati.[^080-4]  // Dhp_286 //
 ##### *[PTS Page 081]*
 
 taṃ puttapasusammattaṃ byāsattamanasaṃ naraṃ /  
-suttaṃ gāmaṃ mahogho va maccu ādāya gacchati.[^081-1]  // Dhp_287 //  
+suttaṃ gāmaṃ mahogho va maccu ādāya gacchati.[^081-1]  // Dhp_287 //
 
 na santi puttā tāṇāya na pitā na pi bandhavā /  
-antakenādhipannassa n'; atthi ñātīsu tāṇatā.[^081-2]  // Dhp_288 //  
+antakenādhipannassa n'; atthi ñātīsu tāṇatā.[^081-2]  // Dhp_288 //
 
 etam atthavasaṃ ñatvā paṇḍito sīlasaṃvuto /  
-nibbānagamanaṃ maggaṃ khippam eva visodhaye.[^081-3]  // Dhp_289 //  
+nibbānagamanaṃ maggaṃ khippam eva visodhaye.[^081-3]  // Dhp_289 //
 
 Maggavaggo vīsatimo
 
@@ -1442,17 +1442,17 @@ Maggavaggo vīsatimo
 ##### *[PTS Page 082]*
 
 21. Pakiṇṇakavagga mattāsukhapariccāgā passe ce vipulaṃ sukhaṃ /  
-caje mattāsukhaṃ dhīro sampassaṃ vipulaṃ sukhaṃ.[^082-1]  // Dhp_290 //  
+caje mattāsukhaṃ dhīro sampassaṃ vipulaṃ sukhaṃ.[^082-1]  // Dhp_290 //
 
 paradukkhūpadhānena yo attano sukham icchati /  
-verasaṃsaggasaṃsaṭṭho verā so na pamuccati.[^082-2]  // Dhp_291 //  
+verasaṃsaggasaṃsaṭṭho verā so na pamuccati.[^082-2]  // Dhp_291 //
 
 yaṃ hi kiccaṃ apaviddhaṃ akiccaṃ pana kayirati /  
-unnaḷānaṃ pamattānaṃ tesaṃ vaḍḍhanti āsavā.[^082-3]  // Dhp_292 //  
+unnaḷānaṃ pamattānaṃ tesaṃ vaḍḍhanti āsavā.[^082-3]  // Dhp_292 //
 
 yesañ ca susamāraddhā niccaṃ kāyagatā sati /  
 akiccan te na sevanti kicce sātaccakārino, /  
-satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā.[^082-1]  // Dhp_293 //  
+satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā.[^082-1]  // Dhp_293 //
 
 
 <!-- PTS Page 083 -->
@@ -1461,19 +1461,19 @@ satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā.[^082-1]  // Dhp_293 //
 ##### *[PTS Page 083]*
 
 mātaraṃ pitaraṃ hantvā rājāno dve ca khattiye /  
-raṭṭhaṃ sānucaraṃ hantvā anīgho yāti brāhmaṇo.[^083-2]  // Dhp_294 //  
+raṭṭhaṃ sānucaraṃ hantvā anīgho yāti brāhmaṇo.[^083-2]  // Dhp_294 //
 
 mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiye /  
-veyyagghapañcamaṃ hantvā anīgho yāti brāhmaṇo.[^083-3]  // Dhp_295 //  
+veyyagghapañcamaṃ hantvā anīgho yāti brāhmaṇo.[^083-3]  // Dhp_295 //
 
 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā /  
-yesaṃ divā ca ratto ca niccaṃ Buddhagatā sati.[^083-4]  // Dhp_296 //  
+yesaṃ divā ca ratto ca niccaṃ Buddhagatā sati.[^083-4]  // Dhp_296 //
 
 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā /  
-yesaṃ divā ca ratto ca niccaṃ Dhammagatā sati.[^083-5]  // Dhp_297 //  
+yesaṃ divā ca ratto ca niccaṃ Dhammagatā sati.[^083-5]  // Dhp_297 //
 
 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā /  
-yesaṃ divā ca ratto ca niccaṃ Saṃghagatā sati.[^083-1]  // Dhp_298 //  
+yesaṃ divā ca ratto ca niccaṃ Saṃghagatā sati.[^083-1]  // Dhp_298 //
 
 
 <!-- PTS Page 084 -->
@@ -1482,20 +1482,20 @@ yesaṃ divā ca ratto ca niccaṃ Saṃghagatā sati.[^083-1]  // Dhp_298 //
 ##### *[PTS Page 084]*
 
 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā /  
-yesaṃ divā ca ratto ca niccaṃ kāyagatā sati.[^084-2]  // Dhp_299 //  
+yesaṃ divā ca ratto ca niccaṃ kāyagatā sati.[^084-2]  // Dhp_299 //
 
 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā /  
-yesaṃ divā ca ratto ca ahiṃsāya rato mano.[^084-3]  // Dhp_300 //  
+yesaṃ divā ca ratto ca ahiṃsāya rato mano.[^084-3]  // Dhp_300 //
 
 suppabuddhaṃ pabujjhanti sadā Gotamasāvakā /  
-yesaṃ divā ca ratto ca bhāvanāya rato mano.[^084-4]  // Dhp_301 //  
+yesaṃ divā ca ratto ca bhāvanāya rato mano.[^084-4]  // Dhp_301 //
 
 duppabbajjaṃ durabhiramaṃ durāvāsā gharā dukhā /  
 dukkho 'samānasaṃvāso, dukkhānupatit'; addhagū /  
-tasmā na c'; addhagū siyā na ca dukkhānupatito siyā.[^084-5]  // Dhp_302 //  
+tasmā na c'; addhagū siyā na ca dukkhānupatito siyā.[^084-5]  // Dhp_302 //
 
 saddho sīlena sampanno yasobhogasamappito /  
-yaṃ yaṃ padesaṃ bhajati tattha tatth'; eva pūjito.[^084-1]  // Dhp_303 //  
+yaṃ yaṃ padesaṃ bhajati tattha tatth'; eva pūjito.[^084-1]  // Dhp_303 //
 
 
 <!-- PTS Page 085 -->
@@ -1504,10 +1504,10 @@ yaṃ yaṃ padesaṃ bhajati tattha tatth'; eva pūjito.[^084-1]  // Dhp_303 //
 ##### *[PTS Page 085]*
 
 dūre santo pakāsenti himavanto va pabbato, /  
-asant'; ettha na dissanti rattikhittā yathā sarā.[^085-2]  // Dhp_304 //  
+asant'; ettha na dissanti rattikhittā yathā sarā.[^085-2]  // Dhp_304 //
 
 ekāsanaṃ ekaseyyaṃ eko caram atandito /  
-eko damayam attānaṃ vanante ramito siyā.[^085-3]  // Dhp_305 //  
+eko damayam attānaṃ vanante ramito siyā.[^085-3]  // Dhp_305 //
 
 Pakiṇṇakavaggo ekavīsatimo
 
@@ -1518,16 +1518,16 @@ Pakiṇṇakavaggo ekavīsatimo
 ##### *[PTS Page 086]*
 
 22. Nirayavagga abhūtavādī nirayaṃ upeti yo vāpi katvā na karomi c'; āha /  
-ubho pi te pecca samā bhavanti nihīnakammā manujā parattha.[^086-1]  // Dhp_306 //  
+ubho pi te pecca samā bhavanti nihīnakammā manujā parattha.[^086-1]  // Dhp_306 //
 
 kāsāvakaṇṭhā bahavo pāpadhammā asaññatā, /  
-pāpā pāpehi kammehi nirayaṃ te upapajjare.[^086-2]  // Dhp_307 //  
+pāpā pāpehi kammehi nirayaṃ te upapajjare.[^086-2]  // Dhp_307 //
 
 seyyo ayoguḷo bhutto tatto aggisikhūpamo /  
-yañ ce bhuñjeyya dussīlo raṭṭhapiṇḍaṃ asaññato.[^086-3]  // Dhp_308 //  
+yañ ce bhuñjeyya dussīlo raṭṭhapiṇḍaṃ asaññato.[^086-3]  // Dhp_308 //
 
 cattāri ṭhānāni naro pamatto āpajjatī paradārūpasevī: /  
-apuññalābhaṃ na nikāmaseyyaṃ nindaṃ tatīyaṃ nirayaṃ catutthaṃ.[^086-1]  // Dhp_309 //  
+apuññalābhaṃ na nikāmaseyyaṃ nindaṃ tatīyaṃ nirayaṃ catutthaṃ.[^086-1]  // Dhp_309 //
 
 
 <!-- PTS Page 087 -->
@@ -1536,13 +1536,13 @@ apuññalābhaṃ na nikāmaseyyaṃ nindaṃ tatīyaṃ nirayaṃ catutthaṃ.[
 ##### *[PTS Page 087]*
 
 apuññalābho ca gatī ca pāpikā bhītassa bhītāya ratī ca thokikā /  
-rājā ca daṇḍaṃ garukaṃ paṇeti, tasmā naro paradāraṃ na seve.[^087-2]  // Dhp_310 //  
+rājā ca daṇḍaṃ garukaṃ paṇeti, tasmā naro paradāraṃ na seve.[^087-2]  // Dhp_310 //
 
 kuso yathā duggahīto hatthaṃ evānukantati /  
-sāmaññaṃ dupparāmaṭṭhaṃ nirayāy'; upakaḍḍhati.[^087-3]  // Dhp_311 //  
+sāmaññaṃ dupparāmaṭṭhaṃ nirayāy'; upakaḍḍhati.[^087-3]  // Dhp_311 //
 
 yaṃ kiñci saṭhilaṃ kammaṃ saṃkiliṭṭhañ ca yaṃ vataṃ /  
-saṃkassaraṃ brahmacariyaṃ na taṃ hoti mahapphalaṃ.[^087-4]  // Dhp_312 //  
+saṃkassaraṃ brahmacariyaṃ na taṃ hoti mahapphalaṃ.[^087-4]  // Dhp_312 //
 
 
 <!-- PTS Page 088 -->
@@ -1551,17 +1551,17 @@ saṃkassaraṃ brahmacariyaṃ na taṃ hoti mahapphalaṃ.[^087-4]  // Dhp_312
 ##### *[PTS Page 088]*
 
 kayirañ ce kayirāth'; enaṃ daḷham enaṃ parakkame, /  
-saṭhilo hi paribbājo bhiyyo ākirate rajaṃ.[^088-1]  // Dhp_313 //  
+saṭhilo hi paribbājo bhiyyo ākirate rajaṃ.[^088-1]  // Dhp_313 //
 
 akataṃ dukkataṃ seyyo pacchā tapati dukkataṃ, /  
-katañ ca sukataṃ seyyo yaṃ katvā nānutappati.[^088-2]  // Dhp_314 //  
+katañ ca sukataṃ seyyo yaṃ katvā nānutappati.[^088-2]  // Dhp_314 //
 
 nagaraṃ yathā paccantaṃ guttaṃ santarabāhiraṃ /  
 evaṃ gopetha attānaṃ, khaṇo ve mā upaccagā, /  
-khaṇātītā hi socanti nirayamhi samappitā.[^088-3]  // Dhp_315 //  
+khaṇātītā hi socanti nirayamhi samappitā.[^088-3]  // Dhp_315 //
 
 alajjitāye lajjanti lajjitāye na lajjare /  
-micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.[^088-4]  // Dhp_316 //  
+micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.[^088-4]  // Dhp_316 //
 
 
 <!-- PTS Page 089 -->
@@ -1570,13 +1570,13 @@ micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.[^088-4]  // Dhp_316 //
 ##### *[PTS Page 089]*
 
 abhaye bhayadassino bhaye cābhayadassino /  
-micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.[^089-1]  // Dhp_317 //  
+micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.[^089-1]  // Dhp_317 //
 
 avajje vajjamatino vajje cāvajjadassino /  
-micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.[^089-2]  // Dhp_318 //  
+micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.[^089-2]  // Dhp_318 //
 
 vajjañ ca vajjato ñatvā avajjañ ca avajjato /  
-sammādiṭṭhisamādānā sattā gacchanti suggatiṃ.3[^089-ḥ4]  // Dhp_319 //  
+sammādiṭṭhisamādānā sattā gacchanti suggatiṃ.3[^089-ḥ4]  // Dhp_319 //
 
 Nirayavaggo dvavīsatimo
 
@@ -1587,16 +1587,16 @@ Nirayavaggo dvavīsatimo
 ##### *[PTS Page 090]*
 
 23. Nāgavagga ahaṃ nāgo va saṃgāme cāpāto patitaṃ saraṃ /  
-ativākyaṃ titikkhissaṃ dussīlo hi bahujjano.[^090-1]  // Dhp_320 //  
+ativākyaṃ titikkhissaṃ dussīlo hi bahujjano.[^090-1]  // Dhp_320 //
 
 dantaṃ nayanti samitiṃ dantaṃ rājābhirūhati /  
-danto seṭṭho manussesu yo 'tivākyaṃ titikkhati.[^090-2]  // Dhp_321 //  
+danto seṭṭho manussesu yo 'tivākyaṃ titikkhati.[^090-2]  // Dhp_321 //
 
 varam assatarā dantā ājānīyā ca sindhavā /  
-kuñjarā ca mahānāgā, attadanto tato varaṃ.[^090-3]  // Dhp_322 //  
+kuñjarā ca mahānāgā, attadanto tato varaṃ.[^090-3]  // Dhp_322 //
 
 na hi etehi yānehi gaccheyya agataṃ disaṃ /  
-yath'; attanā sudantena danto dantena gacchati.[^090-4]  // Dhp_323 //  
+yath'; attanā sudantena danto dantena gacchati.[^090-4]  // Dhp_323 //
 
 
 <!-- PTS Page 091 -->
@@ -1605,16 +1605,16 @@ yath'; attanā sudantena danto dantena gacchati.[^090-4]  // Dhp_323 //
 ##### *[PTS Page 091]*
 
 dhanapālako nāma kuñjaro kaṭukapabhedano dunnivārayo /  
-baddho kabalaṃ na bhuñjati, sumarati nāgavanassa kuñjaro.[^091-1]  // Dhp_324 //  
+baddho kabalaṃ na bhuñjati, sumarati nāgavanassa kuñjaro.[^091-1]  // Dhp_324 //
 
 middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī /  
-mahāvarāho va nivāpapuṭṭho punappunaṃ gabbham upeti mando.[^091-2]  // Dhp_325 //  
+mahāvarāho va nivāpapuṭṭho punappunaṃ gabbham upeti mando.[^091-2]  // Dhp_325 //
 
 idaṃ pure cittam acāri cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ /  
-tad ajj'; ahaṃ niggahessāmi yoniso hatthippabhinnaṃ viya aṃkusaggaho.[^091-3]  // Dhp_326 //  
+tad ajj'; ahaṃ niggahessāmi yoniso hatthippabhinnaṃ viya aṃkusaggaho.[^091-3]  // Dhp_326 //
 
 appamādaratā hotha, sacittam anurakkhatha, /  
-duggā uddharath'; attānaṃ paṃke sanno va kuñjaro.[^091-1]  // Dhp_327 //  
+duggā uddharath'; attānaṃ paṃke sanno va kuñjaro.[^091-1]  // Dhp_327 //
 
 
 <!-- PTS Page 092 -->
@@ -1623,13 +1623,13 @@ duggā uddharath'; attānaṃ paṃke sanno va kuñjaro.[^091-1]  // Dhp_327 //
 ##### *[PTS Page 092]*
 
 sace labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāridhīraṃ /  
-abhibhuyya sabbāni parissayāni careyya ten'; attamano satīmā.[^092-2]  // Dhp_328 //  
+abhibhuyya sabbāni parissayāni careyya ten'; attamano satīmā.[^092-2]  // Dhp_328 //
 
 no ce labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāridhīraṃ /  
-rājā va raṭṭhaṃ vijitaṃ pahāya eko care mātaṅg'; araññe va nāgo.[^092-3]  // Dhp_329 //  
+rājā va raṭṭhaṃ vijitaṃ pahāya eko care mātaṅg'; araññe va nāgo.[^092-3]  // Dhp_329 //
 
 ekassa caritaṃ seyyo, n'; atthi bāle sahāyatā, /  
-eko care na ca pāpāni kayirā appossukko mātaṅg'; araññe va nāgo.[^092-4]  // Dhp_330 //  
+eko care na ca pāpāni kayirā appossukko mātaṅg'; araññe va nāgo.[^092-4]  // Dhp_330 //
 
 
 <!-- PTS Page 093 -->
@@ -1638,13 +1638,13 @@ eko care na ca pāpāni kayirā appossukko mātaṅg'; araññe va nāgo.[^092-4
 ##### *[PTS Page 093]*
 
 atthamhi jātamhi sukhā sahāyā tuṭṭhī sukhā yā itarītarena, /  
-puññaṃ sukhaṃ jīvitasaṃkhayamhi, sabbassa dukkhassa sukhaṃ pahānaṃ.[^093-1]  // Dhp_331 //  
+puññaṃ sukhaṃ jīvitasaṃkhayamhi, sabbassa dukkhassa sukhaṃ pahānaṃ.[^093-1]  // Dhp_331 //
 
 sukhā matteyyatā loke atho petteyyatā sukhā, /  
-sukhā sāmaññatā loke atho brahmaññatā sukhā.[^093-2]  // Dhp_332 //  
+sukhā sāmaññatā loke atho brahmaññatā sukhā.[^093-2]  // Dhp_332 //
 
 sukhaṃ yāvajarā sīlaṃ sukhā saddhā patiṭṭhitā /  
-sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ.[^093-3]  // Dhp_333 //  
+sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ.[^093-3]  // Dhp_333 //
 
 Nāgavaggo tevīsatimo
 
@@ -1655,17 +1655,17 @@ Nāgavaggo tevīsatimo
 ##### *[PTS Page 094]*
 
 24. Taṇhāvagga manujassa pamattacārino taṇhā vaḍḍhati māluvā viya, /  
-so palavatī hurāhuraṃ phalam icchaṃ va vanasmi vānaro.[^094-1]  // Dhp_334 //  
+so palavatī hurāhuraṃ phalam icchaṃ va vanasmi vānaro.[^094-1]  // Dhp_334 //
 
 yaṃ esā sahatī jammī taṇhā loke visattikā /  
-sokā tassa pavaḍḍhanti abhivaṭṭhaṃ va bīraṇaṃ.[^094-2]  // Dhp_335 //  
+sokā tassa pavaḍḍhanti abhivaṭṭhaṃ va bīraṇaṃ.[^094-2]  // Dhp_335 //
 
 yo c'; etaṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ /  
-sokā tamhā papatanti udabindu va pokkharā.[^094-3]  // Dhp_336 //  
+sokā tamhā papatanti udabindu va pokkharā.[^094-3]  // Dhp_336 //
 
 taṃ vo vadāmi bhaddaṃ vo yāvant'; ettha samāgatā /  
 taṇhāya mūlaṃ khanatha usīrattho va bīraṇaṃ /  
-mā vo naḷaṃ va soto va Māro bhañji punappunaṃ.[^094-1]  // Dhp_337 //  
+mā vo naḷaṃ va soto va Māro bhañji punappunaṃ.[^094-1]  // Dhp_337 //
 
 
 <!-- PTS Page 095 -->
@@ -1674,15 +1674,15 @@ mā vo naḷaṃ va soto va Māro bhañji punappunaṃ.[^094-1]  // Dhp_337 //
 ##### *[PTS Page 095]*
 
 yathāpi mūle anupaddave daḷhe chinno pi rukkho punar eva rūhati /  
-evam pi taṇhānusaye anūhate nibbattati dukkham idaṃ punappunaṃ.[^095-2]  // Dhp_338 //  
+evam pi taṇhānusaye anūhate nibbattati dukkham idaṃ punappunaṃ.[^095-2]  // Dhp_338 //
 
 yassa chattiṃsatī sotā manāpassavanā bhusā, /  
-vāhā vahanti duddiṭṭhaṃ saṃkappā rāganissitā.[^095-3]  // Dhp_339 //  
+vāhā vahanti duddiṭṭhaṃ saṃkappā rāganissitā.[^095-3]  // Dhp_339 //
 
 savanti sabbadā sotā, latā ubbhijja tiṭṭhati /  
-tañ ca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha.[^095-4]  // Dhp_340 //  
+tañ ca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha.[^095-4]  // Dhp_340 //
 
-saritāni sinehitāni ca somanassāni bhavanti jantuno  /  
+saritāni sinehitāni ca somanassāni bhavanti jantuno  /
 
 
 <!-- PTS Page 096 -->
@@ -1690,16 +1690,16 @@ saritāni sinehitāni ca somanassāni bhavanti jantuno  /
 
 ##### *[PTS Page 096]*
 
-te sātasitā sukhesino te ve jātijarūpagā narā.[^096-1]  // Dhp_341 //  
+te sātasitā sukhesino te ve jātijarūpagā narā.[^096-1]  // Dhp_341 //
 
 tasiṇāya purakkhatā pajā parisappanti saso va bādhito, /  
-saññojanasaṅgasattakā dukkham upenti punappunaṃ cirāya.[^096-2]  // Dhp_342 //  
+saññojanasaṅgasattakā dukkham upenti punappunaṃ cirāya.[^096-2]  // Dhp_342 //
 
 tasiṇāya purakkhatā pajā parisappanti saso va bādhito, /  
-tasmā tasiṇaṃ vinodaye bhikkhu ākaṃkha virāgam attano.[^096-3]  // Dhp_343 //  
+tasmā tasiṇaṃ vinodaye bhikkhu ākaṃkha virāgam attano.[^096-3]  // Dhp_343 //
 
 yo nibbanatho vanādhimutto vanamutto vanam eva dhāvati /  
-taṃ puggalam eva passatha: mutto bandhanam eva dhāvati.[^096-1]  // Dhp_344 //  
+taṃ puggalam eva passatha: mutto bandhanam eva dhāvati.[^096-1]  // Dhp_344 //
 
 
 <!-- PTS Page 097 -->
@@ -1708,13 +1708,13 @@ taṃ puggalam eva passatha: mutto bandhanam eva dhāvati.[^096-1]  // Dhp_344 /
 ##### *[PTS Page 097]*
 
 na taṃ daḷhaṃ bandhanam āhu dhīrā yad āyasaṃ dārujaṃ pabbajañ ca /  
-sārattarattā maṇikuṇḍalesu puttesu dāresu ca yā apekhā,[^097-2]  // Dhp_345 //  
+sārattarattā maṇikuṇḍalesu puttesu dāresu ca yā apekhā,[^097-2]  // Dhp_345 //
 
 etaṃ daḷhaṃ bandhanam āhu dhīrā ohārinaṃ sithilaṃ duppamuñcaṃ /  
-etam pi chetvāna paribbajanti anapekhino kāmasukhaṃ pahāya.[^097-3]  // Dhp_346 //  
+etam pi chetvāna paribbajanti anapekhino kāmasukhaṃ pahāya.[^097-3]  // Dhp_346 //
 
 ye rāgarattānupatanti sotaṃ sayaṃkataṃ makkaṭako va jālaṃ /  
-etam pi chetvāna vajanti dhīrā anapekhino sabbadukkhaṃ pahāya.[^097-4]  // Dhp_347 //  
+etam pi chetvāna vajanti dhīrā anapekhino sabbadukkhaṃ pahāya.[^097-4]  // Dhp_347 //
 
 
 <!-- PTS Page 098 -->
@@ -1723,13 +1723,13 @@ etam pi chetvāna vajanti dhīrā anapekhino sabbadukkhaṃ pahāya.[^097-4]  //
 ##### *[PTS Page 098]*
 
 muñca pure muñca pacchato majjhe muñca bhavassa pāragū, /  
-sabbattha vimuttamānaso na punañ jātijaraṃ upehisi.[^098-1]  // Dhp_348 //  
+sabbattha vimuttamānaso na punañ jātijaraṃ upehisi.[^098-1]  // Dhp_348 //
 
 vitakkapamathitassa jantuno tibbarāgassa subhānupassino /  
-bhiyyo taṇhā pavaḍḍhati, esa kho daḷhaṃ karoti bandhanaṃ.[^098-2]  // Dhp_349 //  
+bhiyyo taṇhā pavaḍḍhati, esa kho daḷhaṃ karoti bandhanaṃ.[^098-2]  // Dhp_349 //
 
 vitakkūpasame ca yo rato asubhaṃ bhāvayatī sadā sato /  
-esa kho vyantikāhiti esa-cchecchati Mārabandhanaṃ.[^098-3]  // Dhp_350 //  
+esa kho vyantikāhiti esa-cchecchati Mārabandhanaṃ.[^098-3]  // Dhp_350 //
 
 
 <!-- PTS Page 099 -->
@@ -1738,17 +1738,17 @@ esa kho vyantikāhiti esa-cchecchati Mārabandhanaṃ.[^098-3]  // Dhp_350 //
 ##### *[PTS Page 099]*
 
 niṭṭhaṅgato asantāsī vītataṇho anaṅgaṇo /  
-acchidda bhavasallāni antimo 'yaṃ samussayo.[^099-1]  // Dhp_351 //  
+acchidda bhavasallāni antimo 'yaṃ samussayo.[^099-1]  // Dhp_351 //
 
 vītataṇho anādāno niruttipadakovido /  
 akkharānaṃ sannipātaṃ jaññā pubbāparāni ca /  
-sa ve antimasārīro mahāpañño mahāpuriso ti vuccati.[^099-2]  // Dhp_352 //  
+sa ve antimasārīro mahāpañño mahāpuriso ti vuccati.[^099-2]  // Dhp_352 //
 
 sabbābhibhū sabbavidū 'ham asmi sabbesu dhammesu anūpalitto /  
-sabbañjaho taṇhakkhaye vimutto sayaṃ abhiññāya kam uddiseyyaṃ.[^099-3]  // Dhp_353 //  
+sabbañjaho taṇhakkhaye vimutto sayaṃ abhiññāya kam uddiseyyaṃ.[^099-3]  // Dhp_353 //
 
 sabbadānaṃ dhammadānaṃ jināti, sabbaṃ rasaṃ dhammaraso jināti, /  
-sabbaṃ ratiṃ dhammaratī jināti, taṇhakkhayo sabbadukkhaṃ jināti.[^099-1]  // Dhp_354 //  
+sabbaṃ ratiṃ dhammaratī jināti, taṇhakkhayo sabbadukkhaṃ jināti.[^099-1]  // Dhp_354 //
 
 
 <!-- PTS Page 100 -->
@@ -1757,19 +1757,19 @@ sabbaṃ ratiṃ dhammaratī jināti, taṇhakkhayo sabbadukkhaṃ jināti.[^099
 ##### *[PTS Page 100]*
 
 hananti bhogā dummedhaṃ no ce pāragavesino, /  
-bhogataṇhāya dummedho hanti aññe va attanaṃ.[^100-2]  // Dhp_355 //  
+bhogataṇhāya dummedho hanti aññe va attanaṃ.[^100-2]  // Dhp_355 //
 
 tiṇadosāni khettāni, rāgadosā ayaṃ pajā, /  
-tasmā hi vītarāgesu dinnaṃ hoti mahapphalaṃ.[^100-3]  // Dhp_356 //  
+tasmā hi vītarāgesu dinnaṃ hoti mahapphalaṃ.[^100-3]  // Dhp_356 //
 
 tiṇadosāni khettāni, dosadosā ayaṃ pajā, /  
-tasmā hi vītadosesu dinnaṃ hoti mahapphalaṃ.[^100-4]  // Dhp_357 //  
+tasmā hi vītadosesu dinnaṃ hoti mahapphalaṃ.[^100-4]  // Dhp_357 //
 
 tiṇadosāni khettāni, mohadosā ayaṃ pajā, /  
-tasmā hi vītamohesu dinnaṃ hoti mahapphalaṃ.[^100-5]  // Dhp_358 //  
+tasmā hi vītamohesu dinnaṃ hoti mahapphalaṃ.[^100-5]  // Dhp_358 //
 
 tiṇadosāni khettāni, icchādosā ayaṃ pajā, /  
-tasmā hi vigaticchesu dinnaṃ hoti mahapphalaṃ.[^100-1]  // Dhp_359 //  
+tasmā hi vigaticchesu dinnaṃ hoti mahapphalaṃ.[^100-1]  // Dhp_359 //
 
 
 <!-- PTS Page 101 -->
@@ -1786,17 +1786,17 @@ Taṇhāvaggo catuvīsatimo
 ##### *[PTS Page 102]*
 
 25. Bhikkhuvagga cakkhunā saṃvaro sādhu, sādhu sotena saṃvaro, /  
-ghāṇena saṃvaro sādhu, sādhu jivhāya saṃvaro.[^102-1]  // Dhp_360 //  
+ghāṇena saṃvaro sādhu, sādhu jivhāya saṃvaro.[^102-1]  // Dhp_360 //
 
 kāyena saṃvaro sādhu, sādhu vācāya saṃvaro, /  
 manasā saṃvaro sādhu sādhu sabbattha saṃvaro /  
-sabbattha saṃvuto bhikkhu sabbadukkhā pamuccati.[^102-2]  // Dhp_361 //  
+sabbattha saṃvuto bhikkhu sabbadukkhā pamuccati.[^102-2]  // Dhp_361 //
 
 hatthasaññato pādasaññato vācāya saññato saññatuttamo, /  
-ajjhattarato samāhito eko santusito tam āhu bhikkhuṃ.[^102-3]  // Dhp_362 //  
+ajjhattarato samāhito eko santusito tam āhu bhikkhuṃ.[^102-3]  // Dhp_362 //
 
 yo mukhasaññato bhikkhu mantabhāṇī anuddhato /  
-atthaṃ dhammañ ca dīpeti madhuraṃ tassa bhāsitaṃ.[^102-1]  // Dhp_363 //  
+atthaṃ dhammañ ca dīpeti madhuraṃ tassa bhāsitaṃ.[^102-1]  // Dhp_363 //
 
 
 <!-- PTS Page 103 -->
@@ -1805,16 +1805,16 @@ atthaṃ dhammañ ca dīpeti madhuraṃ tassa bhāsitaṃ.[^102-1]  // Dhp_363 /
 ##### *[PTS Page 103]*
 
 dhammārāmo dhammarato dhammaṃ anuvicintayaṃ /  
-dhammaṃ anussaraṃ bhikkhu saddhammā na parihāyati.[^103-2]  // Dhp_364 //  
+dhammaṃ anussaraṃ bhikkhu saddhammā na parihāyati.[^103-2]  // Dhp_364 //
 
 salābhaṃ nātimaññeyya nāññesaṃ pihayaṃ care. /  
-aññesaṃ pihayaṃ bhikkhu samādhiṃ nādhigacchati.[^103-3]  // Dhp_365 //  
+aññesaṃ pihayaṃ bhikkhu samādhiṃ nādhigacchati.[^103-3]  // Dhp_365 //
 
 appalābho pi ce bhikkhu salābhaṃ nātimaññati /  
-taṃ ve devā pasaṃsanti suddhājīviṃ atanditaṃ.[^103-4]  // Dhp_366 //  
+taṃ ve devā pasaṃsanti suddhājīviṃ atanditaṃ.[^103-4]  // Dhp_366 //
 
 sabbaso nāmarūpasmiṃ yassa n'; atthi mamāyitaṃ /  
-asatā ca na socati sa ve bhikkhū ti vuccati.[^103-5]  // Dhp_367 //  
+asatā ca na socati sa ve bhikkhū ti vuccati.[^103-5]  // Dhp_367 //
 
 
 <!-- PTS Page 104 -->
@@ -1823,16 +1823,16 @@ asatā ca na socati sa ve bhikkhū ti vuccati.[^103-5]  // Dhp_367 //
 ##### *[PTS Page 104]*
 
 mettāvihārī yo bhikkhu pasanno buddhasāsane /  
-adhigacche padaṃ santaṃ saṃkhārūpasamaṃ sukhaṃ.[^104-1]  // Dhp_368 //  
+adhigacche padaṃ santaṃ saṃkhārūpasamaṃ sukhaṃ.[^104-1]  // Dhp_368 //
 
 siñca bhikkhu imaṃ nāvaṃ, sittā te lahum essati, /  
-chetvā rāgañ ca dosañ ca tato nibbānam ehisi.[^104-2]  // Dhp_369 //  
+chetvā rāgañ ca dosañ ca tato nibbānam ehisi.[^104-2]  // Dhp_369 //
 
 pañca chinde pañca jahe pañca vuttaribhāvaye, /  
-pañcasaṅgātigo bhikkhu oghatiṇṇo ti vuccati.[^104-3]  // Dhp_370 //  
+pañcasaṅgātigo bhikkhu oghatiṇṇo ti vuccati.[^104-3]  // Dhp_370 //
 
 jhāya bhikkhu mā ca pāmado mā te kāmaguṇe bhamassu cittaṃ, /  
-mā lohaguḷaṃ gilī pamatto, mā kandī ‘dukkham idan'; ti ḍayhamāno.4[^104-ḥ1]  // Dhp_371 //  
+mā lohaguḷaṃ gilī pamatto, mā kandī ‘dukkham idan'; ti ḍayhamāno.4[^104-ḥ1]  // Dhp_371 //
 
 
 <!-- PTS Page 105 -->
@@ -1841,17 +1841,17 @@ mā lohaguḷaṃ gilī pamatto, mā kandī ‘dukkham idan'; ti ḍayhamāno.4[
 ##### *[PTS Page 105]*
 
 n'; atthi jhānaṃ apaññassa paññā n'; atthi ajhāyato, /  
-yamhi jhānañ ca paññā ca sa ve nibbānasantike.[^105-2]  // Dhp_372 //  
+yamhi jhānañ ca paññā ca sa ve nibbānasantike.[^105-2]  // Dhp_372 //
 
 suññāgāraṃ paviṭṭhassa santacittassa bhikkhuno /  
-amānusī ratī hoti sammā dhammaṃ vipassato.[^105-3]  // Dhp_373 //  
+amānusī ratī hoti sammā dhammaṃ vipassato.[^105-3]  // Dhp_373 //
 
 yato yato sammasati khandhānaṃ udayavyayaṃ /  
-labhatī pītipāmojjaṃ amataṃ tam vijānataṃ.[^105-4]  // Dhp_374 //  
+labhatī pītipāmojjaṃ amataṃ tam vijānataṃ.[^105-4]  // Dhp_374 //
 
 tatrāyam ādi bhavati idha paññassa bhikkhuno: /  
 indriyaguttī santuṭṭhī pātimokkhe ca saṃvaro, /  
-mitte bhajassu kalyāṇe suddhājīve atandite.[^105-1]  // Dhp_375 //  
+mitte bhajassu kalyāṇe suddhājīve atandite.[^105-1]  // Dhp_375 //
 
 
 <!-- PTS Page 106 -->
@@ -1862,13 +1862,13 @@ mitte bhajassu kalyāṇe suddhājīve atandite.[^105-1]  // Dhp_375 //
 paṭisanthāravutt'; assa ācārakusalo siyā, /  
 tato pāmojjabahulo dukkhass'; antaṃ karissati.[^106-2]  // Dhp_376 //  
 vassikā viya pupphāni maddavāni pamuñcati /  
-evaṃ rāgañ ca dosañ ca vippamuñcetha bhikkhavo.[^106-3]  // Dhp_377 //  
+evaṃ rāgañ ca dosañ ca vippamuñcetha bhikkhavo.[^106-3]  // Dhp_377 //
 
 santakāyo santavāco santavā susamāhito /  
-vantalokāmiso bhikkhu upasanto ti vuccati.[^106-4]  // Dhp_378 //  
+vantalokāmiso bhikkhu upasanto ti vuccati.[^106-4]  // Dhp_378 //
 
 attanā coday'; attānaṃ paṭimāse attam attanā, /  
-so attagutto satimā sukhaṃ bhikkhu vihāhisi.[^106-1]  // Dhp_379 //  
+so attagutto satimā sukhaṃ bhikkhu vihāhisi.[^106-1]  // Dhp_379 //
 
 
 <!-- PTS Page 107 -->
@@ -1877,13 +1877,13 @@ so attagutto satimā sukhaṃ bhikkhu vihāhisi.[^106-1]  // Dhp_379 //
 ##### *[PTS Page 107]*
 
 attā hi attano nātho attā hi attano gati, /  
-tasmā saññāmay'; attānaṃ assaṃ bhadraṃ va vāṇijo.[^107-2]  // Dhp_380 //  
+tasmā saññāmay'; attānaṃ assaṃ bhadraṃ va vāṇijo.[^107-2]  // Dhp_380 //
 
 pāmojjabahulo bhikkhu pasanno Buddhasāsane /  
-adhigacche padaṃ santaṃ saṃkhārūpasamaṃ sukhaṃ.[^107-3]  // Dhp_381 //  
+adhigacche padaṃ santaṃ saṃkhārūpasamaṃ sukhaṃ.[^107-3]  // Dhp_381 //
 
 yo have daharo bhikkhu yuñjate Buddhasāsane /  
-so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā.4[^107-ḥ5]  // Dhp_382 //  
+so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā.4[^107-ḥ5]  // Dhp_382 //
 
 Bhikkhuvaggo pañcavīsatimo
 
@@ -1894,16 +1894,16 @@ Bhikkhuvaggo pañcavīsatimo
 ##### *[PTS Page 108]*
 
 26. Brāhmaṇavagga chinda sotaṃ parakkamma, kāme panuda brāhmaṇa, /  
-saṃkhārānaṃ khayaṃ ñatvā akataññū si brāhmaṇa.[^108-1]  // Dhp_383 //  
+saṃkhārānaṃ khayaṃ ñatvā akataññū si brāhmaṇa.[^108-1]  // Dhp_383 //
 
 yadā dvayesu dhammesu pāragū hoti brāhmaṇo /  
-ath'; assa sabbe saṃyogā atthaṃ gacchanti jānato.[^108-2]  // Dhp_384 //  
+ath'; assa sabbe saṃyogā atthaṃ gacchanti jānato.[^108-2]  // Dhp_384 //
 
 yassa pāraṃ apāraṃ vā pārāpāraṃ na vijjati /  
-vītaddaraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^108-3]  // Dhp_385 //  
+vītaddaraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^108-3]  // Dhp_385 //
 
 jhāyiṃ virajam āsīnaṃ katakiccaṃ anāsavaṃ /  
-uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^108-1]  // Dhp_386 //  
+uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^108-1]  // Dhp_386 //
 
 
 <!-- PTS Page 109 -->
@@ -1913,13 +1913,13 @@ uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^108-1]  // Dhp_386
 
 divā tapati ādicco, rattiṃ ābhāti candimā, /  
 sannaddho khattiyo tapati, jhāyī tapati brāhmaṇo, /  
-atha sabbam ahorattiṃ Buddho tapati tejasā.[^109-2]  // Dhp_387 //  
+atha sabbam ahorattiṃ Buddho tapati tejasā.[^109-2]  // Dhp_387 //
 
 bāhitapāpo ti brāhmaṇo samacariyā samaṇo ti vuccati. /  
-pabbājayam attano malaṃ tasmā pabbajito ti vuccati.[^109-3]  // Dhp_388 //  
+pabbājayam attano malaṃ tasmā pabbajito ti vuccati.[^109-3]  // Dhp_388 //
 
 na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo, /  
-dhī brāhmaṇassa hantāraṃ, tato dhī y'; assa muñcati.[^109-4]  // Dhp_389 //  
+dhī brāhmaṇassa hantāraṃ, tato dhī y'; assa muñcati.[^109-4]  // Dhp_389 //
 
 
 <!-- PTS Page 110 -->
@@ -1928,16 +1928,16 @@ dhī brāhmaṇassa hantāraṃ, tato dhī y'; assa muñcati.[^109-4]  // Dhp_38
 ##### *[PTS Page 110]*
 
 na brāhmaṇass'; etad akiñci seyyo yadā nisedho manaso piyehi, /  
-yato yato hiṃsamano nivattati tato tato sammati-m-eva dukkhaṃ.[^110-1]  // Dhp_390 //  
+yato yato hiṃsamano nivattati tato tato sammati-m-eva dukkhaṃ.[^110-1]  // Dhp_390 //
 
 yassa kāyena vācāya manasā n'; atthi dukkataṃ /  
-saṃvutaṃ tīhi ṭhānehi tam ahaṃ brūmi brāhmaṇaṃ.[^110-2]  // Dhp_391 //  
+saṃvutaṃ tīhi ṭhānehi tam ahaṃ brūmi brāhmaṇaṃ.[^110-2]  // Dhp_391 //
 
 yamhā dhammaṃ vijāneyya sammāsambuddhadesitaṃ /  
-sakkaccaṃ taṃ namasseyya aggihuttaṃ va brāhmaṇo.[^110-3]  // Dhp_392 //  
+sakkaccaṃ taṃ namasseyya aggihuttaṃ va brāhmaṇo.[^110-3]  // Dhp_392 //
 
 na jaṭāhi na gottena na jaccā hoti brāhmaṇo, /  
-yamhi saccañ ca dhammo ca so sukhī so ca brāhmaṇo.[^110-1]  // Dhp_393 //  
+yamhi saccañ ca dhammo ca so sukhī so ca brāhmaṇo.[^110-1]  // Dhp_393 //
 
 
 <!-- PTS Page 111 -->
@@ -1946,14 +1946,14 @@ yamhi saccañ ca dhammo ca so sukhī so ca brāhmaṇo.[^110-1]  // Dhp_393 //
 ##### *[PTS Page 111]*
 
 kin te jaṭāhi dummedha, kin te ajinasāṭiyā, /  
-abbhantaran te gahanaṃ, bāhiraṃ parimajjasi.[^111-2]  // Dhp_394 //  
+abbhantaran te gahanaṃ, bāhiraṃ parimajjasi.[^111-2]  // Dhp_394 //
 
 paṃsukūladharaṃ jantuṃ kisaṃ dhamanisanthataṃ /  
-ekaṃ vanasmiṃ jhāyantaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^111-3]  // Dhp_395 //  
+ekaṃ vanasmiṃ jhāyantaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^111-3]  // Dhp_395 //
 
 na cāhaṃ brāhmaṇaṃ brūmi yonijaṃ mattisambhavaṃ /  
 bhovādi nāma so hoti sa ve hoti sakiñcano, /  
-akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^111-4]  // Dhp_396 //  
+akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^111-4]  // Dhp_396 //
 
 
 <!-- PTS Page 112 -->
@@ -1962,16 +1962,16 @@ akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^111-4]  // Dhp_396 
 ##### *[PTS Page 112]*
 
 sabbasaṃyojanaṃ chetvā yo ve na paritassati /  
-saṅgātigaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇam.[^112-1]  // Dhp_397 //  
+saṅgātigaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇam.[^112-1]  // Dhp_397 //
 
 chetvā nandhiṃ varattañ ca sandānaṃ sahanukkamaṃ /  
-ukkhittapaḷighaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^112-2]  // Dhp_398 //  
+ukkhittapaḷighaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^112-2]  // Dhp_398 //
 
 akkosaṃ vadhabandhañ ca aduṭṭho yo titikkhati /  
-khantībalaṃ balānīkaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^112-3]  // Dhp_399 //  
+khantībalaṃ balānīkaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^112-3]  // Dhp_399 //
 
 akkodhanaṃ vatavantaṃ sīlavantaṃ anussutaṃ /  
-dantaṃ antimasārīraṃ tam ahaṃ brūmi brāhmaṇaṃ.[^112-4]  // Dhp_400 //  
+dantaṃ antimasārīraṃ tam ahaṃ brūmi brāhmaṇaṃ.[^112-4]  // Dhp_400 //
 
 
 <!-- PTS Page 113 -->
@@ -1980,16 +1980,16 @@ dantaṃ antimasārīraṃ tam ahaṃ brūmi brāhmaṇaṃ.[^112-4]  // Dhp_400
 ##### *[PTS Page 113]*
 
 vāri pokkharapatte va āragge-r-iva sāsapo /  
-yo na lippati kāmesu tam ahaṃ brūmi brāhmaṇaṃ   [^113-1]  // Dhp_401 //  
+yo na lippati kāmesu tam ahaṃ brūmi brāhmaṇaṃ   [^113-1]  // Dhp_401 //
 
 yo dukkhassa pajānāti idh'; eva khayam attano /  
-pannabhāraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^113-2]  // Dhp_402 //  
+pannabhāraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^113-2]  // Dhp_402 //
 
 gambhīrapaññaṃ medhāviṃ maggāmaggassa kovidaṃ /  
-uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^113-3]  // Dhp_403 //  
+uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^113-3]  // Dhp_403 //
 
 asaṃsaṭṭhaṃ gahaṭṭhehi anāgārehi c'; ūbhayaṃ /  
-anokasāriṃ appicchaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^113-4]  // Dhp_404 //  
+anokasāriṃ appicchaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^113-4]  // Dhp_404 //
 
 
 <!-- PTS Page 114 -->
@@ -1998,19 +1998,19 @@ anokasāriṃ appicchaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^113-4]  // Dhp_404 
 ##### *[PTS Page 114]*
 
 nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca /  
-yo na hanti na ghāteti tam ahaṃ brūmi brāhmaṇaṃ.[^114-1]  // Dhp_405 //  
+yo na hanti na ghāteti tam ahaṃ brūmi brāhmaṇaṃ.[^114-1]  // Dhp_405 //
 
 aviruddhaṃ viruddhesu attadaṇḍesu nibbutaṃ /  
-sādānesu anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^114-2]  // Dhp_406 //  
+sādānesu anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^114-2]  // Dhp_406 //
 
 yassa rāgo ca doso ca māno makkho ca pātito /  
-sāsapo-r-iva āraggā tam ahaṃ brūmi brāhmaṇaṃ.[^114-3]  // Dhp_407 //  
+sāsapo-r-iva āraggā tam ahaṃ brūmi brāhmaṇaṃ.[^114-3]  // Dhp_407 //
 
 akakkasaṃ viññāpaniṃ giraṃ saccaṃ udīraye /  
-yāya nābhisaje kañci tam ahaṃ brūmi brāhmaṇaṃ.[^114-4]  // Dhp_408 //  
+yāya nābhisaje kañci tam ahaṃ brūmi brāhmaṇaṃ.[^114-4]  // Dhp_408 //
 
 yo 'dha dīghaṃ va rassaṃ vā aṇuṃthūlaṃ subhāsubhaṃ /  
-loke adinnaṃ nādiyate tam ahaṃ brūmi brāhmaṇaṃ.[^114-1]  // Dhp_409 //  
+loke adinnaṃ nādiyate tam ahaṃ brūmi brāhmaṇaṃ.[^114-1]  // Dhp_409 //
 
 
 <!-- PTS Page 115 -->
@@ -2019,13 +2019,13 @@ loke adinnaṃ nādiyate tam ahaṃ brūmi brāhmaṇaṃ.[^114-1]  // Dhp_409 /
 ##### *[PTS Page 115]*
 
 āsā yassa na vijjanti asmiṃ loke paramhi ca /  
-nirāsayaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^115-2]  // Dhp_410 //  
+nirāsayaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^115-2]  // Dhp_410 //
 
 yassālayā na vijjanti aññāya akathaṃkathī /  
-amatogadhaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^115-3]  // Dhp_411 //  
+amatogadhaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^115-3]  // Dhp_411 //
 
 yo 'dha puññañ ca pāpañ ca ubho saṅgaṃ upaccagā /  
-asokaṃ virajaṃ suddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^115-4]  // Dhp_412 //  
+asokaṃ virajaṃ suddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^115-4]  // Dhp_412 //
 
 
 <!-- PTS Page 116 -->
@@ -2034,14 +2034,14 @@ asokaṃ virajaṃ suddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^115-4]  // Dhp_4
 ##### *[PTS Page 116]*
 
 candaṃ va vimalaṃ suddhaṃ vippasannam anāvilaṃ /  
-nandībhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^116-1]  // Dhp_413 //  
+nandībhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^116-1]  // Dhp_413 //
 
 yo imaṃ palipathaṃ duggaṃ saṃsāraṃ moham accagā /  
 tiṇṇo pāragato jhāyī anejo akathaṃkathī /  
-anupādāya nibbuto tam ahaṃ brūmi brāhmaṇaṃ.[^116-2]  // Dhp_414 //  
+anupādāya nibbuto tam ahaṃ brūmi brāhmaṇaṃ.[^116-2]  // Dhp_414 //
 
 yo 'dha kāme pahatvāna anāgāro paribbaje /  
-kāmābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^116-3]  // Dhp_415 //  
+kāmābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^116-3]  // Dhp_415 //
 
 
 <!-- PTS Page 117 -->
@@ -2050,15 +2050,15 @@ kāmābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^116-3]  // Dhp_41
 ##### *[PTS Page 117]*
 
 yo 'dha taṇhaṃ pahatvāna anāgāro paribbaje /  
-taṇhābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^117-1]  // Dhp_416 //  
+taṇhābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^117-1]  // Dhp_416 //
 
 hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā /  
-sabbayogavisaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^117-2]  // Dhp_417 //  
+sabbayogavisaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^117-2]  // Dhp_417 //
 
 hitvā ratiñ ca aratiñ ca sītibhūtaṃ nirūpadhiṃ /  
-sabbalokābhibhuṃ vīraṃ tam ahaṃ brūmi brāhmaṇaṃ.[^117-3]  // Dhp_418 //  
+sabbalokābhibhuṃ vīraṃ tam ahaṃ brūmi brāhmaṇaṃ.[^117-3]  // Dhp_418 //
 
-cutiṃ yo vedi sattānaṃ upapattiñ ca sabbaso  /  
+cutiṃ yo vedi sattānaṃ upapattiñ ca sabbaso  /
 
 
 <!-- PTS Page 118 -->
@@ -2066,20 +2066,20 @@ cutiṃ yo vedi sattānaṃ upapattiñ ca sabbaso  /
 
 ##### *[PTS Page 118]*
 
-asattaṃ sugataṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^118-1]  // Dhp_419 //  
+asattaṃ sugataṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^118-1]  // Dhp_419 //
 
 yassa gatiṃ na jānanti devā gandhabbamānusā /  
-khīṇāsavaṃ arahantaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^118-2]  // Dhp_420 //  
+khīṇāsavaṃ arahantaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^118-2]  // Dhp_420 //
 
 yassa pure ca pacchā ca majjhe ca n'; atthi kiñcanaṃ /  
-akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^118-3]  // Dhp_421 //  
+akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^118-3]  // Dhp_421 //
 
 usabhaṃ pavaraṃ vīraṃ mahesiṃ vijitāvinaṃ /  
-anejaṃ nhātakaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^118-4]  // Dhp_422 //  
+anejaṃ nhātakaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ.[^118-4]  // Dhp_422 //
 
 pubbenivāsaṃ yo vedi saggāpāyañ ca passati /  
 atho jātikkhayaṃ patto abhiññāvosito muni /  
-sabbavositavosānaṃ tam ahaṃ brūmi brāhmaṇaṃ.1[^118-ḥ2]  // Dhp_423 //  
+sabbavositavosānaṃ tam ahaṃ brūmi brāhmaṇaṃ.1[^118-ḥ2]  // Dhp_423 //
 
 
 <!-- PTS Page 119 -->
@@ -2090,13 +2090,13 @@ sabbavositavosānaṃ tam ahaṃ brūmi brāhmaṇaṃ.1[^118-ḥ2]  // Dhp_423 
 Brāhmaṇavaggo chabbīsatimo
 
 yamakaṃ appamādaṃ cittaṃ pupphaṃ bālena paṇḍitaṃ /  
-arahantaṃ sahassena pāpaṃ daṇḍena, te dasa.[^119-3]  // Dhp_*1 //  
+arahantaṃ sahassena pāpaṃ daṇḍena, te dasa.[^119-3]  // Dhp_*1 //
 
 jarā attā ca loko ca buddhaṃ sukhaṃ piyena ca /  
-kodhaṃ malañ ca dhammaṭṭhaṃ maggavaggena vīsati.[^119-4]  // Dhp_*1 //  
+kodhaṃ malañ ca dhammaṭṭhaṃ maggavaggena vīsati.[^119-4]  // Dhp_*1 //
 
 pakiṇṇaṃ nirayaṃ nāgo taṇhaṃ bhikkhu ca brāhmaṇo, /  
-ete chabbīsatī vaggā desitādiccabandhunā.[^119-1]  // Dhp_*3 //  
+ete chabbīsatī vaggā desitādiccabandhunā.[^119-1]  // Dhp_*3 //
 
 
 <!-- PTS Page 120 -->

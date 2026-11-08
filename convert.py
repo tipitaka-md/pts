@@ -135,11 +135,10 @@ def parse_page_footnotes(raw_page, pnum):
 
     return body, final_fns
 
-BREAK_MARKER = re.compile(
+LINE_BREAK_MARKER = re.compile(
     r"("
-    r"\|\|\s*\|\|"
-    r"|\|\|[ \t]*(?:[A-Z][a-zA-Z0-9_.,:*\- \x27]+?|\d+(?:\|\|\d+)*|pe|la|pa|ti|la-pe|pe\.|la\.|pa\.)[ \t]*\|\|"
-    r"|(?<!\|)\|\|(?!\s*\|\|)(?!\|)"
+    r"\|\|\d+(?:\|\|\d+)*\|\|"
+    r"|\|\|[ \t]*(?:(?:Ja|Th|Thī|Sn|Nidd|Ap|Cp|It|Vv|Pv|Dhp|Bv|F\.)_[^|\n]+?)[ \t]*\|\|"
     r"|//[^/\n]+?//"
     r")"
     r"(\s*\[\^[^\]]+\])?"
@@ -147,34 +146,46 @@ BREAK_MARKER = re.compile(
 )
 
 def format_line_breaks(text):
-    """Insert Markdown hard line breaks (two trailing spaces + newline) after PTS break markers."""
+    """Insert Markdown hard line breaks (two trailing spaces + newline) after PTS break markers,
+
+    avoiding double spaces in paragraph delimiters to respect paragraph flow in Markdown.
+    """
     lines = text.split("\n")
     new_lines = []
-    for line in lines:
+
+    for i, line in enumerate(lines):
         tr = line.strip()
-        if not tr or tr.startswith("#") or tr.startswith("<") or tr.startswith(">") or tr.startswith("---"):
-            new_lines.append(line)
+        if not tr or tr.startswith("#") or tr.startswith("<") or tr.startswith(">") or tr.startswith("[Home](") or tr.startswith("[Go to ") or tr.startswith("---"):
+            new_lines.append(line.rstrip())
             continue
 
-        l = BREAK_MARKER.sub(r"\1\2  \n", line)
+        l = LINE_BREAK_MARKER.sub(r"\1\2  \n", line)
         l = re.sub(r"(?<!\|)[ \t]+\|[ \t]+(?!\|)(?=[^\s\n])", r" |  \n", l)
         l = re.sub(r"(?<!/)[ \t]+/[ \t]+(?!/)(?=[^\s\n])", r" /  \n", l)
 
         sub_lines = l.split("\n")
-        final_sub_lines = []
-        for sl in sub_lines:
-            sl_stripped = sl.rstrip()
-            if (
-                sl_stripped.endswith("||") or
-                re.search(r"\|\|(?:\s*\[\^[^\]]+\])?$", sl_stripped) or
-                re.search(r"//(?:\s*\[\^[^\]]+\])?$", sl_stripped) or
-                sl_stripped.endswith(" |") or
-                sl_stripped.endswith(" /")
-            ):
-                final_sub_lines.append(sl_stripped + "  ")
+
+        # Determine if this line ends a paragraph (followed by empty line, heading, or block boundary)
+        is_end_of_para = (
+            i + 1 >= len(lines) or
+            lines[i + 1].strip() == "" or
+            lines[i + 1].strip().startswith(("#", "<", ">", "---"))
+        )
+
+        for j, sl in enumerate(sub_lines):
+            stripped = sl.rstrip()
+            is_last_sub = (j == len(sub_lines) - 1)
+
+            if is_last_sub and is_end_of_para:
+                # End of paragraph: DO NOT insert double spaces in paragraph delimiters
+                new_lines.append(stripped)
             else:
-                final_sub_lines.append(sl)
-        new_lines.append("\n".join(final_sub_lines))
+                # Line break within paragraph: ensure exactly 2 trailing spaces
+                if sl.endswith("  ") or sl.endswith(" |") or sl.endswith(" /") or re.search(r"\|\|\s*$", stripped) or re.search(r"//\s*$", stripped):
+                    new_lines.append(stripped + "  ")
+                else:
+                    new_lines.append(stripped)
+
     return "\n".join(new_lines)
 
 def format_body_text(body):

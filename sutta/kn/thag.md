@@ -84,7 +84,7 @@ Abhayo thero. Dabbaṃ kusaṃ poṭakilaṃ usīraṃ muñjapabbajaṃ urasā p
 Lomasakaṅgiyo thero. Kacci no vatthapasuto, kacci no bhūsanārato, kacci sīlamayaṃ gandhaṃ tvaṃ vāsi netarā pajā 'ti. || Th_28 ||  
 Jambugāmikaputto thero. Samunnamayam attānaṃ usukāro va tejanaṃ cittaṃ ujuṃ karitvāna avijjaṃ chinda Hāritā 'ti. || Th_29 ||  
 Hārito thero. Ābādhe me samuppanne sati me upapajjatha: ābādho me samuppanno, kālo me na ppamajjitun ti. || Th_30 ||  
-Uttiyo thero. Vaggo tatiyo. uddānaṃ: Nigrodho Cittako thero Gosālatthero Sugandho Nandiyo Abhayo thero thero Lomasakaṅgiyo Jambugāmikaputto ca Hārito Uttiyo isīti. |  
+Uttiyo thero. Vaggo tatiyo. uddānaṃ: Nigrodho Cittako thero Gosālatthero Sugandho Nandiyo Abhayo thero thero Lomasakaṅgiyo Jambugāmikaputto ca Hārito Uttiyo isīti. |
 
 
 <!-- PTS Page 006 -->
@@ -288,8 +288,7 @@ itthaṃ sudaṃ āyasmā Piṇḍolabhāradvājo thero gāthāyo abhāsitthā '
 tiṭṭha makkaṭa mā dhāvi, na hi te taṃ yathā pure; niggahīto 'si paññāya, neto dūraṃ gamissasīti. || Th_126 ||  
 Valliyo thero. Tiṇṇaṃ me tālapattānaṃ Gaṅgātīre kuṭī katā, chavasitto va me patto, paṃsukūlañ ca cīvaraṃ. || Th_127 ||  
 dvinnaṃ antaravassānaṃ ekā vācā me bhāsitā; tatiye antaravassamhi tamokhandho padālito 'ti. || Th_128 ||  
-Gaṅgātīriyo bhikkhu. Api ce hoti tevijjo maccuhāyī anāsavo, appaññāto 'ti naṃ bālā avajānanti ajānatā. ||  
-Th_129 ||  
+Gaṅgātīriyo bhikkhu. Api ce hoti tevijjo maccuhāyī anāsavo, appaññāto 'ti naṃ bālā avajānanti ajānatā. || Th_129 ||
 
 
 <!-- PTS Page 019 -->
@@ -324,8 +323,7 @@ Jotidāsathero. Accayanti ahorattā, jīvitaṃ uparujjhati, āyu khīyati macc�
 atha pāpāni kammāni karaṃ bālo na bujjhati; pacchāssa kaṭukaṃ hoti, vipāko hi 'ssa pāpako 'ti. || Th_146 ||  
 Heraññakāni thero. Parittaṃ dārum āruyha yathā sīde mahaṇṇave, evaṃ kusītam āgamma sādhujīvī pi sīdati; tasmā taṃ parivajjeyya kusītaṃ hīnavīriyaṃ. || Th_147 ||  
 pavivittehi ariyehi pahitattehi jhāyihi niccaṃ āraddhaviriyehi paṇḍitehi sahāvase 'ti. || Th_148 ||  
-Somamitto thero. Jano janamhi sambaddho, janam ev'; assito jano, jano janena heṭhiyati, heṭheti ca jano janaṃ. ||  
-Th_149 ||  
+Somamitto thero. Jano janamhi sambaddho, janam ev'; assito jano, jano janena heṭhiyati, heṭheti ca jano janaṃ. || Th_149 ||
 
 
 <!-- PTS Page 021 -->
@@ -360,8 +358,7 @@ Bhaddaji thero. Satimā paññavā bhikkhu āraddhabalavīriyo pañca kappasatā
 cattāro satipaṭṭhāne satta aṭṭha ca bhāvayaṃ pañca kappasatān'; āhaṃ ekarattiṃ anussarin ti. || Th_166 ||  
 Sobhito thero. Yaṃ kiccaṃ daḷhaviriyena yaṃ kiccaṃ boddhum icchatā karissaṃ nāvarajjhissaṃ, passa viriyaparakkamaṃ. || Th_167 ||  
 tvañ ca me maggam akkhāhi añjasaṃ amatogadhaṃ; ahaṃ monena monissaṃ Gaṅgāsoto va sāgaran ti. || Th_168 ||  
-Valliyo thero. Kese me olikhissan ti kappako upasaṃkami, tato ādāsaṃ ādāya sarīraṃ paccavekkhisaṃ. ||  
-Th_169 ||  
+Valliyo thero. Kese me olikhissan ti kappako upasaṃkami, tato ādāsaṃ ādāya sarīraṃ paccavekkhisaṃ. || Th_169 ||
 
 
 <!-- PTS Page 023 -->
@@ -414,8 +411,7 @@ Soṇo Poṭiriyaputto. Pañca kāmaguṇe hitvā piyarūpe manorame saddhāya a
 nābhinandāmi maraṇaṃ nābhinandāmi jīvitaṃ kālañ ca paṭikaṅkhāmi sampajāno patissato 'ti. || Th_196 ||  
 Nisabho thero. Ambapallavasaṃkāsaṃ aṃse katvāna cīvaraṃ nisinno hatthigīvāyaṃ gāmaṃ piṇḍāya pāvisiṃ. || Th_197 ||  
 hatthikkhandhato oruyha saṃvegaṃ alabhin tadā, so 'haṃ ditto tadā santo, patto me āsavakkhayo 'ti. || Th_198 ||  
-Usabho thero. Ayaṃ iti kappaṭo Kappaṭakuro. acchāya atibharitāya amataghaṭikāyaṃ dhammakatamatto, katapadaṃ jhānāni ocetuṃ. ||  
-Th_199 ||  
+Usabho thero. Ayaṃ iti kappaṭo Kappaṭakuro. acchāya atibharitāya amataghaṭikāyaṃ dhammakatamatto, katapadaṃ jhānāni ocetuṃ. || Th_199 ||
 
 
 <!-- PTS Page 026 -->
@@ -446,8 +442,7 @@ Visākho Pañcālīputto thero. Nadanti morā susikhā supekhuṇā sunīlagīv�
 sukallarūpo sumanassa jhāyitaṃ sunikkhamo sādhu subuddhasāsane; susukkasukkaṃ nipuṇaṃ sududdasaṃ phusāhi taṃ uttamam accutaṃ padan ti. || Th_212 ||  
 Cūḷako thero. Nandamānāgataṃ cittaṃ sūlam āropamānakaṃ, tena ten'; eva vajasi yena sūlaṃ kaliṅgaraṃ. || Th_213 ||  
 tāhaṃ citta kaliṃ brūmi taṃ brūmi cittadubbhakaṃ; satthā te dullabho laddho; mānatthe maṃ niyojayīti. || Th_214 ||  
-Anūpamo thero. Saṃsaraṃ dīgham addhānaṃ gatīsu parivattisaṃ apassaṃ ariyasaccāni andhabhūto puthujjano. ||  
-Th_215 ||  
+Anūpamo thero. Saṃsaraṃ dīgham addhānaṃ gatīsu parivattisaṃ apassaṃ ariyasaccāni andhabhūto puthujjano. || Th_215 ||
 
 
 <!-- PTS Page 028 -->
@@ -478,8 +473,7 @@ Paccayo thero. Yo pubbe karaṇīyāni pacchā so kātum icchati, sukhā so dha�
 yañ hi kayirā tañ hi vade, yaṃ na kayirā na taṃ vade. akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. || Th_226 ||  
 susukhaṃ vata nibbānaṃ sammāsambuddhadesitaṃ asokaṃ virajaṃ khemaṃ yattha dukkhaṃ nirujjhatīti. || Th_227 ||  
 Bākulathero. Sukhañ ce jīvituṃ icche sāmaññasmiṃ apekkhavā, saṃghikaṃ nātimaññeyya cīvaraṃ pānabhojanaṃ. || Th_228 ||  
-sukhañ ce jīvituṃ icche sāmaññasmiṃ apekkhavā, ahimusikasobbhaṃ va sevetha sayanāsanaṃ. ||  
-Th_229 ||  
+sukhañ ce jīvituṃ icche sāmaññasmiṃ apekkhavā, ahimusikasobbhaṃ va sevetha sayanāsanaṃ. || Th_229 ||
 
 
 <!-- PTS Page 030 -->
@@ -500,8 +494,7 @@ subhāsitassa sikkhetha samaṇupāsanassa ca ekāsanassa ca raho cittavūpasama
 Vāraṇathero. Eko pi saddho medhāvī asaddhān'; idha ñātinaṃ dhammaṭṭho sīlasampanno hoti atthāya bandhunaṃ. || Th_240 ||  
 niggayha anukampāya coditā ñātayo mayā ñātibandhavapemena kāraṃ katvāna bhikkhusu. || Th_241 ||  
 te abbhatītā kālakatā pattā te tidivaṃ sukhaṃ, bhātaro mayhaṃ mātā ca modanti kāmakāmino 'ti. || Th_242 ||  
-Passikathero. Kālāpabbaṅgasaṃkāso kiso dhamanisantato mattaññu annapānamhi adīnamanaso naro ||  
-Th_243 ||  
+Passikathero. Kālāpabbaṅgasaṃkāso kiso dhamanisantato mattaññu annapānamhi adīnamanaso naro || Th_243 ||
 
 
 <!-- PTS Page 031 -->
@@ -557,8 +550,7 @@ Bhagu thero. Pare ca na vijānanti mayam ettha yamāmase; ye ca tattha vijānant
 yadā ca avijānantā iriyanty amarā viyā, vijānanti ca ye dhammaṃ āturesu anāturā. || Th_276 ||  
 yaṃ kiñci sithilaṃ kammaṃ saṃkiliṭṭhañ ca yaṃ vataṃ saṃkassaraṃ brahmacariyaṃ, na taṃ hoti mahapphalaṃ. || Th_277 ||  
 yassa sabrahmacārīsu gāravo n'; ūpalabbhati, ārakā hoti saddhammā nabhaṃ puthaviyā yathā 'ti. || Th_278 ||  
-Sabhiyo thero. Dhir atthu pūre duggandhe Mārapakkhe avassute; nava sotāni te kāye yāni sandanti sabbadā. ||  
-Th_279 ||  
+Sabhiyo thero. Dhir atthu pūre duggandhe Mārapakkhe avassute; nava sotāni te kāye yāni sandanti sabbadā. || Th_279 ||
 
 
 <!-- PTS Page 034 -->
@@ -600,8 +592,7 @@ Candano thero. Dhammo have rakkhati dhammacāriṃ, dhammo suciṇṇo sukham ā
 na hi dhammo adhammo ca ubho samavipākino; adhammo nirayaṃ neti, dhammo pāpeti suggatiṃ. || Th_304 ||  
 tasmā hi dhammesu kareyya chandaṃ iti modamāno sugatena tādinā; dhamme ṭhitā sugatavarassa sāvakā niyyanti dhīrā saraṇavaraggagāmino. || Th_305 ||  
 vipphoṭito gaṇḍamūlo, taṇhājālo samūhato; so khīṇasaṃsāro na c'; atthi kiñcanaṃ cando yathā dosināpuṇṇamāsiyā 'ti. || Th_306 ||  
-Dhammiko thero. Yadā balākā sucipaṇḍaracchadā kāḷassa meghassa bhayena tajjitā palehiti ālayam ālayesinī, tadā nadī Ajakaraṇī rameti maṃ. ||  
-Th_307 ||  
+Dhammiko thero. Yadā balākā sucipaṇḍaracchadā kāḷassa meghassa bhayena tajjitā palehiti ālayam ālayesinī, tadā nadī Ajakaraṇī rameti maṃ. || Th_307 ||
 
 
 <!-- PTS Page 036 -->
@@ -629,8 +620,7 @@ PAÑCANIPĀTO. Bhikkhu sīvathikaṃ gantvā addasaṃ itthim ujjhitaṃ apavidd
 yaṃ hi eke jigucchanti mataṃ disvāna pāpakaṃ, kāmarāgo pāturahū, andho va savatī ahuṃ. || Th_316 ||  
 oraṃ odanapākamhā tamhā ṭhānā apakkamiṃ; satimā sampajāno 'haṃ ekamantaṃ upāvisiṃ. || Th_317 ||  
 tato me . . . (318,319 = 269,270) || Th_318-319 ||  
-Rājadatto thero. Ayoge yuñjam attānaṃ puriso kiccam icchato caraṃ ce nādhigaccheyya, taṃ me dubbhagalakkhaṇaṃ. || 320 ||  
-abbūḷhaṃ aghataṃ vijitaṃ ekañ ce ossajjeyya kalī va siyā; sabbāni pi ce ossajjeyya andho va siyā samavisamassa adassanato. || Th_321 ||  
+Rājadatto thero. Ayoge yuñjam attānaṃ puriso kiccam icchato caraṃ ce nādhigaccheyya, taṃ me dubbhagalakkhaṇaṃ. || 320 || abbūḷhaṃ aghataṃ vijitaṃ ekañ ce ossajjeyya kalī va siyā; sabbāni pi ce ossajjeyya andho va siyā samavisamassa adassanato. || Th_321 ||  
 yañ hi kayirā . . . (= 226) || Th_322 ||  
 yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ, evaṃ subhāsitā vācā aphalā hoti akubbato. || Th_323 ||  
 yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ evaṃ subhāsitā vācā saphalā hoti sakubbato 'ti. || Th_324 ||  
@@ -654,8 +644,7 @@ arahā dakkhiṇeyyo 'mhi tevijjo amataddaso; jitvā Namucino senaṃ viharāmi 
 ajjhattañ ca bahiddhā ca ye me vijjiṃsu āsavā sabbe asesā ucchinnā na ca uppajjare puna. || Th_337 ||  
 visāradā kho bhaginī etaṃ atthaṃ abhāsayi: api hā nūna mayi pi vanatho te na vijjati. || Th_338 ||  
 pariyantakataṃ dukkhaṃ, antimo 'yaṃ samussayo jātimaraṇasaṃsāro, n'; atthi dāni punabbhavo 'ti. || Th_339 ||  
-Vaḍḍho thero. Atthāya vata me buddho nadiṃ Nerañjaraṃ agā, yassāhaṃ dhammaṃ sutvāna micchādiṭṭhiṃ vivajjayiṃ. ||  
-Th_340 ||  
+Vaḍḍho thero. Atthāya vata me buddho nadiṃ Nerañjaraṃ agā, yassāhaṃ dhammaṃ sutvāna micchādiṭṭhiṃ vivajjayiṃ. || Th_340 ||
 
 
 <!-- PTS Page 039 -->
@@ -677,8 +666,7 @@ pītisukhena vipulena pharamāno samussayaṃ lūkham pi abhisambhonto vihariss�
 bhāvento satipaṭṭhāne indriyāni balāni ca bojjhaṅgāni ca bhāvento viharissāmi kānane. || Th_352 ||  
 āraddhaviriye pahitatte niccaṃ daḷhaparakkame samagge sahite disvā viharissāmi kānane. || Th_353 ||  
 anussaranto sambuddhaṃ aggadantaṃ samāhitaṃ atandito rattidivaṃ viharissāmi kānane 'ti. || Th_354 ||  
-Vakkali thero. Olaggessāmi te citta āṇidvāre va hatthinaṃ, na taṃ pāpe niyojessaṃ kāmajāla sarīraja. ||  
-Th_355 ||  
+Vakkali thero. Olaggessāmi te citta āṇidvāre va hatthinaṃ, na taṃ pāpe niyojessaṃ kāmajāla sarīraja. || Th_355 ||
 
 
 <!-- PTS Page 040 -->
@@ -755,8 +743,7 @@ yathā divā tathā rattiṃ, yathā rattiṃ tathā divā, yathā pure tathā p
 pañcaṅgikena turiyena na rati hoti tādisī yathā ekaggacittassa sammā dhammaṃ vipassato 'ti. || Th_398 ||  
 Kullo thero. Manujassa pamattacārino taṇhā vaḍḍhati māḷuvā viyā, so palavatī hurāhuraṃ phalam icchaṃ va vanasmi vānaro. || Th_399 ||  
 yaṃ esā sahatī jammī taṇhā loke visattikā, sokā tassa pavaḍḍhanti abhivaḍḍhaṃ va bīraṇaṃ. || Th_400 ||  
-yo ve taṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ, sokā tamhā papatanti udabindu va pokkharā. ||  
-Th_401 ||  
+yo ve taṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ, sokā tamhā papatanti udabindu va pokkharā. || Th_401 ||
 
 
 <!-- PTS Page 044 -->
@@ -775,8 +762,7 @@ tato me . . . (409,410 = 269,270) || Th_409-410 ||
 Sappadāsatthero. Uṭṭhāhi nisīda Kātiyāna mā niddābahulo ahu jāgarassu, mā taṃ alasaṃ pamattabandhu kūṭeneva jinātu maccurājā. || Th_411 ||  
 sayathāpi mahāsamuddavego evaṃ jātijarātivattate taṃ, so karohi sudīpam attano tvaṃ, na hi tāṇaṃ tava vijjateva aññaṃ. || Th_412 ||  
 satthā hi vijesi maggam etaṃ saṅgā jātijarābhayā atītaṃ; pubbāpararattam appamatto anuyuñjassu daḷhaṃ karohi yogaṃ. || Th_413 ||  
-purimāni pamuñca bandhanāni saṃghāṭīkhuramuṇḍabhikkhabhojī, mā khiḍḍāratiñ ca mā niddaṃ anuyuñjittha jhiyāya Kātiyāna. ||  
-Th_414 ||  
+purimāni pamuñca bandhanāni saṃghāṭīkhuramuṇḍabhikkhabhojī, mā khiḍḍāratiñ ca mā niddaṃ anuyuñjittha jhiyāya Kātiyāna. || Th_414 ||
 
 
 <!-- PTS Page 045 -->
@@ -796,8 +782,7 @@ Migajālo thero. Jātimadena matto 'haṃ bhogaissariyena ca saṇṭhāṇava�
 nāttano samakaṃ kañci atirekaṃ ca maññisaṃ atimānahato bālo patthaddho ussitaddhajo. || Th_424 ||  
 mātaraṃ pitarañ cāpi aññe pi garusammate na kañci abhivādesiṃ mānatthaddho anādaro. || Th_425 ||  
 disvā vināyakaṃ aggaṃ sārathīnaṃ varuttamaṃ tapantam iva ādiccam bhikkhusaṃghapurakkhataṃ || Th_426 ||  
-mānaṃ madañ ca chaḍḍetvā vippasannena cetasā sirasā abhivādesiṃ sabbasattānam uttamaṃ. ||  
-Th_427 ||  
+mānaṃ madañ ca chaḍḍetvā vippasannena cetasā sirasā abhivādesiṃ sabbasattānam uttamaṃ. || Th_427 ||
 
 
 <!-- PTS Page 046 -->
@@ -818,8 +803,7 @@ bhāvento satta bojjhaṅge indriyāni balāni ca jhānasokhummasamupanno vihari
 vippamuttaṃ kilesehi suddhacittaṃ anāvilaṃ abhiṇhaṃ paccavekkhanto viharissaṃ anāsavo. || Th_438 ||  
 ajjhattañ ca bahiddhā ca ye me vijjiṃsu āsavā sabbe asesā ucchinnā na ca uppajjare puna. || Th_439 ||  
 pañca kkhandhā pariññātā tiṭṭhanti chinnamūlakā, dukkhakkhayo anuppatto, n'; atthi dāni punabbhavo 'ti. || Th_440 ||  
-Nhātakamuni thero. Akkodhassa kuto kodho dantassa samajīvino sammadaññāvimuttassa upasantassa tādino. ||  
-Th_441 ||  
+Nhātakamuni thero. Akkodhassa kuto kodho dantassa samajīvino sammadaññāvimuttassa upasantassa tādino. || Th_441 ||
 
 
 <!-- PTS Page 047 -->
@@ -840,8 +824,7 @@ amoghaṃ divasaṃ kayirā appena bahukena vā; yaṃ yaṃ vijahate rattiṃ t
 carato tiṭṭhato vāpi āsīnasayanassa vā upeti carimā ratti, na te kālo pamajjitun ti. || Th_452 ||  
 Sirimaṇḍo thero. Dipādako 'yam asuci duggandho parihīrati nānākuṇapaparipūro vissavanto tato tato. || Th_453 ||  
 migaṃ nilīnaṃ kūṭena baliseneva ambujaṃ vānaraṃ viya lepena bādhayanti puthujjanaṃ || Th_454 ||  
-rūpā saddā rasā gandhā phoṭṭhabbā ca manoramā: pañca kāmaguṇā ete itthirūpasmiṃ dissare. ||  
-Th_455 ||  
+rūpā saddā rasā gandhā phoṭṭhabbā ca manoramā: pañca kāmaguṇā ete itthirūpasmiṃ dissare. || Th_455 ||
 
 
 <!-- PTS Page 048 -->
@@ -896,8 +879,7 @@ vissajjitesu pañhesu anumodi tathāgato, bhikkhusaṃghaṃ viloketvā imam att
 lābhā Aṅgāna Magadhānaṃ yesāyaṃ paribhuñjati cīvaraṃ piṇḍapātañ ca paccayaṃ sayanāsanaṃ paccuṭṭhānañ ca sāmīciṃ, tesaṃ lābhā 'ti c'; abravī. || Th_484 ||  
 ajjadagge maṃ Sopāka dassanāyopasaṃkama, esā c'; eva te Sopāka bhavatu upasampadā. || Th_485 ||  
 jātiyā sattavasso 'haṃ laddhāna upasampadaṃ dhāremi antimaṃ dehaṃ: aho dhammasudhammatā 'ti. || Th_486 ||  
-Sopāko thero. Sare hatthehi bhañjitvā katvāna kuṭim acchisaṃ, tena me Sarabhaṅgo 'ti nāmaṃ sammutiyā ahū. ||  
-Th_487 ||  
+Sopāko thero. Sare hatthehi bhañjitvā katvāna kuṭim acchisaṃ, tena me Sarabhaṅgo 'ti nāmaṃ sammutiyā ahū. || Th_487 ||
 
 
 <!-- PTS Page 051 -->
@@ -930,8 +912,7 @@ cakkhum'; assa yathā andho, sotavā badhiro yathā, paññāv'; assa yathā mū
 Mahākaccāyano thero. Akkodhano anupanāhī amāyo rittapesuṇo sa ve tādisako bhikkhu evaṃ pecca na socati. || Th_502 ||  
 akkodhano anupanāhī amāyo rittapesuṇo guttadvāro sadā bhikkhu evaṃ pecca na socati. || Th_503 ||  
 akkodhano . . . kalyāṇasīlo yo bhikkhu evaṃ pecca na socati. || Th_504 ||  
-akkodhano . . . kalyāṇamitto yo bhikkhu evaṃ pecca na socati. ||  
-Th_505 ||  
+akkodhano . . . kalyāṇamitto yo bhikkhu evaṃ pecca na socati. || Th_505 ||
 
 
 <!-- PTS Page 053 -->
@@ -966,8 +947,7 @@ yadā asokaṃ virajaṃ asaṃkhataṃ santaṃ padaṃ sabbakilesasodhanaṃ b
 yadā nabhe gajjati meghadundubhi dhārākulā vihaṅgapathe samantato bhikkhu ca pabbhāragato 'va jhāyati, tato . . . || Th_522 ||  
 yadā nadīnaṃ kusumākulānaṃ vicittavāneyyavaṭaṃsakānaṃ tīre nisinno sumano 'va jhāyati, tato . . . || Th_523 ||  
 yadā nisīthe rahitamhi kānane deve gaḷantamhi nadanti dāṭhino bhikkhu ca pabbhāragato 'va jhāyati, tato . . . || Th_524 ||  
-yadā vitakke uparundhiy'; attano nagantare nagavivaraṃ samassito vītaddaro vigatakhilo 'va jhāyati, tato . . . ||  
-Th_525 ||  
+yadā vitakke uparundhiy'; attano nagantare nagavivaraṃ samassito vītaddaro vigatakhilo 'va jhāyati, tato . . . || Th_525 ||
 
 
 <!-- PTS Page 055 -->
@@ -989,8 +969,7 @@ dumāni phullāni manoramāni samantato sabbadisā pavanti pattaṃ pahāya phal
 n'; evātisītaṃ na panātiuṇhaṃ sukhā utu addhaniyā bhadante; passantu taṃ Sākiyā Koḷiyā ca pacchāmukhaṃ Rohiṇiyaṃ tarantaṃ. || Th_529 ||  
 āsāya kassate khettaṃ, bījaṃ āsāya vuppati, āsāya vāṇijā yanti samuddaṃ dhanahārakā yāya āsāya tiṭṭhāmi, sā me āsā samijjhatu. || Th_530 ||  
 punappunaṃ c'; eva vapanti bījaṃ, punappunaṃ vassati devarājā, punappunaṃ khettaṃ kasanti kassakā, punappunaṃ dhaññam upeti raṭṭhaṃ. || Th_531 ||  
-punappunaṃ yācanakā caranti, punappunaṃ dānapatī dadanti, punappunaṃ dānapatī daditvā punappunaṃ saggam upenti ṭhānaṃ. ||  
-Th_532 ||  
+punappunaṃ yācanakā caranti, punappunaṃ dānapatī dadanti, punappunaṃ dānapatī daditvā punappunaṃ saggam upenti ṭhānaṃ. || Th_532 ||
 
 
 <!-- PTS Page 057 -->
@@ -1010,8 +989,7 @@ ekākiyo adutiyo ramaṇīye mahāvane kadāhaṃ viharissāmi katakicco anāsav
 evaṃ me kattukāmassa adhippāyo samijjhatu; sādhayissām'; ahaṃ yeva, nañño aññassa kārako. || Th_542 ||  
 esa bandhāmi sannāhaṃ, pavisissāmi kānanaṃ, ne tato nikkhamissāmi appatto āsavakkhayaṃ. || Th_543 ||  
 mālute upavāyante sīte surabhigandhake avijjaṃ dālayissāmi nisinno nagamuddhani. || Th_544 ||  
-vane kusumasañchanne pabbhāre nūna sītale vimuttisukhena sukhito ramissāmi Giribbaje. ||  
-Th_545 ||  
+vane kusumasañchanne pabbhāre nūna sītale vimuttisukhena sukhito ramissāmi Giribbaje. || Th_545 ||
 
 
 <!-- PTS Page 058 -->
@@ -1049,8 +1027,7 @@ tato me satthā pāhesi dūtaṃ kālappavedakaṃ; paveditamhi kālamhi vehās�
 vanditvā satthuno pāde ekamantaṃ nisīd'; ahaṃ; nisinnaṃ maṃ viditvāna atha satthā paṭiggahi. || Th_565 ||  
 āyāgo sabbalokassa āhutīnaṃ paṭiggaho puññakhettaṃ manussānaṃ paṭigaṇhittha dakkhiṇan ti. || Th_566 ||  
 Cūḷapanthako thero. Nānākulamalasampuṇṇo mahāukkārasambhavo candanikaṃ va paripakkaṃ mahāgaṇḍo mahāvaṇo || Th_567 ||  
-pubbaruhirasampuṇṇo gūthakūpe nigāḷhiko āpopaggharaṇī kāyo sadā sandati pūtikaṃ. ||  
-Th_568 ||  
+pubbaruhirasampuṇṇo gūthakūpe nigāḷhiko āpopaggharaṇī kāyo sadā sandati pūtikaṃ. || Th_568 ||
 
 
 <!-- PTS Page 060 -->
@@ -1061,8 +1038,7 @@ Th_568 ||
 saṭṭhikaṇḍarasambandho maṃsalepanalepito cammakañcukasannaddho pūtikāyo niratthako || Th_569 ||  
 aṭṭhisaṃghāṭaghaṭito nhārusuttanibandhano nekesaṃ saṃgatibhāvā kappeti iriyāpathaṃ. || Th_570 ||  
 dhuvappayāto maraṇassa Maccurājassa santike, idh'; eva chaḍḍayitvāna yenakāmaṃgamo naro. || Th_571 ||  
-avijjāya nivuto kāyo, catuganthena ganthito, oghasaṃsīdano kāyo, anusayajālamotthato,|| 572 ||  
-pañcanīvaraṇe yutto, vitakkena samappito, taṇhāmūlenānugato, mohacchadanachādito: || Th_573 ||  
+avijjāya nivuto kāyo, catuganthena ganthito, oghasaṃsīdano kāyo, anusayajālamotthato,|| 572 || pañcanīvaraṇe yutto, vitakkena samappito, taṇhāmūlenānugato, mohacchadanachādito: || Th_573 ||  
 evāyaṃ vattatī kāyo kammayantena yantito. sampatti ca vipatyantā, nānābhavo vipajjati. || Th_574 ||  
 ye 'maṃ kāyaṃ mamāyanti andhabālā puthujjanā, vaḍḍhenti kaṭasiṃ ghoraṃ, ādiyanti punabbhavaṃ. || Th_575 ||  
 ye 'maṃ kāyaṃ vivajjenti gūthalittaṃ va pannagaṃ, bhavamūlaṃ vamitvāna parinibbissanty anāsavā 'ti. || Th_576 ||  
@@ -1073,8 +1049,7 @@ lūkhena pi ca santusse, nāññaṃ patthe rasaṃ bahuṃ; rasesu anugiddhassa
 appiccho c'; eva santuṭṭho pavivitto vase muni, asaṃsaṭṭho gahaṭṭhehi anāgārehi c'; ūbhayaṃ. || Th_581 ||  
 yathā jaḷo ca mūgo ca attānaṃ dassaye tathā; nātivelaṃ pabhāseyya saṃghamajjhamhi paṇḍito. || Th_582 ||  
 na so upavade kañci, upaghātaṃ vivajjaye, saṃvuto pātimokkhasmiṃ mattaññū c'; assa bhojane. || Th_583 ||  
-suggahītanimitt'; assa cittass'; uppādakovido, samathaṃ anuyuñjeyya kālena ca vipassanaṃ. ||  
-Th_584 ||  
+suggahītanimitt'; assa cittass'; uppādakovido, samathaṃ anuyuñjeyya kālena ca vipassanaṃ. || Th_584 ||
 
 
 <!-- PTS Page 061 -->
@@ -1134,8 +1109,7 @@ idh'; eva nindaṃ labhati peccāpāye ca dummano, sabbattha dummano bālo sīle
 idh'; eva kittiṃ labhati pecca sagge ca summano, sabbattha sumano dhīro sīlesu susamāhito. || Th_618 ||  
 sīlam eva idha aggaṃ, paññavā pana uttamo; manussesu ca devesu sīlapaññāṇato jayan ti. || Th_619 ||  
 Sīlavatthero. Nīce kulamhi jāto 'haṃ daḷiddo appabhojano; hīnaṃ kammaṃ mamaṃ āsi, ahosiṃ pupphachaḍḍako. || Th_620 ||  
-jigucchito manussānaṃ paribhūto ca vambhito nīcaṃ manaṃ karitvāna vandissaṃ bahukaṃ janaṃ. ||  
-Th_621 ||  
+jigucchito manussānaṃ paribhūto ca vambhito nīcaṃ manaṃ karitvāna vandissaṃ bahukaṃ janaṃ. || Th_621 ||
 
 
 <!-- PTS Page 064 -->
@@ -1170,8 +1144,7 @@ ujumaggamhi akkhāte gacchatha mā nivattatha; attanā coday'; attānaṃ, nibb�
 accāraddhamhi viriyamhi satthā loke anuttaro vīṇopamaṃ karitvā me dhammaṃ desesi cakkhumā. || Th_638 ||  
 tassāhaṃ vacanaṃ sutvā vihāsiṃ sāsane rato, samataṃ paṭipādesiṃ uttamatthassa pattiyā; tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ. || Th_639 ||  
 nekkhamme adhimuttassa pavivekañ ca cetaso, abyāpajjhādhimuttassa upādānakkhayassa ca, || Th_640 ||  
-taṇhakkhayādhimuttassa asammohañ ca cetaso disvā āyatanuppādaṃ sammā cittaṃ vimuccati. ||  
-Th_641 ||  
+taṇhakkhayādhimuttassa asammohañ ca cetaso disvā āyatanuppādaṃ sammā cittaṃ vimuccati. || Th_641 ||
 
 
 <!-- PTS Page 066 -->
@@ -1203,8 +1176,7 @@ nābhinandāmi . . . (= 606,607) || Th_654-655 ||
 pariciṇṇo . . . (= 604,605) || Th_656-657 ||  
 sampādeth'; appamādena, esā me anusāsanī; handāhaṃ parinibbissaṃ, vippamutto 'mhi sabbadhīti. || Th_658 ||  
 Revato thero. Yathāpi bhaddo ājañño dhure yutto dhurassaho mathito atibhārena saṃyugaṃ nātivattati, || Th_659 ||  
-evaṃ paññāya ye tittā samuddo vārinā yathā na pare atimaññanti; ariyadhammo 'va pāṇinaṃ. ||  
-Th_660 ||  
+evaṃ paññāya ye tittā samuddo vārinā yathā na pare atimaññanti; ariyadhammo 'va pāṇinaṃ. || Th_660 ||
 
 
 <!-- PTS Page 068 -->
@@ -1246,8 +1218,7 @@ nābhinandāmi . . . (= 606,607) || Th_685-686 ||
 pariciṇṇo . . . (= 604) || Th_687 ||  
 yassa c'; atthāya pabbajito agārasmā anagāriyaṃ, so me attho anuppatto, kiṃ me sandavihārenā 'ti. || Th_688 ||  
 Aññākoṇḍañño thero. Manussabhūtaṃ sambuddhaṃ attadantaṃ samāhitaṃ iriyamānaṃ Brahmapathe cittass'; upasame rataṃ, || Th_689 ||  
-yaṃ manussā namassanti sabbadhammāna pāraguṃ devāpi taṃ namassanti, iti me arahato sutaṃ,||  
-690 ||  
+yaṃ manussā namassanti sabbadhammāna pāraguṃ devāpi taṃ namassanti, iti me arahato sutaṃ,|| 690 ||
 
 
 <!-- PTS Page 070 -->
@@ -1260,8 +1231,7 @@ sa ve accantarucī nāgo Himavāvaññe siluccaye, sabbesaṃ nāganāmānaṃ s
 nāgaṃ vo kittayissāmi, na hi āguṃ karoti so. soraccaṃ avihiṃsā ca pādā nāgassa te duve. || Th_693 ||  
 sati ca sampajaññañ ca caraṇā nāgassa te pare. saddhāhattho mahānāgo, upekkhāsetadantavā. || Th_694 ||  
 sati gīvā, siro paññā, vīmaṃsā dhammacintanā, dhammakucchi, samāvāso, viveko tassa vāladhi. || Th_695 ||  
-so jhāyī assāsarato ajjhattaṃ susamāhito, gacchaṃ samāhito nāgo, ṭhito nāgo samāhito,|| 696 ||  
-sayaṃ samāhito nāgo, nisinno pi samāhito: sabbattha saṃvuto nāgo; esā nāgassa sampadā. || Th_697 ||  
+so jhāyī assāsarato ajjhattaṃ susamāhito, gacchaṃ samāhito nāgo, ṭhito nāgo samāhito,|| 696 || sayaṃ samāhito nāgo, nisinno pi samāhito: sabbattha saṃvuto nāgo; esā nāgassa sampadā. || Th_697 ||  
 bhuñjati anavajjāni, sāvajjāni na bhuñjati, ghāsaṃ acchādanaṃ laddhā sannidhiṃ parivajjayaṃ, || Th_698 ||  
 saṃyojanaṃ aṇuṃ thūlaṃ sabbaṃ chetvāna bandhanaṃ, yena yen'; eva gacchati anapekkho 'va gacchati. || Th_699 ||  
 yathāpi udake jātaṃ puṇḍarīkaṃ pavaḍḍhati, nopalippati toyena sucigandhaṃ manoramaṃ: || Th_700 ||  
@@ -1289,8 +1259,7 @@ yad atthi saṃgataṃ kiñci bhavo ca yattha labbhati, sabbaṃ anissaraṃ eta
 yo taṃ tathā pajānāti yathā buddhena desitaṃ, na gaṇhati bhavaṃ kiñci sutattaṃ va ayoguḷaṃ. || Th_714 ||  
 na me hoti ahosin ti, bhavissan ti na hoti me; saṃkhārā vibhavissanti: tattha kā paridevanā. || Th_715 ||  
 suddhaṃ dhammasamuppādaṃ suddhaṃ saṃkhārasantatiṃ passantassa yathābhūtaṃ na bhayaṃ hoti gāmaṇi. || Th_716 ||  
-tiṇakaṭṭhasamaṃ lokaṃ yadā paññāya passati mamattaṃ so asaṃvindaṃ n'; atthi me 'ti na socati. ||  
-Th_717 ||  
+tiṇakaṭṭhasamaṃ lokaṃ yadā paññāya passati mamattaṃ so asaṃvindaṃ n'; atthi me 'ti na socati. || Th_717 ||
 
 
 <!-- PTS Page 072 -->
@@ -1311,8 +1280,7 @@ kim ānupubbaṃ puriso kiṃ vataṃ kiṃ samācāraṃ attano kiccakāri 'ssa
 indriyāni manussānaṃ hitāya ahitāya ca: arakkhitāni ahitāya rakkhitāni hitāya ca. || Th_728 ||  
 indriyān'; eva sārakkhaṃ indriyāni ca gopayaṃ attano kiccakāri 'ssa na ca kiñci viheṭhaye. || Th_729 ||  
 cakkhundriyañ ce rūpesu gacchantaṃ anivārayaṃ anādīnavadassāvī, so dukkhā na hi muccati. || Th_730 ||  
-sotindriyañ ca saddesu gacchantaṃ anivārayaṃ anādīnavadassāvī, so dukkhā na hi muccati. ||  
-Th_731 ||  
+sotindriyañ ca saddesu gacchantaṃ anivārayaṃ anādīnavadassāvī, so dukkhā na hi muccati. || Th_731 ||
 
 
 <!-- PTS Page 073 -->
@@ -1335,8 +1303,7 @@ uccāvaceh'; upāyehi paresam abhijigīsāti hantvā vadhitvā atha socayitvā �
 tacchanto āṇiyā āṇiṃ nihanti balavā yathā: indriyān'; indriyeh'; eva nihanti kusalā tathā. || Th_744 ||  
 saddhaṃ viriyaṃ samādhiñ ca satipaññañ ca bhāvayaṃ pañca pañcahi hantvāna anīgho yāti brāhmaṇo. || Th_745 ||  
 so atthavā so dhammaṭṭho katvā vākyānusāsaniṃ sabbena sabbaṃ buddhassa, so naro sukham edhatīti. || Th_746 ||  
-Pārāpariyo thero. Cirarattaṃ vatātāpī dhammaṃ anuvicintayaṃ samaṃ cittassa nālatthaṃ pucchaṃ samaṇabrāhmaṇe: ||  
-Th_747 ||  
+Pārāpariyo thero. Cirarattaṃ vatātāpī dhammaṃ anuvicintayaṃ samaṃ cittassa nālatthaṃ pucchaṃ samaṇabrāhmaṇe: || Th_747 ||
 
 
 <!-- PTS Page 074 -->
@@ -1357,8 +1324,7 @@ ko me asattho avaṇo sallam abbhantarāpassayaṃ ahiṃsaṃ sabbagattāni sal
 dhammappati hi so seṭṭho visadosapavāhako gambhīre patitassa me thalaṃ pāṇi va dassaye. || Th_758 ||  
 rahade 'ham asmi ogāḷho ahāriyarajamantike māyāussuyyasārambhathīnamiddhamapatthaṭe. || Th_759 ||  
 uddhaccameghathanitaṃ saṃyojanavalāhakaṃ vāhā vahanti kuddiṭṭhiṃ saṃkappā rāganissitā. || Th_760 ||  
-savanti sabbadhī sotā, latā ubbhijja tiṭṭhati: te sote ko nivāreyya, taṃ lataṃ ko hi checchati. ||  
-Th_761 ||  
+savanti sabbadhī sotā, latā ubbhijja tiṭṭhati: te sote ko nivāreyya, taṃ lataṃ ko hi checchati. || Th_761 ||
 
 
 <!-- PTS Page 075 -->
@@ -1396,8 +1362,7 @@ so ḍayhati sūlehi tujjamāno ekena vatthena pahāya bhoge; na miyyamānassa b
 dāyādakā tassa dhanaṃ haranti, satto pana gacchati yenakammaṃ; na miyyamānaṃ dhanam anveti kiñci puttā ca dārā ca dhanañ ca raṭṭhaṃ. || Th_781 ||  
 na dīgham āyuṃ labhate dhanena na cāpi vittena jaraṃ vihanti; appañ hi naṃ jīvitam āhu dhīrā asassataṃ vippariṇāmadhammaṃ. || Th_782 ||  
 addhā daliddā ca phusanti phassaṃ, bālo ca dhīro ca tath' eva phuṭṭho: bālo hi bālyā vadhito va seti, dhīro ca na vedhati phassaphuṭṭho. || Th_783 ||  
-tasmā hi paññā 'va dhanena seyyo yāya vosānaṃ idhādhigacchati, abyositatthā hi bhavābhavesu pāpāni kammāni karonti mohā. ||  
-Th_784 ||  
+tasmā hi paññā 'va dhanena seyyo yāya vosānaṃ idhādhigacchati, abyositatthā hi bhavābhavesu pāpāni kammāni karonti mohā. || Th_784 ||
 
 
 <!-- PTS Page 077 -->
@@ -1418,8 +1383,7 @@ Raṭṭhapālo thero. Rūpaṃ disvā sati muṭṭhā piyanimittaṃ manasikar
 tassa vaḍḍhanti vedanā anekā rūpasambhavā, abhijjhā ca vihesā ca cittam ass'; ūpahaññati; evam ācinato dukkhaṃ ārā nibbāna vuccati. || Th_795 ||  
 saddaṃ sutvā sati muṭṭhā . . . (= 794,795; instead of rūpasambhavā read saddasambhavā.) || Th_796-797 ||  
 gandhaṃ ghatvā . . . (gandhasambhavā) || Th_798-799 ||  
-rasaṃ bhotvā . . . (rasasambhavā) ||  
-Th_800-801 ||  
+rasaṃ bhotvā . . . (rasasambhavā) || Th_800-801 ||
 
 
 <!-- PTS Page 078 -->
@@ -1438,8 +1402,7 @@ narassa hi sujātassa ye bhavanti viyañjanā sabbe te tava kāyasmiṃ mahāpur
 pasannanetto sumukho brahā uju patāpavā majjhe samaṇasaṃghassa ādicco va virocasi. || Th_820 ||  
 kalyāṇadassano bhikkhu kañcanasannibhattaco: kin te samaṇabhāvena evaṃ uttamavaṇṇino. || Th_821 ||  
 rājā arahasi bhavituṃ cakkavattirathesabho cāturanto vijitāvī Jambusaṇḍassa issaro. || Th_822 ||  
-khattiyā bhojarājāno anuyantā bhavanti te; rājābhirājā manujindo rajjaṃ kārehi Gotama. ||  
-Th_823 ||  
+khattiyā bhojarājāno anuyantā bhavanti te; rājābhirājā manujindo rajjaṃ kārehi Gotama. || Th_823 ||
 
 
 <!-- PTS Page 079 -->
@@ -1460,8 +1423,7 @@ Brahmabhūtaṃ atitulaṃ Mārasenappamaddanaṃ ko disvā na ppasīdeyya api k
 yo maṃ icchati anvetu yo vā n'; icchati gacchatu: idhāhaṃ pabbajissāmi varapaññassa santike. || Th_834 ||  
 etañ ce ruccatī bhoto sammāsambuddhasāsanaṃ, mayam pi pabbajissāma varapaññassa santike. || Th_835 ||  
 brāhmaṇā tisatā ime yācanti pañjalīkatā: brahmacariyaṃ carissāma bhagavā tava santike. || Th_836 ||  
-svākkhātaṃ brahmacariyaṃ Selā 'ti bhagavā sandiṭṭhikam akālikaṃ yattha amoghā pabbajjā appamattassa sikkhato. ||  
-Th_837 ||  
+svākkhātaṃ brahmacariyaṃ Selā 'ti bhagavā sandiṭṭhikam akālikaṃ yattha amoghā pabbajjā appamattassa sikkhato. || Th_837 ||
 
 
 <!-- PTS Page 080 -->
@@ -1499,8 +1461,7 @@ yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati, so 'maṃ lokaṃ pabhāset
 yo have daharo bhikkhu yuñjatī buddhasāsane, so 'maṃ lokaṃ pabhāseti abbhā mutto va candimā. || Th_873 ||  
 disā hi me dhammakathaṃ suṇantu, disā hi me yuñjantu buddhasāsane, disā hi me te manusse bhajantu ye dhammam evādapayanti santo. || Th_874 ||  
 disā hi me khantivādānaṃ avirodhappasaṃsinaṃ suṇantu dhammaṃ kālena tañ ca anuvidhīyantu. || Th_875 ||  
-na hi jātu so mamaṃ hiṃse aññaṃ vā pana kañcinaṃ, pappuyya paramaṃ santiṃ rakkheyya tasathāvare. ||  
-Th_876 ||  
+na hi jātu so mamaṃ hiṃse aññaṃ vā pana kañcinaṃ, pappuyya paramaṃ santiṃ rakkheyya tasathāvare. || Th_876 ||
 
 
 <!-- PTS Page 082 -->
@@ -1508,8 +1469,7 @@ Th_876 ||
 
 ##### *[PTS Page 082]*
 
-udakaṃ hi nayanti nettikā, usukārā namayanti tejanaṃ, dāruṃ namayanti tacchakā, attānaṃ damayanti paṇḍitā. ||  
-Th_877 ||  
+udakaṃ hi nayanti nettikā, usukārā namayanti tejanaṃ, dāruṃ namayanti tacchakā, attānaṃ damayanti paṇḍitā. || Th_877 ||
 
 daṇḍen'; eke damayanti aṅkusehi kasāhi ca; adaṇḍena asatthena ahaṃ danto 'mhi tādinā. || Th_878 ||  
 Ahiṃsako 'ti me nāmaṃ hiṃsakassa pure sato; ajjāhaṃ saccanāmo 'mhi, na naṃ hiṃsāmi kañcinaṃ. || Th_879 ||  
@@ -1549,8 +1509,7 @@ pañcapaññāsa vassāni yato nesajjiko ahaṃ, pañcavīsati vassāni yato mid
 nāhu assāsapassāso ṭhitacittassa tādino; anejo santim ārabbha cakkhumā parinibbuto. || Th_905 ||  
 asallīnena cittena vedanaṃ ajjhavāsayi; pajjotasseva nibbānaṃ vimokkho cetaso ahū. || Th_906 ||  
 ete pacchimakā dāni munino phassapañcamā; nāññe dhammā bhavissanti sambuddhe parinibbute. || Th_907 ||  
-n'; atthi dāni punāvāso devakāyasmi jālini; vikkhīṇo jātisaṃsāro, n'; atthi dāni punabbhavo. ||  
-Th_908 ||  
+n'; atthi dāni punāvāso devakāyasmi jālini; vikkhīṇo jātisaṃsāro, n'; atthi dāni punabbhavo. || Th_908 ||
 
 
 <!-- PTS Page 084 -->
@@ -1572,8 +1531,7 @@ Vajjīnaṃ Veḷuvagāme ahaṃ jīvitasaṃkhayā heṭṭhato veḷugumbasmi�
 Anuruddho thero. Samaṇassa ahū cintā pupphitamhi mahāvane ekaggassa nisinnassa pavivittassa jhāyino: || Th_920 ||  
 aññathā lokanāthamhi tiṭṭhante purisuttame iriyaṃ āsi bhikkhūnaṃ, aññathā dāni dissate. || Th_921 ||  
 sītavātaparittānaṃ, hirikopīnachādanaṃ, mattaṭṭhiyaṃ abhuñjiṃsu santuṭṭhā itarītare. || Th_922 ||  
-paṇītaṃ yadi vā lūkhaṃ appaṃ vā yadi vā bahuṃ yāpanatthaṃ abhuñjiṃsu agiddhā nādhimucchitā. ||  
-Th_923 ||  
+paṇītaṃ yadi vā lūkhaṃ appaṃ vā yadi vā bahuṃ yāpanatthaṃ abhuñjiṃsu agiddhā nādhimucchitā. || Th_923 ||
 
 
 <!-- PTS Page 085 -->
@@ -1596,8 +1554,7 @@ udarāvadehakaṃ bhutvā sayant'; uttānaseyyakā, kathā vadenti paṭibuddhā
 sabbakārukasippāni cittikatvāna sikkhare, avūpasantā ajjhattaṃ sāmaññattho 'ti acchati. || Th_936 ||  
 mattikaṃ telaṃ cuṇṇañ ca udakāsanabhojanaṃ gihīnaṃ upanāmenti ākaṅkhantā bahuttaraṃ. || Th_937 ||  
 dantapoṇaṃ kapiṭṭhañ ca pupphakhādaniyāni ca piṇḍapāte ca sampanne ambe āmalakāni ca, || Th_938 ||  
-bhesajjesu yathā vejjā, kiccākicce yathā gihī, gaṇikā va vibhūsāyaṃ, issare khattiyā yathā,||  
-939 ||  
+bhesajjesu yathā vejjā, kiccākicce yathā gihī, gaṇikā va vibhūsāyaṃ, issare khattiyā yathā,|| 939 ||
 
 
 <!-- PTS Page 086 -->
@@ -1636,8 +1593,7 @@ ujjhānasaññino bālā sīlesu asamāhitā unnaḷā vicarissanti kalahābhira
 uddhatā ca bhavissanti nīlacīvarapārutā; kuhā thaddhā lapā siṅgī carissanty ariyā viya. || Th_959 ||  
 telasaṇhehi kesehi capalā añjanakkhikā rathiyāya gamissanti dantavaṇṇakapārutā. || Th_960 ||  
 ajegucchaṃ vimuttehi surattaṃ arahaddhajaṃ jigucchissanti kāsāvaṃ odātesu samucchitā. || Th_961 ||  
-lābhakāmā bhavissanti kusītā hīnavīriyā, kicchantā vanapattāni gāmantesu vasissare. ||  
-Th_962 ||  
+lābhakāmā bhavissanti kusītā hīnavīriyā, kicchantā vanapattāni gāmantesu vasissare. || Th_962 ||
 
 
 <!-- PTS Page 088 -->
@@ -1661,8 +1617,7 @@ sikkhāpentāpi therehi bālā cīvaradhāraṇaṃ na suṇissanti dummedhā p�
 te tathā sikkhitā bālā aññamaññaṃ agāravā nādiyissant'; upajjhāye khaluṅko viya sārathiṃ. || Th_976 ||  
 evaṃ anāgataddhānaṃ paṭipatti bhavissati bhikkhūnaṃ bhikkhunīnañ ca patte kālamhi pacchime. || Th_977 ||  
 purā āgacchate etaṃ anāgataṃ mahabbhayaṃ subbacā hotha sakhilā aññamaññaṃ sagāravā. || Th_978 ||  
-mettacittā kāruṇikā hotha sīle susaṃvutā āraddhaviriyā pahitattā niccaṃ daḷhaparakkamā. ||  
-Th_979 ||  
+mettacittā kāruṇikā hotha sīle susaṃvutā āraddhaviriyā pahitattā niccaṃ daḷhaparakkamā. || Th_979 ||
 
 
 <!-- PTS Page 089 -->
@@ -1705,8 +1660,7 @@ nābhinandāmi maraṇaṃ nābhinandāmi jīvitaṃ, nikkhipissaṃ imaṃ kāy
 ubhayenam idaṃ maraṇam eva nāmaraṇaṃ pacchā vā pure vā; paṭipajjatha mā vinassatha, khaṇo ve mā upaccagā. || Th_1004 ||  
 nagaraṃ yathā paccantaṃ guttaṃ santarabāhiraṃ evaṃ gopetha attānaṃ, khaṇo ve mā upaccagā, khaṇātītā hi socanti nirayamhi samappitā. || Th_1005 ||  
 upasanto uparato mantabhāṇī anuddhato dhunāti pāpake dhamme dumapattaṃ va māluto. || Th_1006 ||  
-upasanto --pa-- abbahi pāpake dhamme dumapattaṃ va māluto. ||  
-Th_1007 ||  
+upasanto --pa-- abbahi pāpake dhamme dumapattaṃ va māluto. || Th_1007 ||
 
 
 <!-- PTS Page 091 -->
@@ -1728,8 +1682,7 @@ Sāriputto thero. Pisunena ca kodhanena maccharinā ca vibhūtinandinā sakhita�
 saddhena ca pesalena ca paññavatā bahussutena ca sakhitaṃ hi kareyya paṇḍito; bhaddo sappurisena saṃgamo. || Th_1019 ||  
 passa cittakataṃ bimbaṃ --pa-- || Th_1020 ||  
 bahussuto cittakathī buddhassa paricārako pannabhāro visaññutto seyyaṃ kappeti Gotamo. || Th_1021 ||  
-khīṇāsavo visaññutto saṅgātīto sunibbuto dhāreti antimaṃ dehaṃ jātimaraṇapāragu. ||  
-Th_1022 ||  
+khīṇāsavo visaññutto saṅgātīto sunibbuto dhāreti antimaṃ dehaṃ jātimaraṇapāragu. || Th_1022 ||
 
 
 <!-- PTS Page 092 -->
@@ -1751,8 +1704,7 @@ kāyamaccheragaruno hiyyamāne anuṭṭhahe sarīrasukhagiddhassa kuto samaṇa
 na pakkhanti disā sabbā, dhammā na paṭibhanti maṃ, gate kalyāṇamittamhi andhakāraṃ va khāyati. || Th_1034 ||  
 abbhatītasahāyassa atītagatasatthuno n'; atthi etādisaṃ mittaṃ yathā kāyagatā sati. || Th_1035 ||  
 ye purāṇā atītā te, navehi na sameti me, sv ajja eko 'va jhāyāmi vassupeto va pakkhimā. || Th_1036 ||  
-dassanāya atikkante nānāverajjake bahū mā vārayittha sotāro, passantu samayo mamaṃ. ||  
-Th_1037 ||  
+dassanāya atikkante nānāverajjake bahū mā vārayittha sotāro, passantu samayo mamaṃ. || Th_1037 ||
 
 
 <!-- PTS Page 093 -->
@@ -1789,8 +1741,7 @@ uttiṭṭhapiṇḍo āhāro pūtimuttañ ca osadhaṃ senāsanaṃ rukkhamūla
 yattha eke vihaññanti āruhanto siluccayaṃ, tassa buddhassa dāyādo sampajāno patissato iddhibalen'; upatthaddho Kassapo abhirūhati. || Th_1058 ||  
 piṇḍapātapaṭikkanto selam āruyha Kassapo jhāyati anupādāno pahīnabhayabheravo. || Th_1059 ||  
 piṇḍapātapaṭikkanto selam āruyha Kassapo jhāyati anupādāno ḍayhamānesu nibbuto. || Th_1060 ||  
-piṇḍapātapaṭikkanto selam āruyha Kassapo jhāyati anupādāno katakicco anāsavo. ||  
-Th_1061 ||  
+piṇḍapātapaṭikkanto selam āruyha Kassapo jhāyati anupādāno katakicco anāsavo. || Th_1061 ||
 
 
 <!-- PTS Page 095 -->
@@ -1812,8 +1763,7 @@ kammaṃ bahukaṃ . . . (= 494) || Th_1072 ||
 kammaṃ bahukaṃ na kāraye, parivajjeyya anatthaneyyam etaṃ, kicchati kāyo kilamati, dukkhito so samathaṃ na vindati. || Th_1073 ||  
 oṭṭhapahatamattena attānaṃ pi na passati, patthaddhagīvo carati, ahaṃ seyyo 'ti maññati. || Th_1074 ||  
 aseyyo seyyasamānaṃ bālo maññati attānaṃ, na taṃ viññū pasaṃsanti patthaddhamanasaṃ naraṃ. || Th_1075 ||  
-yo ca seyyo 'ham asmīti, nāhaṃ seyyo 'ti vā puna, hīno 'haṃ sadiso vā ti vidhāsu na vikampati, ||  
-Th_1076 ||  
+yo ca seyyo 'ham asmīti, nāhaṃ seyyo 'ti vā puna, hīno 'haṃ sadiso vā ti vidhāsu na vikampati, || Th_1076 ||
 
 
 <!-- PTS Page 096 -->
@@ -1849,8 +1799,7 @@ kadā aniccaṃ vadharoganīḷaṃ kāyaṃ imaṃ maccujarāy' upaddutaṃ vip
 kadā nu 'haṃ bhayajananiṃ dukkhāvahaṃ taṇhālataṃ bahuvidhānuvattaniṃ paññāmayaṃ tikhiṇaṃ asiṃ gahetvā chetvā vase, tam pi kadā bhavissati. || Th_1094 ||  
 kadā nu paññāmayam uggatejaṃ satthaṃ isīnaṃ sahasādiyitvā Māraṃ sasenaṃ sahasā bhañjissaṃ sīhāsane, taṃ nu kadā bhavissati. || Th_1095 ||  
 kadā nu 'haṃ sabbhi samāgamesu diṭṭho bhave dhammagarūhi tādihi yathāvadassīhi jitindriyehi padhāniyo, taṃ nu kadā bhavissati. || Th_1096 ||  
-kadā nu maṃ tandikhudāpipāsā vātātapā kīṭasiriṃsapā vā nibādhayissanti na taṃ Giribbaje attatthiyaṃ, taṃ nu kadā bhavissati. ||  
-Th_1097 ||  
+kadā nu maṃ tandikhudāpipāsā vātātapā kīṭasiriṃsapā vā nibādhayissanti na taṃ Giribbaje attatthiyaṃ, taṃ nu kadā bhavissati. || Th_1097 ||
 
 
 <!-- PTS Page 098 -->
@@ -1865,8 +1814,7 @@ kadā nu kaṭṭhe ca tiṇe latā ca khandhe ime 'haṃ anite ca dhamme ajjhat
 kadā nu maṃ pāvusakālamegho navena toyena sacīvaraṃ vane isippayātamhi pathe vajantaṃ ovassate, taṃ nu kadā bhavissati. || Th_1102 ||  
 kadā mayūrassa sikhaṇḍino vane dijassa sutvā girigabbhare rutaṃ paccuṭṭhahitā amatassa pattiyā saṃcintaye, taṃ nu kadā bhavissati. || Th_1103 ||  
 kadā nu Gaṅgaṃ Yamunaṃ Sarassatiṃ pātālakhittaṃ baḷavāmukhañ ca asajjamāno patareyyam iddhiyā vibhiṃsanaṃ, taṃ nu kadā bhavissati. || Th_1104 ||  
-kadā nu nāgo va saṃgāmacārī padālaye kāmaguṇesu chandaṃ nibbajjayaṃ sabbasubhaṃ nimittaṃ jhāne yuto, taṃ nu kadā bhavissati. ||  
-Th_1105 ||  
+kadā nu nāgo va saṃgāmacārī padālaye kāmaguṇesu chandaṃ nibbajjayaṃ sabbasubhaṃ nimittaṃ jhāne yuto, taṃ nu kadā bhavissati. || Th_1105 ||
 
 
 <!-- PTS Page 099 -->
@@ -1881,8 +1829,7 @@ kulamhi mitte ca piye ca ñātake khiḍḍāratiṃ kāmaguṇañ ca loke sabba
 mam'; eva etaṃ, na hi taṃ paresaṃ; sannāhakāle paridevitena kiṃ. sabbam idaṃ calaṃ iti pekkhamāno abhinikkhamiṃ amataṃ padaṃ jigīsaṃ. || Th_1110 ||  
 suvuttavādī dvipadānam uttamo mahābhisakko naradammasārathi: cittaṃ calaṃ makkaṭasannibhaṃ iti avītarāgena sudunnivāriyaṃ. || Th_1111 ||  
 kāmā hi citrā madhurā manoramā aviddasū yattha sitā puthujjanā, te dukkham icchanti punabbhavesino cittena nītā niraye niraṃkatā. || Th_1112 ||  
-mayūrakoñcābhirudamhi kānane dīpīhi byagghehi purakkhato vasaṃ kāye apekkhaṃ jaha mā virāye, iti ssu maṃ citta pure niyuñjasi. ||  
-Th_1113 ||  
+mayūrakoñcābhirudamhi kānane dīpīhi byagghehi purakkhato vasaṃ kāye apekkhaṃ jaha mā virāye, iti ssu maṃ citta pure niyuñjasi. || Th_1113 ||
 
 
 <!-- PTS Page 100 -->
@@ -1916,8 +1863,7 @@ tav'; eva hetū asurā bhavāmase, tvaṃmūlakaṃ nerayikā bhavāmase, atho t
 na nūna dubbhissasi maṃ punappunaṃ muhuṃ muhuṃ vāraṇikaṃ va dassahaṃ; ummattaken'; eva mayā palobhasi; kiñ cāpi te citta virādhitaṃ mayā. || Th_1129 ||  
 idaṃ pure . . . (= 77) || Th_1130 ||  
 satthā ca me lokam imaṃ adhiṭṭhahi aniccato addhuvato asārato; pakkhanda maṃ citta jinassa sāsane, tārehi oghā mahato suduttarā. || Th_1131 ||  
-na te idaṃ citta yathāpurāṇakaṃ, nāhaṃ alaṃ tuyha vase nivattituṃ; mahesino pabbajito 'mhi sāsane; na mādisā honti vināsadhārino. ||  
-Th_1132 ||  
+na te idaṃ citta yathāpurāṇakaṃ, nāhaṃ alaṃ tuyha vase nivattituṃ; mahesino pabbajito 'mhi sāsane; na mādisā honti vināsadhārino. || Th_1132 ||
 
 
 <!-- PTS Page 102 -->
@@ -1932,8 +1878,7 @@ sunīlagīvā susikhā supekhuṇā sucittapattacchadanā vihaṃgamā sumañjug
 vuṭṭhamhi deve caturaṅgule tiṇe sampupphite meghanibhamhi kānane nagantare viṭapisamo sayissaṃ, taṃ me mudu hohiti tūlasannibhaṃ. || Th_1137 ||  
 tathā tu kassāmi yathāpi issaro; yaṃ labbhatī tena pi hotu me alaṃ; taṃ taṃ karissāmi yathā atandito biḷārabhastaṃ va yathā sumadditaṃ. || Th_1138 ||  
 tathā tu kassāmi yathāpi issaro; yaṃ labbhatī tena pi hotu me alaṃ; viriyena taṃ mayha vas'; ānayissaṃ gajaṃ va mattaṃ kusalaṅkusaggaho. || Th_1139 ||  
-tayā sudantena avaṭṭhitena hi hayena yoggācariyo va ujjunā pahomi maggaṃ paṭipajjituṃ sivaṃ cittānurakkhīhi sadā nisevitaṃ. ||  
-Th_1140 ||  
+tayā sudantena avaṭṭhitena hi hayena yoggācariyo va ujjunā pahomi maggaṃ paṭipajjituṃ sivaṃ cittānurakkhīhi sadā nisevitaṃ. || Th_1140 ||
 
 
 <!-- PTS Page 103 -->
@@ -1966,8 +1911,7 @@ evam etaṃ mahāvīra yathā samaṇa bhāsasi, ettha c'; eke visīdanti paṅk
 ākāsamhi haliddāya yo maññetha rajetave aññena vāpi raṅgena, vighātudayam eva taṃ. || Th_1155 ||  
 tadākāsasamaṃ cittaṃ ajjhattaṃ susamāhitaṃ; mā pāpacitte āhari aggikkhandhaṃ va pakkhimā. || Th_1156 ||  
 passa cittakataṃ bimbam --pa-- || Th_1157 ||  
-tadāsi yaṃ bhiṃsanakaṃ, tadāsi lomahaṃsanaṃ anekākārasampanne Sāriputtamhi nibbute. ||  
-Th_1158 ||  
+tadāsi yaṃ bhiṃsanakaṃ, tadāsi lomahaṃsanaṃ anekākārasampanne Sāriputtamhi nibbute. || Th_1158 ||
 
 
 <!-- PTS Page 105 -->
@@ -1991,8 +1935,7 @@ yo so aṭṭha vimokkhāni purebhattaṃ apassayi anulomaṃ paṭilomaṃ, tat
 tādisaṃ bhikkhuṃ māhari, māttānaṃ khaṇi brāhmaṇa, abhippasādehi manaṃ arahantamhi tādine, khippaṃ pañjaliko vanda mā te vijaṭi matthakaṃ. || Th_1173 ||  
 na so passati saddhammaṃ saṃsārena purakkhato, acaṅkamaṃ jimhapathaṃ kumaggam anudhāvati. || Th_1174 ||  
 kimī va mīḷhasallitto saṃkhāre adhimucchito pagāḷho lābhasakkāre tuccho gacchati Poṭṭhilo. || Th_1175 ||  
-imañ ca passa āyantaṃ Sāriputtaṃ sudassanaṃ vimuttaṃ ubhatobhāge ajjhattaṃ susamāhitaṃ.'; ||  
-Th_1176 ||  
+imañ ca passa āyantaṃ Sāriputtaṃ sudassanaṃ vimuttaṃ ubhatobhāge ajjhattaṃ susamāhitaṃ.'; || Th_1176 ||
 
 
 <!-- PTS Page 106 -->
@@ -2011,8 +1954,7 @@ samādhivijjāvasi pāramīgato Moggallānagotto asitassa sāsane dhīro samucch
 pariciṇṇo . . . (= 604,605) || Th_1185-1186 ||  
 kīdiso nirayo āsi yattha Dussī apaccatha Vidhuraṃ sāvakam āsajja Kakusandhañ ca brāhmaṇaṃ. || Th_1187 ||  
 satam āsi ayosaṅkū sabbe paccattavedanā: īdiso nirayo āsi yattha Dussī apaccatha Vidhuraṃ sāvakam āsajja Kakusandhañ ca brāhmaṇaṃ. || Th_1188 ||  
-yo etam abhijānāti bhikkhu buddhassa sāvako, tādisaṃ bhikkhum āsajja Kaṇha dukkhaṃ nigacchasi. ||  
-Th_1189 ||  
+yo etam abhijānāti bhikkhu buddhassa sāvako, tādisaṃ bhikkhum āsajja Kaṇha dukkhaṃ nigacchasi. || Th_1189 ||
 
 
 <!-- PTS Page 107 -->
@@ -2028,17 +1970,14 @@ yo Vejayantapāsādaṃ pādaṅguṭṭhena kampayi iddhibalen'; upatthaddho sa
 yo etam abhi- . . . || Th_1195 ||  
 yo Vejayantapāsāde Sakkaṃ so paripucchati: api āvuso jānāsi taṇhakkhayavimuttiyo;-- tassa Sakko viyākāsi pañhaṃ puṭṭho yathātathaṃ, || Th_1196 ||  
 yo etam abhi- . . . || Th_1197 ||  
-yo Brahmānaṃ paripucchati Sudhammāyaṃ abhitosabhaṃ: ajjāpi te āvuso sā diṭṭhi yā te diṭṭhi pure ahū; passasi vītivattantaṃ Brahmaloke pabhassaraṃ;--|| 1198 ||  
-tassa Brahmā viyākāsi pañhaṃ puṭṭho yathātathaṃ: na me mārisa sā diṭṭhi yā me diṭṭhi pure ahū; || Th_1199 ||  
+yo Brahmānaṃ paripucchati Sudhammāyaṃ abhitosabhaṃ: ajjāpi te āvuso sā diṭṭhi yā te diṭṭhi pure ahū; passasi vītivattantaṃ Brahmaloke pabhassaraṃ;--|| 1198 || tassa Brahmā viyākāsi pañhaṃ puṭṭho yathātathaṃ: na me mārisa sā diṭṭhi yā me diṭṭhi pure ahū; || Th_1199 ||  
 passāmi vītivattantaṃ Brahmaloke pabhassaraṃ; so 'ham ajja kathaṃ vajjaṃ: ahaṃ nicco 'mhi sassato;-- || Th_1200 ||  
 yo etam abhi- . . . || Th_1201 ||  
-yo Mahāneruno kūṭaṃ vimokkhena apassayi, vanaṃ Pubbavidehānaṃ ye ca bhūmisayā narā, --|| 1202 ||  
-yo etam abhi- . . . || Th_1203 ||  
+yo Mahāneruno kūṭaṃ vimokkhena apassayi, vanaṃ Pubbavidehānaṃ ye ca bhūmisayā narā, --|| 1202 || yo etam abhi- . . . || Th_1203 ||  
 na ve aggi cetayati ahaṃ bālaṃ dahāmīti, bālo ca jalitam aggiṃ āsajja naṃ paḍayhati; || Th_1204 ||  
 evam eva tuvaṃ Māra āsajja naṃ tathāgataṃ sayaṃ dahissam attānaṃ bālo aggiṃ va samphusaṃ. || Th_1205 ||  
 apuññaṃ pasavī Māro āsajja naṃ tathāgataṃ; kiṃ nu maññasi pāpima na me pāpaṃ vipaccati. || Th_1206 ||  
-karato te miyyate pāpaṃ cirarattāya Antaka; Māra nibbinda buddhamhā, āsaṃ mā kāsi bhikkhusu. ||  
-Th_1207 ||  
+karato te miyyate pāpaṃ cirarattāya Antaka; Māra nibbinda buddhamhā, āsaṃ mā kāsi bhikkhusu. || Th_1207 ||
 
 
 <!-- PTS Page 108 -->
@@ -2063,8 +2002,7 @@ evam evaṃ viharantaṃ pāpima upagacchasi; tathā Maccu karissāmi: na me mag
 aratiṃ ratiṃ ca pahāya sabbaso gehasitañ ca vitakkaṃ vanathaṃ na kareyya kuhiñci, nibbanathā avanatho sa hi bhikkhu. || Th_1214 ||  
 yam idha pathaviñ ca vihāsaṃ rūpagataṃ jagatogandhaṃ kiñci, parijiyyati sabbam aniccaṃ: evaṃ samecca caranti muttantā. || Th_1215 ||  
 upadhīsu janā gandhitāse diṭṭhasute paṭighe ca mute ca; ettha vinodaya chandam anejo; yo h'; ettha na lippati muni tam āhu. || Th_1216 ||  
-aṭṭhasaṭṭhisitā savitakkā puthujjanatāya adhammaniviṭṭhā; na ca vaggagatissa kuhiñci, no pana padullagāhī sa bhikkhu. ||  
-Th_1217 ||  
+aṭṭhasaṭṭhisitā savitakkā puthujjanatāya adhammaniviṭṭhā; na ca vaggagatissa kuhiñci, no pana padullagāhī sa bhikkhu. || Th_1217 ||
 
 
 <!-- PTS Page 110 -->
@@ -2086,8 +2024,7 @@ piyavācam eva bhāseyya yā vācā paṭinanditā yaṃ anādāya pāpāni pare
 saccaṃ ve amatā vācā, esa dhammo sanantano; sacce atthe ca dhamme ca āhu santo paṭiṭṭhitā. || Th_1229 ||  
 yaṃ buddho bhāsatī vācaṃ khemaṃ nibbānapattiyā dukkhass'; antakiriyāya, sa ve vācānam uttamā. || Th_1230 ||  
 gambhīrapañño mehāvī maggāmaggassa kovido Sāriputto mahāpañño dhammaṃ deseti bhikkhunaṃ. || Th_1231 ||  
-saṃkhittena pi deseti vitthārena pi bhāsati, sālikāye va nigghoso paṭibhānaṃ udīyyati. ||  
-Th_1232 ||  
+saṃkhittena pi deseti vitthārena pi bhāsati, sālikāye va nigghoso paṭibhānaṃ udīyyati. || Th_1232 ||
 
 
 <!-- PTS Page 111 -->
@@ -2108,8 +2045,7 @@ ummaggapathaṃ Mārassa abhibhuyya carati pabhijja khilāni; taṃ passatha ban
 oghassa hi nittharaṇatthaṃ anekavihitaṃ maggaṃ akkhāsi, tasmiñ ca amate akkhāte dhammadasā ṭhitā asaṃhīrā. || Th_1243 ||  
 pajjotakaro ativijjha sabbaṭṭhitīnaṃ atikkamam addā, ñatvā ca sacchikatvā ca aggaṃ so desayi dasaddānaṃ. || Th_1244 ||  
 evaṃ sudesite dhamme ko pamādo vijānataṃ dhammaṃ, tasmā hi tassa bhagavato sāsane appamatto sadā namassam anusikkhe. || Th_1245 ||  
-buddhānubuddho yo thero Koṇḍañño tibbanikkhamo, lābhī sukhavihārānaṃ vivekānaṃ abhiṇhaso, ||  
-Th_1246 ||  
+buddhānubuddho yo thero Koṇḍañño tibbanikkhamo, lābhī sukhavihārānaṃ vivekānaṃ abhiṇhaso, || Th_1246 ||
 
 
 <!-- PTS Page 112 -->
@@ -2132,8 +2068,7 @@ sudesitā cakkhumatā buddhenādiccabandhunā cattāri ariyasaccāni anukampāya
 dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ ariyaṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ. || Th_1259 ||  
 evam ete tathā vuttā, diṭṭhā me te yathātathā; sadattho me anuppatto, kataṃ buddhassa sāsanaṃ. || Th_1260 ||  
 svāgataṃ vata me āsi mama buddhassa santike; saṃvibhattesu dhammesu yaṃ seṭṭhaṃ tad upāgamiṃ. || Th_1261 ||  
-abhiññāpāramippatto sotadhātuvisodhito tevijjo iddhippatto 'mhi cetopariyakovido. ||  
-Th_1262 ||  
+abhiññāpāramippatto sotadhātuvisodhito tevijjo iddhippatto 'mhi cetopariyakovido. || Th_1262 ||
 
 
 <!-- PTS Page 113 -->
